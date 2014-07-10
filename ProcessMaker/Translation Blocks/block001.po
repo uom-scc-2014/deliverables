@@ -2,22 +2,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"PO-Revision-Date: 2014-07-10 09:18+0200\n"
 "Last-Translator: \n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
-"X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"X-Generator: Poedit 1.5.4\n"
 
 # TRANSLATION
 # JAVASCRIPT/ACCEPT
 #: JAVASCRIPT/ACCEPT
 msgid "Accept"
-msgstr "Accept"
+msgstr "Αποδοχή"
 
 # TRANSLATION
 # JAVASCRIPT/CANCEL
@@ -220,8 +220,10 @@ msgstr "Do you want to apply the selected Logo?"
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
 #: JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
-msgid "You have to select one employee. Select one from the dropdown list please."
-msgstr "You have to select one employee. Select one from the dropdown list please."
+msgid ""
+"You have to select one employee. Select one from the dropdown list please."
+msgstr ""
+"You have to select one employee. Select one from the dropdown list please."
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_DYNAFORM
@@ -238,8 +240,12 @@ msgstr "Assign Input Document"
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_RULES
 #: JAVASCRIPT/ID_ASSIGN_RULES
-msgid "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
-msgstr "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+msgid ""
+"Error: There is a problem with the next tasks of this process. One of them "
+"has manual assignment. Manual assignment shouldn't be used with subprocesses"
+msgstr ""
+"Error: There is a problem with the next tasks of this process. One of them "
+"has manual assignment. Manual assignment shouldn't be used with subprocesses"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_SUPERVISOR
@@ -394,8 +400,10 @@ msgstr "Add new Database Source"
 # TRANSLATION
 # JAVASCRIPT/ID_DB_CONNECTION_ASSIGN
 #: JAVASCRIPT/ID_DB_CONNECTION_ASSIGN
-msgid "You can not delete this data base connection. This is assigned in some step."
-msgstr "You can not delete this data base connection. This is assigned in some step."
+msgid ""
+"You can not delete this data base connection. This is assigned in some step."
+msgstr ""
+"You can not delete this data base connection. This is assigned in some step."
 
 # TRANSLATION
 # JAVASCRIPT/ID_DELETE_TABLE_COLLECTION
@@ -502,20 +510,30 @@ msgstr "Multiple Event"
 # TRANSLATION
 # JAVASCRIPT/ID_EXIST_DYNAFORM
 #: JAVASCRIPT/ID_EXIST_DYNAFORM
-msgid "There is a Dynaform with the same name in this process. It is not saving"
-msgstr "There is a Dynaform with the same name in this process. It is not saving"
+msgid ""
+"There is a Dynaform with the same name in this process. It is not saving"
+msgstr ""
+"There is a Dynaform with the same name in this process. It is not saving"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EXIST_INPUTDOCUMENT
 #: JAVASCRIPT/ID_EXIST_INPUTDOCUMENT
-msgid "There is an Input Document with the same name in this process. It is not saving"
-msgstr "There is an Input Document with the same name in this process. It is not saving"
+msgid ""
+"There is an Input Document with the same name in this process. It is not "
+"saving"
+msgstr ""
+"There is an Input Document with the same name in this process. It is not "
+"saving"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EXIST_OUTPUTDOCUMENT
 #: JAVASCRIPT/ID_EXIST_OUTPUTDOCUMENT
-msgid "There is an Output Document with the same name in this process. It is not saving"
-msgstr "There is an Output Document with the same name in this process. It is not saving"
+msgid ""
+"There is an Output Document with the same name in this process. It is not "
+"saving"
+msgstr ""
+"There is an Output Document with the same name in this process. It is not "
+"saving"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EXIST_PROCESS
@@ -538,8 +556,10 @@ msgstr "Exit without saving?"
 # TRANSLATION
 # JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
 #: JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
-msgid "The following fields cannot have these names because they are reserved words"
-msgstr "The following fields cannot have these names because they are reserved words"
+msgid ""
+"The following fields cannot have these names because they are reserved words"
+msgstr ""
+"The following fields cannot have these names because they are reserved words"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FIELD_DUPLICATE
@@ -612,4 +632,3 @@ msgstr "Messages History"
 #: JAVASCRIPT/ID_IMAGE_URI
 msgid "Image URI"
 msgstr "Image URI"
-
