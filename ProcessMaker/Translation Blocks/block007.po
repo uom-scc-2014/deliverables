@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_CONFIGURATION
+#: LABEL/ID_CONFIGURATION
+msgid "Configuration"
+msgstr "Configuration"
+
+# TRANSLATION
+# LABEL/ID_CONFIGURE
+#: LABEL/ID_CONFIGURE
+msgid "Configure"
+msgstr "Configure"
+
+# TRANSLATION
+# LABEL/ID_CONFIG_DIRECTORY
+#: LABEL/ID_CONFIG_DIRECTORY
+msgid "Config Directory"
+msgstr "Config Directory"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM
+#: LABEL/ID_CONFIRM
+msgid "Confirm"
+msgstr "Confirm"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_ADHOCUSER_CASE
+#: LABEL/ID_CONFIRM_ADHOCUSER_CASE
+msgid "[LABEL/ID_CONFIRM_ADHOCUSER_CASE] Are you sure you want to do it?"
+msgstr "Are you sure you want to do it?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_ASSIGNED_GRID
+#: LABEL/ID_CONFIRM_ASSIGNED_GRID
+msgid "The row data that you recently created will be deleted?"
+msgstr "The row data that you recently created will be deleted?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_CANCEL_CASE
+#: LABEL/ID_CONFIRM_CANCEL_CASE
+msgid "[LABEL/ID_CONFIRM_CANCEL_CASE] Are you sure you want to cancel this case?"
+msgstr "Are you sure you want to cancel this case?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_AUTHENTICATION
+#: LABEL/ID_CONFIRM_DELETE_AUTHENTICATION
+msgid "Do you want to delete selected authentication source?"
+msgstr "Do you want to delete selected authentication source?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_CALENDAR
+#: LABEL/ID_CONFIRM_DELETE_CALENDAR
+msgid "Do you want to delete selected calendar?"
+msgstr "Do you want to delete selected calendar?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_CASE
+#: LABEL/ID_CONFIRM_DELETE_CASE
+msgid "[LABEL/ID_CONFIRM_DELETE_CASE] Are you sure you want to delete this case?"
+msgstr "Are you sure you want to delete this case?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_CASE_SCHEDULER
+#: LABEL/ID_CONFIRM_DELETE_CASE_SCHEDULER
+msgid "Do you want to delete current Case Scheduler?"
+msgstr "Do you want to delete current Case Scheduler?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_CATEGORY
+#: LABEL/ID_CONFIRM_DELETE_CATEGORY
+msgid "Do you want to delete selected category?"
+msgstr "Do you want to delete selected category?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_DASHLET_INSTANCE
+#: LABEL/ID_CONFIRM_DELETE_DASHLET_INSTANCE
+msgid "Do you want to delete this Dashlet Instance?"
+msgstr "Do you want to delete this Dashlet Instance?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_DEPARTMENT
+#: LABEL/ID_CONFIRM_DELETE_DEPARTMENT
+msgid "Do you want to delete selected department?"
+msgstr "Do you want to delete selected department?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_ELEMENT
+#: LABEL/ID_CONFIRM_DELETE_ELEMENT
+msgid "Approval of consolidated tasks"
+msgstr "Approval of consolidated tasks"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
+#: LABEL/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
+msgid "This action will delete the current document and all its versions"
+msgstr "This action will delete the current document and all its versions"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_INPUT_DOC
+#: LABEL/ID_CONFIRM_DELETE_INPUT_DOC
+msgid "Do you want to delete selected Input Document?"
+msgstr "Do you want to delete selected Input Document?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_PM_TABLE
+#: LABEL/ID_CONFIRM_DELETE_PM_TABLE
+msgid "Do you want to delete selected tables?"
+msgstr "Do you want to delete selected tables?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_SKIN
+#: LABEL/ID_CONFIRM_DELETE_SKIN
+msgid "Do you want to delete selected skin?"
+msgstr "Do you want to delete selected skin?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DELETE_WEB_ENTRY
+#: LABEL/ID_CONFIRM_DELETE_WEB_ENTRY
+msgid "Do you want to delete current web entry?"
+msgstr "Do you want to delete current web entry?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_DISCARD_CHANGES
+#: LABEL/ID_CONFIRM_DISCARD_CHANGES
+msgid "Do you want discard changes?"
+msgstr "Do you want discard changes?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_IMPORT_DYNAFORM
+#: LABEL/ID_CONFIRM_IMPORT_DYNAFORM
+msgid "When you import the selected form, lose the information of the current form. Are you sure you import the form?"
+msgstr "When you import the selected form, lose the information of the current form. Are you sure you import the form?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_PASSWORD
+#: LABEL/ID_CONFIRM_PASSWORD
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_REACTIVATE_CASE
+#: LABEL/ID_CONFIRM_REACTIVATE_CASE
+msgid "[LABEL/ID_CONFIRM_REACTIVATE_CASE] Are you sure you want to reactivate this case?"
+msgstr "Are you sure you want to reactivate this case?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_REMOVE_FIELD
+#: LABEL/ID_CONFIRM_REMOVE_FIELD
+msgid "Do you really want remove this field?"
+msgstr "Do you really want remove this field?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_REMOVE_FIELDS
+#: LABEL/ID_CONFIRM_REMOVE_FIELDS
+msgid "Do you really want remove this fields"
+msgstr "Do you really want remove this fields"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_TO_REASSIGN
+#: LABEL/ID_CONFIRM_TO_REASSIGN
+msgid "There are cases which are not reassigned to a user. Do you like to continue?"
+msgstr "There are cases which are not reassigned to a user. Do you like to continue?"
+
+# TRANSLATION
+# LABEL/ID_CONFIRM_UNPAUSE_CASE
+#: LABEL/ID_CONFIRM_UNPAUSE_CASE
+msgid "Are you sure you want to unpause this case?"
+msgstr "Are you sure you want to unpause this case?"
+
+# TRANSLATION
+# LABEL/ID_CONNECTION_ERROR
+#: LABEL/ID_CONNECTION_ERROR
+msgid "Connection Error: {0}"
+msgstr "Connection Error: {0}"
+
+# TRANSLATION
+# LABEL/ID_CONNECTION_ERROR_PRIVILEGE
+#: LABEL/ID_CONNECTION_ERROR_PRIVILEGE
+msgid "Connection Error: User \"{0}\" can't create databases and Users <br>Please provide an user with SUPER privilege."
+msgstr "Connection Error: User \"{0}\" can't create databases and Users <br>Please provide an user with SUPER privilege."
+
+# TRANSLATION
+# LABEL/ID_CONNECTION_ERROR_SECURITYADMIN
+#: LABEL/ID_CONNECTION_ERROR_SECURITYADMIN
+msgid "Connection Error: User \"{0}\"  can't create databases and Users <br>Please provide an user with sysadmin role or dbcreator and securityadmin roles."
+msgstr "Connection Error: User \"{0}\"  can't create databases and Users <br>Please provide an user with sysadmin role or dbcreator and securityadmin roles."
+
+# TRANSLATION
+# LABEL/ID_CONNECT_HOST
+#: LABEL/ID_CONNECT_HOST
+msgid "Trying to connect to host"
+msgstr "Trying to connect to host"
+
+# TRANSLATION
+# LABEL/ID_CONNECT_TO_SERVER
+#: LABEL/ID_CONNECT_TO_SERVER
+msgid "Connected to server {0} :{1}  using user: '{2}'"
+msgstr "Connected to server {0} :{1}  using user: '{2}'"
+
+# TRANSLATION
+# LABEL/ID_CONTACT_ADMIN
+#: LABEL/ID_CONTACT_ADMIN
+msgid "Please contact your system administrator"
+msgstr "Please contact your system administrator"
+
+# TRANSLATION
+# LABEL/ID_CONTINUE
+#: LABEL/ID_CONTINUE
+msgid "Continue"
+msgstr "Continue"
+
+# TRANSLATION
+# LABEL/ID_CONTINUE_WITH_OPTION
+#: LABEL/ID_CONTINUE_WITH_OPTION
+msgid "Continue with option"
+msgstr "Continue with option"
+
+# TRANSLATION
+# LABEL/ID_CONVERT_NATIVE_REP_TABLE
+#: LABEL/ID_CONVERT_NATIVE_REP_TABLE
+msgid "Convert to native Report Table"
+msgstr "Convert to native Report Table"
+
+# TRANSLATION
+# LABEL/ID_CONVERT_SIMPLE_REPORT
+#: LABEL/ID_CONVERT_SIMPLE_REPORT
+msgid "Convert to Simple Report"
+msgstr "Convert to Simple Report"
+
+# TRANSLATION
+# LABEL/ID_COPY
+#: LABEL/ID_COPY
+msgid "Copy"
+msgstr "Copy"
+
+# TRANSLATION
+# LABEL/ID_COPYRIGHT
+#: LABEL/ID_COPYRIGHT
+msgid "Copyright Â© 2003-2011 Colosa, Inc. All rights reserved."
+msgstr "Copyright Â© 2003-2011 Colosa, Inc. All rights reserved."
+
+# TRANSLATION
+# LABEL/ID_COPYRIGHT_COL
+#: LABEL/ID_COPYRIGHT_COL
+msgid "Colosa, Inc. All rights reserved"
+msgstr "Colosa, Inc. All rights reserved"
+
+# TRANSLATION
+# LABEL/ID_COPYRIGHT_FROM
+#: LABEL/ID_COPYRIGHT_FROM
+msgid "Copyright &copy; 2003-"
+msgstr "Copyright &copy; 2003-"
+
+# TRANSLATION
+# LABEL/ID_COPY_OF
+#: LABEL/ID_COPY_OF
+msgid "Copy of"
+msgstr "Copy of"
+
+# TRANSLATION
+# LABEL/ID_COUNTRY
+#: LABEL/ID_COUNTRY
+msgid "Country"
+msgstr "Country"
+
+# TRANSLATION
+# LABEL/ID_COUNT_DAYS
+#: LABEL/ID_COUNT_DAYS
+msgid "Count Days by"
+msgstr "Count Days by"
+
+# TRANSLATION
+# LABEL/ID_CREATE
+#: LABEL/ID_CREATE
+msgid "[LABEL/ID_CREATE] Create"
+msgstr "Create"
+
+# TRANSLATION
+# LABEL/ID_CREATED
+#: LABEL/ID_CREATED
+msgid "Created"
+msgstr "Created"
+
+# TRANSLATION
+# LABEL/ID_CREATED_BY
+#: LABEL/ID_CREATED_BY
+msgid "Created By"
+msgstr "Created By"
+
+# TRANSLATION
+# LABEL/ID_CREATED_CASE_STATUS
+#: LABEL/ID_CREATED_CASE_STATUS
+msgid "Created Case Status"
+msgstr "Created Case Status"
+
+# TRANSLATION
+# LABEL/ID_CREATE_DATE
+#: LABEL/ID_CREATE_DATE
+msgid "Create Date"
+msgstr "Create Date"
+
+# TRANSLATION
+# LABEL/ID_CREATE_FOLDER
+#: LABEL/ID_CREATE_FOLDER
+msgid "Create New Folder"
+msgstr "Create New Folder"
+
+# TRANSLATION
+# LABEL/ID_CREATE_GROUP_TITLE
+#: LABEL/ID_CREATE_GROUP_TITLE
+msgid "Create New Group"
+msgstr "Create New Group"
+
+# TRANSLATION
+# LABEL/ID_CREATE_LOG_INSTALLATION
+#: LABEL/ID_CREATE_LOG_INSTALLATION
+msgid "Could not create the installation log"
+msgstr "Could not create the installation log"
+
+# TRANSLATION
+# LABEL/ID_CREATE_NEW_ACCOUNT
+#: LABEL/ID_CREATE_NEW_ACCOUNT
+msgid "Create a New Account"
+msgstr "Create a New Account"
+
+# TRANSLATION
+# LABEL/ID_CREATE_PM_TABLE
+#: LABEL/ID_CREATE_PM_TABLE
+msgid "Create from a PM Table"
+msgstr "Create from a PM Table"
+
+# TRANSLATION
+# LABEL/ID_CREATE_PROCESS
+#: LABEL/ID_CREATE_PROCESS
+msgid "Create Process"
+msgstr "Create Process"
+
+# TRANSLATION
+# LABEL/ID_CREATE_ROLE_TITLE
+#: LABEL/ID_CREATE_ROLE_TITLE
+msgid "Create New Role"
+msgstr "Create New Role"
+
+# TRANSLATION
+# LABEL/ID_CREATING
+#: LABEL/ID_CREATING
+msgid "Creating : {0}"
+msgstr "Creating : {0}"
+
+# TRANSLATION
+# LABEL/ID_CREATING_TABLE
+#: LABEL/ID_CREATING_TABLE
+msgid "Creating table, please wait..."
+msgstr "Creating table, please wait..."
+
+# TRANSLATION
+# LABEL/ID_CREATING_WORKSPACE
+#: LABEL/ID_CREATING_WORKSPACE
+msgid "Creating workspace {0}"
+msgstr "Creating workspace {0}"
+
+# TRANSLATION
+# LABEL/ID_CREDENTIAL_ERROR
+#: LABEL/ID_CREDENTIAL_ERROR
+msgid "Credentials Error"
+msgstr "Credentials Error"
+
+# TRANSLATION
+# LABEL/ID_CRON_ACTIONS
+#: LABEL/ID_CRON_ACTIONS
+msgid "Cron"
+msgstr "Cron"
+
+# TRANSLATION
+# LABEL/ID_CRON_ACTIONS_LOG
+#: LABEL/ID_CRON_ACTIONS_LOG
+msgid "Cron Actions Log"
+msgstr "Cron Actions Log"
+
+# TRANSLATION
+# LABEL/ID_CRON_GRID_PAGE_DISPLAYING_MESSAGE
+#: LABEL/ID_CRON_GRID_PAGE_DISPLAYING_MESSAGE
+msgid "Displaying actions {0} - {1} of {2}"
+msgstr "Displaying actions {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_CRON_INFO
+#: LABEL/ID_CRON_INFO
+msgid "Cron Information"
+msgstr "Cron Information"
+
+# TRANSLATION
+# LABEL/ID_CRON_LOG_CLEAR
+#: LABEL/ID_CRON_LOG_CLEAR
+msgid "Are you sure to clear the cron log?"
+msgstr "Are you sure to clear the cron log?"
+
+# TRANSLATION
+# LABEL/ID_CRON_STATUS
+#: LABEL/ID_CRON_STATUS
+msgid "Cron status"
+msgstr "Cron status"
+
+# TRANSLATION
+# LABEL/ID_CRON_STATUS_ACTIVE
+#: LABEL/ID_CRON_STATUS_ACTIVE
+msgid "[LABEL/ID_CRON_STATUS_ACTIVE] Active"
+msgstr "Active"
+
+# TRANSLATION
+# LABEL/ID_CRON_STATUS_INACTIVE
+#: LABEL/ID_CRON_STATUS_INACTIVE
+msgid "Inactive"
+msgstr "Inactive"
+
+# TRANSLATION
+# LABEL/ID_CSV_FILE
+#: LABEL/ID_CSV_FILE
+msgid "CSV File"
+msgstr "CSV File"
+
+# TRANSLATION
+# LABEL/ID_CURLFUN_ISUNDEFINED
+#: LABEL/ID_CURLFUN_ISUNDEFINED
+msgid "The process was not downloaded, because the curl extension for php is not installed"
+msgstr "The process was not downloaded, because the curl extension for php is not installed"
+
+# TRANSLATION
+# LABEL/ID_CURRENT_USER
+#: LABEL/ID_CURRENT_USER
+msgid "[LABEL/ID_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# TRANSLATION
+# LABEL/ID_CURRENT_USERS
+#: LABEL/ID_CURRENT_USERS
+msgid "Current Users"
+msgstr "Current Users"
+
+# TRANSLATION
+# LABEL/ID_CURRENT_VALUES
+#: LABEL/ID_CURRENT_VALUES
+msgid "Current Values"
+msgstr "Current Values"
+
+# TRANSLATION
+# LABEL/ID_CURRENT_WORKSPACE
+#: LABEL/ID_CURRENT_WORKSPACE
+msgid "Current Workspace"
+msgstr "Current Workspace"
+
+# TRANSLATION
+# LABEL/ID_CUSTOM_TRIGGER
+#: LABEL/ID_CUSTOM_TRIGGER
+msgid "Custom Trigger"
+msgstr "Custom Trigger"
+
+# TRANSLATION
+# LABEL/ID_CUSTOM_TRIGGER_DESCRIPTION
+#: LABEL/ID_CUSTOM_TRIGGER_DESCRIPTION
+msgid "[LABEL/ID_CUSTOM_TRIGGER_DESCRIPTION] Custom Trigger"
+msgstr "Custom Trigger"
+
+# TRANSLATION
+# LABEL/ID_CYCLIC_ASSIGNMENT
+#: LABEL/ID_CYCLIC_ASSIGNMENT
+msgid "Cyclic Assignment"
+msgstr "Cyclic Assignment"
+
+# TRANSLATION
+# LABEL/ID_DASHBOARD
+#: LABEL/ID_DASHBOARD
+msgid "Dashboards"
+msgstr "Dashboards"
+
+# TRANSLATION
+# LABEL/ID_DASHBOARD_BTNCOLUMNS1
+#: LABEL/ID_DASHBOARD_BTNCOLUMNS1
+msgid "One Column"
+msgstr "One Column"
+
+# TRANSLATION
+# LABEL/ID_DASHBOARD_BTNCOLUMNS2
+#: LABEL/ID_DASHBOARD_BTNCOLUMNS2
+msgid "Two columns"
+msgstr "Two columns"
+
+# TRANSLATION
+# LABEL/ID_DASHBOARD_BTNCOLUMNS3
+#: LABEL/ID_DASHBOARD_BTNCOLUMNS3
+msgid "Three columns"
+msgstr "Three columns"
+
+# TRANSLATION
+# LABEL/ID_DASHLET
+#: LABEL/ID_DASHLET
+msgid "Dashlet"
+msgstr "Dashlet"
+
+# TRANSLATION
+# LABEL/ID_DASHLETS_INSTANCES
+#: LABEL/ID_DASHLETS_INSTANCES
+msgid "Dashlets Instances"
+msgstr "Dashlets Instances"
+
+# TRANSLATION
+# LABEL/ID_DASHLET_INSTANCE
+#: LABEL/ID_DASHLET_INSTANCE
+msgid "Dashlet Instance"
+msgstr "Dashlet Instance"
+
+# TRANSLATION
+# LABEL/ID_DASHLET_INSTANCE_CONFIGURATION
+#: LABEL/ID_DASHLET_INSTANCE_CONFIGURATION
+msgid "Dashlet Instance Configuration"
+msgstr "Dashlet Instance Configuration"
+
+# TRANSLATION
+# LABEL/ID_DASHLET_SUCCESS_DELETE
+#: LABEL/ID_DASHLET_SUCCESS_DELETE
+msgid "Dashlet instance deleted sucessfully."
+msgstr "Dashlet instance deleted sucessfully."
+
+# TRANSLATION
+# LABEL/ID_DATA
+#: LABEL/ID_DATA
+msgid "Data"
+msgstr "Data"
+
+# TRANSLATION
+# LABEL/ID_DATABASE
+#: LABEL/ID_DATABASE
+msgid "Data Base"
+msgstr "Data Base"
+
+# TRANSLATION
+# LABEL/ID_DATABASE_CONFIGURATION
+#: LABEL/ID_DATABASE_CONFIGURATION
+msgid "Database Configuration"
+msgstr "Database Configuration"
+
+# TRANSLATION
+# LABEL/ID_DATABASE_ENGINE
+#: LABEL/ID_DATABASE_ENGINE
+msgid "Database Engine"
+msgstr "Database Engine"
+
+# TRANSLATION
+# LABEL/ID_DATABASE_EXISTS_OVERWRITE
+#: LABEL/ID_DATABASE_EXISTS_OVERWRITE
+msgid "Database already exists, check \"Delete Databases if exists\" to overwrite the exiting databases."
+msgstr "Database already exists, check \"Delete Databases if exists\" to overwrite the exiting databases."
+
+# TRANSLATION
+# LABEL/ID_DATABASE_NAME
+#: LABEL/ID_DATABASE_NAME
+msgid "Database Name"
+msgstr "Database Name"
+
+# TRANSLATION
+# LABEL/ID_DATABASE_OPTIONS
+#: LABEL/ID_DATABASE_OPTIONS
+msgid "Database Options"
+msgstr "Database Options"
+
+# TRANSLATION
+# LABEL/ID_DATABASE_SERVER
+#: LABEL/ID_DATABASE_SERVER
+msgid "Data Base Server"
+msgstr "Data Base Server"
+
+# TRANSLATION
+# LABEL/ID_DATA_CORRECT
+#: LABEL/ID_DATA_CORRECT
+msgid "The data is correct."
+msgstr "The data is correct."
+
+# TRANSLATION
+# LABEL/ID_DATA_LIST_NOT_AVAILABLE_FOR_OLDVER
+#: LABEL/ID_DATA_LIST_NOT_AVAILABLE_FOR_OLDVER
+msgid "Data List is not available for old version."
+msgstr "Data List is not available for old version."
+
+# TRANSLATION
+# LABEL/ID_DATE
+#: LABEL/ID_DATE
+msgid "DATE"
+msgstr "DATE"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT
+#: LABEL/ID_DATE_FORMAT
+msgid "[LABEL/ID_DATE_FORMAT] Date Format"
+msgstr "Date Format"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_1
+#: LABEL/ID_DATE_FORMAT_1
+msgid "Y-m-d H:i:s"
+msgstr "Y-m-d H:i:s"
+

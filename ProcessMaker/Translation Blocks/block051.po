@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# setup/workPeriod.xml?initPeriod2-450
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 450
+msgid "[setup/workPeriod.xml?initPeriod2-450]"
+msgstr "07:30 a.m"
+
+# setup/workPeriod.xml?initPeriod2-480
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 480
+msgid "[setup/workPeriod.xml?initPeriod2-480]"
+msgstr "08:00 a.m"
+
+# setup/workPeriod.xml?initPeriod2-510
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 510
+msgid "[setup/workPeriod.xml?initPeriod2-510]"
+msgstr "08:30 a.m"
+
+# setup/workPeriod.xml?initPeriod2-540
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 540
+msgid "[setup/workPeriod.xml?initPeriod2-540]"
+msgstr "09:00 a.m"
+
+# setup/workPeriod.xml?initPeriod2-570
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 570
+msgid "[setup/workPeriod.xml?initPeriod2-570]"
+msgstr "09:30 a.m"
+
+# setup/workPeriod.xml?initPeriod2-600
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 600
+msgid "[setup/workPeriod.xml?initPeriod2-600]"
+msgstr "10:00 a.m"
+
+# setup/workPeriod.xml?initPeriod2-630
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 630
+msgid "[setup/workPeriod.xml?initPeriod2-630]"
+msgstr "10:30 a.m"
+
+# setup/workPeriod.xml?initPeriod2-660
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 660
+msgid "[setup/workPeriod.xml?initPeriod2-660]"
+msgstr "11:00 a.m"
+
+# setup/workPeriod.xml?initPeriod2-690
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 690
+msgid "[setup/workPeriod.xml?initPeriod2-690]"
+msgstr "11:30 a.m"
+
+# setup/workPeriod.xml?initPeriod2-720
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 720
+msgid "[setup/workPeriod.xml?initPeriod2-720]"
+msgstr "12:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-750
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 750
+msgid "[setup/workPeriod.xml?initPeriod2-750]"
+msgstr "12:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-780
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 780
+msgid "[setup/workPeriod.xml?initPeriod2-780]"
+msgstr "13:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-810
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 810
+msgid "[setup/workPeriod.xml?initPeriod2-810]"
+msgstr "13:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-840
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 840
+msgid "[setup/workPeriod.xml?initPeriod2-840]"
+msgstr "14:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-870
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 870
+msgid "[setup/workPeriod.xml?initPeriod2-870]"
+msgstr "14:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-900
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 900
+msgid "[setup/workPeriod.xml?initPeriod2-900]"
+msgstr "15:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-930
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 930
+msgid "[setup/workPeriod.xml?initPeriod2-930]"
+msgstr "15:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-960
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 960
+msgid "[setup/workPeriod.xml?initPeriod2-960]"
+msgstr "16:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-990
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 990
+msgid "[setup/workPeriod.xml?initPeriod2-990]"
+msgstr "16:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1020
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1020
+msgid "[setup/workPeriod.xml?initPeriod2-1020]"
+msgstr "17:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1050
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1050
+msgid "[setup/workPeriod.xml?initPeriod2-1050]"
+msgstr "17:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1080
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1080
+msgid "[setup/workPeriod.xml?initPeriod2-1080]"
+msgstr "18:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1110
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1110
+msgid "[setup/workPeriod.xml?initPeriod2-1110]"
+msgstr "18:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1140
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1140
+msgid "[setup/workPeriod.xml?initPeriod2-1140]"
+msgstr "19:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1170
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1170
+msgid "[setup/workPeriod.xml?initPeriod2-1170]"
+msgstr "19:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1200
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1200
+msgid "[setup/workPeriod.xml?initPeriod2-1200]"
+msgstr "20:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1230
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1230
+msgid "[setup/workPeriod.xml?initPeriod2-1230]"
+msgstr "20:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1260
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1260
+msgid "[setup/workPeriod.xml?initPeriod2-1260]"
+msgstr "21:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1290
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1290
+msgid "[setup/workPeriod.xml?initPeriod2-1290]"
+msgstr "21:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1320
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1320
+msgid "[setup/workPeriod.xml?initPeriod2-1320]"
+msgstr "22:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1350
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1350
+msgid "[setup/workPeriod.xml?initPeriod2-1350]"
+msgstr "22:30 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1380
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1380
+msgid "[setup/workPeriod.xml?initPeriod2-1380]"
+msgstr "23:00 p.m"
+
+# setup/workPeriod.xml?initPeriod2-1410
+# setup/workPeriod.xml
+#: dropdown - initPeriod2 - 1410
+msgid "[setup/workPeriod.xml?initPeriod2-1410]"
+msgstr "23:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2
+# setup/workPeriod.xml
+#: dropdown - endPeriod2
+msgid "[setup/workPeriod.xml?endPeriod2] End time"
+msgstr "End time"
+
+# setup/workPeriod.xml?endPeriod2-
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 -
+msgid "[setup/workPeriod.xml?endPeriod2-]"
+msgstr "00:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-30
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 30
+msgid "[setup/workPeriod.xml?endPeriod2-30]"
+msgstr "00:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-60
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 60
+msgid "[setup/workPeriod.xml?endPeriod2-60]"
+msgstr "01:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-90
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 90
+msgid "[setup/workPeriod.xml?endPeriod2-90]"
+msgstr "01:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-120
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 120
+msgid "[setup/workPeriod.xml?endPeriod2-120]"
+msgstr "02:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-150
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 150
+msgid "[setup/workPeriod.xml?endPeriod2-150]"
+msgstr "02:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-180
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 180
+msgid "[setup/workPeriod.xml?endPeriod2-180]"
+msgstr "03:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-210
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 210
+msgid "[setup/workPeriod.xml?endPeriod2-210]"
+msgstr "03:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-240
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 240
+msgid "[setup/workPeriod.xml?endPeriod2-240]"
+msgstr "04:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-270
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 270
+msgid "[setup/workPeriod.xml?endPeriod2-270]"
+msgstr "04:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-300
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 300
+msgid "[setup/workPeriod.xml?endPeriod2-300]"
+msgstr "05:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-330
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 330
+msgid "[setup/workPeriod.xml?endPeriod2-330]"
+msgstr "05:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-360
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 360
+msgid "[setup/workPeriod.xml?endPeriod2-360]"
+msgstr "06:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-390
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 390
+msgid "[setup/workPeriod.xml?endPeriod2-390]"
+msgstr "06:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-420
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 420
+msgid "[setup/workPeriod.xml?endPeriod2-420]"
+msgstr "07:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-450
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 450
+msgid "[setup/workPeriod.xml?endPeriod2-450]"
+msgstr "07:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-480
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 480
+msgid "[setup/workPeriod.xml?endPeriod2-480]"
+msgstr "08:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-510
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 510
+msgid "[setup/workPeriod.xml?endPeriod2-510]"
+msgstr "08:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-540
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 540
+msgid "[setup/workPeriod.xml?endPeriod2-540]"
+msgstr "09:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-570
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 570
+msgid "[setup/workPeriod.xml?endPeriod2-570]"
+msgstr "09:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-600
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 600
+msgid "[setup/workPeriod.xml?endPeriod2-600]"
+msgstr "10:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-630
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 630
+msgid "[setup/workPeriod.xml?endPeriod2-630]"
+msgstr "10:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-660
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 660
+msgid "[setup/workPeriod.xml?endPeriod2-660]"
+msgstr "11:00 a.m"
+
+# setup/workPeriod.xml?endPeriod2-690
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 690
+msgid "[setup/workPeriod.xml?endPeriod2-690]"
+msgstr "11:30 a.m"
+
+# setup/workPeriod.xml?endPeriod2-720
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 720
+msgid "[setup/workPeriod.xml?endPeriod2-720]"
+msgstr "12:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-750
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 750
+msgid "[setup/workPeriod.xml?endPeriod2-750]"
+msgstr "12:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-780
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 780
+msgid "[setup/workPeriod.xml?endPeriod2-780]"
+msgstr "13:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-810
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 810
+msgid "[setup/workPeriod.xml?endPeriod2-810]"
+msgstr "13:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-840
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 840
+msgid "[setup/workPeriod.xml?endPeriod2-840]"
+msgstr "14:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-870
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 870
+msgid "[setup/workPeriod.xml?endPeriod2-870]"
+msgstr "14:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-900
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 900
+msgid "[setup/workPeriod.xml?endPeriod2-900]"
+msgstr "15:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-930
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 930
+msgid "[setup/workPeriod.xml?endPeriod2-930]"
+msgstr "15:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-960
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 960
+msgid "[setup/workPeriod.xml?endPeriod2-960]"
+msgstr "16:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-990
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 990
+msgid "[setup/workPeriod.xml?endPeriod2-990]"
+msgstr "16:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1020
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1020
+msgid "[setup/workPeriod.xml?endPeriod2-1020]"
+msgstr "17:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1050
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1050
+msgid "[setup/workPeriod.xml?endPeriod2-1050]"
+msgstr "17:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1080
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1080
+msgid "[setup/workPeriod.xml?endPeriod2-1080]"
+msgstr "18:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1110
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1110
+msgid "[setup/workPeriod.xml?endPeriod2-1110]"
+msgstr "18:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1140
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1140
+msgid "[setup/workPeriod.xml?endPeriod2-1140]"
+msgstr "19:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1170
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1170
+msgid "[setup/workPeriod.xml?endPeriod2-1170]"
+msgstr "19:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1200
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1200
+msgid "[setup/workPeriod.xml?endPeriod2-1200]"
+msgstr "20:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1230
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1230
+msgid "[setup/workPeriod.xml?endPeriod2-1230]"
+msgstr "20:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1260
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1260
+msgid "[setup/workPeriod.xml?endPeriod2-1260]"
+msgstr "21:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1290
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1290
+msgid "[setup/workPeriod.xml?endPeriod2-1290]"
+msgstr "21:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1320
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1320
+msgid "[setup/workPeriod.xml?endPeriod2-1320]"
+msgstr "22:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1350
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1350
+msgid "[setup/workPeriod.xml?endPeriod2-1350]"
+msgstr "22:30 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1380
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1380
+msgid "[setup/workPeriod.xml?endPeriod2-1380]"
+msgstr "23:00 p.m"
+
+# setup/workPeriod.xml?endPeriod2-1410
+# setup/workPeriod.xml
+#: dropdown - endPeriod2 - 1410
+msgid "[setup/workPeriod.xml?endPeriod2-1410]"
+msgstr "23:30 p.m"
+
+# setup/workPeriod.xml?BSUBMIT
+# setup/workPeriod.xml
+#: submit - BSUBMIT
+msgid "[setup/workPeriod.xml?BSUBMIT] Accept"
+msgstr "Accept"
+
+# setup/wsAssignUserToGroup.xml?SESSION_ID
+# setup/wsAssignUserToGroup.xml
+#: text - SESSION_ID
+msgid "Session Id"
+msgstr "Session Id"
+
+# setup/wsAssignUserToGroup.xml?USER_ID
+# setup/wsAssignUserToGroup.xml
+#: dropdown - USER_ID
+msgid "User ID"
+msgstr "User ID"
+
+# setup/wsAssignUserToGroup.xml?GROUP_ID
+# setup/wsAssignUserToGroup.xml
+#: dropdown - GROUP_ID
+msgid "Group ID"
+msgstr "Group ID"
+
+# setup/wsAssignUserToGroup.xml?ACTIONB
+# setup/wsAssignUserToGroup.xml
+#: button - ACTIONB
+msgid "AssignUserToGroup"
+msgstr "AssignUserToGroup"
+
+# setup/wsCaseList.xml?SESSION_ID
+# setup/wsCaseList.xml
+#: text - SESSION_ID
+msgid "[setup/wsCaseList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsCaseList.xml?ACTIONB
+# setup/wsCaseList.xml
+#: button - ACTIONB
+msgid "CaseList"
+msgstr "CaseList"
+
+# setup/wsCreateUser.xml?SESSION_ID
+# setup/wsCreateUser.xml
+#: text - SESSION_ID
+msgid "[setup/wsCreateUser.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsCreateUser.xml?USER_ID
+# setup/wsCreateUser.xml
+#: text - USER_ID
+msgid "[setup/wsCreateUser.xml?USER_ID] User ID"
+msgstr "User ID"
+
+# setup/wsCreateUser.xml?PASSWORD
+# setup/wsCreateUser.xml
+#: password - PASSWORD
+msgid "[setup/wsCreateUser.xml?PASSWORD] Password"
+msgstr "Password"
+
+# setup/wsCreateUser.xml?FIRST_NAME
+# setup/wsCreateUser.xml
+#: text - FIRST_NAME
+msgid "[setup/wsCreateUser.xml?FIRST_NAME] First Name"
+msgstr "First Name"
+
+# setup/wsCreateUser.xml?LAST_NAME
+# setup/wsCreateUser.xml
+#: text - LAST_NAME
+msgid "[setup/wsCreateUser.xml?LAST_NAME] Last Name"
+msgstr "Last Name"
+
+# setup/wsCreateUser.xml?EMAIL
+# setup/wsCreateUser.xml
+#: text - EMAIL
+msgid "[setup/wsCreateUser.xml?EMAIL] Email"
+msgstr "Email"
+
+# setup/wsCreateUser.xml?ROLE
+# setup/wsCreateUser.xml
+#: dropdown - ROLE
+msgid "[setup/wsCreateUser.xml?ROLE] Role"
+msgstr "Role"
+
+# setup/wsCreateUser.xml?ACTIONB
+# setup/wsCreateUser.xml
+#: button - ACTIONB
+msgid "CreateUser"
+msgstr "CreateUser"
+
+# setup/wsDerivateCase.xml?SESSION_ID
+# setup/wsDerivateCase.xml
+#: text - SESSION_ID
+msgid "[setup/wsDerivateCase.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsDerivateCase.xml?CASE_ID
+# setup/wsDerivateCase.xml
+#: dropdown - CASE_ID
+msgid "Case ID"
+msgstr "Case ID"
+
+# setup/wsDerivateCase.xml?DEL_INDEX
+# setup/wsDerivateCase.xml
+#: dropdown - DEL_INDEX
+msgid "Task Case(delindex)"
+msgstr "Task Case(delindex)"
+

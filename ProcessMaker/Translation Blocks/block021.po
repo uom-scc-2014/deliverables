@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_SKIN_BASE
+#: LABEL/ID_SKIN_BASE
+msgid "Base skin"
+msgstr "Base skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_CONFIGURATION_MISSING
+#: LABEL/ID_SKIN_CONFIGURATION_MISSING
+msgid "Missing skin configuration file"
+msgstr "Missing skin configuration file"
+
+# TRANSLATION
+# LABEL/ID_SKIN_CREATING
+#: LABEL/ID_SKIN_CREATING
+msgid "Generating Skin"
+msgstr "Generating Skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_DOESNT_EXIST
+#: LABEL/ID_SKIN_DOESNT_EXIST
+msgid "Skin does not exist"
+msgstr "Skin does not exist"
+
+# TRANSLATION
+# LABEL/ID_SKIN_ERROR_EXTRACTING
+#: LABEL/ID_SKIN_ERROR_EXTRACTING
+msgid "Error extracting skin"
+msgstr "Error extracting skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_EXCEPTION
+#: LABEL/ID_SKIN_EXCEPTION
+msgid "Skin Engine Exception"
+msgstr "Skin Engine Exception"
+
+# TRANSLATION
+# LABEL/ID_SKIN_EXPORTING
+#: LABEL/ID_SKIN_EXPORTING
+msgid "Exporting Skin"
+msgstr "Exporting Skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_FILE_REQUIRED
+#: LABEL/ID_SKIN_FILE_REQUIRED
+msgid "Skin file required"
+msgstr "Skin file required"
+
+# TRANSLATION
+# LABEL/ID_SKIN_FOLDER
+#: LABEL/ID_SKIN_FOLDER
+msgid "Folder name"
+msgstr "Folder name"
+
+# TRANSLATION
+# LABEL/ID_SKIN_FOLDER_NOT_DELETEABLE
+#: LABEL/ID_SKIN_FOLDER_NOT_DELETEABLE
+msgid "Can't delete default skin"
+msgstr "Can't delete default skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_FOLDER_PERMISSIONS
+#: LABEL/ID_SKIN_FOLDER_PERMISSIONS
+msgid "Not enough permissions in Skin Folder"
+msgstr "Not enough permissions in Skin Folder"
+
+# TRANSLATION
+# LABEL/ID_SKIN_FOLDER_REQUIRED
+#: LABEL/ID_SKIN_FOLDER_REQUIRED
+msgid "Skin folder name is required"
+msgstr "Skin folder name is required"
+
+# TRANSLATION
+# LABEL/ID_SKIN_IMPORTING
+#: LABEL/ID_SKIN_IMPORTING
+msgid "Importing Skin"
+msgstr "Importing Skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_INCORRECT_VERIFY_URL
+#: LABEL/ID_SKIN_INCORRECT_VERIFY_URL
+msgid "You're trying to get a resource from an incorrect skin, please verify your url."
+msgstr "You're trying to get a resource from an incorrect skin, please verify your url."
+
+# TRANSLATION
+# LABEL/ID_SKIN_LAYOUT_NOT_FOUND
+#: LABEL/ID_SKIN_LAYOUT_NOT_FOUND
+msgid "Layout not Found"
+msgstr "Layout not Found"
+
+# TRANSLATION
+# LABEL/ID_SKIN_NAME_REQUIRED
+#: LABEL/ID_SKIN_NAME_REQUIRED
+msgid "Skin Name is required"
+msgstr "Skin Name is required"
+
+# TRANSLATION
+# LABEL/ID_SKIN_SUCCESS_CREATE
+#: LABEL/ID_SKIN_SUCCESS_CREATE
+msgid "Skin successfully created"
+msgstr "Skin successfully created"
+
+# TRANSLATION
+# LABEL/ID_SKIN_SUCCESS_DELETE
+#: LABEL/ID_SKIN_SUCCESS_DELETE
+msgid "Skin successfully deleted"
+msgstr "Skin successfully deleted"
+
+# TRANSLATION
+# LABEL/ID_SKIN_SUCCESS_IMPORTED
+#: LABEL/ID_SKIN_SUCCESS_IMPORTED
+msgid "Skin successfully imported"
+msgstr "Skin successfully imported"
+
+# TRANSLATION
+# LABEL/ID_SKIN_SWITCHING
+#: LABEL/ID_SKIN_SWITCHING
+msgid "Switching Skin"
+msgstr "Switching Skin"
+
+# TRANSLATION
+# LABEL/ID_SKIN_TEAM
+#: LABEL/ID_SKIN_TEAM
+msgid "ProcessMaker Team"
+msgstr "ProcessMaker Team"
+
+# TRANSLATION
+# LABEL/ID_SLOW
+#: LABEL/ID_SLOW
+msgid "slow"
+msgstr "slow"
+
+# TRANSLATION
+# LABEL/ID_SNAP_GEOMETRY
+#: LABEL/ID_SNAP_GEOMETRY
+msgid "Snap Geometry"
+msgstr "Snap Geometry"
+
+# TRANSLATION
+# LABEL/ID_SOMETHING_WRONG
+#: LABEL/ID_SOMETHING_WRONG
+msgid "Something was wrong"
+msgstr "Something was wrong"
+
+# TRANSLATION
+# LABEL/ID_SOME_ACTORS_ALREADY_ASSIGNED
+#: LABEL/ID_SOME_ACTORS_ALREADY_ASSIGNED
+msgid "Some actor(s) is/are already assigned to task <b>{0}</b>"
+msgstr "Some actor(s) is/are already assigned to task <b>{0}</b>"
+
+# TRANSLATION
+# LABEL/ID_SOME_FIELDS_REQUIRED
+#: LABEL/ID_SOME_FIELDS_REQUIRED
+msgid "Some Fields are required."
+msgstr "Some Fields are required."
+
+# TRANSLATION
+# LABEL/ID_SOUTHPANEL
+#: LABEL/ID_SOUTHPANEL
+msgid "southPanel"
+msgstr "southPanel"
+
+# TRANSLATION
+# LABEL/ID_SPECIFY_DELEGATION_INDEX
+#: LABEL/ID_SPECIFY_DELEGATION_INDEX
+msgid "Please specify the delegation index"
+msgstr "Please specify the delegation index"
+
+# TRANSLATION
+# LABEL/ID_SPLIT_BUTTON
+#: LABEL/ID_SPLIT_BUTTON
+msgid "Split Button"
+msgstr "Split Button"
+
+# TRANSLATION
+# LABEL/ID_SQL_ESCAPE
+#: LABEL/ID_SQL_ESCAPE
+msgid "Replace the value for use in SQL sentences"
+msgstr "Replace the value for use in SQL sentences"
+
+# TRANSLATION
+# LABEL/ID_SQL_FILE_INVALID
+#: LABEL/ID_SQL_FILE_INVALID
+msgid "File {0} is not a valid sql file"
+msgstr "File {0} is not a valid sql file"
+
+# TRANSLATION
+# LABEL/ID_STAGE
+#: LABEL/ID_STAGE
+msgid "Stage"
+msgstr "Stage"
+
+# TRANSLATION
+# LABEL/ID_STAGES
+#: LABEL/ID_STAGES
+msgid "Stages"
+msgstr "Stages"
+
+# TRANSLATION
+# LABEL/ID_STARTED_CASES
+#: LABEL/ID_STARTED_CASES
+msgid "My Started Cases"
+msgstr "My Started Cases"
+
+# TRANSLATION
+# LABEL/ID_STARTED_SUCCESSFULLY
+#: LABEL/ID_STARTED_SUCCESSFULLY
+msgid "Started successfully"
+msgstr "Started successfully"
+
+# TRANSLATION
+# LABEL/ID_STARTING_LOG_FILE
+#: LABEL/ID_STARTING_LOG_FILE
+msgid "Starting log file"
+msgstr "Starting log file"
+
+# TRANSLATION
+# LABEL/ID_STARTING_NEW_CASE
+#: LABEL/ID_STARTING_NEW_CASE
+msgid "Starting new case"
+msgstr "Starting new case"
+
+# TRANSLATION
+# LABEL/ID_START_A_NEW_CASE_FOR
+#: LABEL/ID_START_A_NEW_CASE_FOR
+msgid "Start a new case for:"
+msgstr "Start a new case for:"
+
+# TRANSLATION
+# LABEL/ID_START_CASE
+#: LABEL/ID_START_CASE
+msgid "[LABEL/ID_START_CASE] New"
+msgstr "New"
+
+# TRANSLATION
+# LABEL/ID_START_DATE
+#: LABEL/ID_START_DATE
+msgid "[LABEL/ID_START_DATE] Start Date"
+msgstr "Start Date"
+
+# TRANSLATION
+# LABEL/ID_START_DATE_MDY
+#: LABEL/ID_START_DATE_MDY
+msgid "* Start Date (\"m/d/Y\")"
+msgstr "* Start Date (\"m/d/Y\")"
+
+# TRANSLATION
+# LABEL/ID_START_HH_MM
+#: LABEL/ID_START_HH_MM
+msgid "Start(hh:mm)"
+msgstr "Start(hh:mm)"
+
+# TRANSLATION
+# LABEL/ID_START_MESSAGE_EVENT_WEB_ENTRY
+#: LABEL/ID_START_MESSAGE_EVENT_WEB_ENTRY
+msgid "Start Message Event(Web Entry)"
+msgstr "Start Message Event(Web Entry)"
+
+# TRANSLATION
+# LABEL/ID_START_NEW_CASE
+#: LABEL/ID_START_NEW_CASE
+msgid "Start a new case"
+msgstr "Start a new case"
+
+# TRANSLATION
+# LABEL/ID_START_TASK
+#: LABEL/ID_START_TASK
+msgid "Starting Task"
+msgstr "Starting Task"
+
+# TRANSLATION
+# LABEL/ID_START_TIME_EVENT
+#: LABEL/ID_START_TIME_EVENT
+msgid "Start Timer Event (Case Scheduler)"
+msgstr "Start Timer Event (Case Scheduler)"
+
+# TRANSLATION
+# LABEL/ID_STATE_REGION
+#: LABEL/ID_STATE_REGION
+msgid "State or Region"
+msgstr "State or Region"
+
+# TRANSLATION
+# LABEL/ID_STATIC_PARTIAL_JOIN_MULTIPLE_INSTANCES
+#: LABEL/ID_STATIC_PARTIAL_JOIN_MULTIPLE_INSTANCES
+msgid "Static Partial Join for Multiple Instance"
+msgstr "Static Partial Join for Multiple Instance"
+
+# TRANSLATION
+# LABEL/ID_STATUS
+#: LABEL/ID_STATUS
+msgid "[LABEL/ID_STATUS] Status"
+msgstr "Status"
+
+# TRANSLATION
+# LABEL/ID_STATUS_CASE
+#: LABEL/ID_STATUS_CASE
+msgid "Status Case"
+msgstr "Status Case"
+
+# TRANSLATION
+# LABEL/ID_STATUS_REASSIGNMENT
+#: LABEL/ID_STATUS_REASSIGNMENT
+msgid "Status Reassignment"
+msgstr "Status Reassignment"
+
+# TRANSLATION
+# LABEL/ID_STEPS
+#: LABEL/ID_STEPS
+msgid "[LABEL/ID_STEPS] Steps"
+msgstr "Steps"
+
+# TRANSLATION
+# LABEL/ID_STEPS_OF
+#: LABEL/ID_STEPS_OF
+msgid "Steps Of"
+msgstr "Steps Of"
+
+# TRANSLATION
+# LABEL/ID_STEPS_UNAVAILABLE
+#: LABEL/ID_STEPS_UNAVAILABLE
+msgid "No steps are available. All Steps have been already assigned."
+msgstr "No steps are available. All Steps have been already assigned."
+
+# TRANSLATION
+# LABEL/ID_STEP_ASSIGNED
+#: LABEL/ID_STEP_ASSIGNED
+msgid "Step has been assigned successfully"
+msgstr "Step has been assigned successfully"
+
+# TRANSLATION
+# LABEL/ID_STEP_LIST
+#: LABEL/ID_STEP_LIST
+msgid "Step List"
+msgstr "Step List"
+
+# TRANSLATION
+# LABEL/ID_STEP_REMOVED
+#: LABEL/ID_STEP_REMOVED
+msgid "Step has been removed successfully"
+msgstr "Step has been removed successfully"
+
+# TRANSLATION
+# LABEL/ID_SUBJECT
+#: LABEL/ID_SUBJECT
+msgid "Subject"
+msgstr "Subject"
+
+# TRANSLATION
+# LABEL/ID_SUBMIT
+#: LABEL/ID_SUBMIT
+msgid "[LABEL/ID_SUBMIT] submit"
+msgstr "submit"
+
+# TRANSLATION
+# LABEL/ID_SUBMIT_NOTE
+#: LABEL/ID_SUBMIT_NOTE
+msgid "Post Note"
+msgstr "Post Note"
+
+# TRANSLATION
+# LABEL/ID_SUBPROCESS
+#: LABEL/ID_SUBPROCESS
+msgid "Sub-Process"
+msgstr "Sub-Process"
+
+# TRANSLATION
+# LABEL/ID_SUBPROCESS_NAME
+#: LABEL/ID_SUBPROCESS_NAME
+msgid "SubProcess name"
+msgstr "SubProcess name"
+
+# TRANSLATION
+# LABEL/ID_SUBPROCESS_SAVE
+#: LABEL/ID_SUBPROCESS_SAVE
+msgid "Sub Process Properties has been saved successfully."
+msgstr "Sub Process Properties has been saved successfully."
+
+# TRANSLATION
+# LABEL/ID_SUBPROCESS_USER
+#: LABEL/ID_SUBPROCESS_USER
+msgid "(Sub-Process User)"
+msgstr "(Sub-Process User)"
+
+# TRANSLATION
+# LABEL/ID_SUBSCRIPTIONS
+#: LABEL/ID_SUBSCRIPTIONS
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+# TRANSLATION
+# LABEL/ID_SUCCESS
+#: LABEL/ID_SUCCESS
+msgid "Success"
+msgstr "Success"
+
+# TRANSLATION
+# LABEL/ID_SUCCESSFUL_CONNECTION
+#: LABEL/ID_SUCCESSFUL_CONNECTION
+msgid "Successful connection"
+msgstr "Successful connection"
+
+# TRANSLATION
+# LABEL/ID_SUCCESS_DIRECTORIES_WRITABLE
+#: LABEL/ID_SUCCESS_DIRECTORIES_WRITABLE
+msgid "Success, all required directories are writable."
+msgstr "Success, all required directories are writable."
+
+# TRANSLATION
+# LABEL/ID_SUCCESS_RECORD
+#: LABEL/ID_SUCCESS_RECORD
+msgid "Success Records:"
+msgstr "Success Records:"
+
+# TRANSLATION
+# LABEL/ID_SUCESSFUL
+#: LABEL/ID_SUCESSFUL
+msgid "Sucessful"
+msgstr "Sucessful"
+
+# TRANSLATION
+# LABEL/ID_SUMMARY
+#: LABEL/ID_SUMMARY
+msgid "Summary"
+msgstr "Summary"
+
+# TRANSLATION
+# LABEL/ID_SUN
+#: LABEL/ID_SUN
+msgid "Sun"
+msgstr "Sun"
+
+# TRANSLATION
+# LABEL/ID_SUPERVISOR
+#: LABEL/ID_SUPERVISOR
+msgid "Supervisor"
+msgstr "Supervisor"
+
+# TRANSLATION
+# LABEL/ID_SUPERVISOR_ASSIGNED
+#: LABEL/ID_SUPERVISOR_ASSIGNED
+msgid "Supervisor has been successfully assigned to a Process"
+msgstr "Supervisor has been successfully assigned to a Process"
+
+# TRANSLATION
+# LABEL/ID_SUPERVISOR_FAILED
+#: LABEL/ID_SUPERVISOR_FAILED
+msgid "Failed saving Supervisor Assigned to process"
+msgstr "Failed saving Supervisor Assigned to process"
+
+# TRANSLATION
+# LABEL/ID_SUPERVISOR_REMOVED
+#: LABEL/ID_SUPERVISOR_REMOVED
+msgid "Supervisor has been removed successfully from Process"
+msgstr "Supervisor has been removed successfully from Process"
+
+# TRANSLATION
+# LABEL/ID_SUPERVISOR_UNAVAILABLE
+#: LABEL/ID_SUPERVISOR_UNAVAILABLE
+msgid "No supervisors are available. All supervisors have been already assigned."
+msgstr "No supervisors are available. All supervisors have been already assigned."
+
+# TRANSLATION
+# LABEL/ID_SWITCH_EDITOR
+#: LABEL/ID_SWITCH_EDITOR
+msgid "Switch Editor"
+msgstr "Switch Editor"
+
+# TRANSLATION
+# LABEL/ID_SWITCH_INTERFACE
+#: LABEL/ID_SWITCH_INTERFACE
+msgid "Switch Interface"
+msgstr "Switch Interface"
+
+# TRANSLATION
+# LABEL/ID_SYSTEM
+#: LABEL/ID_SYSTEM
+msgid "System"
+msgstr "System"
+
+# TRANSLATION
+# LABEL/ID_SYSTEM_INFO
+#: LABEL/ID_SYSTEM_INFO
+msgid "System information"
+msgstr "System information"
+
+# TRANSLATION
+# LABEL/ID_SYSTEM_REDIRECT_CONFIRM
+#: LABEL/ID_SYSTEM_REDIRECT_CONFIRM
+msgid "You must login again to view the changes, do you want do it now?"
+msgstr "You must login again to view the changes, do you want do it now?"
+
+# TRANSLATION
+# LABEL/ID_SYSTEM_SETTINGS
+#: LABEL/ID_SYSTEM_SETTINGS
+msgid "System Settings"
+msgstr "System Settings"
+
+# TRANSLATION
+# LABEL/ID_TABLE
+#: LABEL/ID_TABLE
+msgid "Table"
+msgstr "Table"
+
+# TRANSLATION
+# LABEL/ID_TABLES_REMOVED_SUCCESSFULLY
+#: LABEL/ID_TABLES_REMOVED_SUCCESSFULLY
+msgid "tables removed Successfully"
+msgstr "tables removed Successfully"
+
+# TRANSLATION
+# LABEL/ID_TABLES_REMOVED_WITH_ERRORS
+#: LABEL/ID_TABLES_REMOVED_WITH_ERRORS
+msgid "tables removed but with errors"
+msgstr "tables removed but with errors"
+
+# TRANSLATION
+# LABEL/ID_TABLES_TO_EXPORT
+#: LABEL/ID_TABLES_TO_EXPORT
+msgid "Tables To Export"
+msgstr "Tables To Export"
+
+# TRANSLATION
+# LABEL/ID_TABLE_ALREADY_EXISTS
+#: LABEL/ID_TABLE_ALREADY_EXISTS
+msgid "Table already exists"
+msgstr "Table already exists"
+
+# TRANSLATION
+# LABEL/ID_TABLE_INVALID_SYNTAX
+#: LABEL/ID_TABLE_INVALID_SYNTAX
+msgid "Invalid syntax"
+msgstr "Invalid syntax"
+
+# TRANSLATION
+# LABEL/ID_TABLE_NAME
+#: LABEL/ID_TABLE_NAME
+msgid "Table Name"
+msgstr "Table Name"
+
+# TRANSLATION
+# LABEL/ID_TABLE_NAME_IS_REQUIRED
+#: LABEL/ID_TABLE_NAME_IS_REQUIRED
+msgid "Table Name is required."
+msgstr "Table Name is required."
+
+# TRANSLATION
+# LABEL/ID_TABLE_NAME_TOO_SHORT
+#: LABEL/ID_TABLE_NAME_TOO_SHORT
+msgid "The table name is too short, it should have at least 4 characters."
+msgstr "The table name is too short, it should have at least 4 characters."
+
+# TRANSLATION
+# LABEL/ID_TABLE_NOT_EXIST_SKIPPED
+#: LABEL/ID_TABLE_NOT_EXIST_SKIPPED
+msgid "Table does not exist... skipped!"
+msgstr "Table does not exist... skipped!"
+
+# TRANSLATION
+# LABEL/ID_TABLE_NOT_FOUND
+#: LABEL/ID_TABLE_NOT_FOUND
+msgid "Table Not found"
+msgstr "Table Not found"
+
+# TRANSLATION
+# LABEL/ID_TABLE_TYPE
+#: LABEL/ID_TABLE_TYPE
+msgid "Table Type"
+msgstr "Table Type"
+
+# TRANSLATION
+# LABEL/ID_TAGS
+#: LABEL/ID_TAGS
+msgid "Tags"
+msgstr "Tags"
+
+# TRANSLATION
+# LABEL/ID_TAKE
+#: LABEL/ID_TAKE
+msgid "Take"
+msgstr "Take"
+
+# TRANSLATION
+# LABEL/ID_TAREA_COLGANTE
+#: LABEL/ID_TAREA_COLGANTE
+msgid "Leaf task"
+msgstr "Leaf task"
+
+# TRANSLATION
+# LABEL/ID_TARGET
+#: LABEL/ID_TARGET
+msgid "Target"
+msgstr "Target"
+
+# TRANSLATION
+# LABEL/ID_TARGET_ORIGIN_USER_SAME
+#: LABEL/ID_TARGET_ORIGIN_USER_SAME
+msgid "Target and Origin user are the same"
+msgstr "Target and Origin user are the same"
+

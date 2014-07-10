@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# JAVASCRIPT/ACCEPT
+#: JAVASCRIPT/ACCEPT
+msgid "Accept"
+msgstr "Accept"
+
+# TRANSLATION
+# JAVASCRIPT/CANCEL
+#: JAVASCRIPT/CANCEL
+msgid "Cancel"
+msgstr "Cancel"
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT1
+#: JAVASCRIPT/CONDITIONAL_ALERT1
+msgid "Some fields have not been filled."
+msgstr "Some fields have not been filled."
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT2
+#: JAVASCRIPT/CONDITIONAL_ALERT2
+msgid "You should select at least one event (OnChange or OnLoad )"
+msgstr "You should select at least one event (OnChange or OnLoad )"
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT3
+#: JAVASCRIPT/CONDITIONAL_ALERT3
+msgid "You have not tested the condition, do you want save anyway?"
+msgstr "You have not tested the condition, do you want save anyway?"
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_ALERT4
+#: JAVASCRIPT/CONDITIONAL_ALERT4
+msgid "You have an error in the condition, do you want save anyway?"
+msgstr "You have an error in the condition, do you want save anyway?"
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
+#: JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
+msgid "No records found for conditions setup"
+msgstr "No records found for conditions setup"
+
+# TRANSLATION
+# JAVASCRIPT/CONDITIONAL_TITLE
+#: JAVASCRIPT/CONDITIONAL_TITLE
+msgid "CONDITIONAL SHOW/HIDE EDITOR"
+msgstr "CONDITIONAL SHOW/HIDE EDITOR"
+
+# TRANSLATION
+# JAVASCRIPT/curriculum
+#: JAVASCRIPT/curriculum
+msgid "Resume"
+msgstr "Resume"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_ALERT
+#: JAVASCRIPT/DBCONNECTIONS_ALERT
+msgid "You forgot to fill a required field!"
+msgstr "You forgot to fill a required field!"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG1
+#: JAVASCRIPT/DBCONNECTIONS_MSG1
+msgid "DONE"
+msgstr "DONE"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG2
+#: JAVASCRIPT/DBCONNECTIONS_MSG2
+msgid "Failed"
+msgstr "Failed"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG3
+#: JAVASCRIPT/DBCONNECTIONS_MSG3
+msgid "Testing"
+msgstr "Testing"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG4
+#: JAVASCRIPT/DBCONNECTIONS_MSG4
+msgid "Please specify a database server!"
+msgstr "Please specify a database server!"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG5
+#: JAVASCRIPT/DBCONNECTIONS_MSG5
+msgid "You must specify a data base name!"
+msgstr "You must specify a data base name!"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG6
+#: JAVASCRIPT/DBCONNECTIONS_MSG6
+msgid "You must specify a user!"
+msgstr "You must specify a user!"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSG7
+#: JAVASCRIPT/DBCONNECTIONS_MSG7
+msgid "Loading test, please wait!..."
+msgstr "Loading test, please wait!..."
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSGA
+#: JAVASCRIPT/DBCONNECTIONS_MSGA
+msgid "Database Connections Test was aborted"
+msgstr "Database Connections Test was aborted"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSGR
+#: JAVASCRIPT/DBCONNECTIONS_MSGR
+msgid "Server Response"
+msgstr "Server Response"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSGS
+#: JAVASCRIPT/DBCONNECTIONS_MSGS
+msgid "Successful"
+msgstr "Successful"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_MSGT
+#: JAVASCRIPT/DBCONNECTIONS_MSGT
+msgid "The test has"
+msgstr "The test has"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIONS_TEST
+#: JAVASCRIPT/DBCONNECTIONS_TEST
+msgid "TESTING SERVER CONNECTION"
+msgstr "TESTING SERVER CONNECTION"
+
+# TRANSLATION
+# JAVASCRIPT/DBCONNECTIOS_MSG1
+#: JAVASCRIPT/DBCONNECTIOS_MSG1
+msgid "[JAVASCRIPT/DBCONNECTIOS_MSG1] DONE"
+msgstr "DONE"
+
+# TRANSLATION
+# JAVASCRIPT/demo
+#: JAVASCRIPT/demo
+msgid "test javaScript"
+msgstr "test javaScript"
+
+# TRANSLATION
+# JAVASCRIPT/DYNAFIELD_ALREADY_EXIST
+#: JAVASCRIPT/DYNAFIELD_ALREADY_EXIST
+msgid "The field name already exists!"
+msgstr "The field name already exists!"
+
+# TRANSLATION
+# JAVASCRIPT/EDIT_PROCESS
+#: JAVASCRIPT/EDIT_PROCESS
+msgid "Edit process"
+msgstr "Edit process"
+
+# TRANSLATION
+# JAVASCRIPT/ERROR_NEW_WS
+#: JAVASCRIPT/ERROR_NEW_WS
+msgid "You have some mistakes, please try again"
+msgstr "You have some mistakes, please try again"
+
+# TRANSLATION
+# JAVASCRIPT/EVENT_EMAILEXISTS
+#: JAVASCRIPT/EVENT_EMAILEXISTS
+msgid "The user or group is already in the list!"
+msgstr "The user or group is already in the list!"
+
+# TRANSLATION
+# JAVASCRIPT/HTML_FILES
+#: JAVASCRIPT/HTML_FILES
+msgid "Make sure your uploaded file has extension html or txt"
+msgstr "Make sure your uploaded file has extension html or txt"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ABORT
+#: JAVASCRIPT/ID_ABORT
+msgid "Abort"
+msgstr "Abort"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ACTIONS
+#: JAVASCRIPT/ID_ACTIONS
+msgid "Actions"
+msgstr "Actions"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ADD
+#: JAVASCRIPT/ID_ADD
+msgid "Add"
+msgstr "Add"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ADHOC_ASSIGNMENT
+#: JAVASCRIPT/ID_ADHOC_ASSIGNMENT
+msgid "Ad Hoc Assignment"
+msgstr "Ad Hoc Assignment"
+
+# TRANSLATION
+# JAVASCRIPT/ID_APPLY_LOGO
+#: JAVASCRIPT/ID_APPLY_LOGO
+msgid "Do you want to apply the selected Logo?"
+msgstr "Do you want to apply the selected Logo?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
+#: JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
+msgid "You have to select one employee. Select one from the dropdown list please."
+msgstr "You have to select one employee. Select one from the dropdown list please."
+
+# TRANSLATION
+# JAVASCRIPT/ID_ASSIGN_DYNAFORM
+#: JAVASCRIPT/ID_ASSIGN_DYNAFORM
+msgid "Assign DynaForm"
+msgstr "Assign DynaForm"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ASSIGN_INPUT_DOCUMENT
+#: JAVASCRIPT/ID_ASSIGN_INPUT_DOCUMENT
+msgid "Assign Input Document"
+msgstr "Assign Input Document"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ASSIGN_RULES
+#: JAVASCRIPT/ID_ASSIGN_RULES
+msgid "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+msgstr "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ASSIGN_SUPERVISOR
+#: JAVASCRIPT/ID_ASSIGN_SUPERVISOR
+msgid "Assign Process Supervisor"
+msgstr "Assign Process Supervisor"
+
+# TRANSLATION
+# JAVASCRIPT/ID_BACKGROUND_COLOR
+#: JAVASCRIPT/ID_BACKGROUND_COLOR
+msgid "Background color"
+msgstr "Background color"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASES_NUM
+#: JAVASCRIPT/ID_CASES_NUM
+msgid "# Cases"
+msgstr "# Cases"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASE_HISTORY
+#: JAVASCRIPT/ID_CASE_HISTORY
+msgid "Case History"
+msgstr "Case History"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASE_SCHEDULER_VALIDATE_ALERT
+#: JAVASCRIPT/ID_CASE_SCHEDULER_VALIDATE_ALERT
+msgid "User or password are empty."
+msgstr "User or password are empty."
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASE_TRACKER
+#: JAVASCRIPT/ID_CASE_TRACKER
+msgid "Case Tracker"
+msgstr "Case Tracker"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASE_TRACKER_OBJECTS
+#: JAVASCRIPT/ID_CASE_TRACKER_OBJECTS
+msgid "Objects"
+msgstr "Objects"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CASE_TRACKER_PROPERTIES
+#: JAVASCRIPT/ID_CASE_TRACKER_PROPERTIES
+msgid "Properties"
+msgstr "Properties"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CLASS_TABLE_DOESNT_EXIST
+#: JAVASCRIPT/ID_CLASS_TABLE_DOESNT_EXIST
+msgid "This table class does not exist"
+msgstr "This table class does not exist"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CLICK_VIEW_MORE_INFO
+#: JAVASCRIPT/ID_CLICK_VIEW_MORE_INFO
+msgid "Click here to view more info"
+msgstr "Click here to view more info"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CLOSE_SEARCH
+#: JAVASCRIPT/ID_CLOSE_SEARCH
+msgid "Close Search"
+msgstr "Close Search"
+
+# TRANSLATION
+# JAVASCRIPT/ID_COLOR_LEYENDS
+#: JAVASCRIPT/ID_COLOR_LEYENDS
+msgid "Key"
+msgstr "Key"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_ADHOCUSER_CASE
+#: JAVASCRIPT/ID_CONFIRM_ADHOCUSER_CASE
+msgid "Are you sure you want to do it?"
+msgstr "Are you sure you want to do it?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_CANCEL_CASE
+#: JAVASCRIPT/ID_CONFIRM_CANCEL_CASE
+msgid "Are you sure you want to cancel this case?"
+msgstr "Are you sure you want to cancel this case?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_DELETE_CASE
+#: JAVASCRIPT/ID_CONFIRM_DELETE_CASE
+msgid "Are you sure you want to delete this case?"
+msgstr "Are you sure you want to delete this case?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
+#: JAVASCRIPT/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
+msgid "This will delete the current document and its past versions."
+msgstr "This will delete the current document and its past versions."
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_PAUSE_CASE
+#: JAVASCRIPT/ID_CONFIRM_PAUSE_CASE
+msgid "Are you sure you want to pause this case?"
+msgstr "Are you sure you want to pause this case?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_PAUSE_CASE_ALERT
+#: JAVASCRIPT/ID_CONFIRM_PAUSE_CASE_ALERT
+msgid "You should specify an unpause date."
+msgstr "You should specify an unpause date."
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_REMOVE_DASHBOARD
+#: JAVASCRIPT/ID_CONFIRM_REMOVE_DASHBOARD
+msgid "Are you sure you want to remove this dashboard?"
+msgstr "Are you sure you want to remove this dashboard?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_REMOVE_TRIGGER
+#: JAVASCRIPT/ID_CONFIRM_REMOVE_TRIGGER
+msgid "Are you sure you want to remove this trigger?"
+msgstr "Are you sure you want to remove this trigger?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CONFIRM_WEBENTRY_DELETE
+#: JAVASCRIPT/ID_CONFIRM_WEBENTRY_DELETE
+msgid "Are you sure you want to delete this web entry?"
+msgstr "Are you sure you want to delete this web entry?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_CREATE
+#: JAVASCRIPT/ID_CREATE
+msgid "Create"
+msgstr "Create"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DBS_EDIT
+#: JAVASCRIPT/ID_DBS_EDIT
+msgid "Edit the current Database Source"
+msgstr "Edit the current Database Source"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DBS_LIST
+#: JAVASCRIPT/ID_DBS_LIST
+msgid "Databases Source List"
+msgstr "Databases Source List"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DBS_NEW
+#: JAVASCRIPT/ID_DBS_NEW
+msgid "Add new Database Source"
+msgstr "Add new Database Source"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DB_CONNECTION_ASSIGN
+#: JAVASCRIPT/ID_DB_CONNECTION_ASSIGN
+msgid "You can not delete this data base connection. This is assigned in some step."
+msgstr "You can not delete this data base connection. This is assigned in some step."
+
+# TRANSLATION
+# JAVASCRIPT/ID_DELETE_TABLE_COLLECTION
+#: JAVASCRIPT/ID_DELETE_TABLE_COLLECTION
+msgid "Do you want to delete this table?"
+msgstr "Do you want to delete this table?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DEPARTMENT
+#: JAVASCRIPT/ID_DEPARTMENT
+msgid "Department"
+msgstr "Department"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DISABLE_WORKSPACE_CONFIRM
+#: JAVASCRIPT/ID_DISABLE_WORKSPACE_CONFIRM
+msgid "Do you want to disable the selected workspace?"
+msgstr "Do you want to disable the selected workspace?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DONT_SAVE_XMLFORM
+#: JAVASCRIPT/ID_DONT_SAVE_XMLFORM
+msgid "This form has not a submit action. Do you want to continue anyway?"
+msgstr "This form has not a submit action. Do you want to continue anyway?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DUPLICATE_CATEGORY_NAME
+#: JAVASCRIPT/ID_DUPLICATE_CATEGORY_NAME
+msgid "Duplicate category name."
+msgstr "Duplicate category name."
+
+# TRANSLATION
+# JAVASCRIPT/ID_DYNAFORMS
+#: JAVASCRIPT/ID_DYNAFORMS
+msgid "DynaForms"
+msgstr "DynaForms"
+
+# TRANSLATION
+# JAVASCRIPT/ID_DYNAFORM_ASSIGN
+#: JAVASCRIPT/ID_DYNAFORM_ASSIGN
+msgid "You cannot delete this Dynaform while it is assigned to a step."
+msgstr "You cannot delete this Dynaform while it is assigned to a step."
+
+# TRANSLATION
+# JAVASCRIPT/ID_EDIT_STAGES_MAP
+#: JAVASCRIPT/ID_EDIT_STAGES_MAP
+msgid "Edit Stages Map"
+msgstr "Edit Stages Map"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EMAIL_INVALID
+#: JAVASCRIPT/ID_EMAIL_INVALID
+msgid "The mail is invalid"
+msgstr "The mail is invalid"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EMAIL_REQUIRED
+#: JAVASCRIPT/ID_EMAIL_REQUIRED
+msgid "The mail to is required, or uncheck the send a test mail"
+msgstr "The mail to is required, or uncheck the send a test mail"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EMPTY_NODENAME
+#: JAVASCRIPT/ID_EMPTY_NODENAME
+msgid "The field name contains spaces or it's empty!"
+msgstr "The field name contains spaces or it's empty!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_ENABLE_WORKSPACE_CONFIRM
+#: JAVASCRIPT/ID_ENABLE_WORKSPACE_CONFIRM
+msgid "Do you want enable the selected workspace?"
+msgstr "Do you want enable the selected workspace?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_END_OF_PROCESS
+#: JAVASCRIPT/ID_END_OF_PROCESS
+msgid "End of process"
+msgstr "End of process"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EVENTS
+#: JAVASCRIPT/ID_EVENTS
+msgid "Events"
+msgstr "Events"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EVENT_CONDITIONAL
+#: JAVASCRIPT/ID_EVENT_CONDITIONAL
+msgid "Conditional Event"
+msgstr "Conditional Event"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EVENT_MESSAGE
+#: JAVASCRIPT/ID_EVENT_MESSAGE
+msgid "Message Event"
+msgstr "Message Event"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EVENT_MULTIPLE
+#: JAVASCRIPT/ID_EVENT_MULTIPLE
+msgid "Multiple Event"
+msgstr "Multiple Event"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIST_DYNAFORM
+#: JAVASCRIPT/ID_EXIST_DYNAFORM
+msgid "There is a Dynaform with the same name in this process. It is not saving"
+msgstr "There is a Dynaform with the same name in this process. It is not saving"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIST_INPUTDOCUMENT
+#: JAVASCRIPT/ID_EXIST_INPUTDOCUMENT
+msgid "There is an Input Document with the same name in this process. It is not saving"
+msgstr "There is an Input Document with the same name in this process. It is not saving"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIST_OUTPUTDOCUMENT
+#: JAVASCRIPT/ID_EXIST_OUTPUTDOCUMENT
+msgid "There is an Output Document with the same name in this process. It is not saving"
+msgstr "There is an Output Document with the same name in this process. It is not saving"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIST_PROCESS
+#: JAVASCRIPT/ID_EXIST_PROCESS
+msgid "There is a process with the same name. this process will not save"
+msgstr "There is a process with the same name. this process will not save"
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIST_TRIGGERS
+#: JAVASCRIPT/ID_EXIST_TRIGGERS
+msgid "There is a triggers with the same name in this process."
+msgstr "There is a triggers with the same name in this process."
+
+# TRANSLATION
+# JAVASCRIPT/ID_EXIT_WITHOUT_SAVING
+#: JAVASCRIPT/ID_EXIT_WITHOUT_SAVING
+msgid "Exit without saving?"
+msgstr "Exit without saving?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
+#: JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
+msgid "The following fields cannot have these names because they are reserved words"
+msgstr "The following fields cannot have these names because they are reserved words"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FIELD_DUPLICATE
+#: JAVASCRIPT/ID_FIELD_DUPLICATE
+msgid "Duplicate Field"
+msgstr "Duplicate Field"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FIELD_FOREIGN_TABLE
+#: JAVASCRIPT/ID_FIELD_FOREIGN_TABLE
+msgid "Field \"table\" is required"
+msgstr "Field \"table\" is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FILEGENERATED
+#: JAVASCRIPT/ID_FILEGENERATED
+msgid "Filename generated, is required!"
+msgstr "Filename generated, is required!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FILL_SERVER
+#: JAVASCRIPT/ID_FILL_SERVER
+msgid "You must specify a server!"
+msgstr "You must specify a server!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FONT_COLOR
+#: JAVASCRIPT/ID_FONT_COLOR
+msgid "Change text color"
+msgstr "Change text color"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FONT_NAME
+#: JAVASCRIPT/ID_FONT_NAME
+msgid "Font Name"
+msgstr "Font Name"
+
+# TRANSLATION
+# JAVASCRIPT/ID_FONT_SIZE
+#: JAVASCRIPT/ID_FONT_SIZE
+msgid "Font Size"
+msgstr "Font Size"
+
+# TRANSLATION
+# JAVASCRIPT/ID_GENERATED_DOCUMENTS
+#: JAVASCRIPT/ID_GENERATED_DOCUMENTS
+msgid "Generated Documents"
+msgstr "Generated Documents"
+
+# TRANSLATION
+# JAVASCRIPT/ID_GROUP
+#: JAVASCRIPT/ID_GROUP
+msgid "Group"
+msgstr "Group"
+
+# TRANSLATION
+# JAVASCRIPT/ID_HILITE_COLOR
+#: JAVASCRIPT/ID_HILITE_COLOR
+msgid "Highlight Color"
+msgstr "Highlight Color"
+
+# TRANSLATION
+# JAVASCRIPT/ID_HISTORY_MESSAGE_CASE
+#: JAVASCRIPT/ID_HISTORY_MESSAGE_CASE
+msgid "Messages History"
+msgstr "Messages History"
+
+# TRANSLATION
+# JAVASCRIPT/ID_IMAGE_URI
+#: JAVASCRIPT/ID_IMAGE_URI
+msgid "Image URI"
+msgstr "Image URI"
+

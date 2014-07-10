@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# cases/cases_Scheduler_New.xml?SCH_USER_PASSWORD
+# cases/cases_Scheduler_New.xml
+#: password - SCH_USER_PASSWORD
+msgid "[cases/cases_Scheduler_New.xml?SCH_USER_PASSWORD] Password"
+msgstr "Password"
+
+# cases/cases_Scheduler_New.xml?TEST_CONNECTION
+# cases/cases_Scheduler_New.xml
+#: button - TEST_CONNECTION
+msgid "[cases/cases_Scheduler_New.xml?TEST_CONNECTION] Test User"
+msgstr "Test User"
+
+# cases/cases_Scheduler_New.xml?EDIT_USER
+# cases/cases_Scheduler_New.xml
+#: button - EDIT_USER
+msgid "[cases/cases_Scheduler_New.xml?EDIT_USER] Edit User"
+msgstr "Edit User"
+
+# cases/cases_Scheduler_New.xml?PERFORM_TASK
+# cases/cases_Scheduler_New.xml
+#: subtitle - PERFORM_TASK
+msgid "[cases/cases_Scheduler_New.xml?PERFORM_TASK] Properties"
+msgstr "Properties"
+
+# cases/cases_Scheduler_New.xml?TAS_UID
+# cases/cases_Scheduler_New.xml
+#: dropdown - TAS_UID
+msgid "[cases/cases_Scheduler_New.xml?TAS_UID] Task"
+msgstr "Task"
+
+# cases/cases_Scheduler_New.xml?SCH_NAME
+# cases/cases_Scheduler_New.xml
+#: text - SCH_NAME
+msgid "[cases/cases_Scheduler_New.xml?SCH_NAME] Name"
+msgstr "Name"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION] Perform this task"
+msgstr "Perform this task"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-0
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 0
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-0]"
+msgstr "-Select-"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-1
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-1]"
+msgstr "Daily"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-2
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-2]"
+msgstr "Weekly"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-3
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 3
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-3]"
+msgstr "Monthly"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-4
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 4
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-4]"
+msgstr "One time only"
+
+# cases/cases_Scheduler_New.xml?SCH_OPTION-5
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_OPTION - 5
+msgid "[cases/cases_Scheduler_New.xml?SCH_OPTION-5]"
+msgstr "Every"
+
+# cases/cases_Scheduler_New.xml?SELECT_TIME_DAY
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_TIME_DAY
+msgid "[cases/cases_Scheduler_New.xml?SELECT_TIME_DAY] Select the date and time for case(s) to be initiated."
+msgstr "Select the date and time for case(s) to be initiated."
+
+# cases/cases_Scheduler_New.xml?SCH_START_TIME
+# cases/cases_Scheduler_New.xml
+#: text - SCH_START_TIME
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_TIME] Execution time"
+msgstr "Execution time"
+
+# cases/cases_Scheduler_New.xml?SELECT_DATE
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_DATE
+msgid "[cases/cases_Scheduler_New.xml?SELECT_DATE] Select date"
+msgstr "Select date"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DATE
+# cases/cases_Scheduler_New.xml
+#: date - SCH_START_DATE
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DATE] Start date"
+msgstr "Start date"
+
+# cases/cases_Scheduler_New.xml?SELECT_1
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_1
+msgid "[cases/cases_Scheduler_New.xml?SELECT_1] Daily"
+msgstr "Daily"
+
+# cases/cases_Scheduler_New.xml?SELECT_2
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_2
+msgid "[cases/cases_Scheduler_New.xml?SELECT_2] Weekly"
+msgstr "Weekly"
+
+# cases/cases_Scheduler_New.xml?SCH_EVERY_DAYS
+# cases/cases_Scheduler_New.xml
+#: text - SCH_EVERY_DAYS
+msgid "[cases/cases_Scheduler_New.xml?SCH_EVERY_DAYS] Every"
+msgstr "Every"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS] Select the day(s) of the week below"
+msgstr "Select the day(s) of the week below"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-1
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-1]"
+msgstr "Monday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-2
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-2]"
+msgstr "Tuesday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-3
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS - 3
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-3]"
+msgstr "Wednesday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-4
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS - 4
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS-4]"
+msgstr "Thursday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS_2
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-5
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 5
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-5]"
+msgstr "Friday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-6
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 6
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-6]"
+msgstr "Saturday"
+
+# cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-7
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 7
+msgid "[cases/cases_Scheduler_New.xml?SCH_WEEK_DAYS_2-7]"
+msgstr "Sunday"
+
+# cases/cases_Scheduler_New.xml?SELECT_3
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_3
+msgid "[cases/cases_Scheduler_New.xml?SELECT_3] Monthly"
+msgstr "Monthly"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY
+# cases/cases_Scheduler_New.xml
+#: radiogroup - SCH_START_DAY
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY-1
+# cases/cases_Scheduler_New.xml
+#: radiogroup - SCH_START_DAY - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY-1]"
+msgstr "Day of month"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY-2
+# cases/cases_Scheduler_New.xml
+#: radiogroup - SCH_START_DAY - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY-2]"
+msgstr "The day"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_1
+# cases/cases_Scheduler_New.xml
+#: text - SCH_START_DAY_OPT_1
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_1] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-1
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-1]"
+msgstr "First"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-2
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-2]"
+msgstr "Second"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-3
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 3
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-3]"
+msgstr "Third"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-4
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 4
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-4]"
+msgstr "Fourth"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-5
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 5
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_WEEKS-5]"
+msgstr "Last"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-1
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-1]"
+msgstr "Monday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-2
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-2]"
+msgstr "Tuesday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-3
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 3
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-3]"
+msgstr "Wednesday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-4
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 4
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-4]"
+msgstr "Thursday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-5
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 5
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-5]"
+msgstr "Friday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-6
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 6
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-6]"
+msgstr "Saturday"
+
+# cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-7
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 7
+msgid "[cases/cases_Scheduler_New.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-7]"
+msgstr "Sunday"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS] Of the month(s)"
+msgstr "Of the month(s)"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS-1
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS-1]"
+msgstr "Jan"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS-2
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS-2]"
+msgstr "Feb"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS-3
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS - 3
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS-3]"
+msgstr "Mar"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS-4
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS - 4
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS-4]"
+msgstr "Apr"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_2
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_2
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_2] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_2-5
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_2 - 5
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_2-5]"
+msgstr "May"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_2-6
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_2 - 6
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_2-6]"
+msgstr "Jun"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_2-7
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_2 - 7
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_2-7]"
+msgstr "Jul"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_2-8
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_2 - 8
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_2-8]"
+msgstr "Aug"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_3
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_3
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_3] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_3-9
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_3 - 9
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_3-9]"
+msgstr "Sep"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_3-10
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_3 - 10
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_3-10]"
+msgstr "Oct"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_3-11
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_3 - 11
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_3-11]"
+msgstr "Nov"
+
+# cases/cases_Scheduler_New.xml?SCH_MONTHS_3-12
+# cases/cases_Scheduler_New.xml
+#: checkgroup - SCH_MONTHS_3 - 12
+msgid "[cases/cases_Scheduler_New.xml?SCH_MONTHS_3-12]"
+msgstr "Dec"
+
+# cases/cases_Scheduler_New.xml?SCH_END_DATE
+# cases/cases_Scheduler_New.xml
+#: date - SCH_END_DATE
+msgid "[cases/cases_Scheduler_New.xml?SCH_END_DATE] End Date"
+msgstr "End Date"
+
+# cases/cases_Scheduler_New.xml?SCH_REPEAT_TASK_CHK
+# cases/cases_Scheduler_New.xml
+#: checkbox - SCH_REPEAT_TASK_CHK
+msgid "[cases/cases_Scheduler_New.xml?SCH_REPEAT_TASK_CHK] Repeat Task"
+msgstr "Repeat Task"
+
+# cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY
+# cases/cases_Scheduler_New.xml
+#: text - SCH_REPEAT_EVERY
+msgid "[cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY] Execute every"
+msgstr "Execute every"
+
+# cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT
+msgid "[cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT] "
+msgstr ""
+
+# cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT-1
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT - 1
+msgid "[cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT-1]"
+msgstr "Minutes"
+
+# cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT-2
+# cases/cases_Scheduler_New.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT - 2
+msgid "[cases/cases_Scheduler_New.xml?SCH_REPEAT_EVERY_OPT-2]"
+msgstr "Hours"
+
+# cases/cases_Scheduler_New.xml?SELECT_PLUGIN
+# cases/cases_Scheduler_New.xml
+#: subtitle - SELECT_PLUGIN
+msgid "[cases/cases_Scheduler_New.xml?SELECT_PLUGIN] Start a case based on following registered Plugin."
+msgstr "Start a case based on following registered Plugin."
+
+# cases/cases_Scheduler_New.xml?SAVE
+# cases/cases_Scheduler_New.xml
+#: button - SAVE
+msgid "[cases/cases_Scheduler_New.xml?SAVE] Save"
+msgstr "Save"
+
+# cases/cases_Scheduler_New.xml?BTNCANCEL
+# cases/cases_Scheduler_New.xml
+#: button - BTNCANCEL
+msgid "[cases/cases_Scheduler_New.xml?BTNCANCEL] Cancel"
+msgstr "Cancel"
+
+# cases/cases_Scheduler_NewOptions.xml?MNU
+# cases/cases_Scheduler_NewOptions.xml
+#: link - MNU
+msgid "Back to list"
+msgstr "Back to list"
+
+# cases/cases_Scheduler_Options.xml?MNU_ADD
+# cases/cases_Scheduler_Options.xml
+#: link - MNU_ADD
+msgid "[cases/cases_Scheduler_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# cases/cases_TaskDetails.xml?TASK
+# cases/cases_TaskDetails.xml
+#: text - TASK
+msgid "[cases/cases_TaskDetails.xml?TASK] Title"
+msgstr "Title"
+
+# cases/cases_TaskDetails.xml?USER
+# cases/cases_TaskDetails.xml
+#: text - USER
+msgid "[cases/cases_TaskDetails.xml?USER] User"
+msgstr "User"
+
+# cases/cases_TaskDetails.xml?INIT_DATE
+# cases/cases_TaskDetails.xml
+#: date - INIT_DATE
+msgid "[cases/cases_TaskDetails.xml?INIT_DATE] Init Date"
+msgstr "Init Date"
+
+# cases/cases_TaskDetails.xml?DUE_DATE
+# cases/cases_TaskDetails.xml
+#: date - DUE_DATE
+msgid "Due date"
+msgstr "Due date"
+
+# cases/cases_TaskDetails.xml?FINISH
+# cases/cases_TaskDetails.xml
+#: text - FINISH
+msgid "Finish date"
+msgstr "Finish date"
+
+# cases/cases_TaskDetails.xml?DURATION
+# cases/cases_TaskDetails.xml
+#: text - DURATION
+msgid "Duration"
+msgstr "Duration"
+
+# cases/cases_TaskInformation.xml?TAS_TITLE
+# cases/cases_TaskInformation.xml
+#: text - TAS_TITLE
+msgid "[cases/cases_TaskInformation.xml?TAS_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_TaskInformation.xml?TAS_DESCRIPTION
+# cases/cases_TaskInformation.xml
+#: textarea - TAS_DESCRIPTION
+msgid "[cases/cases_TaskInformation.xml?TAS_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_TaskInformation.xml?INIT_DATE
+# cases/cases_TaskInformation.xml
+#: date - INIT_DATE
+msgid "[cases/cases_TaskInformation.xml?INIT_DATE] Init Date"
+msgstr "Init Date"
+
+# cases/cases_TaskInformation.xml?DUE_DATE
+# cases/cases_TaskInformation.xml
+#: date - DUE_DATE
+msgid "[cases/cases_TaskInformation.xml?DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_TaskInformation.xml?FINISH
+# cases/cases_TaskInformation.xml
+#: text - FINISH
+msgid "[cases/cases_TaskInformation.xml?FINISH] Finish date"
+msgstr "Finish date"
+
+# cases/cases_TaskInformation.xml?DURATION
+# cases/cases_TaskInformation.xml
+#: text - DURATION
+msgid "[cases/cases_TaskInformation.xml?DURATION] Duration"
+msgstr "Duration"
+
+# cases/cases_ToReassignByUserList.xml?APP_NUMBER
+# cases/cases_ToReassignByUserList.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ToReassignByUserList.xml?APP_NUMBER] Case #"
+msgstr "Case #"
+
+# cases/cases_ToReassignByUserList.xml?APP_TAS_TITLE
+# cases/cases_ToReassignByUserList.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ToReassignByUserList.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ToReassignByUserList.xml?APP_PRO_TITLE
+# cases/cases_ToReassignByUserList.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ToReassignByUserList.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY] Priority"
+msgstr "Priority"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-1
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY - 1
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-1]"
+msgstr "Very High"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-2
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY - 2
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-2]"
+msgstr "High"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-3
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY - 3
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-3]"
+msgstr "Normal"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-4
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY - 4
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-4]"
+msgstr "Low"
+
+# cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-5
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - DEL_PRIORITY - 5
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_PRIORITY-5]"
+msgstr "Very Low"
+
+# cases/cases_ToReassignByUserList.xml?DEL_INIT_DATE
+# cases/cases_ToReassignByUserList.xml
+#: text - DEL_INIT_DATE
+msgid "Init. date"
+msgstr "Init. date"
+
+# cases/cases_ToReassignByUserList.xml?DEL_TASK_DUE_DATE
+# cases/cases_ToReassignByUserList.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ToReassignByUserList.xml?DEL_TASK_DUE_DATE] Due date"
+msgstr "Due date"
+
+# cases/cases_ToReassignByUserList.xml?APP_STATUS
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_ToReassignByUserList.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_ToReassignByUserList.xml?APP_STATUS-TO_DO
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_ToReassignByUserList.xml?APP_STATUS-TO_DO]"
+msgstr "TODO"
+
+# cases/cases_ToReassignByUserList.xml?APP_STATUS-DRAFT
+# cases/cases_ToReassignByUserList.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_ToReassignByUserList.xml?APP_STATUS-DRAFT]"
+msgstr "DRAFT"
+

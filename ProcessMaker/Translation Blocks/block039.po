@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# dynaforms/fields_Toolbar.xml?percentage
+# dynaforms/fields_Toolbar.xml
+#: toolButton - percentage
+msgid "Percentage"
+msgstr "Percentage"
+
+# dynaforms/fields_Toolbar.xml?password
+# dynaforms/fields_Toolbar.xml
+#: toolButton - password
+msgid "[dynaforms/fields_Toolbar.xml?password] Password"
+msgstr "Password"
+
+# dynaforms/fields_Toolbar.xml?suggest
+# dynaforms/fields_Toolbar.xml
+#: toolButton - suggest
+msgid "Suggest"
+msgstr "Suggest"
+
+# dynaforms/fields_Toolbar.xml?textarea
+# dynaforms/fields_Toolbar.xml
+#: toolButton - textarea
+msgid "TextArea"
+msgstr "TextArea"
+
+# dynaforms/fields_Toolbar.xml?title
+# dynaforms/fields_Toolbar.xml
+#: toolButton - title
+msgid "[dynaforms/fields_Toolbar.xml?title] Title"
+msgstr "Title"
+
+# dynaforms/fields_Toolbar.xml?subtitle
+# dynaforms/fields_Toolbar.xml
+#: toolButton - subtitle
+msgid "Subtitle"
+msgstr "Subtitle"
+
+# dynaforms/fields_Toolbar.xml?button
+# dynaforms/fields_Toolbar.xml
+#: toolButton - button
+msgid "[dynaforms/fields_Toolbar.xml?button] Button"
+msgstr "Button"
+
+# dynaforms/fields_Toolbar.xml?submit
+# dynaforms/fields_Toolbar.xml
+#: toolButton - submit
+msgid "Submit"
+msgstr "Submit"
+
+# dynaforms/fields_Toolbar.xml?reset
+# dynaforms/fields_Toolbar.xml
+#: toolButton - reset
+msgid "[dynaforms/fields_Toolbar.xml?reset] Reset"
+msgstr "Reset"
+
+# dynaforms/fields_Toolbar.xml?dropdown
+# dynaforms/fields_Toolbar.xml
+#: toolButton - dropdown
+msgid "Dropdown"
+msgstr "Dropdown"
+
+# dynaforms/fields_Toolbar.xml?yesno
+# dynaforms/fields_Toolbar.xml
+#: toolButton - yesno
+msgid "Yes/No"
+msgstr "Yes/No"
+
+# dynaforms/fields_Toolbar.xml?listbox
+# dynaforms/fields_Toolbar.xml
+#: toolButton - listbox
+msgid "Listbox"
+msgstr "Listbox"
+
+# dynaforms/fields_Toolbar.xml?checkbox
+# dynaforms/fields_Toolbar.xml
+#: toolButton - checkbox
+msgid "Checkbox"
+msgstr "Checkbox"
+
+# dynaforms/fields_Toolbar.xml?checkgroup
+# dynaforms/fields_Toolbar.xml
+#: toolButton - checkgroup
+msgid "CheckGroup"
+msgstr "CheckGroup"
+
+# dynaforms/fields_Toolbar.xml?radiogroup
+# dynaforms/fields_Toolbar.xml
+#: toolButton - radiogroup
+msgid "RadioGroup"
+msgstr "RadioGroup"
+
+# dynaforms/fields_Toolbar.xml?date
+# dynaforms/fields_Toolbar.xml
+#: toolButton - date
+msgid "[dynaforms/fields_Toolbar.xml?date] Date"
+msgstr "Date"
+
+# dynaforms/fields_Toolbar.xml?hidden
+# dynaforms/fields_Toolbar.xml
+#: toolButton - hidden
+msgid "Hidden"
+msgstr "Hidden"
+
+# dynaforms/fields_Toolbar.xml?link
+# dynaforms/fields_Toolbar.xml
+#: toolButton - link
+msgid "Link"
+msgstr "Link"
+
+# dynaforms/fields_Toolbar.xml?file
+# dynaforms/fields_Toolbar.xml
+#: toolButton - file
+msgid "[dynaforms/fields_Toolbar.xml?file] File"
+msgstr "File"
+
+# dynaforms/fields_Toolbar.xml?javascript
+# dynaforms/fields_Toolbar.xml
+#: toolButton - javascript
+msgid "Javascript"
+msgstr "Javascript"
+
+# dynaforms/fields_Toolbar.xml?grid
+# dynaforms/fields_Toolbar.xml
+#: toolButton - grid
+msgid "[dynaforms/fields_Toolbar.xml?grid] Grid"
+msgstr "Grid"
+
+# dynaforms/fields_ToolbarGrid.xml?saveDyna
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - saveDyna
+msgid "[dynaforms/fields_ToolbarGrid.xml?saveDyna] Save"
+msgstr "Save"
+
+# dynaforms/fields_ToolbarGrid.xml?saveasDyna
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - saveasDyna
+msgid "[dynaforms/fields_ToolbarGrid.xml?saveasDyna] Save as"
+msgstr "Save as"
+
+# dynaforms/fields_ToolbarGrid.xml?text
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - text
+msgid "[dynaforms/fields_ToolbarGrid.xml?text] Text field"
+msgstr "Text field"
+
+# dynaforms/fields_ToolbarGrid.xml?currency
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - currency
+msgid "[dynaforms/fields_ToolbarGrid.xml?currency] Currency"
+msgstr "Currency"
+
+# dynaforms/fields_ToolbarGrid.xml?percentage
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - percentage
+msgid "[dynaforms/fields_ToolbarGrid.xml?percentage] Percentage"
+msgstr "Percentage"
+
+# dynaforms/fields_ToolbarGrid.xml?suggest
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - suggest
+msgid "[dynaforms/fields_ToolbarGrid.xml?suggest] Suggest"
+msgstr "Suggest"
+
+# dynaforms/fields_ToolbarGrid.xml?textarea
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - textarea
+msgid "[dynaforms/fields_ToolbarGrid.xml?textarea] TextArea"
+msgstr "TextArea"
+
+# dynaforms/fields_ToolbarGrid.xml?dropdown
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - dropdown
+msgid "[dynaforms/fields_ToolbarGrid.xml?dropdown] Dropdown"
+msgstr "Dropdown"
+
+# dynaforms/fields_ToolbarGrid.xml?yesno
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - yesno
+msgid "[dynaforms/fields_ToolbarGrid.xml?yesno] Yes/No"
+msgstr "Yes/No"
+
+# dynaforms/fields_ToolbarGrid.xml?checkbox
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - checkbox
+msgid "[dynaforms/fields_ToolbarGrid.xml?checkbox] Checkbox"
+msgstr "Checkbox"
+
+# dynaforms/fields_ToolbarGrid.xml?date
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - date
+msgid "[dynaforms/fields_ToolbarGrid.xml?date] Date"
+msgstr "Date"
+
+# dynaforms/fields_ToolbarGrid.xml?hidden
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - hidden
+msgid "[dynaforms/fields_ToolbarGrid.xml?hidden] Hidden"
+msgstr "Hidden"
+
+# dynaforms/fields_ToolbarGrid.xml?link
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - link
+msgid "[dynaforms/fields_ToolbarGrid.xml?link] Link"
+msgstr "Link"
+
+# dynaforms/fields_ToolbarGrid.xml?file
+# dynaforms/fields_ToolbarGrid.xml
+#: toolButton - file
+msgid "[dynaforms/fields_ToolbarGrid.xml?file] File"
+msgstr "File"
+
+# events/appEventsList.xml?TAS_TITLE
+# events/appEventsList.xml
+#: text - TAS_TITLE
+msgid "[events/appEventsList.xml?TAS_TITLE] Task"
+msgstr "Task"
+
+# events/appEventsList.xml?APP_TITLE
+# events/appEventsList.xml
+#: text - APP_TITLE
+msgid "[events/appEventsList.xml?APP_TITLE] Case Title"
+msgstr "Case Title"
+
+# events/appEventsList.xml?APP_EVN_ACTION_DATE
+# events/appEventsList.xml
+#: text - APP_EVN_ACTION_DATE
+msgid "Action date"
+msgstr "Action date"
+
+# events/appEventsList.xml?EVN_DESCRIPTION
+# events/appEventsList.xml
+#: text - EVN_DESCRIPTION
+msgid "[events/appEventsList.xml?EVN_DESCRIPTION] Event Description"
+msgstr "Event Description"
+
+# events/appEventsList.xml?EVN_ACTION
+# events/appEventsList.xml
+#: dropdown - EVN_ACTION
+msgid "Event type"
+msgstr "Event type"
+
+# events/appEventsList.xml?EVN_ACTION-SEND_MESSAGE
+# events/appEventsList.xml
+#: dropdown - EVN_ACTION - SEND_MESSAGE
+msgid "[events/appEventsList.xml?EVN_ACTION-SEND_MESSAGE]"
+msgstr "Message"
+
+# events/appEventsList.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER
+# events/appEventsList.xml
+#: dropdown - EVN_ACTION - EXECUTE_CONDITIONAL_TRIGGER
+msgid "[events/appEventsList.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER]"
+msgstr "Conditional"
+
+# events/appEventsList.xml?EVN_ACTION-EXECUTE_TRIGGER
+# events/appEventsList.xml
+#: dropdown - EVN_ACTION - EXECUTE_TRIGGER
+msgid "[events/appEventsList.xml?EVN_ACTION-EXECUTE_TRIGGER]"
+msgstr "Multiple"
+
+# events/appEventsListCompleted.xml?APP_TITLE
+# events/appEventsListCompleted.xml
+#: text - APP_TITLE
+msgid "[events/appEventsListCompleted.xml?APP_TITLE] Case Title"
+msgstr "Case Title"
+
+# events/appEventsListCompleted.xml?APP_EVN_ACTION_DATE
+# events/appEventsListCompleted.xml
+#: text - APP_EVN_ACTION_DATE
+msgid "[events/appEventsListCompleted.xml?APP_EVN_ACTION_DATE] Action date"
+msgstr "Action date"
+
+# events/appEventsListCompleted.xml?APP_EVN_LAST_EXECUTION_DATE
+# events/appEventsListCompleted.xml
+#: text - APP_EVN_LAST_EXECUTION_DATE
+msgid "[events/appEventsListCompleted.xml?APP_EVN_LAST_EXECUTION_DATE] Last Execution"
+msgstr "Last Execution"
+
+# events/appEventsListCompleted.xml?EVN_DESCRIPTION
+# events/appEventsListCompleted.xml
+#: text - EVN_DESCRIPTION
+msgid "[events/appEventsListCompleted.xml?EVN_DESCRIPTION] Event Description"
+msgstr "Event Description"
+
+# events/appEventsListCompleted.xml?EVN_ACTION
+# events/appEventsListCompleted.xml
+#: dropdown - EVN_ACTION
+msgid "[events/appEventsListCompleted.xml?EVN_ACTION] Event type"
+msgstr "Event type"
+
+# events/appEventsListCompleted.xml?EVN_ACTION-SEND_MESSAGE
+# events/appEventsListCompleted.xml
+#: dropdown - EVN_ACTION - SEND_MESSAGE
+msgid "[events/appEventsListCompleted.xml?EVN_ACTION-SEND_MESSAGE]"
+msgstr "Message"
+
+# events/appEventsListCompleted.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER
+# events/appEventsListCompleted.xml
+#: dropdown - EVN_ACTION - EXECUTE_CONDITIONAL_TRIGGER
+msgid "[events/appEventsListCompleted.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER]"
+msgstr "Conditional"
+
+# events/appEventsListCompleted.xml?EVN_ACTION-EXECUTE_TRIGGER
+# events/appEventsListCompleted.xml
+#: dropdown - EVN_ACTION - EXECUTE_TRIGGER
+msgid "[events/appEventsListCompleted.xml?EVN_ACTION-EXECUTE_TRIGGER]"
+msgstr "Multiple"
+
+# events/dynavarsList.xml?name
+# events/dynavarsList.xml
+#: text - name
+msgid "Variable"
+msgstr "Variable"
+
+# events/dynavarsList.xml?label
+# events/dynavarsList.xml
+#: text - label
+msgid "[events/dynavarsList.xml?label] Label"
+msgstr "Label"
+
+# events/eventsEdit.xml?TITLE
+# events/eventsEdit.xml
+#: title - TITLE
+msgid "[events/eventsEdit.xml?TITLE] "
+msgstr ""
+
+# events/eventsEdit.xml?NOTE
+# events/eventsEdit.xml
+#: subtitle - NOTE
+msgid "Events execution is related to the due date of the cases or the estimated duration if you select \"Multiple Tasks\""
+msgstr "Events execution is related to the due date of the cases or the estimated duration if you select \"Multiple Tasks\""
+
+# events/eventsEdit.xml?EVN_DESCRIPTION
+# events/eventsEdit.xml
+#: text - EVN_DESCRIPTION
+msgid "[events/eventsEdit.xml?EVN_DESCRIPTION] Description"
+msgstr "Description"
+
+# events/eventsEdit.xml?EVN_STATUS
+# events/eventsEdit.xml
+#: dropdown - EVN_STATUS
+msgid "[events/eventsEdit.xml?EVN_STATUS] Status"
+msgstr "Status"
+
+# events/eventsEdit.xml?EVN_STATUS-ACTIVE
+# events/eventsEdit.xml
+#: dropdown - EVN_STATUS - ACTIVE
+msgid "[events/eventsEdit.xml?EVN_STATUS-ACTIVE]"
+msgstr "Active"
+
+# events/eventsEdit.xml?EVN_STATUS-INACTIVE
+# events/eventsEdit.xml
+#: dropdown - EVN_STATUS - INACTIVE
+msgid "[events/eventsEdit.xml?EVN_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# events/eventsEdit.xml?SUBTITLE1
+# events/eventsEdit.xml
+#: subtitle - SUBTITLE1
+msgid "[events/eventsEdit.xml?SUBTITLE1] Behaviour"
+msgstr "Behaviour"
+
+# events/eventsEdit.xml?EVN_WHEN_OCCURS
+# events/eventsEdit.xml
+#: dropdown - EVN_WHEN_OCCURS
+msgid "[events/eventsEdit.xml?EVN_WHEN_OCCURS] Execution time"
+msgstr "Execution time"
+
+# events/eventsEdit.xml?EVN_WHEN_OCCURS-AFTER_TIME
+# events/eventsEdit.xml
+#: dropdown - EVN_WHEN_OCCURS - AFTER_TIME
+msgid "[events/eventsEdit.xml?EVN_WHEN_OCCURS-AFTER_TIME]"
+msgstr "After interval ends"
+
+# events/eventsEdit.xml?EVN_WHEN_OCCURS-TASK_STARTED
+# events/eventsEdit.xml
+#: dropdown - EVN_WHEN_OCCURS - TASK_STARTED
+msgid "[events/eventsEdit.xml?EVN_WHEN_OCCURS-TASK_STARTED]"
+msgstr "After interval starts"
+
+# events/eventsEdit.xml?EVN_RELATED_TO
+# events/eventsEdit.xml
+#: dropdown - EVN_RELATED_TO
+msgid "[events/eventsEdit.xml?EVN_RELATED_TO] Type"
+msgstr "Type"
+
+# events/eventsEdit.xml?EVN_RELATED_TO-SINGLE
+# events/eventsEdit.xml
+#: dropdown - EVN_RELATED_TO - SINGLE
+msgid "[events/eventsEdit.xml?EVN_RELATED_TO-SINGLE]"
+msgstr "Single Task"
+
+# events/eventsEdit.xml?EVN_RELATED_TO-MULTIPLE
+# events/eventsEdit.xml
+#: dropdown - EVN_RELATED_TO - MULTIPLE
+msgid "[events/eventsEdit.xml?EVN_RELATED_TO-MULTIPLE]"
+msgstr "Multiple Tasks"
+
+# events/eventsEdit.xml?TAS_UID
+# events/eventsEdit.xml
+#: dropdown - TAS_UID
+msgid "[events/eventsEdit.xml?TAS_UID] The time starts with task"
+msgstr "The time starts with task"
+
+# events/eventsEdit.xml?EVN_TAS_UID_FROM
+# events/eventsEdit.xml
+#: dropdown - EVN_TAS_UID_FROM
+msgid "The time starts from task"
+msgstr "The time starts from task"
+
+# events/eventsEdit.xml?EVN_TAS_UID_TO
+# events/eventsEdit.xml
+#: dropdown - EVN_TAS_UID_TO
+msgid "[events/eventsEdit.xml?EVN_TAS_UID_TO] To"
+msgstr "To"
+
+# events/eventsEdit.xml?EVN_TAS_ESTIMATED_DURATION
+# events/eventsEdit.xml
+#: text - EVN_TAS_ESTIMATED_DURATION
+msgid "[events/eventsEdit.xml?EVN_TAS_ESTIMATED_DURATION] Estimated Task duration"
+msgstr "Estimated Task duration"
+
+# events/eventsEdit.xml?EVN_TIME_UNIT
+# events/eventsEdit.xml
+#: dropdown - EVN_TIME_UNIT
+msgid "[events/eventsEdit.xml?EVN_TIME_UNIT] "
+msgstr ""
+
+# events/eventsEdit.xml?EVN_TIME_UNIT-DAYS
+# events/eventsEdit.xml
+#: dropdown - EVN_TIME_UNIT - DAYS
+msgid "[events/eventsEdit.xml?EVN_TIME_UNIT-DAYS]"
+msgstr "Days"
+
+# events/eventsEdit.xml?EVN_TIME_UNIT-HOURS
+# events/eventsEdit.xml
+#: dropdown - EVN_TIME_UNIT - HOURS
+msgid "[events/eventsEdit.xml?EVN_TIME_UNIT-HOURS]"
+msgstr "Hours"
+
+# events/eventsEdit.xml?EVN_WHEN
+# events/eventsEdit.xml
+#: text - EVN_WHEN
+msgid "days"
+msgstr "days"
+
+# events/eventsEdit.xml?TITLE2
+# events/eventsEdit.xml
+#: title - TITLE2
+msgid "[events/eventsEdit.xml?TITLE2] Action"
+msgstr "Action"
+
+# events/eventsEdit.xml?EVN_CONDITIONS
+# events/eventsEdit.xml
+#: textarea - EVN_CONDITIONS
+msgid "[events/eventsEdit.xml?EVN_CONDITIONS] Condition"
+msgstr "Condition"
+
+# events/eventsEdit.xml?EVN_ACTION
+# events/eventsEdit.xml
+#: dropdown - EVN_ACTION
+msgid "Execute trigger"
+msgstr "Execute trigger"
+
+# events/eventsEdit.xml?EVN_ACTION-SEND_MESSAGE
+# events/eventsEdit.xml
+#: dropdown - EVN_ACTION - SEND_MESSAGE
+msgid "[events/eventsEdit.xml?EVN_ACTION-SEND_MESSAGE]"
+msgstr "Message"
+
+# events/eventsEdit.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER
+# events/eventsEdit.xml
+#: dropdown - EVN_ACTION - EXECUTE_CONDITIONAL_TRIGGER
+msgid "[events/eventsEdit.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER]"
+msgstr "Conditional"
+
+# events/eventsEdit.xml?EVN_ACTION-EXECUTE_TRIGGER
+# events/eventsEdit.xml
+#: dropdown - EVN_ACTION - EXECUTE_TRIGGER
+msgid "[events/eventsEdit.xml?EVN_ACTION-EXECUTE_TRIGGER]"
+msgstr "Multiple"
+
+# events/eventsEdit.xml?TRI_UID
+# events/eventsEdit.xml
+#: dropdown - TRI_UID
+msgid "[events/eventsEdit.xml?TRI_UID] "
+msgstr ""
+
+# events/eventsEdit.xml?TITLE3
+# events/eventsEdit.xml
+#: title - TITLE3
+msgid "Event scheduled graph"
+msgstr "Event scheduled graph"
+
+# events/eventsEdit.xml?BTN_CANCEL
+# events/eventsEdit.xml
+#: button - BTN_CANCEL
+msgid "[events/eventsEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# events/eventsEdit.xml?CONTINUE
+# events/eventsEdit.xml
+#: button - CONTINUE
+msgid "[events/eventsEdit.xml?CONTINUE] Save"
+msgstr "Save"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_SUBJECT
+# events/eventsEditAction.xml
+#: text - EVN_MESSAGE_SUBJECT
+msgid "[events/eventsEditAction.xml?EVN_MESSAGE_SUBJECT] Subject"
+msgstr "Subject"
+
+# events/eventsEditAction.xml?title1
+# events/eventsEditAction.xml
+#: title - title1
+msgid "Send to"
+msgstr "Send to"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_TO_TO
+# events/eventsEditAction.xml
+#: listbox - EVN_MESSAGE_TO_TO
+msgid "[events/eventsEditAction.xml?EVN_MESSAGE_TO_TO] TO"
+msgstr "TO"
+
+# events/eventsEditAction.xml?title2
+# events/eventsEditAction.xml
+#: title - title2
+msgid "Carbon Copy"
+msgstr "Carbon Copy"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_TO_CC
+# events/eventsEditAction.xml
+#: listbox - EVN_MESSAGE_TO_CC
+msgid "CC"
+msgstr "CC"
+
+# events/eventsEditAction.xml?title3
+# events/eventsEditAction.xml
+#: title - title3
+msgid "Blind Carbon Copy"
+msgstr "Blind Carbon Copy"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_TO_BCC
+# events/eventsEditAction.xml
+#: listbox - EVN_MESSAGE_TO_BCC
+msgid "BCC"
+msgstr "BCC"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_TEMPLATE
+# events/eventsEditAction.xml
+#: dropdown - EVN_MESSAGE_TEMPLATE
+msgid "E-Mail Template"
+msgstr "E-Mail Template"
+
+# events/eventsEditAction.xml?EVN_MESSAGE_TEMPLATE-alert_message.html
+# events/eventsEditAction.xml
+#: dropdown - EVN_MESSAGE_TEMPLATE - alert_message.html
+msgid "[events/eventsEditAction.xml?EVN_MESSAGE_TEMPLATE-alert_message.html]"
+msgstr "-- Default --"
+
+# events/eventsEditAction.xml?TRI_UID
+# events/eventsEditAction.xml
+#: dropdown - TRI_UID
+msgid "Trigger"
+msgstr "Trigger"
+
+# events/eventsEditAction.xml?TRI_UID-
+# events/eventsEditAction.xml
+#: dropdown - TRI_UID -
+msgid "[events/eventsEditAction.xml?TRI_UID-]"
+msgstr "-- Select --"
+
+# events/eventsEditAction.xml?BTN_CANCEL
+# events/eventsEditAction.xml
+#: button - BTN_CANCEL
+msgid "[events/eventsEditAction.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# events/eventsEditAction.xml?SAVE
+# events/eventsEditAction.xml
+#: button - SAVE
+msgid "[events/eventsEditAction.xml?SAVE] Save"
+msgstr "Save"
+
+# events/eventsNew.xml?TITLE
+# events/eventsNew.xml
+#: title - TITLE
+msgid "[events/eventsNew.xml?TITLE] "
+msgstr ""
+
+# events/eventsNew.xml?NOTE
+# events/eventsNew.xml
+#: subtitle - NOTE
+msgid "[events/eventsNew.xml?NOTE] Events execution is related to the due date of the cases or the estimated duration if you select \"Multiple Tasks\""
+msgstr "Events execution is related to the due date of the cases or the estimated duration if you select \"Multiple Tasks\""
+
+# events/eventsNew.xml?EVN_DESCRIPTION
+# events/eventsNew.xml
+#: text - EVN_DESCRIPTION
+msgid "[events/eventsNew.xml?EVN_DESCRIPTION] Description"
+msgstr "Description"
+

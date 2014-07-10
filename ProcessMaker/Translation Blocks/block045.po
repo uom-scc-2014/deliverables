@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# processes/processes_Import.xml?TITLE1
+# processes/processes_Import.xml
+#: title - TITLE1
+msgid "[processes/processes_Import.xml?TITLE1] Import Process"
+msgstr "Import Process"
+
+# processes/processes_Import.xml?PROCESS_FILENAME
+# processes/processes_Import.xml
+#: file - PROCESS_FILENAME
+msgid "[processes/processes_Import.xml?PROCESS_FILENAME] File"
+msgstr "File"
+
+# processes/processes_Import.xml?SAVE
+# processes/processes_Import.xml
+#: button - SAVE
+msgid "[processes/processes_Import.xml?SAVE] Import"
+msgstr "Import"
+
+# processes/processes_Import.xml?BTN_CANCEL
+# processes/processes_Import.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_Import.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_ImportExisting.xml?title
+# processes/processes_ImportExisting.xml
+#: title - title
+msgid "<div align=\"center\">Importing Existing Process</div>"
+msgstr "<div align=\"center\">Importing Existing Process</div>"
+
+# processes/processes_ImportExisting.xml?TITLE1
+# processes/processes_ImportExisting.xml
+#: subtitle - TITLE1
+msgid "[processes/processes_ImportExisting.xml?TITLE1] The process you are trying to import already exist. Please select one of the following options to continue:"
+msgstr "The process you are trying to import already exist. Please select one of the following options to continue:"
+
+# processes/processes_ImportExisting.xml?IMPORT_OPTION
+# processes/processes_ImportExisting.xml
+#: radiogroup - IMPORT_OPTION
+msgid "[processes/processes_ImportExisting.xml?IMPORT_OPTION] "
+msgstr ""
+
+# processes/processes_ImportExisting.xml?IMPORT_OPTION-1
+# processes/processes_ImportExisting.xml
+#: radiogroup - IMPORT_OPTION - 1
+msgid "[processes/processes_ImportExisting.xml?IMPORT_OPTION-1]"
+msgstr "Update the current process, overwriting all tasks and steps"
+
+# processes/processes_ImportExisting.xml?IMPORT_OPTION-2
+# processes/processes_ImportExisting.xml
+#: radiogroup - IMPORT_OPTION - 2
+msgid "[processes/processes_ImportExisting.xml?IMPORT_OPTION-2]"
+msgstr "Disable the current process and create a new version of the process"
+
+# processes/processes_ImportExisting.xml?IMPORT_OPTION-3
+# processes/processes_ImportExisting.xml
+#: radiogroup - IMPORT_OPTION - 3
+msgid "[processes/processes_ImportExisting.xml?IMPORT_OPTION-3]"
+msgstr "Create a completely new process without changing the current process"
+
+# processes/processes_ImportExisting.xml?SUBMIT
+# processes/processes_ImportExisting.xml
+#: submit - SUBMIT
+msgid "[processes/processes_ImportExisting.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_ImportExisting.xml?BTN_CANCEL
+# processes/processes_ImportExisting.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_ImportExisting.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_ImportExistingXpdl.xml?title
+# processes/processes_ImportExistingXpdl.xml
+#: title - title
+msgid "[processes/processes_ImportExistingXpdl.xml?title] <div align=\"center\">Importing Existing Process</div>"
+msgstr "<div align=\"center\">Importing Existing Process</div>"
+
+# processes/processes_ImportExistingXpdl.xml?TITLE1
+# processes/processes_ImportExistingXpdl.xml
+#: subtitle - TITLE1
+msgid "[processes/processes_ImportExistingXpdl.xml?TITLE1] The process you are trying to import already exist. Please select one of the following options to continue:"
+msgstr "The process you are trying to import already exist. Please select one of the following options to continue:"
+
+# processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION
+# processes/processes_ImportExistingXpdl.xml
+#: radiogroup - IMPORT_OPTION
+msgid "[processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION] "
+msgstr ""
+
+# processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-1
+# processes/processes_ImportExistingXpdl.xml
+#: radiogroup - IMPORT_OPTION - 1
+msgid "[processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-1]"
+msgstr "Update the current process, overwriting all tasks and steps"
+
+# processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-2
+# processes/processes_ImportExistingXpdl.xml
+#: radiogroup - IMPORT_OPTION - 2
+msgid "[processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-2]"
+msgstr "Disable the current process and create a new version of the process"
+
+# processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-3
+# processes/processes_ImportExistingXpdl.xml
+#: radiogroup - IMPORT_OPTION - 3
+msgid "[processes/processes_ImportExistingXpdl.xml?IMPORT_OPTION-3]"
+msgstr "Create a completely new process without changing the current process"
+
+# processes/processes_ImportExistingXpdl.xml?SUBMIT
+# processes/processes_ImportExistingXpdl.xml
+#: submit - SUBMIT
+msgid "[processes/processes_ImportExistingXpdl.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_ImportExistingXpdl.xml?BTN_CANCEL
+# processes/processes_ImportExistingXpdl.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_ImportExistingXpdl.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_ImportSucessful.xml?title
+# processes/processes_ImportSucessful.xml
+#: title - title
+msgid "[processes/processes_ImportSucessful.xml?title] Process sucessfully imported"
+msgstr "Process sucessfully imported"
+
+# processes/processes_ImportSucessful.xml?pro_title
+# processes/processes_ImportSucessful.xml
+#: caption - pro_title
+msgid "[processes/processes_ImportSucessful.xml?pro_title] Process Title"
+msgstr "Process Title"
+
+# processes/processes_ImportSucessful.xml?version
+# processes/processes_ImportSucessful.xml
+#: caption - version
+msgid "[processes/processes_ImportSucessful.xml?version] Version"
+msgstr "Version"
+
+# processes/processes_ImportSucessful.xml?category
+# processes/processes_ImportSucessful.xml
+#: caption - category
+msgid "[processes/processes_ImportSucessful.xml?category] Category"
+msgstr "Category"
+
+# processes/processes_ImportSucessful.xml?PRO_UID
+# processes/processes_ImportSucessful.xml
+#: caption - PRO_UID
+msgid "[processes/processes_ImportSucessful.xml?PRO_UID] Process Uid"
+msgstr "Process Uid"
+
+# processes/processes_ImportSucessful.xml?TITLE1
+# processes/processes_ImportSucessful.xml
+#: subtitle - TITLE1
+msgid "[processes/processes_ImportSucessful.xml?TITLE1] Please follow these instructions to complete installation"
+msgstr "Please follow these instructions to complete installation"
+
+# processes/processes_ImportSucessful.xml?installSteps
+# processes/processes_ImportSucessful.xml
+#: caption - installSteps
+msgid "[processes/processes_ImportSucessful.xml?installSteps] "
+msgstr ""
+
+# processes/processes_ImportSucessful.xml?SUBMIT
+# processes/processes_ImportSucessful.xml
+#: submit - SUBMIT
+msgid "[processes/processes_ImportSucessful.xml?SUBMIT] Continue"
+msgstr "Continue"
+
+# processes/processes_ImportXpdl.xml?TITLE1
+# processes/processes_ImportXpdl.xml
+#: title - TITLE1
+msgid "[processes/processes_ImportXpdl.xml?TITLE1] Import Process"
+msgstr "Import Process"
+
+# processes/processes_ImportXpdl.xml?PROCESS_FILENAME
+# processes/processes_ImportXpdl.xml
+#: file - PROCESS_FILENAME
+msgid "[processes/processes_ImportXpdl.xml?PROCESS_FILENAME] File"
+msgstr "File"
+
+# processes/processes_ImportXpdl.xml?SAVE
+# processes/processes_ImportXpdl.xml
+#: button - SAVE
+msgid "[processes/processes_ImportXpdl.xml?SAVE] Import"
+msgstr "Import"
+
+# processes/processes_ImportXpdl.xml?BTN_CANCEL
+# processes/processes_ImportXpdl.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_ImportXpdl.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_List.xml?PRO_CATEGORY_LABEL
+# processes/processes_List.xml
+#: text - PRO_CATEGORY_LABEL
+msgid "[processes/processes_List.xml?PRO_CATEGORY_LABEL] Category"
+msgstr "Category"
+
+# processes/processes_List.xml?PRO_TITLE
+# processes/processes_List.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_List.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_List.xml?PRO_DESCRIPTION
+# processes/processes_List.xml
+#: text - PRO_DESCRIPTION
+msgid "[processes/processes_List.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_ListPublic.xml?title
+# processes/processes_ListPublic.xml
+#: text - title
+msgid "[processes/processes_ListPublic.xml?title] Title"
+msgstr "Title"
+
+# processes/processes_ListPublic.xml?category
+# processes/processes_ListPublic.xml
+#: text - category
+msgid "[processes/processes_ListPublic.xml?category] Category"
+msgstr "Category"
+
+# processes/processes_ListPublic.xml?version
+# processes/processes_ListPublic.xml
+#: text - version
+msgid "[processes/processes_ListPublic.xml?version] Version"
+msgstr "Version"
+
+# processes/processes_ListPublic.xml?downloads
+# processes/processes_ListPublic.xml
+#: text - downloads
+msgid "[processes/processes_ListPublic.xml?downloads] Downloads"
+msgstr "Downloads"
+
+# processes/processes_ListPublic.xml?rating
+# processes/processes_ListPublic.xml
+#: text - rating
+msgid "[processes/processes_ListPublic.xml?rating] Rating"
+msgstr "Rating"
+
+# processes/processes_ListPublic.xml?subscriptions
+# processes/processes_ListPublic.xml
+#: text - subscriptions
+msgid "[processes/processes_ListPublic.xml?subscriptions] Subscriptions"
+msgstr "Subscriptions"
+
+# processes/processes_ListPublic.xml?user
+# processes/processes_ListPublic.xml
+#: text - user
+msgid "[processes/processes_ListPublic.xml?user] Author"
+msgstr "Author"
+
+# processes/processes_ListPublic.xml?updateDate
+# processes/processes_ListPublic.xml
+#: text - updateDate
+msgid "[processes/processes_ListPublic.xml?updateDate] Update Date"
+msgstr "Update Date"
+
+# processes/processes_ListPublic.xml?LINK
+# processes/processes_ListPublic.xml
+#: link - LINK
+msgid "[processes/processes_ListPublic.xml?LINK] "
+msgstr ""
+
+# processes/processes_ListPublicMenu.xml?BackList
+# processes/processes_ListPublicMenu.xml
+#: link - BackList
+msgid "[processes/processes_ListPublicMenu.xml?BackList] Back"
+msgstr "Back"
+
+# processes/processes_New.xml?TITLE1
+# processes/processes_New.xml
+#: title - TITLE1
+msgid "[processes/processes_New.xml?TITLE1] Process Information"
+msgstr "Process Information"
+
+# processes/processes_New.xml?PRO_TITLE
+# processes/processes_New.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_New.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_New.xml?PRO_DESCRIPTION
+# processes/processes_New.xml
+#: textarea - PRO_DESCRIPTION
+msgid "[processes/processes_New.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_New.xml?PRO_TEMPLATE
+# processes/processes_New.xml
+#: radiogroup - PRO_TEMPLATE
+msgid "[processes/processes_New.xml?PRO_TEMPLATE] Template"
+msgstr "Template"
+
+# processes/processes_New.xml?SUBMIT
+# processes/processes_New.xml
+#: button - SUBMIT
+msgid "[processes/processes_New.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_NewObjectPermission.xml?TITLE
+# processes/processes_NewObjectPermission.xml
+#: title - TITLE
+msgid "New Specific Permission"
+msgstr "New Specific Permission"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS] Status Case"
+msgstr "Status Case"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-ALL
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - ALL
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-ALL]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-DRAFT
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - DRAFT
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-DRAFT]"
+msgstr "DRAFT"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-TO_DO
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - TO_DO
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-TO_DO]"
+msgstr "TO DO"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-PAUSED
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - PAUSED
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-PAUSED]"
+msgstr "PAUSED"
+
+# processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-COMPLETED
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - COMPLETED
+msgid "[processes/processes_NewObjectPermission.xml?OP_CASE_STATUS-COMPLETED]"
+msgstr "COMPLETED"
+
+# processes/processes_NewObjectPermission.xml?TAS_UID
+# processes/processes_NewObjectPermission.xml
+#: dropdown - TAS_UID
+msgid "[processes/processes_NewObjectPermission.xml?TAS_UID] Target Task"
+msgstr "Target Task"
+
+# processes/processes_NewObjectPermission.xml?TAS_UID-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - TAS_UID -
+msgid "[processes/processes_NewObjectPermission.xml?TAS_UID-]"
+msgstr "All Tasks"
+
+# processes/processes_NewObjectPermission.xml?GROUP_USER
+# processes/processes_NewObjectPermission.xml
+#: text - GROUP_USER
+msgid "[processes/processes_NewObjectPermission.xml?GROUP_USER] Group or User"
+msgstr "Group or User"
+
+# processes/processes_NewObjectPermission.xml?OP_TASK_SOURCE
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_TASK_SOURCE
+msgid "[processes/processes_NewObjectPermission.xml?OP_TASK_SOURCE] Origin Task"
+msgstr "Origin Task"
+
+# processes/processes_NewObjectPermission.xml?OP_TASK_SOURCE-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_TASK_SOURCE -
+msgid "[processes/processes_NewObjectPermission.xml?OP_TASK_SOURCE-]"
+msgstr "All Tasks"
+
+# processes/processes_NewObjectPermission.xml?OP_PARTICIPATE
+# processes/processes_NewObjectPermission.xml
+#: yesno - OP_PARTICIPATE
+msgid "[processes/processes_NewObjectPermission.xml?OP_PARTICIPATE] Participation required?"
+msgstr "Participation required?"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE] Type"
+msgstr "Type"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-ANY
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - ANY
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-ANY]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-DYNAFORM
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - DYNAFORM
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-DYNAFORM]"
+msgstr "Dynaform"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-INPUT
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - INPUT
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-INPUT]"
+msgstr "Input Document"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-OUTPUT
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - OUTPUT
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-OUTPUT]"
+msgstr "Output Document"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-CASES_NOTES
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - CASES_NOTES
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-CASES_NOTES]"
+msgstr "Cases Notes"
+
+# processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-MSGS_HISTORY
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - MSGS_HISTORY
+msgid "[processes/processes_NewObjectPermission.xml?OP_OBJ_TYPE-MSGS_HISTORY]"
+msgstr "Messages History"
+
+# processes/processes_NewObjectPermission.xml?ALL
+# processes/processes_NewObjectPermission.xml
+#: dropdown - ALL
+msgid "[processes/processes_NewObjectPermission.xml?ALL] Object"
+msgstr "Object"
+
+# processes/processes_NewObjectPermission.xml?ALL-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - ALL -
+msgid "[processes/processes_NewObjectPermission.xml?ALL-]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?DYNAFORMS
+# processes/processes_NewObjectPermission.xml
+#: dropdown - DYNAFORMS
+msgid "[processes/processes_NewObjectPermission.xml?DYNAFORMS] DynaForm"
+msgstr "DynaForm"
+
+# processes/processes_NewObjectPermission.xml?DYNAFORMS-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - DYNAFORMS -
+msgid "[processes/processes_NewObjectPermission.xml?DYNAFORMS-]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?INPUTS
+# processes/processes_NewObjectPermission.xml
+#: dropdown - INPUTS
+msgid "[processes/processes_NewObjectPermission.xml?INPUTS] Input Document"
+msgstr "Input Document"
+
+# processes/processes_NewObjectPermission.xml?INPUTS-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - INPUTS -
+msgid "[processes/processes_NewObjectPermission.xml?INPUTS-]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?OUTPUTS
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OUTPUTS
+msgid "[processes/processes_NewObjectPermission.xml?OUTPUTS] Output Document"
+msgstr "Output Document"
+
+# processes/processes_NewObjectPermission.xml?OUTPUTS-
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OUTPUTS -
+msgid "[processes/processes_NewObjectPermission.xml?OUTPUTS-]"
+msgstr "All"
+
+# processes/processes_NewObjectPermission.xml?OP_ACTION
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_ACTION
+msgid "[processes/processes_NewObjectPermission.xml?OP_ACTION] Permission"
+msgstr "Permission"
+
+# processes/processes_NewObjectPermission.xml?OP_ACTION-VIEW
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_ACTION - VIEW
+msgid "[processes/processes_NewObjectPermission.xml?OP_ACTION-VIEW]"
+msgstr "View"
+
+# processes/processes_NewObjectPermission.xml?OP_ACTION-BLOCK
+# processes/processes_NewObjectPermission.xml
+#: dropdown - OP_ACTION - BLOCK
+msgid "[processes/processes_NewObjectPermission.xml?OP_ACTION-BLOCK]"
+msgstr "Block"
+
+# processes/processes_NewObjectPermission.xml?BTN_CANCEL
+# processes/processes_NewObjectPermission.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_NewObjectPermission.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_NewObjectPermission.xml?CREATE
+# processes/processes_NewObjectPermission.xml
+#: button - CREATE
+msgid "[processes/processes_NewObjectPermission.xml?CREATE] Create"
+msgstr "Create"
+
+# processes/processes_NewOptions.xml?MNU
+# processes/processes_NewOptions.xml
+#: link - MNU
+msgid "[processes/processes_NewOptions.xml?MNU] Back to list"
+msgstr "Back to list"
+
+# processes/processes_NewSimple.xml?TITLE1
+# processes/processes_NewSimple.xml
+#: title - TITLE1
+msgid "[processes/processes_NewSimple.xml?TITLE1] Process Information"
+msgstr "Process Information"
+
+# processes/processes_NewSimple.xml?PRO_TITLE
+# processes/processes_NewSimple.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_NewSimple.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_NewSimple.xml?PRO_DESCRIPTION
+# processes/processes_NewSimple.xml
+#: textarea - PRO_DESCRIPTION
+msgid "[processes/processes_NewSimple.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_NewSimple.xml?PRO_CATEGORY
+# processes/processes_NewSimple.xml
+#: dropdown - PRO_CATEGORY
+msgid "[processes/processes_NewSimple.xml?PRO_CATEGORY] Process Category"
+msgstr "Process Category"
+
+# processes/processes_NewSimple.xml?PRO_CATEGORY-
+# processes/processes_NewSimple.xml
+#: dropdown - PRO_CATEGORY -
+msgid "[processes/processes_NewSimple.xml?PRO_CATEGORY-]"
+msgstr "- None -"
+
+# processes/processes_NewSimple.xml?SUBMIT
+# processes/processes_NewSimple.xml
+#: button - SUBMIT
+msgid "[processes/processes_NewSimple.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_NewSimple.xml?BTN_CANCEL
+# processes/processes_NewSimple.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_NewSimple.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_ObjectsPermissionsList.xml?TASK_TARGET
+# processes/processes_ObjectsPermissionsList.xml
+#: text - TASK_TARGET
+msgid "[processes/processes_ObjectsPermissionsList.xml?TASK_TARGET] Target Task"
+msgstr "Target Task"
+
+# processes/processes_ObjectsPermissionsList.xml?GROUP_USER
+# processes/processes_ObjectsPermissionsList.xml
+#: text - GROUP_USER
+msgid "[processes/processes_ObjectsPermissionsList.xml?GROUP_USER] Group or User"
+msgstr "Group or User"
+
+# processes/processes_ObjectsPermissionsList.xml?TASK_SOURCE
+# processes/processes_ObjectsPermissionsList.xml
+#: text - TASK_SOURCE
+msgid "[processes/processes_ObjectsPermissionsList.xml?TASK_SOURCE] Origin Task"
+msgstr "Origin Task"
+
+# processes/processes_ObjectsPermissionsList.xml?PARTICIPATED
+# processes/processes_ObjectsPermissionsList.xml
+#: text - PARTICIPATED
+msgid "[processes/processes_ObjectsPermissionsList.xml?PARTICIPATED] Participation"
+msgstr "Participation"
+
+# processes/processes_ObjectsPermissionsList.xml?OBJECT_TYPE
+# processes/processes_ObjectsPermissionsList.xml
+#: text - OBJECT_TYPE
+msgid "[processes/processes_ObjectsPermissionsList.xml?OBJECT_TYPE] Type"
+msgstr "Type"
+
+# processes/processes_ObjectsPermissionsList.xml?OBJECT
+# processes/processes_ObjectsPermissionsList.xml
+#: text - OBJECT
+msgid "[processes/processes_ObjectsPermissionsList.xml?OBJECT] Object"
+msgstr "Object"
+
+# processes/processes_ObjectsPermissionsList.xml?ACTION
+# processes/processes_ObjectsPermissionsList.xml
+#: text - ACTION
+msgid "[processes/processes_ObjectsPermissionsList.xml?ACTION] Permission"
+msgstr "Permission"
+
+# processes/processes_ObjectsPermissionsList.xml?OP_CASE_STATUS
+# processes/processes_ObjectsPermissionsList.xml
+#: text - OP_CASE_STATUS
+msgid "[processes/processes_ObjectsPermissionsList.xml?OP_CASE_STATUS] Status"
+msgstr "Status"
+
+# processes/processes_ObjectsPermissionsList.xml?EDIT
+# processes/processes_ObjectsPermissionsList.xml
+#: link - EDIT
+msgid "[processes/processes_ObjectsPermissionsList.xml?EDIT] Edit"
+msgstr "Edit"
+

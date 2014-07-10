@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_MEMORY_LIMIT
+#: LABEL/ID_MEMORY_LIMIT
+msgid "Memory Limit (Mb)"
+msgstr "Memory Limit (Mb)"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE
+#: LABEL/ID_MESSAGE
+msgid "Message"
+msgstr "Message"
+
+# TRANSLATION
+# LABEL/ID_MESSAGES
+#: LABEL/ID_MESSAGES
+msgid "Messages"
+msgstr "Messages"
+
+# TRANSLATION
+# LABEL/ID_MESSAGES_HISTORY
+#: LABEL/ID_MESSAGES_HISTORY
+msgid "[LABEL/ID_MESSAGES_HISTORY] Messages History"
+msgstr "Messages History"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_EMPTY_DATE_FIELD
+#: LABEL/ID_MESSAGE_EMPTY_DATE_FIELD
+msgid "There is at least one empty date field in the holiday grid, please check and try again."
+msgstr "There is at least one empty date field in the holiday grid, please check and try again."
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_LOGIN
+#: LABEL/ID_MESSAGE_LOGIN
+msgid "The default language that is configured in this place is for the \"dropdown\" of the languages that are displaying on the login screen, this configuration is set for each workspace."
+msgstr "The default language that is configured in this place is for the \"dropdown\" of the languages that are displaying on the login screen, this configuration is set for each workspace."
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_ROOT_CHANGE_FAILURE
+#: LABEL/ID_MESSAGE_ROOT_CHANGE_FAILURE
+msgid "The root password can't be updated!"
+msgstr "The root password can't be updated!"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_ROOT_CHANGE_SUCESS
+#: LABEL/ID_MESSAGE_ROOT_CHANGE_SUCESS
+msgid "The root password has been updated successfully!"
+msgstr "The root password has been updated successfully!"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_SENT
+#: LABEL/ID_MESSAGE_SENT
+msgid "message sent"
+msgstr "message sent"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_SUBJECT_DERIVATION
+#: LABEL/ID_MESSAGE_SUBJECT_DERIVATION
+msgid "Notification for task assignment"
+msgstr "Notification for task assignment"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_SUBJECT_NOTE_NOTIFICATION
+#: LABEL/ID_MESSAGE_SUBJECT_NOTE_NOTIFICATION
+msgid "A note has added to a case"
+msgstr "A note has added to a case"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_SYSTEM
+#: LABEL/ID_MESSAGE_SYSTEM
+msgid "The language that is set by default applies directly when the domain is entered (eg.- http://127.0.0.1:8081), the system reads the configuration and redirects the link to the selected language"
+msgstr "The language that is set by default applies directly when the domain is entered (eg.- http://127.0.0.1:8081), the system reads the configuration and redirects the link to the selected language"
+
+# TRANSLATION
+# LABEL/ID_MESSAGE_SYSTEM2
+#: LABEL/ID_MESSAGE_SYSTEM2
+msgid "(eg.- http://127.0.0.1:8081/sys/en/classic/login/login), it should be emphasized that this configuration is for all environments."
+msgstr "(eg.- http://127.0.0.1:8081/sys/en/classic/login/login), it should be emphasized that this configuration is for all environments."
+
+# TRANSLATION
+# LABEL/ID_MESS_ENGINE_TYPE_1
+#: LABEL/ID_MESS_ENGINE_TYPE_1
+msgid "Mail (PHP)"
+msgstr "Mail (PHP)"
+
+# TRANSLATION
+# LABEL/ID_MESS_ENGINE_TYPE_2
+#: LABEL/ID_MESS_ENGINE_TYPE_2
+msgid "SMTP (PHPMailer)"
+msgstr "SMTP (PHPMailer)"
+
+# TRANSLATION
+# LABEL/ID_MESS_ENGINE_TYPE_3
+#: LABEL/ID_MESS_ENGINE_TYPE_3
+msgid "SMTP (OpenMail)"
+msgstr "SMTP (OpenMail)"
+
+# TRANSLATION
+# LABEL/ID_MESS_SEND_MAX_REQUIRED
+#: LABEL/ID_MESS_SEND_MAX_REQUIRED
+msgid "The maximum number of attempts to send mail is a required field."
+msgstr "The maximum number of attempts to send mail is a required field."
+
+# TRANSLATION
+# LABEL/ID_MESS_TEST_BODY
+#: LABEL/ID_MESS_TEST_BODY
+msgid "ProcessMaker Test Email"
+msgstr "ProcessMaker Test Email"
+
+# TRANSLATION
+# LABEL/ID_MESS_TEST_MESSAGE_ERROR_PHP_MAIL
+#: LABEL/ID_MESS_TEST_MESSAGE_ERROR_PHP_MAIL
+msgid "Test message send failed, error:"
+msgstr "Test message send failed, error:"
+
+# TRANSLATION
+# LABEL/ID_MESS_TEST_MESSAGE_SENDED
+#: LABEL/ID_MESS_TEST_MESSAGE_SENDED
+msgid "[LABEL/ID_MESS_TEST_MESSAGE_SENDED] Test message sent successfully"
+msgstr "Test message sent successfully"
+
+# TRANSLATION
+# LABEL/ID_MESS_TEST_SUBJECT
+#: LABEL/ID_MESS_TEST_SUBJECT
+msgid "Test Email"
+msgstr "Test Email"
+
+# TRANSLATION
+# LABEL/ID_METHOD
+#: LABEL/ID_METHOD
+msgid "Method"
+msgstr "Method"
+
+# TRANSLATION
+# LABEL/ID_METHODS
+#: LABEL/ID_METHODS
+msgid "Methods"
+msgstr "Methods"
+
+# TRANSLATION
+# LABEL/ID_MINUTE
+#: LABEL/ID_MINUTE
+msgid "Minute"
+msgstr "Minute"
+
+# TRANSLATION
+# LABEL/ID_MINUTES
+#: LABEL/ID_MINUTES
+msgid "Minutes"
+msgstr "Minutes"
+
+# TRANSLATION
+# LABEL/ID_MODIFIED
+#: LABEL/ID_MODIFIED
+msgid "Modified"
+msgstr "Modified"
+
+# TRANSLATION
+# LABEL/ID_MON
+#: LABEL/ID_MON
+msgid "Mon"
+msgstr "Mon"
+
+# TRANSLATION
+# LABEL/ID_MONITORED_FOLDER
+#: LABEL/ID_MONITORED_FOLDER
+msgid "Monitored Folder"
+msgstr "Monitored Folder"
+
+# TRANSLATION
+# LABEL/ID_MONTH_1
+#: LABEL/ID_MONTH_1
+msgid "January"
+msgstr "January"
+
+# TRANSLATION
+# LABEL/ID_MONTH_10
+#: LABEL/ID_MONTH_10
+msgid "October"
+msgstr "October"
+
+# TRANSLATION
+# LABEL/ID_MONTH_11
+#: LABEL/ID_MONTH_11
+msgid "November"
+msgstr "November"
+
+# TRANSLATION
+# LABEL/ID_MONTH_12
+#: LABEL/ID_MONTH_12
+msgid "December"
+msgstr "December"
+
+# TRANSLATION
+# LABEL/ID_MONTH_2
+#: LABEL/ID_MONTH_2
+msgid "February"
+msgstr "February"
+
+# TRANSLATION
+# LABEL/ID_MONTH_3
+#: LABEL/ID_MONTH_3
+msgid "March"
+msgstr "March"
+
+# TRANSLATION
+# LABEL/ID_MONTH_4
+#: LABEL/ID_MONTH_4
+msgid "April"
+msgstr "April"
+
+# TRANSLATION
+# LABEL/ID_MONTH_5
+#: LABEL/ID_MONTH_5
+msgid "May"
+msgstr "May"
+
+# TRANSLATION
+# LABEL/ID_MONTH_6
+#: LABEL/ID_MONTH_6
+msgid "June"
+msgstr "June"
+
+# TRANSLATION
+# LABEL/ID_MONTH_7
+#: LABEL/ID_MONTH_7
+msgid "July"
+msgstr "July"
+
+# TRANSLATION
+# LABEL/ID_MONTH_8
+#: LABEL/ID_MONTH_8
+msgid "August"
+msgstr "August"
+
+# TRANSLATION
+# LABEL/ID_MONTH_9
+#: LABEL/ID_MONTH_9
+msgid "September"
+msgstr "September"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_1
+#: LABEL/ID_MONTH_ABB_1
+msgid "Jan"
+msgstr "Jan"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_10
+#: LABEL/ID_MONTH_ABB_10
+msgid "Oct"
+msgstr "Oct"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_11
+#: LABEL/ID_MONTH_ABB_11
+msgid "Nov"
+msgstr "Nov"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_12
+#: LABEL/ID_MONTH_ABB_12
+msgid "Dec"
+msgstr "Dec"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_2
+#: LABEL/ID_MONTH_ABB_2
+msgid "Feb"
+msgstr "Feb"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_3
+#: LABEL/ID_MONTH_ABB_3
+msgid "Mar"
+msgstr "Mar"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_4
+#: LABEL/ID_MONTH_ABB_4
+msgid "Apr"
+msgstr "Apr"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_5
+#: LABEL/ID_MONTH_ABB_5
+msgid "[LABEL/ID_MONTH_ABB_5] May"
+msgstr "May"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_6
+#: LABEL/ID_MONTH_ABB_6
+msgid "Jun"
+msgstr "Jun"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_7
+#: LABEL/ID_MONTH_ABB_7
+msgid "Jul"
+msgstr "Jul"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_8
+#: LABEL/ID_MONTH_ABB_8
+msgid "Aug"
+msgstr "Aug"
+
+# TRANSLATION
+# LABEL/ID_MONTH_ABB_9
+#: LABEL/ID_MONTH_ABB_9
+msgid "Sep"
+msgstr "Sep"
+
+# TRANSLATION
+# LABEL/ID_MORE_INFO
+#: LABEL/ID_MORE_INFO
+msgid "More Info"
+msgstr "More Info"
+
+# TRANSLATION
+# LABEL/ID_MORE_INFORMATION
+#: LABEL/ID_MORE_INFORMATION
+msgid "more information"
+msgstr "more information"
+
+# TRANSLATION
+# LABEL/ID_MOST_AT_LEAST_3_DAY
+#: LABEL/ID_MOST_AT_LEAST_3_DAY
+msgid "You must define at least 3 Working Days!"
+msgstr "You must define at least 3 Working Days!"
+
+# TRANSLATION
+# LABEL/ID_MOVE
+#: LABEL/ID_MOVE
+msgid "Move"
+msgstr "Move"
+
+# TRANSLATION
+# LABEL/ID_MSG_AJAX_FAILURE
+#: LABEL/ID_MSG_AJAX_FAILURE
+msgid "Some error has happened. Please retry later."
+msgstr "Some error has happened. Please retry later."
+
+# TRANSLATION
+# LABEL/ID_MSG_ASSIGN_DONE
+#: LABEL/ID_MSG_ASSIGN_DONE
+msgid "User successfully assigned to group"
+msgstr "User successfully assigned to group"
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_AUTHENTICATION
+#: LABEL/ID_MSG_CANNOT_DELETE_AUTHENTICATION
+msgid "Authentication source cannot be deleted while has assigned users."
+msgstr "Authentication source cannot be deleted while has assigned users."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_CALENDAR
+#: LABEL/ID_MSG_CANNOT_DELETE_CALENDAR
+msgid "Calendar cannot be deleted while has assignations."
+msgstr "Calendar cannot be deleted while has assignations."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_CATEGORY
+#: LABEL/ID_MSG_CANNOT_DELETE_CATEGORY
+msgid "Category cannot be deleted while has assigned processes."
+msgstr "Category cannot be deleted while has assigned processes."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_DEPARTMENT
+#: LABEL/ID_MSG_CANNOT_DELETE_DEPARTMENT
+msgid "Department cannot be deleted while has assigned users."
+msgstr "Department cannot be deleted while has assigned users."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_INPUT_DOC
+#: LABEL/ID_MSG_CANNOT_DELETE_INPUT_DOC
+msgid "Input Document cannot be deleted while has assigned tasks."
+msgstr "Input Document cannot be deleted while has assigned tasks."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_DELETE_USER
+#: LABEL/ID_MSG_CANNOT_DELETE_USER
+msgid "User cannot be deleted while has assigned cases."
+msgstr "User cannot be deleted while has assigned cases."
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_EXPORT_DEFAULT_SKIN
+#: LABEL/ID_MSG_CANNOT_EXPORT_DEFAULT_SKIN
+msgid "Default skin can't be exported. Instead create new one based on default"
+msgstr "Default skin can't be exported. Instead create new one based on default"
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_EXPORT_SKIN
+#: LABEL/ID_MSG_CANNOT_EXPORT_SKIN
+msgid "Can't export skin. Server Error"
+msgstr "Can't export skin. Server Error"
+
+# TRANSLATION
+# LABEL/ID_MSG_CANNOT_REMOVE_LANGUAGE
+#: LABEL/ID_MSG_CANNOT_REMOVE_LANGUAGE
+msgid "You cannot delete the default language"
+msgstr "You cannot delete the default language"
+
+# TRANSLATION
+# LABEL/ID_MSG_CLEAR_GRID_FIRST_ITEM
+#: LABEL/ID_MSG_CLEAR_GRID_FIRST_ITEM
+msgid "Do you want to clear the information from the first row?"
+msgstr "Do you want to clear the information from the first row?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_ASSIGN_ALL_USERS
+#: LABEL/ID_MSG_CONFIRM_ASSIGN_ALL_USERS
+msgid "Do you want to assign all available users to this role?"
+msgstr "Do you want to assign all available users to this role?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_CANCEL_CASE
+#: LABEL/ID_MSG_CONFIRM_CANCEL_CASE
+msgid "[LABEL/ID_MSG_CONFIRM_CANCEL_CASE] Are you sure you want to cancel this case?"
+msgstr "Are you sure you want to cancel this case?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_CANCEL_CASES
+#: LABEL/ID_MSG_CONFIRM_CANCEL_CASES
+msgid "Are you sure you want to cancel all selected cases?"
+msgstr "Are you sure you want to cancel all selected cases?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DEASIGN_USER_GROUP_MESSAGE
+#: LABEL/ID_MSG_CONFIRM_DEASIGN_USER_GROUP_MESSAGE
+msgid "Are you sure you want to remove this user or group?"
+msgstr "Are you sure you want to remove this user or group?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DEASIGN_USER_MESSAGE
+#: LABEL/ID_MSG_CONFIRM_DEASIGN_USER_MESSAGE
+msgid "Are you sure you want to remove this user?"
+msgstr "Are you sure you want to remove this user?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_AUTH_SOURCE
+#: LABEL/ID_MSG_CONFIRM_DELETE_AUTH_SOURCE
+msgid "Do you want to delete this authentication source?"
+msgstr "Do you want to delete this authentication source?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_CASE
+#: LABEL/ID_MSG_CONFIRM_DELETE_CASE
+msgid "[LABEL/ID_MSG_CONFIRM_DELETE_CASE] Are you sure you want to delete this case?"
+msgstr "Are you sure you want to delete this case?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_CASES
+#: LABEL/ID_MSG_CONFIRM_DELETE_CASES
+msgid "Are you sure you want to delete all selected cases?"
+msgstr "Are you sure you want to delete all selected cases?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_CASE_SCHEDULER
+#: LABEL/ID_MSG_CONFIRM_DELETE_CASE_SCHEDULER
+msgid "Are you sure you want to delete this scheduled case?"
+msgstr "Are you sure you want to delete this scheduled case?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_CASE_TRACKER_OBJECT
+#: LABEL/ID_MSG_CONFIRM_DELETE_CASE_TRACKER_OBJECT
+msgid "Do you want to delete this object?"
+msgstr "Do you want to delete this object?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_CONDITION
+#: LABEL/ID_MSG_CONFIRM_DELETE_CONDITION
+msgid "Are you sure to delete this condition?"
+msgstr "Are you sure to delete this condition?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_DEPARTMENT
+#: LABEL/ID_MSG_CONFIRM_DELETE_DEPARTMENT
+msgid "Do you want to delete this department?"
+msgstr "Do you want to delete this department?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_DOCUMENT
+#: LABEL/ID_MSG_CONFIRM_DELETE_DOCUMENT
+msgid "Do you want to delete this document ?"
+msgstr "Do you want to delete this document ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_DYNAFORM
+#: LABEL/ID_MSG_CONFIRM_DELETE_DYNAFORM
+msgid "Do you want to delete this DynaForm ?"
+msgstr "Do you want to delete this DynaForm ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_EVENT
+#: LABEL/ID_MSG_CONFIRM_DELETE_EVENT
+msgid "Do you want to delete this event?"
+msgstr "Do you want to delete this event?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_GROUP
+#: LABEL/ID_MSG_CONFIRM_DELETE_GROUP
+msgid "Are you sure to delete this group?"
+msgstr "Are you sure to delete this group?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_IDOCUMENT
+#: LABEL/ID_MSG_CONFIRM_DELETE_IDOCUMENT
+msgid "This object is being used in some steps. Are you sure you want to delete it?"
+msgstr "This object is being used in some steps. Are you sure you want to delete it?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_MESSAGE
+#: LABEL/ID_MSG_CONFIRM_DELETE_MESSAGE
+msgid "Do you want to delete this message?"
+msgstr "Do you want to delete this message?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_OUTDOC
+#: LABEL/ID_MSG_CONFIRM_DELETE_OUTDOC
+msgid "Do you want to delete this output document ?"
+msgstr "Do you want to delete this output document ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_PROCESS
+#: LABEL/ID_MSG_CONFIRM_DELETE_PROCESS
+msgid "Do you want to delete this process ?"
+msgstr "Do you want to delete this process ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_REPORT_TABLE
+#: LABEL/ID_MSG_CONFIRM_DELETE_REPORT_TABLE
+msgid "Do you want to delete this report table?"
+msgstr "Do you want to delete this report table?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_ROW
+#: LABEL/ID_MSG_CONFIRM_DELETE_ROW
+msgid "Do you want to delete selected row?"
+msgstr "Do you want to delete selected row?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_STEP
+#: LABEL/ID_MSG_CONFIRM_DELETE_STEP
+msgid "Are you sure you want to eliminate this step from the task?"
+msgstr "Are you sure you want to eliminate this step from the task?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_SUPERVISOR_DYNAFORM
+#: LABEL/ID_MSG_CONFIRM_DELETE_SUPERVISOR_DYNAFORM
+msgid "Do you want to remove this DynaForm?"
+msgstr "Do you want to remove this DynaForm?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_SUPERVISOR_INPUT
+#: LABEL/ID_MSG_CONFIRM_DELETE_SUPERVISOR_INPUT
+msgid "Do you want to remove this Input Document?"
+msgstr "Do you want to remove this Input Document?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_TRIGGER
+#: LABEL/ID_MSG_CONFIRM_DELETE_TRIGGER
+msgid "Do you want to delete this trigger?"
+msgstr "Do you want to delete this trigger?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_USER
+#: LABEL/ID_MSG_CONFIRM_DELETE_USER
+msgid "Do you want to delete this user ?"
+msgstr "Do you want to delete this user ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_DELETE_WEBBOT
+#: LABEL/ID_MSG_CONFIRM_DELETE_WEBBOT
+msgid "Are you sure you want to delete this webbot?"
+msgstr "Are you sure you want to delete this webbot?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_REMOVE_LANGUAGE
+#: LABEL/ID_MSG_CONFIRM_REMOVE_LANGUAGE
+msgid "Are you sure you want to remove this language?"
+msgstr "Are you sure you want to remove this language?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_REMOVE_TRIGGER
+#: LABEL/ID_MSG_CONFIRM_REMOVE_TRIGGER
+msgid "[LABEL/ID_MSG_CONFIRM_REMOVE_TRIGGER] Are you sure you want to remove this trigger?"
+msgstr "Are you sure you want to remove this trigger?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_REMOVE_USER
+#: LABEL/ID_MSG_CONFIRM_REMOVE_USER
+msgid "[LABEL/ID_MSG_CONFIRM_REMOVE_USER] Are you sure you want to remove this user?"
+msgstr "Are you sure you want to remove this user?"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_REMOVE_USERGROUP
+#: LABEL/ID_MSG_CONFIRM_REMOVE_USERGROUP
+msgid "[LABEL/ID_MSG_CONFIRM_REMOVE_USERGROUP] Are you sure you want to remove this user group?"
+msgstr "Are you sure you want to remove this user group?"
+

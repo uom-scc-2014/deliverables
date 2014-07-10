@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_TITLE
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: caption - INP_DOC_TITLE
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_DESCRIPTION
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-COPY
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?APP_DOC_CREATE_DATE
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# tracker/tracker_ViewAnyInputDocument1.xml?APP_DOC_FILENAME1
+# tracker/tracker_ViewAnyInputDocument1.xml
+#: link - APP_DOC_FILENAME1
+msgid "[tracker/tracker_ViewAnyInputDocument1.xml?APP_DOC_FILENAME1] File"
+msgstr "File"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_TITLE
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: caption - INP_DOC_TITLE
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_DESCRIPTION
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-COPY
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?APP_DOC_CREATE_DATE
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# tracker/tracker_ViewAnyInputDocument2.xml?APP_DOC_COMMENT
+# tracker/tracker_ViewAnyInputDocument2.xml
+#: caption - APP_DOC_COMMENT
+msgid "[tracker/tracker_ViewAnyInputDocument2.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_TITLE
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: caption - INP_DOC_TITLE
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_DESCRIPTION
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-COPY
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_CREATE_DATE
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_COMMENT
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: caption - APP_DOC_COMMENT
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_FILENAME1
+# tracker/tracker_ViewAnyInputDocument3.xml
+#: link - APP_DOC_FILENAME1
+msgid "[tracker/tracker_ViewAnyInputDocument3.xml?APP_DOC_FILENAME1] File"
+msgstr "File"
+
+# tracker/tracker_ViewAnyOutputDocument.xml?OUT_DOC_TITLE
+# tracker/tracker_ViewAnyOutputDocument.xml
+#: caption - OUT_DOC_TITLE
+msgid "[tracker/tracker_ViewAnyOutputDocument.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_CREATE_DATE
+# tracker/tracker_ViewAnyOutputDocument.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_FILENAME1
+# tracker/tracker_ViewAnyOutputDocument.xml
+#: link - APP_DOC_FILENAME1
+msgid "[tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_FILENAME1] File (.doc)"
+msgstr "File (.doc)"
+
+# tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_FILENAME2
+# tracker/tracker_ViewAnyOutputDocument.xml
+#: link - APP_DOC_FILENAME2
+msgid "[tracker/tracker_ViewAnyOutputDocument.xml?APP_DOC_FILENAME2] File (.pdf)"
+msgstr "File (.pdf)"
+
+# tracker/tracker_back.xml?backs
+# tracker/tracker_back.xml
+#: link - backs
+msgid "[tracker/tracker_back.xml?backs] Back"
+msgstr "Back"
+
+# tracker/tracker_objectsList.xml?CTO_TITLE
+# tracker/tracker_objectsList.xml
+#: text - CTO_TITLE
+msgid "[tracker/tracker_objectsList.xml?CTO_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_objectsList.xml?CTO_TYPE_OBJ
+# tracker/tracker_objectsList.xml
+#: text - CTO_TYPE_OBJ
+msgid "[tracker/tracker_objectsList.xml?CTO_TYPE_OBJ] Type"
+msgstr "Type"
+
+# tracker/tracker_objectsOptions.xml?MNU_ASSIGN
+# tracker/tracker_objectsOptions.xml
+#: link - MNU_ASSIGN
+msgid "[tracker/tracker_objectsOptions.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# triggers/dynavars.xml?variable_label
+# triggers/dynavars.xml
+#: text - variable_label
+msgid "[triggers/dynavars.xml?variable_label] Variable"
+msgstr "Variable"
+
+# triggers/dynavars.xml?label
+# triggers/dynavars.xml
+#: text - label
+msgid "[triggers/dynavars.xml?label] Label"
+msgstr "Label"
+
+# triggers/triggerCopy.xml?LBLTITLE1
+# triggers/triggerCopy.xml
+#: title - LBLTITLE1
+msgid "Trigger Information"
+msgstr "Trigger Information"
+
+# triggers/triggerCopy.xml?PROCESS_UID
+# triggers/triggerCopy.xml
+#: dropdown - PROCESS_UID
+msgid "[triggers/triggerCopy.xml?PROCESS_UID] Process"
+msgstr "Process"
+
+# triggers/triggerCopy.xml?PROCESS_UID-
+# triggers/triggerCopy.xml
+#: dropdown - PROCESS_UID -
+msgid "[triggers/triggerCopy.xml?PROCESS_UID-]"
+msgstr "- Select a process -"
+
+# triggers/triggerCopy.xml?TRIGGER_UID
+# triggers/triggerCopy.xml
+#: dropdown - TRIGGER_UID
+msgid "[triggers/triggerCopy.xml?TRIGGER_UID] Trigger"
+msgstr "Trigger"
+
+# triggers/triggerCopy.xml?TRIGGER_UID-
+# triggers/triggerCopy.xml
+#: dropdown - TRIGGER_UID -
+msgid "[triggers/triggerCopy.xml?TRIGGER_UID-]"
+msgstr "- Select a trigger -"
+
+# triggers/triggerCopy.xml?TRIGGER_UID_AUX
+# triggers/triggerCopy.xml
+#: text - TRIGGER_UID_AUX
+msgid "[triggers/triggerCopy.xml?TRIGGER_UID_AUX] "
+msgstr ""
+
+# triggers/triggerCopy.xml?TRI_TITLE
+# triggers/triggerCopy.xml
+#: text - TRI_TITLE
+msgid "Title of the new trigger"
+msgstr "Title of the new trigger"
+
+# triggers/triggerCopy.xml?TRI_DESCRIPTION
+# triggers/triggerCopy.xml
+#: textarea - TRI_DESCRIPTION
+msgid "Description of the new trigger"
+msgstr "Description of the new trigger"
+
+# triggers/triggerCopy.xml?TRI_WEBBOT
+# triggers/triggerCopy.xml
+#: textarea - TRI_WEBBOT
+msgid "Script"
+msgstr "Script"
+
+# triggers/triggerCopy.xml?BTNCOPYSAVE
+# triggers/triggerCopy.xml
+#: button - BTNCOPYSAVE
+msgid "Copy/Import and Save"
+msgstr "Copy/Import and Save"
+
+# triggers/triggerCopy.xml?BTNCANCEL
+# triggers/triggerCopy.xml
+#: button - BTNCANCEL
+msgid "[triggers/triggerCopy.xml?BTNCANCEL] Cancel"
+msgstr "Cancel"
+
+# triggers/triggersCustom.xml?TITLE
+# triggers/triggersCustom.xml
+#: title - TITLE
+msgid "[triggers/triggersCustom.xml?TITLE] Trigger Information"
+msgstr "Trigger Information"
+
+# triggers/triggersCustom.xml?TRI_TITLE
+# triggers/triggersCustom.xml
+#: text - TRI_TITLE
+msgid "[triggers/triggersCustom.xml?TRI_TITLE] Title"
+msgstr "Title"
+
+# triggers/triggersCustom.xml?TRI_DESCRIPTION
+# triggers/triggersCustom.xml
+#: textarea - TRI_DESCRIPTION
+msgid "[triggers/triggersCustom.xml?TRI_DESCRIPTION] Description"
+msgstr "Description"
+
+# triggers/triggersCustom.xml?SAVE
+# triggers/triggersCustom.xml
+#: button - SAVE
+msgid "[triggers/triggersCustom.xml?SAVE] Save"
+msgstr "Save"
+
+# triggers/triggersCustom.xml?BTN_CANCEL
+# triggers/triggersCustom.xml
+#: button - BTN_CANCEL
+msgid "[triggers/triggersCustom.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# triggers/triggersNarrowEdit.xml?TITLE
+# triggers/triggersNarrowEdit.xml
+#: title - TITLE
+msgid "Trigger Script"
+msgstr "Trigger Script"
+
+# triggers/triggersNarrowEdit.xml?TRI_WEBBOT
+# triggers/triggersNarrowEdit.xml
+#: textareapm - TRI_WEBBOT
+msgid "[triggers/triggersNarrowEdit.xml?TRI_WEBBOT] "
+msgstr ""
+
+# triggers/triggersNarrowEdit.xml?BTN_CANCEL
+# triggers/triggersNarrowEdit.xml
+#: button - BTN_CANCEL
+msgid "[triggers/triggersNarrowEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# triggers/triggersNarrowEdit.xml?SAVE
+# triggers/triggersNarrowEdit.xml
+#: button - SAVE
+msgid "[triggers/triggersNarrowEdit.xml?SAVE] Save"
+msgstr "Save"
+
+# triggers/triggersProperties.xml?TITLE
+# triggers/triggersProperties.xml
+#: title - TITLE
+msgid "[triggers/triggersProperties.xml?TITLE] Trigger Information"
+msgstr "Trigger Information"
+
+# triggers/triggersProperties.xml?TRI_TITLE
+# triggers/triggersProperties.xml
+#: text - TRI_TITLE
+msgid "[triggers/triggersProperties.xml?TRI_TITLE] Title"
+msgstr "Title"
+
+# triggers/triggersProperties.xml?TRI_DESCRIPTION
+# triggers/triggersProperties.xml
+#: textarea - TRI_DESCRIPTION
+msgid "[triggers/triggersProperties.xml?TRI_DESCRIPTION] Description"
+msgstr "Description"
+
+# triggers/triggersProperties.xml?BTN_CANCEL
+# triggers/triggersProperties.xml
+#: button - BTN_CANCEL
+msgid "[triggers/triggersProperties.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# triggers/triggersProperties.xml?SAVE
+# triggers/triggersProperties.xml
+#: button - SAVE
+msgid "[triggers/triggersProperties.xml?SAVE] Save"
+msgstr "Save"
+
+# triggers/triggers_Edit.xml?BTN_CANCEL
+# triggers/triggers_Edit.xml
+#: button - BTN_CANCEL
+msgid "[triggers/triggers_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# triggers/triggers_Edit.xml?SAVE
+# triggers/triggers_Edit.xml
+#: button - SAVE
+msgid "[triggers/triggers_Edit.xml?SAVE] Save"
+msgstr "Save"
+
+# triggers/triggers_Options.xml?MNU_ADD
+# triggers/triggers_Options.xml
+#: link - MNU_ADD
+msgid "[triggers/triggers_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# triggers/triggers_ShortList.xml?TRI_TITLE
+# triggers/triggers_ShortList.xml
+#: text - TRI_TITLE
+msgid "[triggers/triggers_ShortList.xml?TRI_TITLE] Title"
+msgstr "Title"
+
+# triggers/triggers_ShortList.xml?DELETE
+# triggers/triggers_ShortList.xml
+#: link - DELETE
+msgid "[triggers/triggers_ShortList.xml?DELETE] "
+msgstr ""
+
+# triggers/triggers_ShortList.xml?SEARCH
+# triggers/triggers_ShortList.xml
+#: button - SEARCH
+msgid "[triggers/triggers_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# triggers/wizardOptions.xml?NAME
+# triggers/wizardOptions.xml
+#: text - NAME
+msgid "Param Name"
+msgstr "Param Name"
+
+# triggers/wizardOptions.xml?VALUE
+# triggers/wizardOptions.xml
+#: text - VALUE
+msgid "Param Value"
+msgstr "Param Value"
+
+# users/myInfo.xml?TITLEADD
+# users/myInfo.xml
+#: title - TITLEADD
+msgid "[users/myInfo.xml?TITLEADD] Profile"
+msgstr "Profile"
+
+# users/myInfo.xml?USR_PHOTO
+# users/myInfo.xml
+#: file - USR_PHOTO
+msgid "[users/myInfo.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/myInfo.xml?USR_RESUME
+# users/myInfo.xml
+#: file - USR_RESUME
+msgid "[users/myInfo.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/myInfo.xml?TITLE9689
+# users/myInfo.xml
+#: title - TITLE9689
+msgid "Personal Information"
+msgstr "Personal Information"
+
+# users/myInfo.xml?USR_FIRSTNAME
+# users/myInfo.xml
+#: text - USR_FIRSTNAME
+msgid "[users/myInfo.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/myInfo.xml?USR_LASTNAME
+# users/myInfo.xml
+#: text - USR_LASTNAME
+msgid "[users/myInfo.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/myInfo.xml?USR_USERNAME
+# users/myInfo.xml
+#: text - USR_USERNAME
+msgid "[users/myInfo.xml?USR_USERNAME] User ID"
+msgstr "User ID"
+
+# users/myInfo.xml?USR_EMAIL
+# users/myInfo.xml
+#: text - USR_EMAIL
+msgid "[users/myInfo.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/myInfo.xml?USR_ADDRESS
+# users/myInfo.xml
+#: textarea - USR_ADDRESS
+msgid "[users/myInfo.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/myInfo.xml?USR_ZIP_CODE
+# users/myInfo.xml
+#: text - USR_ZIP_CODE
+msgid "Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/myInfo.xml?USR_COUNTRY
+# users/myInfo.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/myInfo.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/myInfo.xml?USR_COUNTRY-
+# users/myInfo.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/myInfo.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/myInfo.xml?USR_CITY
+# users/myInfo.xml
+#: dropdown - USR_CITY
+msgid "[users/myInfo.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/myInfo.xml?USR_LOCATION
+# users/myInfo.xml
+#: dropdown - USR_LOCATION
+msgid "[users/myInfo.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/myInfo.xml?USR_PHONE
+# users/myInfo.xml
+#: text - USR_PHONE
+msgid "[users/myInfo.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/myInfo.xml?USR_POSITION
+# users/myInfo.xml
+#: text - USR_POSITION
+msgid "[users/myInfo.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/myInfo.xml?USR_DUE_DATE
+# users/myInfo.xml
+#: text - USR_DUE_DATE
+msgid "[users/myInfo.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/myInfo.xml?USR_STATUS
+# users/myInfo.xml
+#: dropdown - USR_STATUS
+msgid "[users/myInfo.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/myInfo.xml?USR_STATUS-ACTIVE
+# users/myInfo.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/myInfo.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/myInfo.xml?USR_STATUS-INACTIVE
+# users/myInfo.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/myInfo.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+

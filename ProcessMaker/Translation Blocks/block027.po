@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# appFolder/appFolder.xml?title1
+# appFolder/appFolder.xml
+#: title - title1
+msgid "AppFolder form"
+msgstr "AppFolder form"
+
+# appFolder/appFolder.xml?FOLDER_UID
+# appFolder/appFolder.xml
+#: text - FOLDER_UID
+msgid "Folder Uid"
+msgstr "Folder Uid"
+
+# appFolder/appFolder.xml?FOLDER_PARENT_UID
+# appFolder/appFolder.xml
+#: text - FOLDER_PARENT_UID
+msgid "Folder Parent Uid"
+msgstr "Folder Parent Uid"
+
+# appFolder/appFolder.xml?FOLDER_NAME
+# appFolder/appFolder.xml
+#: textarea - FOLDER_NAME
+msgid "Folder Name"
+msgstr "Folder Name"
+
+# appFolder/appFolder.xml?FOLDER_CREATE_DATE
+# appFolder/appFolder.xml
+#: date - FOLDER_CREATE_DATE
+msgid "Folder Create Date"
+msgstr "Folder Create Date"
+
+# appFolder/appFolder.xml?FOLDER_UPDATE_DATE
+# appFolder/appFolder.xml
+#: date - FOLDER_UPDATE_DATE
+msgid "Folder Update Date"
+msgstr "Folder Update Date"
+
+# appFolder/appFolder.xml?BTN_SUBMIT
+# appFolder/appFolder.xml
+#: submit - BTN_SUBMIT
+msgid "save"
+msgstr "save"
+
+# appFolder/appFolderDelete.xml?title1
+# appFolder/appFolderDelete.xml
+#: title - title1
+msgid "Delete AppFolder"
+msgstr "Delete AppFolder"
+
+# appFolder/appFolderDelete.xml?LABEL_FOLDER_UID
+# appFolder/appFolderDelete.xml
+#: caption - LABEL_FOLDER_UID
+msgid "Er Uid"
+msgstr "Er Uid"
+
+# appFolder/appFolderDelete.xml?BTN_SUBMIT
+# appFolder/appFolderDelete.xml
+#: submit - BTN_SUBMIT
+msgid "delete"
+msgstr "delete"
+
+# appFolder/appFolderDocsListOptions.xml?MNU_NEW
+# appFolder/appFolderDocsListOptions.xml
+#: link - MNU_NEW
+msgid "@#labelFolderAddFolder"
+msgstr "@#labelFolderAddFolder"
+
+# appFolder/appFolderDocsListOptions.xml?MNU_NEW1
+# appFolder/appFolderDocsListOptions.xml
+#: link - MNU_NEW1
+msgid "@#labelFolderAddFile"
+msgstr "@#labelFolderAddFile"
+
+# appFolder/appFolderDocumentInfo.xml?PRO_TITLE
+# appFolder/appFolderDocumentInfo.xml
+#: caption - PRO_TITLE
+msgid "[appFolder/appFolderDocumentInfo.xml?PRO_TITLE] Process"
+msgstr "Process"
+
+# appFolder/appFolderDocumentInfo.xml?APP_TITLE
+# appFolder/appFolderDocumentInfo.xml
+#: caption - APP_TITLE
+msgid "[appFolder/appFolderDocumentInfo.xml?APP_TITLE] Case Title"
+msgstr "Case Title"
+
+# appFolder/appFolderDocumentInfo.xml?APP_DOC_FILENAME
+# appFolder/appFolderDocumentInfo.xml
+#: caption - APP_DOC_FILENAME
+msgid "File Name"
+msgstr "File Name"
+
+# appFolder/appFolderDocumentInfo.xml?DOC_VERSION
+# appFolder/appFolderDocumentInfo.xml
+#: caption - DOC_VERSION
+msgid "[appFolder/appFolderDocumentInfo.xml?DOC_VERSION] Version"
+msgstr "Version"
+
+# appFolder/appFolderDocumentInfo.xml?APP_DOC_TYPE
+# appFolder/appFolderDocumentInfo.xml
+#: caption - APP_DOC_TYPE
+msgid "[appFolder/appFolderDocumentInfo.xml?APP_DOC_TYPE] Type"
+msgstr "Type"
+
+# appFolder/appFolderDocumentInfo.xml?USR_USERNAME
+# appFolder/appFolderDocumentInfo.xml
+#: caption - USR_USERNAME
+msgid "Creator"
+msgstr "Creator"
+
+# appFolder/appFolderDocumentInfo.xml?APP_DOC_CREATE_DATE
+# appFolder/appFolderDocumentInfo.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[appFolder/appFolderDocumentInfo.xml?APP_DOC_CREATE_DATE] Created"
+msgstr "Created"
+
+# appFolder/appFolderDocumentList.xml?APP_DOC_FILENAME
+# appFolder/appFolderDocumentList.xml
+#: text - APP_DOC_FILENAME
+msgid "[appFolder/appFolderDocumentList.xml?APP_DOC_FILENAME] File Name"
+msgstr "File Name"
+
+# appFolder/appFolderDocumentList.xml?DOC_VERSION
+# appFolder/appFolderDocumentList.xml
+#: text - DOC_VERSION
+msgid "[appFolder/appFolderDocumentList.xml?DOC_VERSION] Version"
+msgstr "Version"
+
+# appFolder/appFolderDocumentList.xml?USR_USERNAME
+# appFolder/appFolderDocumentList.xml
+#: text - USR_USERNAME
+msgid "[appFolder/appFolderDocumentList.xml?USR_USERNAME] Creator"
+msgstr "Creator"
+
+# appFolder/appFolderDocumentList.xml?APP_DOC_CREATE_DATE
+# appFolder/appFolderDocumentList.xml
+#: text - APP_DOC_CREATE_DATE
+msgid "[appFolder/appFolderDocumentList.xml?APP_DOC_CREATE_DATE] Created"
+msgstr "Created"
+
+# appFolder/appFolderDocumentList.xml?random
+# appFolder/appFolderDocumentList.xml
+#: text - random
+msgid "[appFolder/appFolderDocumentList.xml?random] "
+msgstr ""
+
+# appFolder/appFolderDocumentList.xml?info
+# appFolder/appFolderDocumentList.xml
+#: link - info
+msgid "[appFolder/appFolderDocumentList.xml?info] "
+msgstr ""
+
+# appFolder/appFolderDocumentList.xml?open
+# appFolder/appFolderDocumentList.xml
+#: link - open
+msgid "[appFolder/appFolderDocumentList.xml?open] "
+msgstr ""
+
+# appFolder/appFolderDocumentList.xml?open1
+# appFolder/appFolderDocumentList.xml
+#: link - open1
+msgid "[appFolder/appFolderDocumentList.xml?open1] "
+msgstr ""
+
+# appFolder/appFolderDocumentList.xml?newVersion
+# appFolder/appFolderDocumentList.xml
+#: link - newVersion
+msgid "[appFolder/appFolderDocumentList.xml?newVersion] "
+msgstr ""
+
+# appFolder/appFolderDocumentList.xml?versionHistory
+# appFolder/appFolderDocumentList.xml
+#: link - versionHistory
+msgid "[appFolder/appFolderDocumentList.xml?versionHistory] "
+msgstr ""
+
+# appFolder/appFolderDocumentListHeader.xml?FOLDER_UID
+# appFolder/appFolderDocumentListHeader.xml
+#: dropdown - FOLDER_UID
+msgid "Move selected to:"
+msgstr "Move selected to:"
+
+# appFolder/appFolderDocumentListHeader.xml?FOLDER_UID-
+# appFolder/appFolderDocumentListHeader.xml
+#: dropdown - FOLDER_UID -
+msgid "[appFolder/appFolderDocumentListHeader.xml?FOLDER_UID-]"
+msgstr ""
+
+# appFolder/appFolderDocumentListHeader.xml?BTN_SUBMIT
+# appFolder/appFolderDocumentListHeader.xml
+#: submit - BTN_SUBMIT
+msgid "[appFolder/appFolderDocumentListHeader.xml?BTN_SUBMIT] Move"
+msgstr "Move"
+
+# appFolder/appFolderDocumentListHistory.xml?APP_DOC_FILENAME
+# appFolder/appFolderDocumentListHistory.xml
+#: text - APP_DOC_FILENAME
+msgid "[appFolder/appFolderDocumentListHistory.xml?APP_DOC_FILENAME] File Name"
+msgstr "File Name"
+
+# appFolder/appFolderDocumentListHistory.xml?DOC_VERSION
+# appFolder/appFolderDocumentListHistory.xml
+#: text - DOC_VERSION
+msgid "[appFolder/appFolderDocumentListHistory.xml?DOC_VERSION] Version"
+msgstr "Version"
+
+# appFolder/appFolderDocumentListHistory.xml?USR_USERNAME
+# appFolder/appFolderDocumentListHistory.xml
+#: text - USR_USERNAME
+msgid "[appFolder/appFolderDocumentListHistory.xml?USR_USERNAME] Creator"
+msgstr "Creator"
+
+# appFolder/appFolderDocumentListHistory.xml?APP_DOC_CREATE_DATE
+# appFolder/appFolderDocumentListHistory.xml
+#: text - APP_DOC_CREATE_DATE
+msgid "[appFolder/appFolderDocumentListHistory.xml?APP_DOC_CREATE_DATE] Created"
+msgstr "Created"
+
+# appFolder/appFolderDocumentListHistory.xml?random
+# appFolder/appFolderDocumentListHistory.xml
+#: text - random
+msgid "[appFolder/appFolderDocumentListHistory.xml?random] "
+msgstr ""
+
+# appFolder/appFolderDocumentListHistory.xml?info
+# appFolder/appFolderDocumentListHistory.xml
+#: link - info
+msgid "[appFolder/appFolderDocumentListHistory.xml?info] "
+msgstr ""
+
+# appFolder/appFolderDocumentListHistory.xml?open
+# appFolder/appFolderDocumentListHistory.xml
+#: link - open
+msgid "[appFolder/appFolderDocumentListHistory.xml?open] "
+msgstr ""
+
+# appFolder/appFolderDocumentListHistory.xml?open1
+# appFolder/appFolderDocumentListHistory.xml
+#: link - open1
+msgid "[appFolder/appFolderDocumentListHistory.xml?open1] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?APP_DOC_FILENAME
+# appFolder/appFolderDocumentListSearch.xml
+#: text - APP_DOC_FILENAME
+msgid "[appFolder/appFolderDocumentListSearch.xml?APP_DOC_FILENAME] File Name"
+msgstr "File Name"
+
+# appFolder/appFolderDocumentListSearch.xml?DOC_VERSION
+# appFolder/appFolderDocumentListSearch.xml
+#: text - DOC_VERSION
+msgid "[appFolder/appFolderDocumentListSearch.xml?DOC_VERSION] Version"
+msgstr "Version"
+
+# appFolder/appFolderDocumentListSearch.xml?USR_USERNAME
+# appFolder/appFolderDocumentListSearch.xml
+#: text - USR_USERNAME
+msgid "[appFolder/appFolderDocumentListSearch.xml?USR_USERNAME] Creator"
+msgstr "Creator"
+
+# appFolder/appFolderDocumentListSearch.xml?APP_DOC_CREATE_DATE
+# appFolder/appFolderDocumentListSearch.xml
+#: text - APP_DOC_CREATE_DATE
+msgid "[appFolder/appFolderDocumentListSearch.xml?APP_DOC_CREATE_DATE] Created"
+msgstr "Created"
+
+# appFolder/appFolderDocumentListSearch.xml?random
+# appFolder/appFolderDocumentListSearch.xml
+#: text - random
+msgid "[appFolder/appFolderDocumentListSearch.xml?random] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?info
+# appFolder/appFolderDocumentListSearch.xml
+#: link - info
+msgid "[appFolder/appFolderDocumentListSearch.xml?info] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?open
+# appFolder/appFolderDocumentListSearch.xml
+#: link - open
+msgid "[appFolder/appFolderDocumentListSearch.xml?open] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?open1
+# appFolder/appFolderDocumentListSearch.xml
+#: link - open1
+msgid "[appFolder/appFolderDocumentListSearch.xml?open1] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?newVersion
+# appFolder/appFolderDocumentListSearch.xml
+#: link - newVersion
+msgid "[appFolder/appFolderDocumentListSearch.xml?newVersion] "
+msgstr ""
+
+# appFolder/appFolderDocumentListSearch.xml?versionHistory
+# appFolder/appFolderDocumentListSearch.xml
+#: link - versionHistory
+msgid "[appFolder/appFolderDocumentListSearch.xml?versionHistory] "
+msgstr ""
+
+# appFolder/appFolderEdit.xml?title1
+# appFolder/appFolderEdit.xml
+#: title - title1
+msgid "[appFolder/appFolderEdit.xml?title1] New Folder"
+msgstr "New Folder"
+
+# appFolder/appFolderEdit.xml?FOLDER_PATH
+# appFolder/appFolderEdit.xml
+#: caption - FOLDER_PATH
+msgid "[appFolder/appFolderEdit.xml?FOLDER_PATH] Path"
+msgstr "Path"
+
+# appFolder/appFolderEdit.xml?FOLDER_NAME
+# appFolder/appFolderEdit.xml
+#: text - FOLDER_NAME
+msgid "[appFolder/appFolderEdit.xml?FOLDER_NAME] Folder Name"
+msgstr "Folder Name"
+
+# appFolder/appFolderEdit.xml?BTN_CANCEL
+# appFolder/appFolderEdit.xml
+#: button - BTN_CANCEL
+msgid "[appFolder/appFolderEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# appFolder/appFolderEdit.xml?BTN_SUBMIT
+# appFolder/appFolderEdit.xml
+#: submit - BTN_SUBMIT
+msgid "[appFolder/appFolderEdit.xml?BTN_SUBMIT] Save"
+msgstr "Save"
+
+# appFolder/appFolderList.xml?FOLDER_PARENT_UID
+# appFolder/appFolderList.xml
+#: text - FOLDER_PARENT_UID
+msgid "Er Parent Uid"
+msgstr "Er Parent Uid"
+
+# appFolder/appFolderList.xml?FOLDER_CREATE_DATE
+# appFolder/appFolderList.xml
+#: text - FOLDER_CREATE_DATE
+msgid "Er Create Date"
+msgstr "Er Create Date"
+
+# appFolder/appFolderList.xml?FOLDER_UPDATE_DATE
+# appFolder/appFolderList.xml
+#: text - FOLDER_UPDATE_DATE
+msgid "Er Update Date"
+msgstr "Er Update Date"
+
+# appFolder/appFolderList.xml?LINK
+# appFolder/appFolderList.xml
+#: link - LINK
+msgid "[appFolder/appFolderList.xml?LINK] Edit"
+msgstr "Edit"
+
+# appFolder/appFolderList.xml?LINK2
+# appFolder/appFolderList.xml
+#: link - LINK2
+msgid "[appFolder/appFolderList.xml?LINK2] Delete"
+msgstr "Delete"
+
+# appFolder/appFolderOptions.xml?MNU_NEW
+# appFolder/appFolderOptions.xml
+#: link - MNU_NEW
+msgid "[appFolder/appFolderOptions.xml?MNU_NEW] New"
+msgstr "New"
+
+# authSources/authSources_List.xml?AUTH_SOURCE_NAME
+# authSources/authSources_List.xml
+#: text - AUTH_SOURCE_NAME
+msgid "[authSources/authSources_List.xml?AUTH_SOURCE_NAME] Name"
+msgstr "Name"
+
+# authSources/authSources_List.xml?AUTH_SOURCE_PROVIDER
+# authSources/authSources_List.xml
+#: text - AUTH_SOURCE_PROVIDER
+msgid "[authSources/authSources_List.xml?AUTH_SOURCE_PROVIDER] Provider"
+msgstr "Provider"
+
+# authSources/authSources_List.xml?AUTH_SOURCE_SERVER_NAME
+# authSources/authSources_List.xml
+#: text - AUTH_SOURCE_SERVER_NAME
+msgid "Server Name"
+msgstr "Server Name"
+
+# authSources/authSources_List.xml?AUTH_SOURCE_PORT
+# authSources/authSources_List.xml
+#: text - AUTH_SOURCE_PORT
+msgid "[authSources/authSources_List.xml?AUTH_SOURCE_PORT] Port"
+msgstr "Port"
+
+# authSources/authSources_List.xml?EDIT
+# authSources/authSources_List.xml
+#: link - EDIT
+msgid "[authSources/authSources_List.xml?EDIT] "
+msgstr ""
+
+# authSources/authSources_List.xml?DELETE
+# authSources/authSources_List.xml
+#: link - DELETE
+msgid "[authSources/authSources_List.xml?DELETE] "
+msgstr ""
+
+# authSources/authSources_Options.xml?MNU_ADD
+# authSources/authSources_Options.xml
+#: link - MNU_ADD
+msgid "[authSources/authSources_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# authSources/authSources_SearchUsers.xml?TITLE
+# authSources/authSources_SearchUsers.xml
+#: title - TITLE
+msgid "Search for user"
+msgstr "Search for user"
+
+# authSources/authSources_SearchUsers.xml?KEYWORD
+# authSources/authSources_SearchUsers.xml
+#: text - KEYWORD
+msgid "Keyword"
+msgstr "Keyword"
+
+# authSources/authSources_SearchUsers.xml?btnSearch
+# authSources/authSources_SearchUsers.xml
+#: button - btnSearch
+msgid "[authSources/authSources_SearchUsers.xml?btnSearch] Search"
+msgstr "Search"
+
+# authSources/authSources_SearchUsers.xml?btnImport
+# authSources/authSources_SearchUsers.xml
+#: button - btnImport
+msgid "[authSources/authSources_SearchUsers.xml?btnImport] Import"
+msgstr "Import"
+
+# authSources/authSources_SearchUsers.xml?BTN_CANCEL
+# authSources/authSources_SearchUsers.xml
+#: button - BTN_CANCEL
+msgid "[authSources/authSources_SearchUsers.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# authSources/authSources_SearchUsersMenu.xml?SelectAll
+# authSources/authSources_SearchUsersMenu.xml
+#: link - SelectAll
+msgid "[authSources/authSources_SearchUsersMenu.xml?SelectAll] "
+msgstr ""
+
+# authSources/authSources_SelectType.xml?TITLE
+# authSources/authSources_SelectType.xml
+#: title - TITLE
+msgid "Available Authentication Source Types"
+msgstr "Available Authentication Source Types"
+
+# authSources/authSources_SelectType.xml?AUTH_SOURCE_PROVIDER
+# authSources/authSources_SelectType.xml
+#: dropdown - AUTH_SOURCE_PROVIDER
+msgid "[authSources/authSources_SelectType.xml?AUTH_SOURCE_PROVIDER] Provider"
+msgstr "Provider"
+
+# authSources/authSources_SelectType.xml?btnContinue
+# authSources/authSources_SelectType.xml
+#: submit - btnContinue
+msgid "[authSources/authSources_SelectType.xml?btnContinue] Continue"
+msgstr "Continue"
+
+# authSources/authSources_SelectType.xml?BTN_CANCEL
+# authSources/authSources_SelectType.xml
+#: button - BTN_CANCEL
+msgid "[authSources/authSources_SelectType.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# authSources/ldapEdit.xml?TITLE
+# authSources/ldapEdit.xml
+#: title - TITLE
+msgid "[authSources/ldapEdit.xml?TITLE] Authentication Source Information"
+msgstr "Authentication Source Information"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_NAME
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_NAME
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_NAME] Name"
+msgstr "Name"
+
+# authSources/ldapEdit.xml?LDAP_TYPE
+# authSources/ldapEdit.xml
+#: dropdown - LDAP_TYPE
+msgid "[authSources/ldapEdit.xml?LDAP_TYPE] Type"
+msgstr "Type"
+
+# authSources/ldapEdit.xml?LDAP_TYPE-ldap
+# authSources/ldapEdit.xml
+#: dropdown - LDAP_TYPE - ldap
+msgid "[authSources/ldapEdit.xml?LDAP_TYPE-ldap]"
+msgstr "LDAP"
+
+# authSources/ldapEdit.xml?LDAP_TYPE-ad
+# authSources/ldapEdit.xml
+#: dropdown - LDAP_TYPE - ad
+msgid "[authSources/ldapEdit.xml?LDAP_TYPE-ad]"
+msgstr "Active Directory"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_SERVER_NAME
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_SERVER_NAME
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_SERVER_NAME] Server Name"
+msgstr "Server Name"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_PORT
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_PORT
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_PORT] Port"
+msgstr "Port"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_ENABLED_TLS
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS] Enabled TLS"
+msgstr "Enabled TLS"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS-
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_ENABLED_TLS -
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS-]"
+msgstr "No"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS-1
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_ENABLED_TLS - 1
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ENABLED_TLS-1]"
+msgstr "Yes"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_VERSION
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_VERSION
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_VERSION] Version"
+msgstr "Version"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_VERSION-2
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_VERSION - 2
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_VERSION-2]"
+msgstr "2"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_VERSION-3
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_SOURCE_VERSION - 3
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_VERSION-3]"
+msgstr "3"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_BASE_DN
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_BASE_DN
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_BASE_DN] Base DN"
+msgstr "Base DN"
+
+# authSources/ldapEdit.xml?AUTH_ANONYMOUS
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_ANONYMOUS
+msgid "[authSources/ldapEdit.xml?AUTH_ANONYMOUS] Anonymous"
+msgstr "Anonymous"
+
+# authSources/ldapEdit.xml?AUTH_ANONYMOUS-
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_ANONYMOUS -
+msgid "[authSources/ldapEdit.xml?AUTH_ANONYMOUS-]"
+msgstr "No"
+
+# authSources/ldapEdit.xml?AUTH_ANONYMOUS-1
+# authSources/ldapEdit.xml
+#: dropdown - AUTH_ANONYMOUS - 1
+msgid "[authSources/ldapEdit.xml?AUTH_ANONYMOUS-1]"
+msgstr "Yes"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_SEARCH_USER
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_SEARCH_USER
+msgid "Search User"
+msgstr "Search User"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_PASSWORD
+# authSources/ldapEdit.xml
+#: password - AUTH_SOURCE_PASSWORD
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_PASSWORD] Password"
+msgstr "Password"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_IDENTIFIER_FOR_USER
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_IDENTIFIER_FOR_USER
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_IDENTIFIER_FOR_USER] Identifier for an imported user"
+msgstr "Identifier for an imported user"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_OBJECT_CLASSES
+# authSources/ldapEdit.xml
+#: textarea - AUTH_SOURCE_OBJECT_CLASSES
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_OBJECT_CLASSES] Object Classes"
+msgstr "Object Classes"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_ADDITIONAL_FILTER
+# authSources/ldapEdit.xml
+#: text - AUTH_SOURCE_ADDITIONAL_FILTER
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ADDITIONAL_FILTER] Additional Filter"
+msgstr "Additional Filter"
+

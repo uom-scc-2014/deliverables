@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# events/eventsNew.xml?EVN_STATUS
+# events/eventsNew.xml
+#: dropdown - EVN_STATUS
+msgid "[events/eventsNew.xml?EVN_STATUS] Status"
+msgstr "Status"
+
+# events/eventsNew.xml?EVN_STATUS-ACTIVE
+# events/eventsNew.xml
+#: dropdown - EVN_STATUS - ACTIVE
+msgid "[events/eventsNew.xml?EVN_STATUS-ACTIVE]"
+msgstr "Active"
+
+# events/eventsNew.xml?EVN_STATUS-INACTIVE
+# events/eventsNew.xml
+#: dropdown - EVN_STATUS - INACTIVE
+msgid "[events/eventsNew.xml?EVN_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# events/eventsNew.xml?SUBTITLE1
+# events/eventsNew.xml
+#: subtitle - SUBTITLE1
+msgid "[events/eventsNew.xml?SUBTITLE1] Behaviour"
+msgstr "Behaviour"
+
+# events/eventsNew.xml?EVN_WHEN_OCCURS
+# events/eventsNew.xml
+#: dropdown - EVN_WHEN_OCCURS
+msgid "[events/eventsNew.xml?EVN_WHEN_OCCURS] Execution time"
+msgstr "Execution time"
+
+# events/eventsNew.xml?EVN_WHEN_OCCURS-AFTER_TIME
+# events/eventsNew.xml
+#: dropdown - EVN_WHEN_OCCURS - AFTER_TIME
+msgid "[events/eventsNew.xml?EVN_WHEN_OCCURS-AFTER_TIME]"
+msgstr "After interval ends"
+
+# events/eventsNew.xml?EVN_WHEN_OCCURS-TASK_STARTED
+# events/eventsNew.xml
+#: dropdown - EVN_WHEN_OCCURS - TASK_STARTED
+msgid "[events/eventsNew.xml?EVN_WHEN_OCCURS-TASK_STARTED]"
+msgstr "After interval starts"
+
+# events/eventsNew.xml?EVN_RELATED_TO
+# events/eventsNew.xml
+#: dropdown - EVN_RELATED_TO
+msgid "[events/eventsNew.xml?EVN_RELATED_TO] Type"
+msgstr "Type"
+
+# events/eventsNew.xml?EVN_RELATED_TO-SINGLE
+# events/eventsNew.xml
+#: dropdown - EVN_RELATED_TO - SINGLE
+msgid "[events/eventsNew.xml?EVN_RELATED_TO-SINGLE]"
+msgstr "Single Task"
+
+# events/eventsNew.xml?EVN_RELATED_TO-MULTIPLE
+# events/eventsNew.xml
+#: dropdown - EVN_RELATED_TO - MULTIPLE
+msgid "[events/eventsNew.xml?EVN_RELATED_TO-MULTIPLE]"
+msgstr "Multiple Tasks"
+
+# events/eventsNew.xml?TAS_UID
+# events/eventsNew.xml
+#: dropdown - TAS_UID
+msgid "[events/eventsNew.xml?TAS_UID] The time starts with task"
+msgstr "The time starts with task"
+
+# events/eventsNew.xml?EVN_TAS_UID_FROM
+# events/eventsNew.xml
+#: dropdown - EVN_TAS_UID_FROM
+msgid "[events/eventsNew.xml?EVN_TAS_UID_FROM] The time starts from task"
+msgstr "The time starts from task"
+
+# events/eventsNew.xml?EVN_TAS_UID_TO
+# events/eventsNew.xml
+#: dropdown - EVN_TAS_UID_TO
+msgid "[events/eventsNew.xml?EVN_TAS_UID_TO] To"
+msgstr "To"
+
+# events/eventsNew.xml?EVN_TAS_ESTIMATED_DURATION
+# events/eventsNew.xml
+#: text - EVN_TAS_ESTIMATED_DURATION
+msgid "[events/eventsNew.xml?EVN_TAS_ESTIMATED_DURATION] Estimated Task duration"
+msgstr "Estimated Task duration"
+
+# events/eventsNew.xml?EVN_TIME_UNIT
+# events/eventsNew.xml
+#: dropdown - EVN_TIME_UNIT
+msgid "[events/eventsNew.xml?EVN_TIME_UNIT] "
+msgstr ""
+
+# events/eventsNew.xml?EVN_TIME_UNIT-DAYS
+# events/eventsNew.xml
+#: dropdown - EVN_TIME_UNIT - DAYS
+msgid "[events/eventsNew.xml?EVN_TIME_UNIT-DAYS]"
+msgstr "Days"
+
+# events/eventsNew.xml?EVN_TIME_UNIT-HOURS
+# events/eventsNew.xml
+#: dropdown - EVN_TIME_UNIT - HOURS
+msgid "[events/eventsNew.xml?EVN_TIME_UNIT-HOURS]"
+msgstr "Hours"
+
+# events/eventsNew.xml?EVN_WHEN
+# events/eventsNew.xml
+#: text - EVN_WHEN
+msgid "[events/eventsNew.xml?EVN_WHEN] days"
+msgstr "days"
+
+# events/eventsNew.xml?TITLE2
+# events/eventsNew.xml
+#: title - TITLE2
+msgid "[events/eventsNew.xml?TITLE2] Action"
+msgstr "Action"
+
+# events/eventsNew.xml?EVN_CONDITIONS
+# events/eventsNew.xml
+#: textarea - EVN_CONDITIONS
+msgid "[events/eventsNew.xml?EVN_CONDITIONS] Condition"
+msgstr "Condition"
+
+# events/eventsNew.xml?EVN_ACTION
+# events/eventsNew.xml
+#: dropdown - EVN_ACTION
+msgid "[events/eventsNew.xml?EVN_ACTION] Execute trigger"
+msgstr "Execute trigger"
+
+# events/eventsNew.xml?EVN_ACTION-SEND_MESSAGE
+# events/eventsNew.xml
+#: dropdown - EVN_ACTION - SEND_MESSAGE
+msgid "[events/eventsNew.xml?EVN_ACTION-SEND_MESSAGE]"
+msgstr "Message"
+
+# events/eventsNew.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER
+# events/eventsNew.xml
+#: dropdown - EVN_ACTION - EXECUTE_CONDITIONAL_TRIGGER
+msgid "[events/eventsNew.xml?EVN_ACTION-EXECUTE_CONDITIONAL_TRIGGER]"
+msgstr "Conditional"
+
+# events/eventsNew.xml?EVN_ACTION-EXECUTE_TRIGGER
+# events/eventsNew.xml
+#: dropdown - EVN_ACTION - EXECUTE_TRIGGER
+msgid "[events/eventsNew.xml?EVN_ACTION-EXECUTE_TRIGGER]"
+msgstr "Multiple"
+
+# events/eventsNew.xml?TRI_UID
+# events/eventsNew.xml
+#: dropdown - TRI_UID
+msgid "[events/eventsNew.xml?TRI_UID] "
+msgstr ""
+
+# events/eventsNew.xml?TRI_UID-
+# events/eventsNew.xml
+#: dropdown - TRI_UID -
+msgid "[events/eventsNew.xml?TRI_UID-]"
+msgstr ""
+
+# events/eventsNew.xml?TITLE3
+# events/eventsNew.xml
+#: title - TITLE3
+msgid "[events/eventsNew.xml?TITLE3] Event scheduled graph"
+msgstr "Event scheduled graph"
+
+# events/eventsNew.xml?BTN_CANCEL
+# events/eventsNew.xml
+#: button - BTN_CANCEL
+msgid "[events/eventsNew.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# events/eventsNew.xml?CONTINUE
+# events/eventsNew.xml
+#: button - CONTINUE
+msgid "[events/eventsNew.xml?CONTINUE] Continue"
+msgstr "Continue"
+
+# events/eventsOptions.xml?MNU_ADD
+# events/eventsOptions.xml
+#: link - MNU_ADD
+msgid "[events/eventsOptions.xml?MNU_ADD] New"
+msgstr "New"
+
+# events/eventsShortList.xml?EVN_DESCRIPTION
+# events/eventsShortList.xml
+#: text - EVN_DESCRIPTION
+msgid "[events/eventsShortList.xml?EVN_DESCRIPTION] Description"
+msgstr "Description"
+
+# events/eventsShortList.xml?EVN_WHEN_OCCURS
+# events/eventsShortList.xml
+#: dropdown - EVN_WHEN_OCCURS
+msgid "When occurs"
+msgstr "When occurs"
+
+# events/eventsShortList.xml?EVN_WHEN_OCCURS-AFTER_TIME
+# events/eventsShortList.xml
+#: dropdown - EVN_WHEN_OCCURS - AFTER_TIME
+msgid "[events/eventsShortList.xml?EVN_WHEN_OCCURS-AFTER_TIME]"
+msgstr "After time elapses"
+
+# events/eventsShortList.xml?EVN_WHEN_OCCURS-TASK_STARTED
+# events/eventsShortList.xml
+#: dropdown - EVN_WHEN_OCCURS - TASK_STARTED
+msgid "[events/eventsShortList.xml?EVN_WHEN_OCCURS-TASK_STARTED]"
+msgstr "After task started"
+
+# events/eventsShortList.xml?EVN_RELATED_TO
+# events/eventsShortList.xml
+#: dropdown - EVN_RELATED_TO
+msgid "[events/eventsShortList.xml?EVN_RELATED_TO] Type"
+msgstr "Type"
+
+# events/eventsShortList.xml?EVN_RELATED_TO-SINGLE
+# events/eventsShortList.xml
+#: dropdown - EVN_RELATED_TO - SINGLE
+msgid "[events/eventsShortList.xml?EVN_RELATED_TO-SINGLE]"
+msgstr "Single"
+
+# events/eventsShortList.xml?EVN_RELATED_TO-MULTIPLE
+# events/eventsShortList.xml
+#: dropdown - EVN_RELATED_TO - MULTIPLE
+msgid "[events/eventsShortList.xml?EVN_RELATED_TO-MULTIPLE]"
+msgstr "Multiple"
+
+# events/eventsShortList.xml?EVN_STATUS
+# events/eventsShortList.xml
+#: dropdown - EVN_STATUS
+msgid "[events/eventsShortList.xml?EVN_STATUS] Status"
+msgstr "Status"
+
+# events/eventsShortList.xml?EVN_STATUS-ACTIVE
+# events/eventsShortList.xml
+#: dropdown - EVN_STATUS - ACTIVE
+msgid "[events/eventsShortList.xml?EVN_STATUS-ACTIVE]"
+msgstr "Active"
+
+# events/eventsShortList.xml?EVN_STATUS-INACTIVE
+# events/eventsShortList.xml
+#: dropdown - EVN_STATUS - INACTIVE
+msgid "[events/eventsShortList.xml?EVN_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# events/eventsShortList.xml?DELETE
+# events/eventsShortList.xml
+#: link - DELETE
+msgid "[events/eventsShortList.xml?DELETE] "
+msgstr ""
+
+# events/groupmailList.xml?GROUP_TITLE
+# events/groupmailList.xml
+#: text - GROUP_TITLE
+msgid "Group name"
+msgstr "Group name"
+
+# events/usermailList.xml?USR_FULLNAME
+# events/usermailList.xml
+#: text - USR_FULLNAME
+msgid "Fullname"
+msgstr "Fullname"
+
+# events/usermailList.xml?USR_EMAIL
+# events/usermailList.xml
+#: text - USR_EMAIL
+msgid "email"
+msgstr "email"
+
+# groups/groups_AddUser.xml?title
+# groups/groups_AddUser.xml
+#: title - title
+msgid "[groups/groups_AddUser.xml?title] User"
+msgstr "User"
+
+# groups/groups_AddUser.xml?USR_UID
+# groups/groups_AddUser.xml
+#: dropdown - USR_UID
+msgid "[groups/groups_AddUser.xml?USR_UID] User"
+msgstr "User"
+
+# groups/groups_AddUser.xml?button
+# groups/groups_AddUser.xml
+#: button - button
+msgid "[groups/groups_AddUser.xml?button] Accept"
+msgstr "Accept"
+
+# groups/groups_AvailableUsers.xml?USR_FIRSTNAME
+# groups/groups_AvailableUsers.xml
+#: text - USR_FIRSTNAME
+msgid "[groups/groups_AvailableUsers.xml?USR_FIRSTNAME] Firstname"
+msgstr "Firstname"
+
+# groups/groups_AvailableUsers.xml?USR_LASTNAME
+# groups/groups_AvailableUsers.xml
+#: text - USR_LASTNAME
+msgid "[groups/groups_AvailableUsers.xml?USR_LASTNAME] Lastname"
+msgstr "Lastname"
+
+# groups/groups_Edit.xml?title
+# groups/groups_Edit.xml
+#: title - title
+msgid "Group Information"
+msgstr "Group Information"
+
+# groups/groups_Edit.xml?GRP_TITLE
+# groups/groups_Edit.xml
+#: text - GRP_TITLE
+msgid "[groups/groups_Edit.xml?GRP_TITLE] Name"
+msgstr "Name"
+
+# groups/groups_Edit.xml?GRP_STATUS
+# groups/groups_Edit.xml
+#: dropdown - GRP_STATUS
+msgid "[groups/groups_Edit.xml?GRP_STATUS] Status"
+msgstr "Status"
+
+# groups/groups_Edit.xml?GRP_STATUS-ACTIVE
+# groups/groups_Edit.xml
+#: dropdown - GRP_STATUS - ACTIVE
+msgid "[groups/groups_Edit.xml?GRP_STATUS-ACTIVE]"
+msgstr "Active"
+
+# groups/groups_Edit.xml?GRP_STATUS-INACTIVE
+# groups/groups_Edit.xml
+#: dropdown - GRP_STATUS - INACTIVE
+msgid "[groups/groups_Edit.xml?GRP_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# groups/groups_Edit.xml?BTN_CANCEL
+# groups/groups_Edit.xml
+#: button - BTN_CANCEL
+msgid "[groups/groups_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# groups/groups_Edit.xml?button
+# groups/groups_Edit.xml
+#: button - button
+msgid "[groups/groups_Edit.xml?button] Save"
+msgstr "Save"
+
+# groups/groups_List.xml?title
+# groups/groups_List.xml
+#: title - title
+msgid "Group properties"
+msgstr "Group properties"
+
+# groups/groups_List.xml?GROUP_TITLE
+# groups/groups_List.xml
+#: text - GROUP_TITLE
+msgid "[groups/groups_List.xml?GROUP_TITLE] Group"
+msgstr "Group"
+
+# groups/groups_List.xml?GROUP_STATUS
+# groups/groups_List.xml
+#: dropdown - GROUP_STATUS
+msgid "[groups/groups_List.xml?GROUP_STATUS] Status"
+msgstr "Status"
+
+# groups/groups_List.xml?GROUP_STATUS-ACTIVE
+# groups/groups_List.xml
+#: dropdown - GROUP_STATUS - ACTIVE
+msgid "[groups/groups_List.xml?GROUP_STATUS-ACTIVE]"
+msgstr "Active"
+
+# groups/groups_List.xml?GROUP_STATUS-INACTIVE
+# groups/groups_List.xml
+#: dropdown - GROUP_STATUS - INACTIVE
+msgid "[groups/groups_List.xml?GROUP_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# groups/groups_List.xml?GROUP_STATUS-VACATION
+# groups/groups_List.xml
+#: dropdown - GROUP_STATUS - VACATION
+msgid "[groups/groups_List.xml?GROUP_STATUS-VACATION]"
+msgstr "Vacation"
+
+# groups/groups_List.xml?GROUP_STATUS-CLOSED
+# groups/groups_List.xml
+#: dropdown - GROUP_STATUS - CLOSED
+msgid "[groups/groups_List.xml?GROUP_STATUS-CLOSED]"
+msgstr "Closed"
+
+# groups/groups_List.xml?button
+# groups/groups_List.xml
+#: button - button
+msgid "[groups/groups_List.xml?button] Accept"
+msgstr "Accept"
+
+# groups/groups_Options.xml?MNU_ADD_EMPLOYE
+# groups/groups_Options.xml
+#: link - MNU_ADD_EMPLOYE
+msgid "[groups/groups_Options.xml?MNU_ADD_EMPLOYE] Assign"
+msgstr "Assign"
+
+# groups/groups_Search.xml?USR_USERNAME
+# groups/groups_Search.xml
+#: text - USR_USERNAME
+msgid "User name"
+msgstr "User name"
+
+# groups/groups_Search.xml?SEARCH
+# groups/groups_Search.xml
+#: button - SEARCH
+msgid "[groups/groups_Search.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# groups/groups_SelectUsers.xml?BTN_SUBMIT
+# groups/groups_SelectUsers.xml
+#: button - BTN_SUBMIT
+msgid "[groups/groups_SelectUsers.xml?BTN_SUBMIT] Assign"
+msgstr "Assign"
+
+# groups/groups_UsersList.xml?USR_USERNAME
+# groups/groups_UsersList.xml
+#: text - USR_USERNAME
+msgid "[groups/groups_UsersList.xml?USR_USERNAME] Username"
+msgstr "Username"
+
+# groups/groups_UsersList.xml?USR_FIRSTNAME
+# groups/groups_UsersList.xml
+#: text - USR_FIRSTNAME
+msgid "[groups/groups_UsersList.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# groups/groups_UsersList.xml?USR_LASTNAME
+# groups/groups_UsersList.xml
+#: text - USR_LASTNAME
+msgid "[groups/groups_UsersList.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# groups/groups_UsersList.xml?DELETE
+# groups/groups_UsersList.xml
+#: link - DELETE
+msgid "[groups/groups_UsersList.xml?DELETE] "
+msgstr ""
+
+# groups/groups_UsersListTitle.xml?GRP_LABEL
+# groups/groups_UsersListTitle.xml
+#: title - GRP_LABEL
+msgid "@#GRP_NAME"
+msgstr "@#GRP_NAME"
+
+# gulliver/dynaforms_Options.xml?DYN_BACKWARD
+# gulliver/dynaforms_Options.xml
+#: link - DYN_BACKWARD
+msgid "[gulliver/dynaforms_Options.xml?DYN_BACKWARD] Previous Step"
+msgstr "Previous Step"
+
+# gulliver/dynaforms_Options.xml?DYN_FORWARD
+# gulliver/dynaforms_Options.xml
+#: link - DYN_FORWARD
+msgid "[gulliver/dynaforms_Options.xml?DYN_FORWARD] Next Step"
+msgstr "Next Step"
+
+# gulliver/dynaforms_OptionsPrint.xml?MNUP
+# gulliver/dynaforms_OptionsPrint.xml
+#: print - MNUP
+msgid "Print form"
+msgstr "Print form"
+
+# gulliver/dynaforms_OptionsPrint.xml?DYN_BACKWARD
+# gulliver/dynaforms_OptionsPrint.xml
+#: link - DYN_BACKWARD
+msgid "[gulliver/dynaforms_OptionsPrint.xml?DYN_BACKWARD] Previous Step"
+msgstr "Previous Step"
+
+# gulliver/dynaforms_OptionsPrint.xml?DYN_FORWARD
+# gulliver/dynaforms_OptionsPrint.xml
+#: link - DYN_FORWARD
+msgid "[gulliver/dynaforms_OptionsPrint.xml?DYN_FORWARD] Next Step"
+msgstr "Next Step"
+
+# inputdocs/inputdocs_AvailableSupervisorInputs.xml?INP_DOC_TITLE
+# inputdocs/inputdocs_AvailableSupervisorInputs.xml
+#: text - INP_DOC_TITLE
+msgid "[inputdocs/inputdocs_AvailableSupervisorInputs.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# inputdocs/inputdocs_AvailableSupervisorInputs.xml?SEARCH
+# inputdocs/inputdocs_AvailableSupervisorInputs.xml
+#: button - SEARCH
+msgid "[inputdocs/inputdocs_AvailableSupervisorInputs.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# inputdocs/inputdocs_Edit.xml?TITLE
+# inputdocs/inputdocs_Edit.xml
+#: title - TITLE
+msgid "[inputdocs/inputdocs_Edit.xml?TITLE] Input Document Information"
+msgstr "Input Document Information"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_TITLE
+# inputdocs/inputdocs_Edit.xml
+#: text - INP_DOC_TITLE
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-REAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-VREAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-ORIGINAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-COPY
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_DESCRIPTION
+# inputdocs/inputdocs_Edit.xml
+#: textarea - INP_DOC_DESCRIPTION
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_VERSIONING
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING] Enable Versioning"
+msgstr "Enable Versioning"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING-
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_VERSIONING -
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING-]"
+msgstr "NO"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING-1
+# inputdocs/inputdocs_Edit.xml
+#: dropdown - INP_DOC_VERSIONING - 1
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_VERSIONING-1]"
+msgstr "YES"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_DESTINATION_PATH
+# inputdocs/inputdocs_Edit.xml
+#: textpm - INP_DOC_DESTINATION_PATH
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_DESTINATION_PATH] Destination Path"
+msgstr "Destination Path"
+
+# inputdocs/inputdocs_Edit.xml?INP_DOC_TAGS
+# inputdocs/inputdocs_Edit.xml
+#: textpm - INP_DOC_TAGS
+msgid "[inputdocs/inputdocs_Edit.xml?INP_DOC_TAGS] Tags"
+msgstr "Tags"
+
+# inputdocs/inputdocs_Edit.xml?BTN_CANCEL
+# inputdocs/inputdocs_Edit.xml
+#: button - BTN_CANCEL
+msgid "[inputdocs/inputdocs_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# inputdocs/inputdocs_Edit.xml?ACCEPT
+# inputdocs/inputdocs_Edit.xml
+#: button - ACCEPT
+msgid "[inputdocs/inputdocs_Edit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_TITLE
+# inputdocs/inputdocs_List.xml
+#: text - INP_DOC_TITLE
+msgid "Input document"
+msgstr "Input document"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED] Type"
+msgstr "Type"
+

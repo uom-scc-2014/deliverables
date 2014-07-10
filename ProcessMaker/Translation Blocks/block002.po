@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INCORRECT_USER_OR_PASS
+#: JAVASCRIPT/ID_INCORRECT_USER_OR_PASS
+msgid "Incorrect username or password"
+msgstr "Incorrect username or password"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INFORMATION
+#: JAVASCRIPT/ID_INFORMATION
+msgid "Information"
+msgstr "Information"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INPUT_DOCUMENT_HISTORY
+#: JAVASCRIPT/ID_INPUT_DOCUMENT_HISTORY
+msgid "Input Document History"
+msgstr "Input Document History"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INSERT_HTML
+#: JAVASCRIPT/ID_INSERT_HTML
+msgid "Insert HTML code"
+msgstr "Insert HTML code"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INTERMEDIATE_CONDITIONAL_EVENT
+#: JAVASCRIPT/ID_INTERMEDIATE_CONDITIONAL_EVENT
+msgid "Intermediate Conditional"
+msgstr "Intermediate Conditional"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INTERMEDIATE_MESSAGE_EVENT
+#: JAVASCRIPT/ID_INTERMEDIATE_MESSAGE_EVENT
+msgid "Intermediate message"
+msgstr "Intermediate message"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INTERMEDIATE_TIMER_EVENT
+#: JAVASCRIPT/ID_INTERMEDIATE_TIMER_EVENT
+msgid "Intermediate timer"
+msgstr "Intermediate timer"
+
+# TRANSLATION
+# JAVASCRIPT/ID_INVALID_EMAIL
+#: JAVASCRIPT/ID_INVALID_EMAIL
+msgid "The E-mail address is not valid."
+msgstr "The E-mail address is not valid."
+
+# TRANSLATION
+# JAVASCRIPT/ID_LOST_SESSION_XMLFORM
+#: JAVASCRIPT/ID_LOST_SESSION_XMLFORM
+msgid "You have lost your session and you have to login to continue."
+msgstr "You have lost your session and you have to login to continue."
+
+# TRANSLATION
+# JAVASCRIPT/ID_MAIL_FAILED
+#: JAVASCRIPT/ID_MAIL_FAILED
+msgid "The test failure, you must configure yourrnserver to send messages"
+msgstr "The test failure, you must configure yourrnserver to send messages"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MAIL_SUCESSFULLY
+#: JAVASCRIPT/ID_MAIL_SUCESSFULLY
+msgid "Test message sent successfully"
+msgstr "Test message sent successfully"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESSAGE_FIELD_REQUIRED
+#: JAVASCRIPT/ID_MESSAGE_FIELD_REQUIRED
+msgid "Message Field is required."
+msgstr "Message Field is required."
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESS_ACCOUNT_REQUIRED
+#: JAVASCRIPT/ID_MESS_ACCOUNT_REQUIRED
+msgid "The email account is required"
+msgstr "The email account is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESS_EXECUTE_EVERY_REQUIRED
+#: JAVASCRIPT/ID_MESS_EXECUTE_EVERY_REQUIRED
+msgid "The 'Execute Every' field is required"
+msgstr "The 'Execute Every' field is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESS_SERVER_REQUIRED
+#: JAVASCRIPT/ID_MESS_SERVER_REQUIRED
+msgid "The email server is required"
+msgstr "The email server is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESS_TEST_FROM_EMAIL
+#: JAVASCRIPT/ID_MESS_TEST_FROM_EMAIL
+msgid "The 'From Email' field is required"
+msgstr "The 'From Email' field is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MESS_TEST_TO
+#: JAVASCRIPT/ID_MESS_TEST_TO
+msgid "The 'To' field is required"
+msgstr "The 'To' field is required"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM
+#: JAVASCRIPT/ID_MSG_CONFIRM
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_DELETE_DIRECTORY
+#: JAVASCRIPT/ID_MSG_CONFIRM_DELETE_DIRECTORY
+msgid "Do you want to delete this directory and delete all its contents?"
+msgstr "Do you want to delete this directory and delete all its contents?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_DELETE_FILE
+#: JAVASCRIPT/ID_MSG_CONFIRM_DELETE_FILE
+msgid "Do you want to delete this file?"
+msgstr "Do you want to delete this file?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_DELETE_OBJECT_PERMISSION
+#: JAVASCRIPT/ID_MSG_CONFIRM_DELETE_OBJECT_PERMISSION
+msgid "Do you want to delete this permission ?"
+msgstr "Do you want to delete this permission ?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_DELETE_SUPERVISOR_PROCESSUSER
+#: JAVASCRIPT/ID_MSG_CONFIRM_DELETE_SUPERVISOR_PROCESSUSER
+msgid "Do you want to delete this supervisor?"
+msgstr "Do you want to delete this supervisor?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_REACTIVATE_CASES
+#: JAVASCRIPT/ID_MSG_CONFIRM_REACTIVATE_CASES
+msgid "Are you sure you want to reactivate this case?"
+msgstr "Are you sure you want to reactivate this case?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_DBS
+#: JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_DBS
+msgid "Are you sure you want to remove this DB Connection?"
+msgstr "Are you sure you want to remove this DB Connection?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_TASK
+#: JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_TASK
+msgid "Do you want to remove this task?"
+msgstr "Do you want to remove this task?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_TRIGGER
+#: JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_TRIGGER
+msgid "[JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_TRIGGER] Are you sure you want to remove this trigger?"
+msgstr "Are you sure you want to remove this trigger?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_USERGROUP
+#: JAVASCRIPT/ID_MSG_CONFIRM_REMOVE_USERGROUP
+msgid "Are you sure you want to remove this user group?"
+msgstr "Are you sure you want to remove this user group?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_CONFIRM_RESENDMSG
+#: JAVASCRIPT/ID_MSG_CONFIRM_RESENDMSG
+msgid "Are you sure that you want to resend this message?"
+msgstr "Are you sure that you want to resend this message?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_DELETE_GRID_ITEM
+#: JAVASCRIPT/ID_MSG_DELETE_GRID_ITEM
+msgid "Are you sure you want to delete this row?"
+msgstr "Are you sure you want to delete this row?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_GROUPS_ADDCONFIRM
+#: JAVASCRIPT/ID_MSG_GROUPS_ADDCONFIRM
+msgid "At least one user must be selected."
+msgstr "At least one user must be selected."
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_NODELETE_GRID_ITEM
+#: JAVASCRIPT/ID_MSG_NODELETE_GRID_ITEM
+msgid "Can't delete the first row!"
+msgstr "Can't delete the first row!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_REMOVE_PLUGIN
+#: JAVASCRIPT/ID_MSG_REMOVE_PLUGIN
+msgid "Are you sure that you want to remove this plugin?"
+msgstr "Are you sure that you want to remove this plugin?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_RESSIGN_B
+#: JAVASCRIPT/ID_MSG_RESSIGN_B
+msgid "At least one item from the list must be selected."
+msgstr "At least one item from the list must be selected."
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSG_RESSIGN_BYUSER_PANEL
+#: JAVASCRIPT/ID_MSG_RESSIGN_BYUSER_PANEL
+msgid "Users selection interface"
+msgstr "Users selection interface"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSJ
+#: JAVASCRIPT/ID_MSJ
+msgid "Group name already exists!"
+msgstr "Group name already exists!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_MSJ_DEPTO
+#: JAVASCRIPT/ID_MSJ_DEPTO
+msgid "Department name already exists!"
+msgstr "Department name already exists!"
+
+# TRANSLATION
+# JAVASCRIPT/ID_NEW_DBC
+#: JAVASCRIPT/ID_NEW_DBC
+msgid "New Database Connection"
+msgstr "New Database Connection"
+
+# TRANSLATION
+# JAVASCRIPT/ID_NO_DERIVATIONS_DEFINED
+#: JAVASCRIPT/ID_NO_DERIVATIONS_DEFINED
+msgid "No routings were defined."
+msgstr "No routings were defined."
+
+# TRANSLATION
+# JAVASCRIPT/ID_OBJECT_PERMISSIONS
+#: JAVASCRIPT/ID_OBJECT_PERMISSIONS
+msgid "Process Permissions"
+msgstr "Process Permissions"
+
+# TRANSLATION
+# JAVASCRIPT/ID_OPEN_SEARCH
+#: JAVASCRIPT/ID_OPEN_SEARCH
+msgid "Advanced Search"
+msgstr "Advanced Search"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PASSWORD_REQUIRED
+#: JAVASCRIPT/ID_PASSWORD_REQUIRED
+msgid "The password is required, or uncheck the option Require Authentication"
+msgstr "The password is required, or uncheck the option Require Authentication"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PLEASE_SELECT_OTHER_OBJECT_TYPE
+#: JAVASCRIPT/ID_PLEASE_SELECT_OTHER_OBJECT_TYPE
+msgid "Please select other object type"
+msgstr "Please select other object type"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_ADD_STAGE
+#: JAVASCRIPT/ID_PROCESSMAP_ADD_STAGE
+msgid "Add Stage"
+msgstr "Add Stage"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_ADD_SUBPROCESS
+#: JAVASCRIPT/ID_PROCESSMAP_ADD_SUBPROCESS
+msgid "Add Sub-Process"
+msgstr "Add Sub-Process"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_ADD_TASK
+#: JAVASCRIPT/ID_PROCESSMAP_ADD_TASK
+msgid "Add task"
+msgstr "Add task"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_ADD_TEXT
+#: JAVASCRIPT/ID_PROCESSMAP_ADD_TEXT
+msgid "Add text"
+msgstr "Add text"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE
+#: JAVASCRIPT/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE
+msgid "Are you sure you want to delete this calendar?"
+msgstr "Are you sure you want to delete this calendar?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CANCEL
+#: JAVASCRIPT/ID_PROCESSMAP_CANCEL
+msgid "[JAVASCRIPT/ID_PROCESSMAP_CANCEL] Cancel"
+msgstr "Cancel"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CASE_SCHEDULER_TITLE
+#: JAVASCRIPT/ID_PROCESSMAP_CASE_SCHEDULER_TITLE
+msgid "Case Scheduler List"
+msgstr "Case Scheduler List"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONDITIONS
+#: JAVASCRIPT/ID_PROCESSMAP_CONDITIONS
+msgid "Conditions"
+msgstr "Conditions"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_ALL_LINES
+#: JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_ALL_LINES
+msgid "Do you want to delete the guide lines?"
+msgstr "Do you want to delete the guide lines?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_STAGE
+#: JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_STAGE
+msgid "Do you want to delete the stage:"
+msgstr "Do you want to delete the stage:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_SUBPROCESS
+#: JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_SUBPROCESS
+msgid "Do you want to delete the Sub-Process:"
+msgstr "Do you want to delete the Sub-Process:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_TASK
+#: JAVASCRIPT/ID_PROCESSMAP_CONFIRM_DELETE_TASK
+msgid "Do you want to delete the task:"
+msgstr "Do you want to delete the task:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_CONFIRM_WORKFLOW_PATTERN_CHANGE
+#: JAVASCRIPT/ID_PROCESSMAP_CONFIRM_WORKFLOW_PATTERN_CHANGE
+msgid "Are you sure you want to change the routing rule?"
+msgstr "Are you sure you want to change the routing rule?"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_ALL_LINES
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_ALL_LINES
+msgid "Delete all lines"
+msgstr "Delete all lines"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_GUIDE
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_GUIDE
+msgid "Delete line"
+msgstr "Delete line"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_LINE
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_LINE
+msgid "[JAVASCRIPT/ID_PROCESSMAP_DELETE_LINE] Delete line"
+msgstr "Delete line"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_STAGE
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_STAGE
+msgid "Delete Stage"
+msgstr "Delete Stage"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_SUBPROCESS
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_SUBPROCESS
+msgid "Delete Sub-Process"
+msgstr "Delete Sub-Process"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_TASK
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_TASK
+msgid "Delete task"
+msgstr "Delete task"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_DELETE_TEXT
+#: JAVASCRIPT/ID_PROCESSMAP_DELETE_TEXT
+msgid "Delete text"
+msgstr "Delete text"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EDIT
+#: JAVASCRIPT/ID_PROCESSMAP_EDIT
+msgid "Edit"
+msgstr "Edit"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EDIT_PROCESS
+#: JAVASCRIPT/ID_PROCESSMAP_EDIT_PROCESS
+msgid "[JAVASCRIPT/ID_PROCESSMAP_EDIT_PROCESS] Edit process"
+msgstr "Edit process"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EDIT_TEXT
+#: JAVASCRIPT/ID_PROCESSMAP_EDIT_TEXT
+msgid "Edit text"
+msgstr "Edit text"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EDIT_TEXT_CHANGE_TO
+#: JAVASCRIPT/ID_PROCESSMAP_EDIT_TEXT_CHANGE_TO
+msgid "Change to:"
+msgstr "Change to:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EVALUATION
+#: JAVASCRIPT/ID_PROCESSMAP_EVALUATION
+msgid "Evaluation"
+msgstr "Evaluation"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_EXPORT_PROCESS
+#: JAVASCRIPT/ID_PROCESSMAP_EXPORT_PROCESS
+msgid "Export Process"
+msgstr "Export Process"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_HORIZONTAL_LINE
+#: JAVASCRIPT/ID_PROCESSMAP_HORIZONTAL_LINE
+msgid "Horizontal line"
+msgstr "Horizontal line"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_INPUT_DOCUMENTS
+#: JAVASCRIPT/ID_PROCESSMAP_INPUT_DOCUMENTS
+msgid "Input Documents"
+msgstr "Input Documents"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_LOADING
+#: JAVASCRIPT/ID_PROCESSMAP_LOADING
+msgid "Loading......"
+msgstr "Loading......"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_NEW_TASK
+#: JAVASCRIPT/ID_PROCESSMAP_NEW_TASK
+msgid "New task"
+msgstr "New task"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_OUTPUT_DOCUMENTS
+#: JAVASCRIPT/ID_PROCESSMAP_OUTPUT_DOCUMENTS
+msgid "Output Documents"
+msgstr "Output Documents"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK
+#: JAVASCRIPT/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK
+msgid "Parallel by Evaluation (fork)"
+msgstr "Parallel by Evaluation (fork)"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PARALLEL_FORK
+#: JAVASCRIPT/ID_PROCESSMAP_PARALLEL_FORK
+msgid "Parallel (fork)"
+msgstr "Parallel (fork)"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PARALLEL_JOIN
+#: JAVASCRIPT/ID_PROCESSMAP_PARALLEL_JOIN
+msgid "Parallel (join)"
+msgstr "Parallel (join)"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PROCESS_SUPERVISORS
+#: JAVASCRIPT/ID_PROCESSMAP_PROCESS_SUPERVISORS
+msgid "Supervisors"
+msgstr "Supervisors"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PROMPT_RENAME_TEXT
+#: JAVASCRIPT/ID_PROCESSMAP_PROMPT_RENAME_TEXT
+msgid "Rename to:"
+msgstr "Rename to:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PROPERTIES
+#: JAVASCRIPT/ID_PROCESSMAP_PROPERTIES
+msgid "[JAVASCRIPT/ID_PROCESSMAP_PROPERTIES] Properties"
+msgstr "Properties"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_PSUPERVISORS
+#: JAVASCRIPT/ID_PROCESSMAP_PSUPERVISORS
+msgid "Process Supervisors"
+msgstr "Process Supervisors"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_REPORT_TABLES
+#: JAVASCRIPT/ID_PROCESSMAP_REPORT_TABLES
+msgid "Report Tables"
+msgstr "Report Tables"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_REPORT_TO
+#: JAVASCRIPT/ID_PROCESSMAP_REPORT_TO
+msgid "Report to"
+msgstr "Report to"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_SELECTION
+#: JAVASCRIPT/ID_PROCESSMAP_SELECTION
+msgid "Selection"
+msgstr "Selection"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_SEQUENTIAL
+#: JAVASCRIPT/ID_PROCESSMAP_SEQUENTIAL
+msgid "Sequential"
+msgstr "Sequential"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_STEPS
+#: JAVASCRIPT/ID_PROCESSMAP_STEPS
+msgid "Steps"
+msgstr "Steps"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_SUBMIT
+#: JAVASCRIPT/ID_PROCESSMAP_SUBMIT
+msgid "Save"
+msgstr "Save"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_DYNAFORMS
+#: JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_DYNAFORMS
+msgid "[JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_DYNAFORMS] DynaForms"
+msgstr "DynaForms"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_INPUTS
+#: JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_INPUTS
+msgid "[JAVASCRIPT/ID_PROCESSMAP_SUPERVISORS_INPUTS] Input Documents"
+msgstr "Input Documents"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK
+#: JAVASCRIPT/ID_PROCESSMAP_TASK
+msgid "Task"
+msgstr "Task"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASKS_ASSIGNED
+#: JAVASCRIPT/ID_PROCESSMAP_TASKS_ASSIGNED
+msgid "Tasks Assigned"
+msgstr "Tasks Assigned"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASKS_ASSIGNED_FOR
+#: JAVASCRIPT/ID_PROCESSMAP_TASKS_ASSIGNED_FOR
+msgid "Tasks Assigned For"
+msgstr "Tasks Assigned For"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_ASSIGNMENTS
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_ASSIGNMENTS
+msgid "Assignment rules"
+msgstr "Assignment rules"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_DEFINITION
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_DEFINITION
+msgid "Definition"
+msgstr "Definition"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_LABELS
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_LABELS
+msgid "Case Labels"
+msgstr "Case Labels"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_NOTIFICATIONS
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_NOTIFICATIONS
+msgid "Notifications"
+msgstr "Notifications"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_PERMISSIONS
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_PERMISSIONS
+msgid "Permissions"
+msgstr "Permissions"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_TIMING
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_PROPERTIES_TIMING
+msgid "Timing control"
+msgstr "Timing control"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TASK_STEPS
+#: JAVASCRIPT/ID_PROCESSMAP_TASK_STEPS
+msgid "Steps of:"
+msgstr "Steps of:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TEXT
+#: JAVASCRIPT/ID_PROCESSMAP_TEXT
+msgid "Text:"
+msgstr "Text:"
+
+# TRANSLATION
+# JAVASCRIPT/ID_PROCESSMAP_TRIGGERS
+#: JAVASCRIPT/ID_PROCESSMAP_TRIGGERS
+msgid "Triggers"
+msgstr "Triggers"
+

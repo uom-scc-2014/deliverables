@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# cases/cases_ListCompleted.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListCompleted.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListCompleted.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListCompleted.xml?APP_UPDATE_DATE
+# cases/cases_ListCompleted.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListCompleted.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListCompleted.xml?DEL_INIT_DATE
+# cases/cases_ListCompleted.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListCompleted.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListCompleted.xml?DEL_FINISH_DATE
+# cases/cases_ListCompleted.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_ListCompleted.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_ListCompleted.xml?VIEW
+# cases/cases_ListCompleted.xml
+#: link - VIEW
+msgid "[cases/cases_ListCompleted.xml?VIEW] "
+msgstr ""
+
+# cases/cases_ListCompleted.xml?SEARCH
+# cases/cases_ListCompleted.xml
+#: button - SEARCH
+msgid "[cases/cases_ListCompleted.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListDraft.xml?APP_NUMBER
+# cases/cases_ListDraft.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListDraft.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListDraft.xml?APP_TITLE
+# cases/cases_ListDraft.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListDraft.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListDraft.xml?APP_TAS_TITLE
+# cases/cases_ListDraft.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListDraft.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListDraft.xml?APP_PRO_TITLE
+# cases/cases_ListDraft.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListDraft.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListDraft.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListDraft.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListDraft.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListDraft.xml?APP_UPDATE_DATE
+# cases/cases_ListDraft.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListDraft.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListDraft.xml?DEL_INIT_DATE
+# cases/cases_ListDraft.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListDraft.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListDraft.xml?OPEN
+# cases/cases_ListDraft.xml
+#: link - OPEN
+msgid "[cases/cases_ListDraft.xml?OPEN] "
+msgstr ""
+
+# cases/cases_ListDraft.xml?DELETE
+# cases/cases_ListDraft.xml
+#: link - DELETE
+msgid "[cases/cases_ListDraft.xml?DELETE] "
+msgstr ""
+
+# cases/cases_ListDraft.xml?SEARCH
+# cases/cases_ListDraft.xml
+#: button - SEARCH
+msgid "[cases/cases_ListDraft.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListOnHold.xml?APP_NUMBER
+# cases/cases_ListOnHold.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListOnHold.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListOnHold.xml?APP_TITLE
+# cases/cases_ListOnHold.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListOnHold.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListOnHold.xml?APP_TAS_TITLE
+# cases/cases_ListOnHold.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListOnHold.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListOnHold.xml?APP_PRO_TITLE
+# cases/cases_ListOnHold.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListOnHold.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListOnHold.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_ListOnHold.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_ListOnHold.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_ListOnHold.xml?APP_UPDATE_DATE
+# cases/cases_ListOnHold.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListOnHold.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListOnHold.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListOnHold.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListOnHold.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListOnHold.xml?DEL_INIT_DATE
+# cases/cases_ListOnHold.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListOnHold.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListOnHold.xml?DEL_FINISH_DATE
+# cases/cases_ListOnHold.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_ListOnHold.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_ListOnHold.xml?VIEW
+# cases/cases_ListOnHold.xml
+#: link - VIEW
+msgid "[cases/cases_ListOnHold.xml?VIEW] "
+msgstr ""
+
+# cases/cases_ListOnHold.xml?SEARCH
+# cases/cases_ListOnHold.xml
+#: button - SEARCH
+msgid "[cases/cases_ListOnHold.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListSelfService.xml?APP_NUMBER
+# cases/cases_ListSelfService.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListSelfService.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListSelfService.xml?APP_TITLE
+# cases/cases_ListSelfService.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListSelfService.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListSelfService.xml?APP_TAS_TITLE
+# cases/cases_ListSelfService.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListSelfService.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListSelfService.xml?APP_PRO_TITLE
+# cases/cases_ListSelfService.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListSelfService.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListSelfService.xml?APP_CURRENT_USER
+# cases/cases_ListSelfService.xml
+#: text - APP_CURRENT_USER
+msgid "[cases/cases_ListSelfService.xml?APP_CURRENT_USER] Completed by user"
+msgstr "Completed by user"
+
+# cases/cases_ListSelfService.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListSelfService.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListSelfService.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListSelfService.xml?APP_UPDATE_DATE
+# cases/cases_ListSelfService.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListSelfService.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListSelfService.xml?DEL_INIT_DATE
+# cases/cases_ListSelfService.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListSelfService.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListSelfService.xml?DEL_FINISH_DATE
+# cases/cases_ListSelfService.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_ListSelfService.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_ListSelfService.xml?VIEW
+# cases/cases_ListSelfService.xml
+#: link - VIEW
+msgid "[cases/cases_ListSelfService.xml?VIEW] "
+msgstr ""
+
+# cases/cases_ListSelfService.xml?SEARCH
+# cases/cases_ListSelfService.xml
+#: button - SEARCH
+msgid "[cases/cases_ListSelfService.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListSent.xml?APP_NUMBER
+# cases/cases_ListSent.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListSent.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListSent.xml?APP_TITLE
+# cases/cases_ListSent.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListSent.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListSent.xml?APP_TAS_TITLE
+# cases/cases_ListSent.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListSent.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListSent.xml?APP_PRO_TITLE
+# cases/cases_ListSent.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListSent.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListSent.xml?APP_CURRENT_USER
+# cases/cases_ListSent.xml
+#: text - APP_CURRENT_USER
+msgid "[cases/cases_ListSent.xml?APP_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# cases/cases_ListSent.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_ListSent.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_ListSent.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_ListSent.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListSent.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListSent.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListSent.xml?APP_UPDATE_DATE
+# cases/cases_ListSent.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListSent.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListSent.xml?DEL_INIT_DATE
+# cases/cases_ListSent.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListSent.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListSent.xml?DEL_FINISH_DATE
+# cases/cases_ListSent.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_ListSent.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_ListSent.xml?APP_STATUS
+# cases/cases_ListSent.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_ListSent.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_ListSent.xml?APP_STATUS-DRAFT
+# cases/cases_ListSent.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_ListSent.xml?APP_STATUS-DRAFT]"
+msgstr "Draft"
+
+# cases/cases_ListSent.xml?APP_STATUS-TO_DO
+# cases/cases_ListSent.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_ListSent.xml?APP_STATUS-TO_DO]"
+msgstr "To Do"
+
+# cases/cases_ListSent.xml?APP_STATUS-CANCELLED
+# cases/cases_ListSent.xml
+#: dropdown - APP_STATUS - CANCELLED
+msgid "[cases/cases_ListSent.xml?APP_STATUS-CANCELLED]"
+msgstr "Cancelled"
+
+# cases/cases_ListSent.xml?APP_STATUS-COMPLETED
+# cases/cases_ListSent.xml
+#: dropdown - APP_STATUS - COMPLETED
+msgid "[cases/cases_ListSent.xml?APP_STATUS-COMPLETED]"
+msgstr "Completed"
+
+# cases/cases_ListSent.xml?OPEN
+# cases/cases_ListSent.xml
+#: link - OPEN
+msgid "[cases/cases_ListSent.xml?OPEN] "
+msgstr ""
+
+# cases/cases_ListSent.xml?SEARCH
+# cases/cases_ListSent.xml
+#: button - SEARCH
+msgid "[cases/cases_ListSent.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListStarted.xml?APP_NUMBER
+# cases/cases_ListStarted.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListStarted.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListStarted.xml?APP_TITLE
+# cases/cases_ListStarted.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListStarted.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListStarted.xml?APP_TAS_TITLE
+# cases/cases_ListStarted.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListStarted.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListStarted.xml?APP_PRO_TITLE
+# cases/cases_ListStarted.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListStarted.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListStarted.xml?APP_CURRENT_USER
+# cases/cases_ListStarted.xml
+#: text - APP_CURRENT_USER
+msgid "[cases/cases_ListStarted.xml?APP_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# cases/cases_ListStarted.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_ListStarted.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_ListStarted.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_ListStarted.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListStarted.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListStarted.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListStarted.xml?APP_UPDATE_DATE
+# cases/cases_ListStarted.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListStarted.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListStarted.xml?DEL_INIT_DATE
+# cases/cases_ListStarted.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListStarted.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListStarted.xml?DEL_FINISH_DATE
+# cases/cases_ListStarted.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_ListStarted.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_ListStarted.xml?APP_STATUS
+# cases/cases_ListStarted.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_ListStarted.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_ListStarted.xml?APP_STATUS-DRAFT
+# cases/cases_ListStarted.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_ListStarted.xml?APP_STATUS-DRAFT]"
+msgstr "Draft"
+
+# cases/cases_ListStarted.xml?APP_STATUS-TO_DO
+# cases/cases_ListStarted.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_ListStarted.xml?APP_STATUS-TO_DO]"
+msgstr "To Do"
+
+# cases/cases_ListStarted.xml?APP_STATUS-CANCELLED
+# cases/cases_ListStarted.xml
+#: dropdown - APP_STATUS - CANCELLED
+msgid "[cases/cases_ListStarted.xml?APP_STATUS-CANCELLED]"
+msgstr "Cancelled"
+
+# cases/cases_ListStarted.xml?APP_STATUS-COMPLETED
+# cases/cases_ListStarted.xml
+#: dropdown - APP_STATUS - COMPLETED
+msgid "[cases/cases_ListStarted.xml?APP_STATUS-COMPLETED]"
+msgstr "Completed"
+
+# cases/cases_ListStarted.xml?OPEN
+# cases/cases_ListStarted.xml
+#: link - OPEN
+msgid "[cases/cases_ListStarted.xml?OPEN] "
+msgstr ""
+
+# cases/cases_ListStarted.xml?SEARCH
+# cases/cases_ListStarted.xml
+#: button - SEARCH
+msgid "[cases/cases_ListStarted.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListToRevise.xml?APP_NUMBER
+# cases/cases_ListToRevise.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListToRevise.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListToRevise.xml?APP_TITLE
+# cases/cases_ListToRevise.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListToRevise.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListToRevise.xml?APP_TAS_TITLE
+# cases/cases_ListToRevise.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListToRevise.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListToRevise.xml?APP_PRO_TITLE
+# cases/cases_ListToRevise.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListToRevise.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListToRevise.xml?APP_CURRENT_USER
+# cases/cases_ListToRevise.xml
+#: text - APP_CURRENT_USER
+msgid "[cases/cases_ListToRevise.xml?APP_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# cases/cases_ListToRevise.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_ListToRevise.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_ListToRevise.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_ListToRevise.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListToRevise.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListToRevise.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListToRevise.xml?APP_UPDATE_DATE
+# cases/cases_ListToRevise.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListToRevise.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY] Priority"
+msgstr "Priority"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY-1
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY - 1
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY-1]"
+msgstr "Very High"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY-2
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY - 2
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY-2]"
+msgstr "High"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY-3
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY - 3
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY-3]"
+msgstr "Normal"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY-4
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY - 4
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY-4]"
+msgstr "Low"
+
+# cases/cases_ListToRevise.xml?DEL_PRIORITY-5
+# cases/cases_ListToRevise.xml
+#: dropdown - DEL_PRIORITY - 5
+msgid "[cases/cases_ListToRevise.xml?DEL_PRIORITY-5]"
+msgstr "Very Low"
+
+# cases/cases_ListToRevise.xml?DEL_INIT_DATE
+# cases/cases_ListToRevise.xml
+#: text - DEL_INIT_DATE
+msgid "[cases/cases_ListToRevise.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_ListToRevise.xml?APP_STATUS
+# cases/cases_ListToRevise.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_ListToRevise.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_ListToRevise.xml?APP_STATUS-DRAFT
+# cases/cases_ListToRevise.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_ListToRevise.xml?APP_STATUS-DRAFT]"
+msgstr "Draft"
+
+# cases/cases_ListToRevise.xml?APP_STATUS-TO_DO
+# cases/cases_ListToRevise.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_ListToRevise.xml?APP_STATUS-TO_DO]"
+msgstr "To Do"
+
+# cases/cases_ListToRevise.xml?APP_STATUS-CANCELLED
+# cases/cases_ListToRevise.xml
+#: dropdown - APP_STATUS - CANCELLED
+msgid "[cases/cases_ListToRevise.xml?APP_STATUS-CANCELLED]"
+msgstr "Cancelled"
+
+# cases/cases_ListToRevise.xml?APP_STATUS-COMPLETED
+# cases/cases_ListToRevise.xml
+#: dropdown - APP_STATUS - COMPLETED
+msgid "[cases/cases_ListToRevise.xml?APP_STATUS-COMPLETED]"
+msgstr "Completed"
+
+# cases/cases_ListToRevise.xml?SEARCH
+# cases/cases_ListToRevise.xml
+#: button - SEARCH
+msgid "[cases/cases_ListToRevise.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_ListTodo.xml?APP_NUMBER
+# cases/cases_ListTodo.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_ListTodo.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_ListTodo.xml?APP_TITLE
+# cases/cases_ListTodo.xml
+#: text - APP_TITLE
+msgid "[cases/cases_ListTodo.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_ListTodo.xml?APP_TAS_TITLE
+# cases/cases_ListTodo.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_ListTodo.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_ListTodo.xml?APP_PRO_TITLE
+# cases/cases_ListTodo.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_ListTodo.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_ListTodo.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_ListTodo.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_ListTodo.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_ListTodo.xml?DEL_TASK_DUE_DATE
+# cases/cases_ListTodo.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "[cases/cases_ListTodo.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_ListTodo.xml?APP_UPDATE_DATE
+# cases/cases_ListTodo.xml
+#: text - APP_UPDATE_DATE
+msgid "[cases/cases_ListTodo.xml?APP_UPDATE_DATE] Last Modify"
+msgstr "Last Modify"
+

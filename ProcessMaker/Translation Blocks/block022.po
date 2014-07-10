@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_TARGET_TASK
+#: LABEL/ID_TARGET_TASK
+msgid "Target Task"
+msgstr "Target Task"
+
+# TRANSLATION
+# LABEL/ID_TARGET_USER_DESTINATION_INVALID
+#: LABEL/ID_TARGET_USER_DESTINATION_INVALID
+msgid "The target user destination is invalid"
+msgstr "The target user destination is invalid"
+
+# TRANSLATION
+# LABEL/ID_TARGET_USER_DOES_NOT_HAVE_RIGHTS
+#: LABEL/ID_TARGET_USER_DOES_NOT_HAVE_RIGHTS
+msgid "The target user does not have rights to execute the task"
+msgstr "The target user does not have rights to execute the task"
+
+# TRANSLATION
+# LABEL/ID_TASK
+#: LABEL/ID_TASK
+msgid "[LABEL/ID_TASK] Task"
+msgstr "Task"
+
+# TRANSLATION
+# LABEL/ID_TASKS
+#: LABEL/ID_TASKS
+msgid "Tasks"
+msgstr "Tasks"
+
+# TRANSLATION
+# LABEL/ID_TASK_CANT_DELETE
+#: LABEL/ID_TASK_CANT_DELETE
+msgid "You can't delete the task \"{0}\" because it has {1} cases."
+msgstr "You can't delete the task \"{0}\" because it has {1} cases."
+
+# TRANSLATION
+# LABEL/ID_TASK_DEFINED_MANUAL_ASSIGNMENT
+#: LABEL/ID_TASK_DEFINED_MANUAL_ASSIGNMENT
+msgid "The task is defined for Manual assignment"
+msgstr "The task is defined for Manual assignment"
+
+# TRANSLATION
+# LABEL/ID_TASK_DOES_NOT_HAVE_ROUTING_RULE
+#: LABEL/ID_TASK_DOES_NOT_HAVE_ROUTING_RULE
+msgid "Task does not have a routing rule; check process definition"
+msgstr "Task does not have a routing rule; check process definition"
+
+# TRANSLATION
+# LABEL/ID_TASK_DURATION
+#: LABEL/ID_TASK_DURATION
+msgid "Task Duration"
+msgstr "Task Duration"
+
+# TRANSLATION
+# LABEL/ID_TASK_ID
+#: LABEL/ID_TASK_ID
+msgid "Task ID"
+msgstr "Task ID"
+
+# TRANSLATION
+# LABEL/ID_TASK_INFORMATION
+#: LABEL/ID_TASK_INFORMATION
+msgid "[LABEL/ID_TASK_INFORMATION] Task Information"
+msgstr "Task Information"
+
+# TRANSLATION
+# LABEL/ID_TASK_INVALID_USER_NOT_ASSIGNED_TASK
+#: LABEL/ID_TASK_INVALID_USER_NOT_ASSIGNED_TASK
+msgid "Task invalid or the user is not assigned to the task"
+msgstr "Task invalid or the user is not assigned to the task"
+
+# TRANSLATION
+# LABEL/ID_TASK_IN_PROGRESS
+#: LABEL/ID_TASK_IN_PROGRESS
+msgid "Task in Progress"
+msgstr "Task in Progress"
+
+# TRANSLATION
+# LABEL/ID_TASK_NOT_RELATED
+#: LABEL/ID_TASK_NOT_RELATED
+msgid "[Not related to a task]"
+msgstr "[Not related to a task]"
+
+# TRANSLATION
+# LABEL/ID_TASK_NO_STEPS
+#: LABEL/ID_TASK_NO_STEPS
+msgid "The task doesn't have any steps"
+msgstr "The task doesn't have any steps"
+
+# TRANSLATION
+# LABEL/ID_TASK_PROPERTIES_SAVE
+#: LABEL/ID_TASK_PROPERTIES_SAVE
+msgid "Task properties has been saved successfully"
+msgstr "Task properties has been saved successfully"
+
+# TRANSLATION
+# LABEL/ID_TASK_TRANSFER
+#: LABEL/ID_TASK_TRANSFER
+msgid "Task Transfer Date"
+msgstr "Task Transfer Date"
+
+# TRANSLATION
+# LABEL/ID_TASK_WAS_ASSIGNED_TO_USER
+#: LABEL/ID_TASK_WAS_ASSIGNED_TO_USER
+msgid "Manual assignment shouldn't be used with subprocesses.<br>The task \"{0}\" from case {1} was assigned to user <b>{2}</b> ( {3} {4} )"
+msgstr "Manual assignment shouldn't be used with subprocesses.<br>The task \"{0}\" from case {1} was assigned to user <b>{2}</b> ( {3} {4} )"
+
+# TRANSLATION
+# LABEL/ID_TAS_DURATION_REQUIRE
+#: LABEL/ID_TAS_DURATION_REQUIRE
+msgid "Duration task required"
+msgstr "Duration task required"
+
+# TRANSLATION
+# LABEL/ID_TAS_EDIT
+#: LABEL/ID_TAS_EDIT
+msgid "Tasks (Edit mode)"
+msgstr "Tasks (Edit mode)"
+
+# TRANSLATION
+# LABEL/ID_TAS_VIEW
+#: LABEL/ID_TAS_VIEW
+msgid "Tasks (View mode)"
+msgstr "Tasks (View mode)"
+
+# TRANSLATION
+# LABEL/ID_TEMPLATES
+#: LABEL/ID_TEMPLATES
+msgid "Templates"
+msgstr "Templates"
+
+# TRANSLATION
+# LABEL/ID_TEMPLATE_FILE_NOT_EXIST
+#: LABEL/ID_TEMPLATE_FILE_NOT_EXIST
+msgid "Template file '{FILE_TEMPLATE}' does not exist."
+msgstr "Template file '{FILE_TEMPLATE}' does not exist."
+
+# TRANSLATION
+# LABEL/ID_TERMS_USE
+#: LABEL/ID_TERMS_USE
+msgid "Terms of use"
+msgstr "Terms of use"
+
+# TRANSLATION
+# LABEL/ID_TEST
+#: LABEL/ID_TEST
+msgid "Test"
+msgstr "Test"
+
+# TRANSLATION
+# LABEL/ID_TEST_CONFIGURATION
+#: LABEL/ID_TEST_CONFIGURATION
+msgid "Test Configuration"
+msgstr "Test Configuration"
+
+# TRANSLATION
+# LABEL/ID_TEST_CONNECTION
+#: LABEL/ID_TEST_CONNECTION
+msgid "Test Connection"
+msgstr "Test Connection"
+
+# TRANSLATION
+# LABEL/ID_TEST_USER
+#: LABEL/ID_TEST_USER
+msgid "Test User"
+msgstr "Test User"
+
+# TRANSLATION
+# LABEL/ID_TEST_WEB_ENTRY
+#: LABEL/ID_TEST_WEB_ENTRY
+msgid "Test Web Entry"
+msgstr "Test Web Entry"
+
+# TRANSLATION
+# LABEL/ID_TEXT
+#: LABEL/ID_TEXT
+msgid "TEXT"
+msgstr "TEXT"
+
+# TRANSLATION
+# LABEL/ID_THANKS_USE_SERVICES
+#: LABEL/ID_THANKS_USE_SERVICES
+msgid "Thanks for using the ProcessMaker services"
+msgstr "Thanks for using the ProcessMaker services"
+
+# TRANSLATION
+# LABEL/ID_THERE_MUST__LEAST_HOLIDAY
+#: LABEL/ID_THERE_MUST__LEAST_HOLIDAY
+msgid "There must be at least a holiday"
+msgstr "There must be at least a holiday"
+
+# TRANSLATION
+# LABEL/ID_THIS_MONTH
+#: LABEL/ID_THIS_MONTH
+msgid "This Month"
+msgstr "This Month"
+
+# TRANSLATION
+# LABEL/ID_THIS_QUARTER
+#: LABEL/ID_THIS_QUARTER
+msgid "This quarter"
+msgstr "This quarter"
+
+# TRANSLATION
+# LABEL/ID_THIS_WEEK
+#: LABEL/ID_THIS_WEEK
+msgid "This Week"
+msgstr "This Week"
+
+# TRANSLATION
+# LABEL/ID_THIS_YEAR
+#: LABEL/ID_THIS_YEAR
+msgid "This Year"
+msgstr "This Year"
+
+# TRANSLATION
+# LABEL/ID_THREAD_INDEX
+#: LABEL/ID_THREAD_INDEX
+msgid "[LABEL/ID_THREAD_INDEX] Thread Index"
+msgstr "Thread Index"
+
+# TRANSLATION
+# LABEL/ID_THU
+#: LABEL/ID_THU
+msgid "Thu"
+msgstr "Thu"
+
+# TRANSLATION
+# LABEL/ID_TIME_EXIST_IN_LIST
+#: LABEL/ID_TIME_EXIST_IN_LIST
+msgid "The day and time exist in the list"
+msgstr "The day and time exist in the list"
+
+# TRANSLATION
+# LABEL/ID_TIME_LABEL
+#: LABEL/ID_TIME_LABEL
+msgid "Time"
+msgstr "Time"
+
+# TRANSLATION
+# LABEL/ID_TIME_NEXT_RUN
+#: LABEL/ID_TIME_NEXT_RUN
+msgid "Time Next Run"
+msgstr "Time Next Run"
+
+# TRANSLATION
+# LABEL/ID_TIME_REQUIRED
+#: LABEL/ID_TIME_REQUIRED
+msgid "Time is required"
+msgstr "Time is required"
+
+# TRANSLATION
+# LABEL/ID_TIME_STARTING_EXCEED_END
+#: LABEL/ID_TIME_STARTING_EXCEED_END
+msgid "The starting time must not exceed the end time"
+msgstr "The starting time must not exceed the end time"
+
+# TRANSLATION
+# LABEL/ID_TIME_START_WITH_TASK
+#: LABEL/ID_TIME_START_WITH_TASK
+msgid "The time starts with task"
+msgstr "The time starts with task"
+
+# TRANSLATION
+# LABEL/ID_TIME_UNIT
+#: LABEL/ID_TIME_UNIT
+msgid "Time Unit"
+msgstr "Time Unit"
+
+# TRANSLATION
+# LABEL/ID_TIME_ZONE
+#: LABEL/ID_TIME_ZONE
+msgid "Time Zone"
+msgstr "Time Zone"
+
+# TRANSLATION
+# LABEL/ID_TIMING_CONTROL
+#: LABEL/ID_TIMING_CONTROL
+msgid "Timing Control"
+msgstr "Timing Control"
+
+# TRANSLATION
+# LABEL/ID_TINY_ALL_VARIABLES
+#: LABEL/ID_TINY_ALL_VARIABLES
+msgid "All variables"
+msgstr "All variables"
+
+# TRANSLATION
+# LABEL/ID_TINY_PROCESS_VARIABLES
+#: LABEL/ID_TINY_PROCESS_VARIABLES
+msgid "Process Variables"
+msgstr "Process Variables"
+
+# TRANSLATION
+# LABEL/ID_TINY_SYSTEM_VARIABLES
+#: LABEL/ID_TINY_SYSTEM_VARIABLES
+msgid "System Variables"
+msgstr "System Variables"
+
+# TRANSLATION
+# LABEL/ID_TINY_TYPE_VARIABLE
+#: LABEL/ID_TINY_TYPE_VARIABLE
+msgid "Type Variable"
+msgstr "Type Variable"
+
+# TRANSLATION
+# LABEL/ID_TITLE
+#: LABEL/ID_TITLE
+msgid "[LABEL/ID_TITLE] Title"
+msgstr "Title"
+
+# TRANSLATION
+# LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF
+#: LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF
+msgid "[LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF] Authentication Source Information"
+msgstr "Authentication Source Information"
+
+# TRANSLATION
+# LABEL/ID_TITLE_CANCELLED
+#: LABEL/ID_TITLE_CANCELLED
+msgid "[LABEL/ID_TITLE_CANCELLED] Cancelled"
+msgstr "Cancelled"
+
+# TRANSLATION
+# LABEL/ID_TITLE_COMPLETED
+#: LABEL/ID_TITLE_COMPLETED
+msgid "[LABEL/ID_TITLE_COMPLETED] Completed"
+msgstr "Completed"
+
+# TRANSLATION
+# LABEL/ID_TITLE_DRAFT
+#: LABEL/ID_TITLE_DRAFT
+msgid "[LABEL/ID_TITLE_DRAFT] Draft"
+msgstr "Draft"
+
+# TRANSLATION
+# LABEL/ID_TITLE_EXPORT_RESULT
+#: LABEL/ID_TITLE_EXPORT_RESULT
+msgid "Export Summary"
+msgstr "Export Summary"
+
+# TRANSLATION
+# LABEL/ID_TITLE_EXPORT_TOOL
+#: LABEL/ID_TITLE_EXPORT_TOOL
+msgid "Exporting Tool"
+msgstr "Exporting Tool"
+
+# TRANSLATION
+# LABEL/ID_TITLE_FIELD
+#: LABEL/ID_TITLE_FIELD
+msgid "[LABEL/ID_TITLE_FIELD] Title"
+msgstr "Title"
+
+# TRANSLATION
+# LABEL/ID_TITLE_FIELD_DYNAFORM
+#: LABEL/ID_TITLE_FIELD_DYNAFORM
+msgid "[LABEL/ID_TITLE_FIELD_DYNAFORM] title"
+msgstr "title"
+
+# TRANSLATION
+# LABEL/ID_TITLE_INBOX
+#: LABEL/ID_TITLE_INBOX
+msgid "[LABEL/ID_TITLE_INBOX] Inbox"
+msgstr "Inbox"
+
+# TRANSLATION
+# LABEL/ID_TITLE_LOG_DETAIL
+#: LABEL/ID_TITLE_LOG_DETAIL
+msgid "Log Detail"
+msgstr "Log Detail"
+
+# TRANSLATION
+# LABEL/ID_TITLE_NO_INSTALL
+#: LABEL/ID_TITLE_NO_INSTALL
+msgid "SYSTEM INSTALLATION FAILED"
+msgstr "SYSTEM INSTALLATION FAILED"
+
+# TRANSLATION
+# LABEL/ID_TITLE_PARTICIPATED
+#: LABEL/ID_TITLE_PARTICIPATED
+msgid "[LABEL/ID_TITLE_PARTICIPATED] Participated"
+msgstr "Participated"
+
+# TRANSLATION
+# LABEL/ID_TITLE_PAUSED
+#: LABEL/ID_TITLE_PAUSED
+msgid "[LABEL/ID_TITLE_PAUSED] Paused"
+msgstr "Paused"
+
+# TRANSLATION
+# LABEL/ID_TITLE_START_CASE
+#: LABEL/ID_TITLE_START_CASE
+msgid "[LABEL/ID_TITLE_START_CASE] Start Case"
+msgstr "Start Case"
+
+# TRANSLATION
+# LABEL/ID_TITLE_UNASSIGNED
+#: LABEL/ID_TITLE_UNASSIGNED
+msgid "Unassigned"
+msgstr "Unassigned"
+
+# TRANSLATION
+# LABEL/ID_TO
+#: LABEL/ID_TO
+msgid "To"
+msgstr "To"
+
+# TRANSLATION
+# LABEL/ID_TODAY
+#: LABEL/ID_TODAY
+msgid "Today"
+msgstr "Today"
+
+# TRANSLATION
+# LABEL/ID_TOOLS
+#: LABEL/ID_TOOLS
+msgid "Tools"
+msgstr "Tools"
+
+# TRANSLATION
+# LABEL/ID_TOP_MARGIN
+#: LABEL/ID_TOP_MARGIN
+msgid "Top Margin"
+msgstr "Top Margin"
+
+# TRANSLATION
+# LABEL/ID_TOTAL_CASES
+#: LABEL/ID_TOTAL_CASES
+msgid "Total Cases"
+msgstr "Total Cases"
+
+# TRANSLATION
+# LABEL/ID_TOTAL_CASES_REASSIGNED
+#: LABEL/ID_TOTAL_CASES_REASSIGNED
+msgid "Total Cases Reassigned"
+msgstr "Total Cases Reassigned"
+
+# TRANSLATION
+# LABEL/ID_TO_DO
+#: LABEL/ID_TO_DO
+msgid "To do"
+msgstr "To do"
+
+# TRANSLATION
+# LABEL/ID_TO_FLOAT
+#: LABEL/ID_TO_FLOAT
+msgid "Replace the value converted to float"
+msgstr "Replace the value converted to float"
+
+# TRANSLATION
+# LABEL/ID_TO_INTEGER
+#: LABEL/ID_TO_INTEGER
+msgid "Replace the value converted to integer"
+msgstr "Replace the value converted to integer"
+
+# TRANSLATION
+# LABEL/ID_TO_REASSIGN
+#: LABEL/ID_TO_REASSIGN
+msgid "[LABEL/ID_TO_REASSIGN] Reassign"
+msgstr "Reassign"
+
+# TRANSLATION
+# LABEL/ID_TO_REVISE
+#: LABEL/ID_TO_REVISE
+msgid "Review"
+msgstr "Review"
+
+# TRANSLATION
+# LABEL/ID_TO_STRING
+#: LABEL/ID_TO_STRING
+msgid "Replace the value in quotes"
+msgstr "Replace the value in quotes"
+
+# TRANSLATION
+# LABEL/ID_TO_URL
+#: LABEL/ID_TO_URL
+msgid "Replace the value with URL encoding"
+msgstr "Replace the value with URL encoding"
+
+# TRANSLATION
+# LABEL/ID_TRANSFER_HISTORY
+#: LABEL/ID_TRANSFER_HISTORY
+msgid "[LABEL/ID_TRANSFER_HISTORY] Transfer History"
+msgstr "Transfer History"
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS
+#: LABEL/ID_TRIGGERS
+msgid "[LABEL/ID_TRIGGERS] Triggers"
+msgstr "Triggers"
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_SAVED
+#: LABEL/ID_TRIGGERS_SAVED
+msgid "Trigger saved"
+msgstr "Trigger saved"
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_UNAVAILABLE
+#: LABEL/ID_TRIGGERS_UNAVAILABLE
+msgid "No triggers are available. All triggers have been already assigned."
+msgstr "No triggers are available. All triggers have been already assigned."
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_VALIDATE_EERR1
+#: LABEL/ID_TRIGGERS_VALIDATE_EERR1
+msgid "* The {Object} {Description} depends."
+msgstr "* The {Object} {Description} depends."
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_VALIDATION
+#: LABEL/ID_TRIGGERS_VALIDATION
+msgid "No Dependencies were found for this trigger in {Object} definitions"
+msgstr "No Dependencies were found for this trigger in {Object} definitions"
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_VALIDATION_ERR2
+#: LABEL/ID_TRIGGERS_VALIDATION_ERR2
+msgid "({N}) Dependencies were found for this trigger in {Object} objects"
+msgstr "({N}) Dependencies were found for this trigger in {Object} objects"
+
+# TRANSLATION
+# LABEL/ID_TRIGGERS_VALIDATION_ERR3
+#: LABEL/ID_TRIGGERS_VALIDATION_ERR3
+msgid "[LABEL/ID_TRIGGERS_VALIDATION_ERR3] * The {Object} {Description} depends."
+msgstr "* The {Object} {Description} depends."
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_ASSIGN
+#: LABEL/ID_TRIGGER_ASSIGN
+msgid "Triggers has been assigned successfully."
+msgstr "Triggers has been assigned successfully."
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_COPY_OPTION
+#: LABEL/ID_TRIGGER_COPY_OPTION
+msgid "Copy/Import Triggers from a Process"
+msgstr "Copy/Import Triggers from a Process"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_COPY_OPTION_DESCRIPTION
+#: LABEL/ID_TRIGGER_COPY_OPTION_DESCRIPTION
+msgid "With this option you can copy/import a trigger from any other processes in the system."
+msgstr "With this option you can copy/import a trigger from any other processes in the system."
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_COPY_TITLE
+#: LABEL/ID_TRIGGER_COPY_TITLE
+msgid "Copy/Import Trigger"
+msgstr "Copy/Import Trigger"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_EDITOR_HINT_ADVISE_MESSAGE
+#: LABEL/ID_TRIGGER_EDITOR_HINT_ADVISE_MESSAGE
+msgid "Press Ctrl + Space in the Editor, to get the function list"
+msgstr "Press Ctrl + Space in the Editor, to get the function list"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_REMOVE
+#: LABEL/ID_TRIGGER_REMOVE
+msgid "Trigger has been removed successfully."
+msgstr "Trigger has been removed successfully."
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_REQUIRED
+#: LABEL/ID_TRIGGER_REQUIRED
+msgid "Trigger is required"
+msgstr "Trigger is required"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_RETURN_LABEL
+#: LABEL/ID_TRIGGER_RETURN_LABEL
+msgid "Variable to hold return value"
+msgstr "Variable to hold return value"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_RETURN_TITLE
+#: LABEL/ID_TRIGGER_RETURN_TITLE
+msgid "Return value"
+msgstr "Return value"
+
+# TRANSLATION
+# LABEL/ID_TRIGGER_SOURCE_LINK
+#: LABEL/ID_TRIGGER_SOURCE_LINK
+msgid "Edit Source Code"
+msgstr "Edit Source Code"
+
+# TRANSLATION
+# LABEL/ID_TRUE
+#: LABEL/ID_TRUE
+msgid "TRUE"
+msgstr "TRUE"
+
+# TRANSLATION
+# LABEL/ID_TUE
+#: LABEL/ID_TUE
+msgid "Tue"
+msgstr "Tue"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hide
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - hide
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hide]"
+msgstr "Hide"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hideOnly
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - hideOnly
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hideOnly]"
+msgstr "Hide only"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hideAll
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - hideAll
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-hideAll]"
+msgstr "Hide all"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?fields
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: listbox - fields
+msgid "Applying the function fields"
+msgstr "Applying the function fields"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?fields_selected
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: listbox - fields_selected
+msgid "Selected fields"
+msgstr "Selected fields"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_CONDITION
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: textarea - FCD_CONDITION
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_CONDITION] Condition"
+msgstr "Condition"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op1
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op1
+msgid "/"
+msgstr "/"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op2
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op2
+msgid "("
+msgstr "("
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op3
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op3
+msgid ")"
+msgstr ")"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op4
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op4
+msgid "AND"
+msgstr "AND"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op5
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op5
+msgid "*"
+msgstr "*"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op6
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op6
+msgid "<"
+msgstr "<"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op7
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op7
+msgid ">"
+msgstr ">"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op8
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op8
+msgid "OR"
+msgstr "OR"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op9
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op9
+msgid "-"
+msgstr "-"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op10
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op10
+msgid "<="
+msgstr "<="
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op11
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op11
+msgid ">="
+msgstr ">="
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op12
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op12
+msgid "NOT"
+msgstr "NOT"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op13
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op13
+msgid "+"
+msgstr "+"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op14
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op14
+msgid "=="
+msgstr "=="
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op15
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op15
+msgid "!="
+msgstr "!="
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?op16
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - op16
+msgid "@#"
+msgstr "@#"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?eventOnload
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: checkbox - eventOnload
+msgid "On load event"
+msgstr "On load event"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?eventOnchange
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: checkbox - eventOnchange
+msgid "On change event"
+msgstr "On change event"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?event_owner
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: listbox - event_owner
+msgid "Field event owner"
+msgstr "Field event owner"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?event_owner_selected
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: listbox - event_owner_selected
+msgid "Selected field event owner"
+msgstr "Selected field event owner"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_STATUS
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: checkbox - FCD_STATUS
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_STATUS] Enabled"
+msgstr "Enabled"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?test_condition
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - test_condition
+msgid "Test condition"
+msgstr "Test condition"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?BTN_CANCEL
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?save_condition
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: button - save_condition
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?save_condition] Save"
+msgstr "Save"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_NRO
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_NRO
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_NRO] #"
+msgstr "#"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_FUNCTION
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_FUNCTION
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_FUNCTION] Function"
+msgstr "Function"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_FIELDS
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_FIELDS
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_FIELDS] Fields"
+msgstr "Fields"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_CONDITION
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_CONDITION
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_CONDITION] Condition"
+msgstr "Condition"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_EVENTS
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_EVENTS
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_EVENTS] Events"
+msgstr "Events"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_EVENT_OWNERS
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: text - FCD_EVENT_OWNERS
+msgid "Event Owner"
+msgstr "Event Owner"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: dropdown - FCD_STATUS
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS] Enabled"
+msgstr "Enabled"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS-1
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: dropdown - FCD_STATUS - 1
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS-1]"
+msgstr "yes"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS-
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: dropdown - FCD_STATUS -
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?FCD_STATUS-]"
+msgstr "no"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?USR_VIEW
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: link - USR_VIEW
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?USR_VIEW] Edit"
+msgstr "Edit"
+
+# dynaforms/dynaforms_ConditionalShowHideList.xml?USR_DELETE
+# dynaforms/dynaforms_ConditionalShowHideList.xml
+#: link - USR_DELETE
+msgid "[dynaforms/dynaforms_ConditionalShowHideList.xml?USR_DELETE] Delete"
+msgstr "Delete"
+
+# dynaforms/dynaforms_ConditionalShowHideOptions.xml?MNU_NEW
+# dynaforms/dynaforms_ConditionalShowHideOptions.xml
+#: link - MNU_NEW
+msgid "[dynaforms/dynaforms_ConditionalShowHideOptions.xml?MNU_NEW] New"
+msgstr "New"
+
+# dynaforms/dynaforms_ConditionalShowHideTest.xml?title1
+# dynaforms/dynaforms_ConditionalShowHideTest.xml
+#: title - title1
+msgid "Test values for DynaForm fields"
+msgstr "Test values for DynaForm fields"
+
+# dynaforms/dynaforms_ConditionalShowHideTest.xml?save
+# dynaforms/dynaforms_ConditionalShowHideTest.xml
+#: button - save
+msgid "Save values"
+msgstr "Save values"
+
+# dynaforms/dynaforms_ConditionalShowHideTestGrid.xml?dynafield
+# dynaforms/dynaforms_ConditionalShowHideTestGrid.xml
+#: label - dynafield
+msgid "Field name"
+msgstr "Field name"
+
+# dynaforms/dynaforms_ConditionalShowHideTestGrid.xml?dynavalue
+# dynaforms/dynaforms_ConditionalShowHideTestGrid.xml
+#: text - dynavalue
+msgid "Value"
+msgstr "Value"
+
+# dynaforms/dynaforms_Edit.xml?TITLE
+# dynaforms/dynaforms_Edit.xml
+#: title - TITLE
+msgid "[dynaforms/dynaforms_Edit.xml?TITLE] Dynaform Information"
+msgstr "Dynaform Information"
+
+# dynaforms/dynaforms_Edit.xml?ADD_TABLE
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - ADD_TABLE
+msgid "[dynaforms/dynaforms_Edit.xml?ADD_TABLE] Create from a PM Table"
+msgstr "Create from a PM Table"
+
+# dynaforms/dynaforms_Edit.xml?DYN_TITLE
+# dynaforms/dynaforms_Edit.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_Edit.xml?DYN_TITLE] Title"
+msgstr "Title"
+
+# dynaforms/dynaforms_Edit.xml?DYN_TYPE
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - DYN_TYPE
+msgid "[dynaforms/dynaforms_Edit.xml?DYN_TYPE] Type"
+msgstr "Type"
+
+# dynaforms/dynaforms_Edit.xml?DYN_TYPE-xmlform
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - DYN_TYPE - xmlform
+msgid "[dynaforms/dynaforms_Edit.xml?DYN_TYPE-xmlform]"
+msgstr "Normal"
+
+# dynaforms/dynaforms_Edit.xml?DYN_TYPE-grid
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - DYN_TYPE - grid
+msgid "[dynaforms/dynaforms_Edit.xml?DYN_TYPE-grid]"
+msgstr "Grid"
+
+# dynaforms/dynaforms_Edit.xml?DYN_DESCRIPTION
+# dynaforms/dynaforms_Edit.xml
+#: textarea - DYN_DESCRIPTION
+msgid "[dynaforms/dynaforms_Edit.xml?DYN_DESCRIPTION] Description"
+msgstr "Description"
+
+# dynaforms/dynaforms_Edit.xml?CONTINUE
+# dynaforms/dynaforms_Edit.xml
+#: button - CONTINUE
+msgid "[dynaforms/dynaforms_Edit.xml?CONTINUE] Save"
+msgstr "Save"
+
+# dynaforms/dynaforms_Edit.xml?SAVE_DYNAFORM
+# dynaforms/dynaforms_Edit.xml
+#: button - SAVE_DYNAFORM
+msgid "[dynaforms/dynaforms_Edit.xml?SAVE_DYNAFORM] Save"
+msgstr "Save"
+
+# dynaforms/dynaforms_Edit.xml?SAVE_OPEN
+# dynaforms/dynaforms_Edit.xml
+#: button - SAVE_OPEN
+msgid "[dynaforms/dynaforms_Edit.xml?SAVE_OPEN] Save & Open"
+msgstr "Save & Open"
+
+# dynaforms/dynaforms_Edit.xml?BTN_CANCEL
+# dynaforms/dynaforms_Edit.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/dynaforms_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/dynaforms_Edit.xml?COPY_PROCESS_UID
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_PROCESS_UID
+msgid "[dynaforms/dynaforms_Edit.xml?COPY_PROCESS_UID] Process"
+msgstr "Process"
+
+# dynaforms/dynaforms_Edit.xml?COPY_PROCESS_UID-
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_PROCESS_UID -
+msgid "[dynaforms/dynaforms_Edit.xml?COPY_PROCESS_UID-]"
+msgstr "- Select a process -"
+
+# dynaforms/dynaforms_Edit.xml?COPY_TYPE
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_TYPE
+msgid "Showing forms of type"
+msgstr "Showing forms of type"
+
+# dynaforms/dynaforms_Edit.xml?COPY_TYPE-xmlform
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_TYPE - xmlform
+msgid "[dynaforms/dynaforms_Edit.xml?COPY_TYPE-xmlform]"
+msgstr "Normal"
+
+# dynaforms/dynaforms_Edit.xml?COPY_TYPE-grid
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_TYPE - grid
+msgid "[dynaforms/dynaforms_Edit.xml?COPY_TYPE-grid]"
+msgstr "Grid"
+
+# dynaforms/dynaforms_Edit.xml?COPY_DYNAFORM_UID
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_DYNAFORM_UID
+msgid "Dynaform to copy/import"
+msgstr "Dynaform to copy/import"
+
+# dynaforms/dynaforms_Edit.xml?COPY_DYNAFORM_UID-
+# dynaforms/dynaforms_Edit.xml
+#: dropdown - COPY_DYNAFORM_UID -
+msgid "[dynaforms/dynaforms_Edit.xml?COPY_DYNAFORM_UID-]"
+msgstr "- Select a dynaform -"
+
+# dynaforms/dynaforms_Edit.xml?COPY_DYNAFORM_TITLE
+# dynaforms/dynaforms_Edit.xml
+#: text - COPY_DYNAFORM_TITLE
+msgid "Title of the new dynaform"
+msgstr "Title of the new dynaform"
+
+# dynaforms/dynaforms_Edit.xml?COPY_DYNAFORM_DESCRIPTION
+# dynaforms/dynaforms_Edit.xml
+#: textarea - COPY_DYNAFORM_DESCRIPTION
+msgid "Description of the new dynaform"
+msgstr "Description of the new dynaform"
+
+# dynaforms/dynaforms_Edit.xml?BTNCOPYSAVE
+# dynaforms/dynaforms_Edit.xml
+#: button - BTNCOPYSAVE
+msgid "Copy/Import"
+msgstr "Copy/Import"
+
+# dynaforms/dynaforms_Edit.xml?BTNCOPYSAVEOPEN
+# dynaforms/dynaforms_Edit.xml
+#: button - BTNCOPYSAVEOPEN
+msgid "Copy/Import and Open"
+msgstr "Copy/Import and Open"
+
+# dynaforms/dynaforms_Edit.xml?BTNCOPYCANCEL
+# dynaforms/dynaforms_Edit.xml
+#: button - BTNCOPYCANCEL
+msgid "[dynaforms/dynaforms_Edit.xml?BTNCOPYCANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/dynaforms_Editor.xml?title
+# dynaforms/dynaforms_Editor.xml
+#: title - title
+msgid "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background-color:transparent\">    <tr>      <td  class='FormTitle'>Preview</td>      <td align=\"right\"></td>    </tr>  </table>"
+msgstr "<table cellpadding=\"0\" cellspacing=\"0\" width=\"100%\" style=\"background-color:transparent\">    <tr>      <td  class='FormTitle'>Preview</td>      <td align=\"right\"></td>    </tr>  </table>"
+
+# dynaforms/dynaforms_HtmlEditor.xml?PME_HTML_ENABLETEMPLATE
+# dynaforms/dynaforms_HtmlEditor.xml
+#: checkbox - PME_HTML_ENABLETEMPLATE
+msgid "Enable HTML Editing"
+msgstr "Enable HTML Editing"
+
+# dynaforms/dynaforms_HtmlEditor.xml?PME_RESTORE_HTML
+# dynaforms/dynaforms_HtmlEditor.xml
+#: button - PME_RESTORE_HTML
+msgid "Restore Original HTML"
+msgstr "Restore Original HTML"
+
+# dynaforms/dynaforms_HtmlEditor.xml?HTML
+# dynaforms/dynaforms_HtmlEditor.xml
+#: wysiwyg_editor - HTML
+msgid "HTML View"
+msgstr "HTML View"
+
+# dynaforms/dynaforms_JSEditor.xml?JS_TITLE
+# dynaforms/dynaforms_JSEditor.xml
+#: title - JS_TITLE
+msgid "There is no javascript code"
+msgstr "There is no javascript code"
+
+# dynaforms/dynaforms_JSEditor.xml?JS_LIST
+# dynaforms/dynaforms_JSEditor.xml
+#: dropdown - JS_LIST
+msgid "Section"
+msgstr "Section"
+
+# dynaforms/dynaforms_JSEditor.xml?JS
+# dynaforms/dynaforms_JSEditor.xml
+#: textarea - JS
+msgid "[dynaforms/dynaforms_JSEditor.xml?JS] Code"
+msgstr "Code"
+
+# dynaforms/dynaforms_List.xml?DYN_TITLE
+# dynaforms/dynaforms_List.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_List.xml?DYN_TITLE] Dynaform"
+msgstr "Dynaform"
+
+# dynaforms/dynaforms_List.xml?DYN_TYPE
+# dynaforms/dynaforms_List.xml
+#: dropdown - DYN_TYPE
+msgid "[dynaforms/dynaforms_List.xml?DYN_TYPE] Type"
+msgstr "Type"
+
+# dynaforms/dynaforms_List.xml?DYN_TYPE-1
+# dynaforms/dynaforms_List.xml
+#: dropdown - DYN_TYPE - 1
+msgid "[dynaforms/dynaforms_List.xml?DYN_TYPE-1]"
+msgstr "Master form"
+
+# dynaforms/dynaforms_List.xml?DYN_TYPE-2
+# dynaforms/dynaforms_List.xml
+#: dropdown - DYN_TYPE - 2
+msgid "[dynaforms/dynaforms_List.xml?DYN_TYPE-2]"
+msgstr "Grid"
+
+# dynaforms/dynaforms_List.xml?DYN_DESCRIPTION
+# dynaforms/dynaforms_List.xml
+#: textarea - DYN_DESCRIPTION
+msgid "[dynaforms/dynaforms_List.xml?DYN_DESCRIPTION] Description"
+msgstr "Description"
+
+# dynaforms/dynaforms_List.xml?DELETE
+# dynaforms/dynaforms_List.xml
+#: link - DELETE
+msgid "[dynaforms/dynaforms_List.xml?DELETE] "
+msgstr ""
+
+# dynaforms/dynaforms_List.xml?SEARCH
+# dynaforms/dynaforms_List.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaforms_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/dynaforms_Options.xml?MNU_ADD
+# dynaforms/dynaforms_Options.xml
+#: link - MNU_ADD
+msgid "[dynaforms/dynaforms_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# dynaforms/dynaforms_Properties.xml?PME_PROPERTIES_TITLE
+# dynaforms/dynaforms_Properties.xml
+#: title - PME_PROPERTIES_TITLE
+msgid "[dynaforms/dynaforms_Properties.xml?PME_PROPERTIES_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/dynaforms_Properties.xml?DYN_TITLE
+# dynaforms/dynaforms_Properties.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_Properties.xml?DYN_TITLE] Dynaform"
+msgstr "Dynaform"
+
+# dynaforms/dynaforms_Properties.xml?DYN_TYPE
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - DYN_TYPE
+msgid "[dynaforms/dynaforms_Properties.xml?DYN_TYPE] Type"
+msgstr "Type"
+
+# dynaforms/dynaforms_Properties.xml?DYN_TYPE-xmlform
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - DYN_TYPE - xmlform
+msgid "[dynaforms/dynaforms_Properties.xml?DYN_TYPE-xmlform]"
+msgstr "Master Form"
+
+# dynaforms/dynaforms_Properties.xml?DYN_TYPE-grid
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - DYN_TYPE - grid
+msgid "[dynaforms/dynaforms_Properties.xml?DYN_TYPE-grid]"
+msgstr "Grid"
+
+# dynaforms/dynaforms_Properties.xml?DYN_DESCRIPTION
+# dynaforms/dynaforms_Properties.xml
+#: textarea - DYN_DESCRIPTION
+msgid "[dynaforms/dynaforms_Properties.xml?DYN_DESCRIPTION] Description"
+msgstr "Description"
+
+# dynaforms/dynaforms_Properties.xml?SUBTITLE
+# dynaforms/dynaforms_Properties.xml
+#: subtitle - SUBTITLE
+msgid "Others"
+msgstr "Others"
+
+# dynaforms/dynaforms_Properties.xml?WIDTH
+# dynaforms/dynaforms_Properties.xml
+#: text - WIDTH
+msgid "[dynaforms/dynaforms_Properties.xml?WIDTH] Width"
+msgstr "Width"
+
+# dynaforms/dynaforms_Properties.xml?MODE
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - MODE
+msgid "[dynaforms/dynaforms_Properties.xml?MODE] Mode"
+msgstr "Mode"
+
+# dynaforms/dynaforms_Properties.xml?MODE-
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - MODE -
+msgid "[dynaforms/dynaforms_Properties.xml?MODE-]"
+msgstr "Determined by Fields"
+
+# dynaforms/dynaforms_Properties.xml?MODE-edit
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - MODE - edit
+msgid "[dynaforms/dynaforms_Properties.xml?MODE-edit]"
+msgstr "All Edit"
+
+# dynaforms/dynaforms_Properties.xml?MODE-view
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - MODE - view
+msgid "[dynaforms/dynaforms_Properties.xml?MODE-view]"
+msgstr "All View"
+
+# dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - NEXTSTEPSAVE
+msgid "Next Step Link"
+msgstr "Next Step Link"
+
+# dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - NEXTSTEPSAVE -
+msgid "[dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-]"
+msgstr "No save & Continue"
+
+# dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-save
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - NEXTSTEPSAVE - save
+msgid "[dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-save]"
+msgstr "Save & Continue"
+
+# dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-prompt
+# dynaforms/dynaforms_Properties.xml
+#: dropdown - NEXTSTEPSAVE - prompt
+msgid "[dynaforms/dynaforms_Properties.xml?NEXTSTEPSAVE-prompt]"
+msgstr "Show prompt"
+

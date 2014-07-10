@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# processes/objectpmView.xml?pm_version
+# processes/objectpmView.xml
+#: text - pm_version
+msgid "P.M. rev. required"
+msgstr "P.M. rev. required"
+
+# processes/objectpmView.xml?category
+# processes/objectpmView.xml
+#: text - category
+msgid "[processes/objectpmView.xml?category] Category"
+msgstr "Category"
+
+# processes/objectpmView.xml?rating
+# processes/objectpmView.xml
+#: text - rating
+msgid "[processes/objectpmView.xml?rating] Rating"
+msgstr "Rating"
+
+# processes/objectpmView.xml?downloads
+# processes/objectpmView.xml
+#: text - downloads
+msgid "Downloads"
+msgstr "Downloads"
+
+# processes/objectpmView.xml?subscriptions
+# processes/objectpmView.xml
+#: text - subscriptions
+msgid "[processes/objectpmView.xml?subscriptions] Subscriptions"
+msgstr "Subscriptions"
+
+# processes/objectpmView.xml?username
+# processes/objectpmView.xml
+#: text - username
+msgid "[processes/objectpmView.xml?username] Author"
+msgstr "Author"
+
+# processes/objectpmView.xml?privacy
+# processes/objectpmView.xml
+#: dropdown - privacy
+msgid "[processes/objectpmView.xml?privacy] Privacy"
+msgstr "Privacy"
+
+# processes/objectpmView.xml?privacy-FREE
+# processes/objectpmView.xml
+#: dropdown - privacy - FREE
+msgid "[processes/objectpmView.xml?privacy-FREE]"
+msgstr "Free Download"
+
+# processes/objectpmView.xml?privacy-PUBLIC
+# processes/objectpmView.xml
+#: dropdown - privacy - PUBLIC
+msgid "[processes/objectpmView.xml?privacy-PUBLIC]"
+msgstr "Public"
+
+# processes/objectpmView.xml?privacy-PRIVATE
+# processes/objectpmView.xml
+#: dropdown - privacy - PRIVATE
+msgid "[processes/objectpmView.xml?privacy-PRIVATE]"
+msgstr "Private"
+
+# processes/objectpmView.xml?privacy-COLOSA
+# processes/objectpmView.xml
+#: dropdown - privacy - COLOSA
+msgid "[processes/objectpmView.xml?privacy-COLOSA]"
+msgstr "Colosa"
+
+# processes/objectpmView.xml?createDate
+# processes/objectpmView.xml
+#: text - createDate
+msgid "[processes/objectpmView.xml?createDate] Create Date"
+msgstr "Create Date"
+
+# processes/objectpmView.xml?updateDate
+# processes/objectpmView.xml
+#: text - updateDate
+msgid "[processes/objectpmView.xml?updateDate] Update Date"
+msgstr "Update Date"
+
+# processes/objectpmView.xml?description
+# processes/objectpmView.xml
+#: text - description
+msgid "[processes/objectpmView.xml?description] Description"
+msgstr "Description"
+
+# processes/objectpmView.xml?subinstallSteps
+# processes/objectpmView.xml
+#: subtitle - subinstallSteps
+msgid "[processes/objectpmView.xml?subinstallSteps] Install Steps"
+msgstr "Install Steps"
+
+# processes/objectpmView.xml?installSteps
+# processes/objectpmView.xml
+#: text - installSteps
+msgid "[processes/objectpmView.xml?installSteps] "
+msgstr ""
+
+# processes/objectpmView.xml?link
+# processes/objectpmView.xml
+#: link - link
+msgid "[processes/objectpmView.xml?link] "
+msgstr ""
+
+# processes/processes_Assignuser.xml?MNU_ASSIGN
+# processes/processes_Assignuser.xml
+#: link - MNU_ASSIGN
+msgid "[processes/processes_Assignuser.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# processes/processes_DeleteCases.xml?title1
+# processes/processes_DeleteCases.xml
+#: title - title1
+msgid "Process: @#PRO_TITLE"
+msgstr "Process: @#PRO_TITLE"
+
+# processes/processes_DeleteCases.xml?MESSAGE
+# processes/processes_DeleteCases.xml
+#: title - MESSAGE
+msgid "Are you sure that you want to delete this process?"
+msgstr "Are you sure that you want to delete this process?"
+
+# processes/processes_DeleteCases.xml?TO_DO
+# processes/processes_DeleteCases.xml
+#: text - TO_DO
+msgid "[processes/processes_DeleteCases.xml?TO_DO] To Do"
+msgstr "To Do"
+
+# processes/processes_DeleteCases.xml?COMPLETED
+# processes/processes_DeleteCases.xml
+#: text - COMPLETED
+msgid "[processes/processes_DeleteCases.xml?COMPLETED] Completed"
+msgstr "Completed"
+
+# processes/processes_DeleteCases.xml?DRAFT
+# processes/processes_DeleteCases.xml
+#: text - DRAFT
+msgid "[processes/processes_DeleteCases.xml?DRAFT] Draft"
+msgstr "Draft"
+
+# processes/processes_DeleteCases.xml?CANCELLED
+# processes/processes_DeleteCases.xml
+#: text - CANCELLED
+msgid "[processes/processes_DeleteCases.xml?CANCELLED] Cancelled"
+msgstr "Cancelled"
+
+# processes/processes_DirectoriesList.xml?DIRECTORY
+# processes/processes_DirectoriesList.xml
+#: text - DIRECTORY
+msgid "[processes/processes_DirectoriesList.xml?DIRECTORY] "
+msgstr ""
+
+# processes/processes_Edit.xml?TITLE1
+# processes/processes_Edit.xml
+#: title - TITLE1
+msgid "[processes/processes_Edit.xml?TITLE1] Process Information"
+msgstr "Process Information"
+
+# processes/processes_Edit.xml?PRO_TITLE
+# processes/processes_Edit.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_Edit.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_Edit.xml?PRO_VALIDATE_TITLE
+# processes/processes_Edit.xml
+#: text - PRO_VALIDATE_TITLE
+msgid "[processes/processes_Edit.xml?PRO_VALIDATE_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_Edit.xml?PRO_DESCRIPTION
+# processes/processes_Edit.xml
+#: textarea - PRO_DESCRIPTION
+msgid "[processes/processes_Edit.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_Edit.xml?PRO_CALENDAR
+# processes/processes_Edit.xml
+#: dropdown - PRO_CALENDAR
+msgid "[processes/processes_Edit.xml?PRO_CALENDAR] Calendar"
+msgstr "Calendar"
+
+# processes/processes_Edit.xml?PRO_CALENDAR-
+# processes/processes_Edit.xml
+#: dropdown - PRO_CALENDAR -
+msgid "[processes/processes_Edit.xml?PRO_CALENDAR-]"
+msgstr "- None -"
+
+# processes/processes_Edit.xml?PRO_CATEGORY
+# processes/processes_Edit.xml
+#: dropdown - PRO_CATEGORY
+msgid "Process Category"
+msgstr "Process Category"
+
+# processes/processes_Edit.xml?PRO_CATEGORY-
+# processes/processes_Edit.xml
+#: dropdown - PRO_CATEGORY -
+msgid "[processes/processes_Edit.xml?PRO_CATEGORY-]"
+msgstr "- None -"
+
+# processes/processes_Edit.xml?PRO_SUMMARY_DYNAFORM
+# processes/processes_Edit.xml
+#: dropdown - PRO_SUMMARY_DYNAFORM
+msgid "Dynaform to show a case summary"
+msgstr "Dynaform to show a case summary"
+
+# processes/processes_Edit.xml?PRO_SUMMARY_DYNAFORM-
+# processes/processes_Edit.xml
+#: dropdown - PRO_SUMMARY_DYNAFORM -
+msgid "[processes/processes_Edit.xml?PRO_SUMMARY_DYNAFORM-]"
+msgstr "- Default summary Dynaform -"
+
+# processes/processes_Edit.xml?PRO_DERIVATION_SCREEN_TPL
+# processes/processes_Edit.xml
+#: dropdown - PRO_DERIVATION_SCREEN_TPL
+msgid "Routing Screen Template"
+msgstr "Routing Screen Template"
+
+# processes/processes_Edit.xml?PRO_DERIVATION_SCREEN_TPL-
+# processes/processes_Edit.xml
+#: dropdown - PRO_DERIVATION_SCREEN_TPL -
+msgid "[processes/processes_Edit.xml?PRO_DERIVATION_SCREEN_TPL-]"
+msgstr "- Default -"
+
+# processes/processes_Edit.xml?PRO_DEBUG
+# processes/processes_Edit.xml
+#: checkbox - PRO_DEBUG
+msgid "[processes/processes_Edit.xml?PRO_DEBUG] Debug"
+msgstr "Debug"
+
+# processes/processes_Edit.xml?PRO_SHOW_MESSAGE
+# processes/processes_Edit.xml
+#: checkbox - PRO_SHOW_MESSAGE
+msgid "Hide the case number and the case title in the steps"
+msgstr "Hide the case number and the case title in the steps"
+
+# processes/processes_Edit.xml?PRO_SUBPROCESS
+# processes/processes_Edit.xml
+#: checkbox - PRO_SUBPROCESS
+msgid "This a sub process"
+msgstr "This a sub process"
+
+# processes/processes_Edit.xml?PRO_TRI_DELETED
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_DELETED
+msgid "Execute a trigger when a case is deleted"
+msgstr "Execute a trigger when a case is deleted"
+
+# processes/processes_Edit.xml?PRO_TRI_DELETED-
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_DELETED -
+msgid "[processes/processes_Edit.xml?PRO_TRI_DELETED-]"
+msgstr "- Don't execute anything -"
+
+# processes/processes_Edit.xml?PRO_TRI_CANCELED
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_CANCELED
+msgid "Execute a trigger when a case is cancelled"
+msgstr "Execute a trigger when a case is cancelled"
+
+# processes/processes_Edit.xml?PRO_TRI_CANCELED-
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_CANCELED -
+msgid "[processes/processes_Edit.xml?PRO_TRI_CANCELED-]"
+msgstr "- Don't execute anything -"
+
+# processes/processes_Edit.xml?PRO_TRI_PAUSED
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_PAUSED
+msgid "Execute a trigger when a case is paused"
+msgstr "Execute a trigger when a case is paused"
+
+# processes/processes_Edit.xml?PRO_TRI_PAUSED-
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_PAUSED -
+msgid "[processes/processes_Edit.xml?PRO_TRI_PAUSED-]"
+msgstr "- Don't execute anything -"
+
+# processes/processes_Edit.xml?PRO_TRI_REASSIGNED
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_REASSIGNED
+msgid "Execute a trigger when a case is reassigned"
+msgstr "Execute a trigger when a case is reassigned"
+
+# processes/processes_Edit.xml?PRO_TRI_REASSIGNED-
+# processes/processes_Edit.xml
+#: dropdown - PRO_TRI_REASSIGNED -
+msgid "[processes/processes_Edit.xml?PRO_TRI_REASSIGNED-]"
+msgstr "- Don't execute anything -"
+
+# processes/processes_Edit.xml?BTN_CANCEL
+# processes/processes_Edit.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_Edit.xml?SUBMIT
+# processes/processes_Edit.xml
+#: button - SUBMIT
+msgid "[processes/processes_Edit.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_EditObjectPermission.xml?TITLE
+# processes/processes_EditObjectPermission.xml
+#: title - TITLE
+msgid "Edit Specific Permission"
+msgstr "Edit Specific Permission"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS] Status Case"
+msgstr "Status Case"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-ALL
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - ALL
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-ALL]"
+msgstr "ALL"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-DRAFT
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - DRAFT
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-DRAFT]"
+msgstr "DRAFT"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-TO_DO
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - TO_DO
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-TO_DO]"
+msgstr "TO_DO"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-PAUSED
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - PAUSED
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-PAUSED]"
+msgstr "PAUSED"
+
+# processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-COMPLETED
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_CASE_STATUS - COMPLETED
+msgid "[processes/processes_EditObjectPermission.xml?OP_CASE_STATUS-COMPLETED]"
+msgstr "COMPLETED"
+
+# processes/processes_EditObjectPermission.xml?TAS_UID
+# processes/processes_EditObjectPermission.xml
+#: dropdown - TAS_UID
+msgid "[processes/processes_EditObjectPermission.xml?TAS_UID] Target Task"
+msgstr "Target Task"
+
+# processes/processes_EditObjectPermission.xml?TAS_UID-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - TAS_UID -
+msgid "[processes/processes_EditObjectPermission.xml?TAS_UID-]"
+msgstr "All Tasks"
+
+# processes/processes_EditObjectPermission.xml?GROUP_USER
+# processes/processes_EditObjectPermission.xml
+#: text - GROUP_USER
+msgid "Group or User"
+msgstr "Group or User"
+
+# processes/processes_EditObjectPermission.xml?OP_TASK_SOURCE
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_TASK_SOURCE
+msgid "[processes/processes_EditObjectPermission.xml?OP_TASK_SOURCE] Origin Task"
+msgstr "Origin Task"
+
+# processes/processes_EditObjectPermission.xml?OP_TASK_SOURCE-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_TASK_SOURCE -
+msgid "[processes/processes_EditObjectPermission.xml?OP_TASK_SOURCE-]"
+msgstr "All Tasks"
+
+# processes/processes_EditObjectPermission.xml?OP_PARTICIPATE
+# processes/processes_EditObjectPermission.xml
+#: yesno - OP_PARTICIPATE
+msgid "Participation required?"
+msgstr "Participation required?"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE] Type"
+msgstr "Type"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-ANY
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - ANY
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-ANY]"
+msgstr "All"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-DYNAFORM
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - DYNAFORM
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-DYNAFORM]"
+msgstr "Dynaform"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-INPUT
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - INPUT
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-INPUT]"
+msgstr "Input Document"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-OUTPUT
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - OUTPUT
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-OUTPUT]"
+msgstr "Output Document"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-CASES_NOTES
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - CASES_NOTES
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-CASES_NOTES]"
+msgstr "Cases Notes"
+
+# processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-MSGS_HISTORY
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_OBJ_TYPE - MSGS_HISTORY
+msgid "[processes/processes_EditObjectPermission.xml?OP_OBJ_TYPE-MSGS_HISTORY]"
+msgstr "Messages History"
+
+# processes/processes_EditObjectPermission.xml?ALL
+# processes/processes_EditObjectPermission.xml
+#: dropdown - ALL
+msgid "[processes/processes_EditObjectPermission.xml?ALL] Object"
+msgstr "Object"
+
+# processes/processes_EditObjectPermission.xml?ALL-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - ALL -
+msgid "[processes/processes_EditObjectPermission.xml?ALL-]"
+msgstr "All"
+
+# processes/processes_EditObjectPermission.xml?DYNAFORMS
+# processes/processes_EditObjectPermission.xml
+#: dropdown - DYNAFORMS
+msgid "[processes/processes_EditObjectPermission.xml?DYNAFORMS] DynaForm"
+msgstr "DynaForm"
+
+# processes/processes_EditObjectPermission.xml?DYNAFORMS-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - DYNAFORMS -
+msgid "[processes/processes_EditObjectPermission.xml?DYNAFORMS-]"
+msgstr "All"
+
+# processes/processes_EditObjectPermission.xml?INPUTS
+# processes/processes_EditObjectPermission.xml
+#: dropdown - INPUTS
+msgid "[processes/processes_EditObjectPermission.xml?INPUTS] Input Document"
+msgstr "Input Document"
+
+# processes/processes_EditObjectPermission.xml?INPUTS-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - INPUTS -
+msgid "[processes/processes_EditObjectPermission.xml?INPUTS-]"
+msgstr "All"
+
+# processes/processes_EditObjectPermission.xml?OUTPUTS
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OUTPUTS
+msgid "[processes/processes_EditObjectPermission.xml?OUTPUTS] Output Document"
+msgstr "Output Document"
+
+# processes/processes_EditObjectPermission.xml?OUTPUTS-
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OUTPUTS -
+msgid "[processes/processes_EditObjectPermission.xml?OUTPUTS-]"
+msgstr "All"
+
+# processes/processes_EditObjectPermission.xml?OP_ACTION
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_ACTION
+msgid "Permission"
+msgstr "Permission"
+
+# processes/processes_EditObjectPermission.xml?OP_ACTION-VIEW
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_ACTION - VIEW
+msgid "[processes/processes_EditObjectPermission.xml?OP_ACTION-VIEW]"
+msgstr "View"
+
+# processes/processes_EditObjectPermission.xml?OP_ACTION-BLOCK
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_ACTION - BLOCK
+msgid "[processes/processes_EditObjectPermission.xml?OP_ACTION-BLOCK]"
+msgstr "Block"
+
+# processes/processes_EditObjectPermission.xml?OP_ACTION-DELETE
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_ACTION - DELETE
+msgid "[processes/processes_EditObjectPermission.xml?OP_ACTION-DELETE]"
+msgstr "Delete"
+
+# processes/processes_EditObjectPermission.xml?OP_ACTION-RESEND
+# processes/processes_EditObjectPermission.xml
+#: dropdown - OP_ACTION - RESEND
+msgid "[processes/processes_EditObjectPermission.xml?OP_ACTION-RESEND]"
+msgstr "Resend"
+
+# processes/processes_EditObjectPermission.xml?CREATE
+# processes/processes_EditObjectPermission.xml
+#: button - CREATE
+msgid "[processes/processes_EditObjectPermission.xml?CREATE] Save"
+msgstr "Save"
+
+# processes/processes_Export.xml?TITLE
+# processes/processes_Export.xml
+#: title - TITLE
+msgid "processes Info"
+msgstr "processes Info"
+
+# processes/processes_Export.xml?PRO_TITLE
+# processes/processes_Export.xml
+#: caption - PRO_TITLE
+msgid "[processes/processes_Export.xml?PRO_TITLE] Process Title"
+msgstr "Process Title"
+
+# processes/processes_Export.xml?PRO_DESCRIPTION
+# processes/processes_Export.xml
+#: caption - PRO_DESCRIPTION
+msgid "[processes/processes_Export.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_Export.xml?SIZE
+# processes/processes_Export.xml
+#: caption - SIZE
+msgid "[processes/processes_Export.xml?SIZE] Size in bytes"
+msgstr "Size in bytes"
+
+# processes/processes_Export.xml?FILENAME_LABEL
+# processes/processes_Export.xml
+#: link - FILENAME_LABEL
+msgid "[processes/processes_Export.xml?FILENAME_LABEL] File"
+msgstr "File"
+
+# processes/processes_FileEdit.xml?TITLE
+# processes/processes_FileEdit.xml
+#: title - TITLE
+msgid "<div align=\"center\">Edit @#filename email template</div>"
+msgstr "<div align=\"center\">Edit @#filename email template</div>"
+
+# processes/processes_FileEdit.xml?fcontent
+# processes/processes_FileEdit.xml
+#: wysiwyg_editor - fcontent
+msgid "[processes/processes_FileEdit.xml?fcontent] "
+msgstr ""
+
+# processes/processes_FileEdit.xml?ACCEPT
+# processes/processes_FileEdit.xml
+#: button - ACCEPT
+msgid "[processes/processes_FileEdit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# processes/processes_FileEdit.xml?BTN_CANCEL
+# processes/processes_FileEdit.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_FileEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_FileEditCreateEmpty.xml?emptyfilename
+# processes/processes_FileEditCreateEmpty.xml
+#: text - emptyfilename
+msgid "[processes/processes_FileEditCreateEmpty.xml?emptyfilename] Filename"
+msgstr "Filename"
+
+# processes/processes_FileEditCreateEmpty.xml?ACCEPT
+# processes/processes_FileEditCreateEmpty.xml
+#: button - ACCEPT
+msgid "[processes/processes_FileEditCreateEmpty.xml?ACCEPT] Create"
+msgstr "Create"
+
+# processes/processes_FilesList.xml?PATH
+# processes/processes_FilesList.xml
+#: text - PATH
+msgid "[processes/processes_FilesList.xml?PATH] "
+msgstr ""
+
+# processes/processes_FilesList.xml?EDIT
+# processes/processes_FilesList.xml
+#: link - EDIT
+msgid "[processes/processes_FilesList.xml?EDIT] "
+msgstr ""
+
+# processes/processes_FilesList.xml?DELETE
+# processes/processes_FilesList.xml
+#: link - DELETE
+msgid "[processes/processes_FilesList.xml?DELETE] "
+msgstr ""
+
+# processes/processes_FilesOptions.xml?MNU_NEWEMPTY
+# processes/processes_FilesOptions.xml
+#: link - MNU_NEWEMPTY
+msgid "[processes/processes_FilesOptions.xml?MNU_NEWEMPTY] New"
+msgstr "New"
+
+# processes/processes_FilesOptions.xml?MNU_UPLOAD
+# processes/processes_FilesOptions.xml
+#: link - MNU_UPLOAD
+msgid "[processes/processes_FilesOptions.xml?MNU_UPLOAD] Upload"
+msgstr "Upload"
+

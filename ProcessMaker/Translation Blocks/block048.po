@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# setup/calendarEdit.xml?SUBMIT
+# setup/calendarEdit.xml
+#: button - SUBMIT
+msgid "[setup/calendarEdit.xml?SUBMIT] Save"
+msgstr "Save"
+
+# setup/calendarEdit.xml?SUBMIT2
+# setup/calendarEdit.xml
+#: button - SUBMIT2
+msgid "[setup/calendarEdit.xml?SUBMIT2] Save"
+msgstr "Save"
+
+# setup/calendarEdit.xml?BTN_CANCEL
+# setup/calendarEdit.xml
+#: button - BTN_CANCEL
+msgid "[setup/calendarEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# setup/calendarEdit.xml?HOLIDAY_STATUS
+# setup/calendarEdit.xml
+#: checkbox - HOLIDAY_STATUS
+msgid "[setup/calendarEdit.xml?HOLIDAY_STATUS] "
+msgstr ""
+
+# setup/calendarEdit.xml?BUSINESS_DAY_STATUS
+# setup/calendarEdit.xml
+#: checkbox - BUSINESS_DAY_STATUS
+msgid "[setup/calendarEdit.xml?BUSINESS_DAY_STATUS] "
+msgstr ""
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY] Day"
+msgstr "Day"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 7
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-7]"
+msgstr "- ALL -"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 0
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-0]"
+msgstr "SUN"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 1
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-1]"
+msgstr "MON"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 2
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-2]"
+msgstr "TUE"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 3
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-3]"
+msgstr "WED"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 4
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-4]"
+msgstr "THU"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 5
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-5]"
+msgstr "FRI"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6
+# setup/calendarEdit_BusinessHours.xml
+#: dropdown - CALENDAR_BUSINESS_DAY - 6
+msgid "[setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_DAY-6]"
+msgstr "SAT"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_START
+# setup/calendarEdit_BusinessHours.xml
+#: text - CALENDAR_BUSINESS_START
+msgid "Start (hh:mm)"
+msgstr "Start (hh:mm)"
+
+# setup/calendarEdit_BusinessHours.xml?CALENDAR_BUSINESS_END
+# setup/calendarEdit_BusinessHours.xml
+#: text - CALENDAR_BUSINESS_END
+msgid "End (hh:mm)"
+msgstr "End (hh:mm)"
+
+# setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME
+# setup/calendarEdit_Holidays.xml
+#: text - CALENDAR_HOLIDAY_NAME
+msgid "[setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_NAME] Name"
+msgstr "Name"
+
+# setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_START
+# setup/calendarEdit_Holidays.xml
+#: date - CALENDAR_HOLIDAY_START
+msgid "Start Date (Recurrent \"Y-m-d\")"
+msgstr "Start Date (Recurrent \"Y-m-d\")"
+
+# setup/calendarEdit_Holidays.xml?CALENDAR_HOLIDAY_END
+# setup/calendarEdit_Holidays.xml
+#: date - CALENDAR_HOLIDAY_END
+msgid "End Date (Recurrent \"Y-m-d\")"
+msgstr "End Date (Recurrent \"Y-m-d\")"
+
+# setup/calendarList.xml?CALENDAR_NAME
+# setup/calendarList.xml
+#: text - CALENDAR_NAME
+msgid "[setup/calendarList.xml?CALENDAR_NAME] Name"
+msgstr "Name"
+
+# setup/calendarList.xml?CALENDAR_DESCRIPTION
+# setup/calendarList.xml
+#: text - CALENDAR_DESCRIPTION
+msgid "[setup/calendarList.xml?CALENDAR_DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/calendarList.xml?CALENDAR_STATUS
+# setup/calendarList.xml
+#: text - CALENDAR_STATUS
+msgid "[setup/calendarList.xml?CALENDAR_STATUS] Status"
+msgstr "Status"
+
+# setup/calendarList.xml?LINK
+# setup/calendarList.xml
+#: link - LINK
+msgid "[setup/calendarList.xml?LINK] "
+msgstr ""
+
+# setup/calendarList.xml?LINK1
+# setup/calendarList.xml
+#: link - LINK1
+msgid "[setup/calendarList.xml?LINK1] "
+msgstr ""
+
+# setup/calendarList.xml?LINK2
+# setup/calendarList.xml
+#: link - LINK2
+msgid "[setup/calendarList.xml?LINK2] "
+msgstr ""
+
+# setup/calendarList_Options.xml?MNU_NEW
+# setup/calendarList_Options.xml
+#: link - MNU_NEW
+msgid "[setup/calendarList_Options.xml?MNU_NEW] New"
+msgstr "New"
+
+# setup/emailSetupTest.xml?TITLE1
+# setup/emailSetupTest.xml
+#: title - TITLE1
+msgid "Mail System Test Page"
+msgstr "Mail System Test Page"
+
+# setup/emailSetupTest.xml?domain
+# setup/emailSetupTest.xml
+#: text - domain
+msgid "Domain"
+msgstr "Domain"
+
+# setup/emailSetupTest.xml?to_email
+# setup/emailSetupTest.xml
+#: text - to_email
+msgid "To:"
+msgstr "To:"
+
+# setup/emailSetupTest.xml?from_name
+# setup/emailSetupTest.xml
+#: text - from_name
+msgid "From Name:"
+msgstr "From Name:"
+
+# setup/emailSetupTest.xml?from_email
+# setup/emailSetupTest.xml
+#: text - from_email
+msgid "From Email:"
+msgstr "From Email:"
+
+# setup/emailSetupTest.xml?subject
+# setup/emailSetupTest.xml
+#: text - subject
+msgid "Subject:"
+msgstr "Subject:"
+
+# setup/emailSetupTest.xml?body
+# setup/emailSetupTest.xml
+#: textarea - body
+msgid "[setup/emailSetupTest.xml?body] File"
+msgstr "File"
+
+# setup/emailSetupTest.xml?BTN_SUBMIT
+# setup/emailSetupTest.xml
+#: submit - BTN_SUBMIT
+msgid "Send Email"
+msgstr "Send Email"
+
+# setup/emails.xml?THETITLE
+# setup/emails.xml
+#: title - THETITLE
+msgid "[setup/emails.xml?THETITLE] Configuration"
+msgstr "Configuration"
+
+# setup/emails.xml?MESS_ENABLED
+# setup/emails.xml
+#: checkbox - MESS_ENABLED
+msgid "[setup/emails.xml?MESS_ENABLED] Enable Email Notifications"
+msgstr "Enable Email Notifications"
+
+# setup/emails.xml?MESS_ENGINE
+# setup/emails.xml
+#: dropdown - MESS_ENGINE
+msgid "[setup/emails.xml?MESS_ENGINE] Email Engine"
+msgstr "Email Engine"
+
+# setup/emails.xml?MESS_SERVER
+# setup/emails.xml
+#: text - MESS_SERVER
+msgid "[setup/emails.xml?MESS_SERVER] Server"
+msgstr "Server"
+
+# setup/emails.xml?MESS_PORT
+# setup/emails.xml
+#: text - MESS_PORT
+msgid "[setup/emails.xml?MESS_PORT] Port (default 25)"
+msgstr "Port (default 25)"
+
+# setup/emails.xml?MESS_RAUTH
+# setup/emails.xml
+#: checkbox - MESS_RAUTH
+msgid "[setup/emails.xml?MESS_RAUTH] Require authentication"
+msgstr "Require authentication"
+
+# setup/emails.xml?MESS_ACCOUNT
+# setup/emails.xml
+#: text - MESS_ACCOUNT
+msgid "SMTP Username"
+msgstr "SMTP Username"
+
+# setup/emails.xml?MESS_PASSWORD
+# setup/emails.xml
+#: password - MESS_PASSWORD
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+# setup/emails.xml?MESS_TEST_MAIL
+# setup/emails.xml
+#: checkbox - MESS_TEST_MAIL
+msgid "[setup/emails.xml?MESS_TEST_MAIL] Send a test mail"
+msgstr "Send a test mail"
+
+# setup/emails.xml?MESS_TEST_MAIL_TO
+# setup/emails.xml
+#: text - MESS_TEST_MAIL_TO
+msgid "[setup/emails.xml?MESS_TEST_MAIL_TO] Mail to"
+msgstr "Mail to"
+
+# setup/emails.xml?SMTPSecure
+# setup/emails.xml
+#: radiogroup - SMTPSecure
+msgid "[setup/emails.xml?SMTPSecure] Use Secure Connection"
+msgstr "Use Secure Connection"
+
+# setup/emails.xml?SMTPSecure-none
+# setup/emails.xml
+#: radiogroup - SMTPSecure - none
+msgid "[setup/emails.xml?SMTPSecure-none]"
+msgstr "No"
+
+# setup/emails.xml?SMTPSecure-tls
+# setup/emails.xml
+#: radiogroup - SMTPSecure - tls
+msgid "[setup/emails.xml?SMTPSecure-tls]"
+msgstr "TLS"
+
+# setup/emails.xml?SMTPSecure-ssl
+# setup/emails.xml
+#: radiogroup - SMTPSecure - ssl
+msgid "[setup/emails.xml?SMTPSecure-ssl]"
+msgstr "SSL"
+
+# setup/emails.xml?MESS_BACKGROUND
+# setup/emails.xml
+#: checkbox - MESS_BACKGROUND
+msgid "Run in the background"
+msgstr "Run in the background"
+
+# setup/emails.xml?MESS_EXECUTE_EVERY
+# setup/emails.xml
+#: text - MESS_EXECUTE_EVERY
+msgid "Execute every (in minutes)"
+msgstr "Execute every (in minutes)"
+
+# setup/emails.xml?MESS_SEND_MAX
+# setup/emails.xml
+#: text - MESS_SEND_MAX
+msgid "Maximun number of mails sended by attempt"
+msgstr "Maximun number of mails sended by attempt"
+
+# setup/emails.xml?MESS_TRY_SEND_INMEDIATLY
+# setup/emails.xml
+#: checkbox - MESS_TRY_SEND_INMEDIATLY
+msgid "Try send mails inmediatly"
+msgstr "Try send mails inmediatly"
+
+# setup/emails.xml?TEST
+# setup/emails.xml
+#: button - TEST
+msgid "[setup/emails.xml?TEST] Test"
+msgstr "Test"
+
+# setup/emails.xml?SAVE_CHANGES
+# setup/emails.xml
+#: button - SAVE_CHANGES
+msgid "[setup/emails.xml?SAVE_CHANGES] Save Changes"
+msgstr "Save Changes"
+
+# setup/emails.xml?SAVE_CHANGES2
+# setup/emails.xml
+#: button - SAVE_CHANGES2
+msgid "[setup/emails.xml?SAVE_CHANGES2] Save Changes"
+msgstr "Save Changes"
+
+# setup/emails_Sended.xml?MESSAGE
+# setup/emails_Sended.xml
+#: title - MESSAGE
+msgid "@#MESSAGE_VALUE"
+msgstr "@#MESSAGE_VALUE"
+
+# setup/emails_Sended.xml?ClOSE
+# setup/emails_Sended.xml
+#: button - ClOSE
+msgid "[setup/emails_Sended.xml?ClOSE] Close"
+msgstr "Close"
+
+# setup/emails_TestForm.xml?THETITLE
+# setup/emails_TestForm.xml
+#: title - THETITLE
+msgid "Mail Configuration Test Page"
+msgstr "Mail Configuration Test Page"
+
+# setup/emails_TestForm.xml?FROM_NAME
+# setup/emails_TestForm.xml
+#: text - FROM_NAME
+msgid "[setup/emails_TestForm.xml?FROM_NAME] From Name:"
+msgstr "From Name:"
+
+# setup/emails_TestForm.xml?FROM_EMAIL
+# setup/emails_TestForm.xml
+#: text - FROM_EMAIL
+msgid "[setup/emails_TestForm.xml?FROM_EMAIL] From Email:"
+msgstr "From Email:"
+
+# setup/emails_TestForm.xml?TO
+# setup/emails_TestForm.xml
+#: text - TO
+msgid "[setup/emails_TestForm.xml?TO] To:"
+msgstr "To:"
+
+# setup/emails_TestForm.xml?SEND
+# setup/emails_TestForm.xml
+#: button - SEND
+msgid "[setup/emails_TestForm.xml?SEND] Send Email"
+msgstr "Send Email"
+
+# setup/holiday.xml?TITLES
+# setup/holiday.xml
+#: title - TITLES
+msgid "Holiday"
+msgstr "Holiday"
+
+# setup/holiday.xml?DATE
+# setup/holiday.xml
+#: date - DATE
+msgid "[setup/holiday.xml?DATE] Date"
+msgstr "Date"
+
+# setup/holiday.xml?DESCRIPTION
+# setup/holiday.xml
+#: text - DESCRIPTION
+msgid "[setup/holiday.xml?DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/holiday.xml?BSUBMIT
+# setup/holiday.xml
+#: button - BSUBMIT
+msgid "[setup/holiday.xml?BSUBMIT] Accept"
+msgstr "Accept"
+
+# setup/holidayList.xml?UID
+# setup/holidayList.xml
+#: link - UID
+msgid "[setup/holidayList.xml?UID] UID"
+msgstr "UID"
+
+# setup/holidayList.xml?DATE
+# setup/holidayList.xml
+#: text - DATE
+msgid "[setup/holidayList.xml?DATE] Date"
+msgstr "Date"
+
+# setup/holidayList.xml?DESCRIPTION
+# setup/holidayList.xml
+#: text - DESCRIPTION
+msgid "[setup/holidayList.xml?DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/holidayList.xml?DELETE
+# setup/holidayList.xml
+#: link - DELETE
+msgid "[setup/holidayList.xml?DELETE] Delete"
+msgstr "Delete"
+
+# setup/holidayListMenu.xml?MNU_NEW
+# setup/holidayListMenu.xml
+#: link - MNU_NEW
+msgid "[setup/holidayListMenu.xml?MNU_NEW] New"
+msgstr "New"
+
+# setup/language.xml?TITLE
+# setup/language.xml
+#: title - TITLE
+msgid "[setup/language.xml?TITLE] Language"
+msgstr "Language"
+
+# setup/language.xml?LEX_VALUE
+# setup/language.xml
+#: dropdown - LEX_VALUE
+msgid "[setup/language.xml?LEX_VALUE] Language"
+msgstr "Language"
+
+# setup/language.xml?BSUBMIT
+# setup/language.xml
+#: button - BSUBMIT
+msgid "[setup/language.xml?BSUBMIT] Add"
+msgstr "Add"
+
+# setup/language_table.xml?TITLE
+# setup/language_table.xml
+#: title - TITLE
+msgid "[setup/language_table.xml?TITLE] Language"
+msgstr "Language"
+
+# setup/language_table.xml?LEX_VALUE
+# setup/language_table.xml
+#: dropdown - LEX_VALUE
+msgid "[setup/language_table.xml?LEX_VALUE] Language"
+msgstr "Language"
+
+# setup/language_table.xml?BSUBMIT
+# setup/language_table.xml
+#: button - BSUBMIT
+msgid "[setup/language_table.xml?BSUBMIT] Add"
+msgstr "Add"
+
+# setup/languages.xml?LAN_ID
+# setup/languages.xml
+#: text - LAN_ID
+msgid "[setup/languages.xml?LAN_ID] Code"
+msgstr "Code"
+
+# setup/languages.xml?LAN_NAME
+# setup/languages.xml
+#: text - LAN_NAME
+msgid "[setup/languages.xml?LAN_NAME] Language"
+msgstr "Language"
+
+# setup/languages_ImportForm.xml?TITLE1
+# setup/languages_ImportForm.xml
+#: title - TITLE1
+msgid "Import or Update Language"
+msgstr "Import or Update Language"
+
+# setup/languages_ImportForm.xml?LANGUAGE_FILENAME
+# setup/languages_ImportForm.xml
+#: file - LANGUAGE_FILENAME
+msgid "[setup/languages_ImportForm.xml?LANGUAGE_FILENAME] File"
+msgstr "File"
+
+# setup/languages_ImportForm.xml?IMPORT
+# setup/languages_ImportForm.xml
+#: button - IMPORT
+msgid "[setup/languages_ImportForm.xml?IMPORT] Import"
+msgstr "Import"
+
+# setup/languages_ImportForm.xml?BTN_CANCEL
+# setup/languages_ImportForm.xml
+#: button - BTN_CANCEL
+msgid "[setup/languages_ImportForm.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# setup/languages_Options.xml?MNU_IMPORT
+# setup/languages_Options.xml
+#: link - MNU_IMPORT
+msgid "Import / Update"
+msgstr "Import / Update"
+
+# setup/location.xml?DESCRIPTION
+# setup/location.xml
+#: text - DESCRIPTION
+msgid "Region"
+msgstr "Region"
+
+# setup/location.xml?BSUBMIT
+# setup/location.xml
+#: button - BSUBMIT
+msgid "[setup/location.xml?BSUBMIT] Add"
+msgstr "Add"
+
+# setup/location.xml?TITLE
+# setup/location.xml
+#: title - TITLE
+msgid "[setup/location.xml?TITLE] Region"
+msgstr "Region"
+
+# setup/location.xml?USR_COUNTRY
+# setup/location.xml
+#: dropdown - USR_COUNTRY
+msgid "COUNTRIES"
+msgstr "COUNTRIES"
+
+# setup/location.xml?USR_CITY
+# setup/location.xml
+#: dropdown - USR_CITY
+msgid "CITY"
+msgstr "CITY"
+
+# setup/location.xml?ADD_CITY
+# setup/location.xml
+#: button - ADD_CITY
+msgid "Add city"
+msgstr "Add city"
+
+# setup/location.xml?USR_SUBMIT
+# setup/location.xml
+#: submit - USR_SUBMIT
+msgid "ACCEPT"
+msgstr "ACCEPT"
+
+# setup/mail.xml?TITLE6171
+# setup/mail.xml
+#: title - TITLE6171
+msgid "Email Settings"
+msgstr "Email Settings"
+
+# setup/mail.xml?MAILER
+# setup/mail.xml
+#: dropdown - MAILER
+msgid "[setup/mail.xml?MAILER] Method"
+msgstr "Method"
+
+# setup/mail.xml?MAILER-mail
+# setup/mail.xml
+#: dropdown - MAILER - mail
+msgid "[setup/mail.xml?MAILER-mail]"
+msgstr "sendmail"
+
+# setup/mail.xml?MAILER-smtp
+# setup/mail.xml
+#: dropdown - MAILER - smtp
+msgid "[setup/mail.xml?MAILER-smtp]"
+msgstr "SMTP"
+
+# setup/mail.xml?HOST
+# setup/mail.xml
+#: text - HOST
+msgid "[setup/mail.xml?HOST] Server"
+msgstr "Server"
+
+# setup/mail.xml?PORT
+# setup/mail.xml
+#: text - PORT
+msgid "[setup/mail.xml?PORT] Port"
+msgstr "Port"
+
+# setup/mail.xml?TIMEOUT
+# setup/mail.xml
+#: text - TIMEOUT
+msgid "Timeout"
+msgstr "Timeout"
+
+# setup/mail.xml?SMTPAUTH
+# setup/mail.xml
+#: yesno - SMTPAUTH
+msgid "Requires Authentication"
+msgstr "Requires Authentication"
+
+# setup/mail.xml?USERNAME
+# setup/mail.xml
+#: text - USERNAME
+msgid "Email Account"
+msgstr "Email Account"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-REAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Real"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Virtual"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-VREAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "VReal"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "Original"
+msgstr "Original"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-COPY
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-ORIGINAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal copy"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-FINAL
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_ORIGINAL - FINAL
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_ORIGINAL-FINAL]"
+msgstr "Final"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_PUBLISHED
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_PUBLISHED
+msgid "Access type"
+msgstr "Access type"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_PUBLISHED-PRIVATE
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_PUBLISHED - PRIVATE
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_PUBLISHED-PRIVATE]"
+msgstr "Private"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_PUBLISHED-PUBLIC
+# inputdocs/inputdocs_List.xml
+#: dropdown - INP_DOC_PUBLISHED - PUBLIC
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_PUBLISHED-PUBLIC]"
+msgstr "Public"
+
+# inputdocs/inputdocs_List.xml?INP_DOC_DESCRIPTION
+# inputdocs/inputdocs_List.xml
+#: textarea - INP_DOC_DESCRIPTION
+msgid "[inputdocs/inputdocs_List.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# inputdocs/inputdocs_List.xml?DELETE
+# inputdocs/inputdocs_List.xml
+#: link - DELETE
+msgid "[inputdocs/inputdocs_List.xml?DELETE] "
+msgstr ""
+
+# inputdocs/inputdocs_List.xml?SEARCH
+# inputdocs/inputdocs_List.xml
+#: button - SEARCH
+msgid "[inputdocs/inputdocs_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# inputdocs/inputdocs_Options.xml?MNU_ADD
+# inputdocs/inputdocs_Options.xml
+#: link - MNU_ADD
+msgid "[inputdocs/inputdocs_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# inputdocs/inputdocs_ShortList.xml?INP_DOC_TITLE
+# inputdocs/inputdocs_ShortList.xml
+#: text - INP_DOC_TITLE
+msgid "[inputdocs/inputdocs_ShortList.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# inputdocs/inputdocs_ShortList.xml?DELETE
+# inputdocs/inputdocs_ShortList.xml
+#: link - DELETE
+msgid "[inputdocs/inputdocs_ShortList.xml?DELETE] "
+msgstr ""
+
+# inputdocs/inputdocs_ShortList.xml?SEARCH
+# inputdocs/inputdocs_ShortList.xml
+#: button - SEARCH
+msgid "[inputdocs/inputdocs_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# inputdocs/inputdocs_Supervisor.xml?INP_DOC_TITLE
+# inputdocs/inputdocs_Supervisor.xml
+#: text - INP_DOC_TITLE
+msgid "[inputdocs/inputdocs_Supervisor.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# inputdocs/inputdocs_Supervisor.xml?SEARCH
+# inputdocs/inputdocs_Supervisor.xml
+#: button - SEARCH
+msgid "[inputdocs/inputdocs_Supervisor.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# inputdocs/inputdocs_SupervisorOptions.xml?MNU_ASSIGN
+# inputdocs/inputdocs_SupervisorOptions.xml
+#: link - MNU_ASSIGN
+msgid "[inputdocs/inputdocs_SupervisorOptions.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# login/changePassword.xml?THETITLE
+# login/changePassword.xml
+#: title - THETITLE
+msgid "Change password"
+msgstr "Change password"
+
+# login/changePassword.xml?THEDESCRIPTION
+# login/changePassword.xml
+#: title - THEDESCRIPTION
+msgid "@#DESCRIPTION"
+msgstr "@#DESCRIPTION"
+
+# login/changePassword.xml?USR_PASSWORD
+# login/changePassword.xml
+#: password - USR_PASSWORD
+msgid "[login/changePassword.xml?USR_PASSWORD] Password"
+msgstr "Password"
+
+# login/changePassword.xml?USR_PASSWORD_CONFIRM
+# login/changePassword.xml
+#: password - USR_PASSWORD_CONFIRM
+msgid "Re-Type Password"
+msgstr "Re-Type Password"
+
+# login/changePassword.xml?btnSave
+# login/changePassword.xml
+#: button - btnSave
+msgid "[login/changePassword.xml?btnSave] Save"
+msgstr "Save"
+
+# login/dbInfo.xml?DYNA_HEADER
+# login/dbInfo.xml
+#: title - DYNA_HEADER
+msgid "System Information"
+msgstr "System Information"
+
+# login/dbInfo.xml?FLUID
+# login/dbInfo.xml
+#: caption - FLUID
+msgid "[login/dbInfo.xml?FLUID] ProcessMaker"
+msgstr "ProcessMaker"
+
+# login/dbInfo.xml?SYSTEM
+# login/dbInfo.xml
+#: caption - SYSTEM
+msgid "[login/dbInfo.xml?SYSTEM] Operating System"
+msgstr "Operating System"
+
+# login/dbInfo.xml?TIME_ZONE
+# login/dbInfo.xml
+#: caption - TIME_ZONE
+msgid "Time zone"
+msgstr "Time zone"
+
+# login/dbInfo.xml?SERVER_SOFTWARE
+# login/dbInfo.xml
+#: caption - SERVER_SOFTWARE
+msgid "[login/dbInfo.xml?SERVER_SOFTWARE] Web Server"
+msgstr "Web Server"
+
+# login/dbInfo.xml?SERVER_NAME
+# login/dbInfo.xml
+#: caption - SERVER_NAME
+msgid "[login/dbInfo.xml?SERVER_NAME] Server Name"
+msgstr "Server Name"
+
+# login/dbInfo.xml?SERVER_ADDR
+# login/dbInfo.xml
+#: caption - SERVER_ADDR
+msgid "[login/dbInfo.xml?SERVER_ADDR] Server IP Address"
+msgstr "Server IP Address"
+
+# login/dbInfo.xml?PHP
+# login/dbInfo.xml
+#: caption - PHP
+msgid "PHP version"
+msgstr "PHP version"
+
+# login/dbInfo.xml?DATABASE
+# login/dbInfo.xml
+#: caption - DATABASE
+msgid "Database"
+msgstr "Database"
+
+# login/dbInfo.xml?DATABASE_SERVER
+# login/dbInfo.xml
+#: caption - DATABASE_SERVER
+msgid "Database Server IP Address"
+msgstr "Database Server IP Address"
+
+# login/dbInfo.xml?DATABASE_NAME
+# login/dbInfo.xml
+#: caption - DATABASE_NAME
+msgid "[login/dbInfo.xml?DATABASE_NAME] Database Name"
+msgstr "Database Name"
+
+# login/dbInfo.xml?AVAILABLE_DB
+# login/dbInfo.xml
+#: caption - AVAILABLE_DB
+msgid "Available Databases"
+msgstr "Available Databases"
+
+# login/dbInfo.xml?HTTP_USER_AGENT
+# login/dbInfo.xml
+#: caption - HTTP_USER_AGENT
+msgid "[login/dbInfo.xml?HTTP_USER_AGENT] User's Browser"
+msgstr "User's Browser"
+
+# login/dbInfo.xml?IP
+# login/dbInfo.xml
+#: caption - IP
+msgid "User's Ip Address"
+msgstr "User's Ip Address"
+
+# login/forgotPassword.xml?TITLE
+# login/forgotPassword.xml
+#: title - TITLE
+msgid "I forgot my password"
+msgstr "I forgot my password"
+
+# login/forgotPassword.xml?USR_USERNAME
+# login/forgotPassword.xml
+#: text - USR_USERNAME
+msgid "[login/forgotPassword.xml?USR_USERNAME] User"
+msgstr "User"
+
+# login/forgotPassword.xml?USR_EMAIL
+# login/forgotPassword.xml
+#: text - USR_EMAIL
+msgid "[login/forgotPassword.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# login/forgotPassword.xml?BSUBMIT
+# login/forgotPassword.xml
+#: submit - BSUBMIT
+msgid "Send Request"
+msgstr "Send Request"
+
+# login/forgotPassword.xml?BCANCEL
+# login/forgotPassword.xml
+#: button - BCANCEL
+msgid "[login/forgotPassword.xml?BCANCEL] Cancel"
+msgstr "Cancel"
+
+# login/login.xml?TITLE
+# login/login.xml
+#: title - TITLE
+msgid "[login/login.xml?TITLE] Login"
+msgstr "Login"
+
+# login/login.xml?USR_USERNAME
+# login/login.xml
+#: text - USR_USERNAME
+msgid "[login/login.xml?USR_USERNAME] User"
+msgstr "User"
+
+# login/login.xml?USR_PASSWORD
+# login/login.xml
+#: password - USR_PASSWORD
+msgid "[login/login.xml?USR_PASSWORD] Password"
+msgstr "Password"
+
+# login/login.xml?USER_LANG
+# login/login.xml
+#: dropdown - USER_LANG
+msgid "[login/login.xml?USER_LANG] Language"
+msgstr "Language"
+
+# login/login.xml?BSUBMIT
+# login/login.xml
+#: submit - BSUBMIT
+msgid "[login/login.xml?BSUBMIT] Login"
+msgstr "Login"
+
+# login/login.xml?FORGOT_PASWORD_LINK
+# login/login.xml
+#: link - FORGOT_PASWORD_LINK
+msgid "[login/login.xml?FORGOT_PASWORD_LINK] Forgot Password"
+msgstr "Forgot Password"
+
+# login/newSite.xml?NEW_WORKSPACE
+# login/newSite.xml
+#: title - NEW_WORKSPACE
+msgid "[login/newSite.xml?NEW_WORKSPACE] New Workspace"
+msgstr "New Workspace"
+
+# login/newSite.xml?NW_TITLE
+# login/newSite.xml
+#: text - NW_TITLE
+msgid "[login/newSite.xml?NW_TITLE] Name"
+msgstr "Name"
+
+# login/newSite.xml?DB
+# login/newSite.xml
+#: subtitle - DB
+msgid "[login/newSite.xml?DB] Database Options"
+msgstr "Database Options"
+
+# login/newSite.xml?AO_DB_WF
+# login/newSite.xml
+#: text - AO_DB_WF
+msgid "Workflow Database:"
+msgstr "Workflow Database:"
+
+# login/newSite.xml?AO_DB_RB
+# login/newSite.xml
+#: text - AO_DB_RB
+msgid "Rbac Database:"
+msgstr "Rbac Database:"
+
+# login/newSite.xml?AO_DB_RP
+# login/newSite.xml
+#: text - AO_DB_RP
+msgid "Report Database:"
+msgstr "Report Database:"
+
+# login/newSite.xml?AO_DB_DROP
+# login/newSite.xml
+#: checkbox - AO_DB_DROP
+msgid "Drop database if exist"
+msgstr "Drop database if exist"
+
+# login/newSite.xml?WS
+# login/newSite.xml
+#: subtitle - WS
+msgid "[login/newSite.xml?WS] Workspace Administrator"
+msgstr "Workspace Administrator"
+
+# login/newSite.xml?NW_USERNAME
+# login/newSite.xml
+#: text - NW_USERNAME
+msgid "Username:"
+msgstr "Username:"
+
+# login/newSite.xml?NW_PASSWORD
+# login/newSite.xml
+#: password - NW_PASSWORD
+msgid "Password (admin) <br> (Max. length 20):"
+msgstr "Password (admin) <br> (Max. length 20):"
+
+# login/newSite.xml?NW_PASSWORD2
+# login/newSite.xml
+#: password - NW_PASSWORD2
+msgid "Re-type Password:"
+msgstr "Re-type Password:"
+
+# login/newSite.xml?NW_SUB
+# login/newSite.xml
+#: submit - NW_SUB
+msgid "[login/newSite.xml?NW_SUB] Test"
+msgstr "Test"
+
+# login/newSiteAdd.xml?NEW_WORKSPACE
+# login/newSiteAdd.xml
+#: title - NEW_WORKSPACE
+msgid "[login/newSiteAdd.xml?NEW_WORKSPACE] New Workspace"
+msgstr "New Workspace"
+
+# login/newSiteAdd.xml?NW_TITLE
+# login/newSiteAdd.xml
+#: text - NW_TITLE
+msgid "[login/newSiteAdd.xml?NW_TITLE] Name"
+msgstr "Name"
+
+# login/newSiteAdd.xml?DB
+# login/newSiteAdd.xml
+#: subtitle - DB
+msgid "[login/newSiteAdd.xml?DB] Database Options"
+msgstr "Database Options"
+
+# login/newSiteAdd.xml?AO_DB_WF
+# login/newSiteAdd.xml
+#: text - AO_DB_WF
+msgid "[login/newSiteAdd.xml?AO_DB_WF] Workflow Database:"
+msgstr "Workflow Database:"
+
+# login/newSiteAdd.xml?AO_DB_RB
+# login/newSiteAdd.xml
+#: text - AO_DB_RB
+msgid "[login/newSiteAdd.xml?AO_DB_RB] Rbac Database:"
+msgstr "Rbac Database:"
+
+# login/newSiteAdd.xml?AO_DB_RP
+# login/newSiteAdd.xml
+#: text - AO_DB_RP
+msgid "[login/newSiteAdd.xml?AO_DB_RP] Report Database:"
+msgstr "Report Database:"
+
+# login/newSiteAdd.xml?AO_DB_DROP
+# login/newSiteAdd.xml
+#: checkbox - AO_DB_DROP
+msgid "[login/newSiteAdd.xml?AO_DB_DROP] Drop database if exists"
+msgstr "Drop database if exists"
+
+# login/newSiteAdd.xml?WS
+# login/newSiteAdd.xml
+#: subtitle - WS
+msgid "[login/newSiteAdd.xml?WS] Workspace Administrator"
+msgstr "Workspace Administrator"
+
+# login/newSiteAdd.xml?NW_USERNAME
+# login/newSiteAdd.xml
+#: text - NW_USERNAME
+msgid "[login/newSiteAdd.xml?NW_USERNAME] Username:"
+msgstr "Username:"
+
+# login/newSiteAdd.xml?NW_PASSWORD
+# login/newSiteAdd.xml
+#: password - NW_PASSWORD
+msgid "Password (admin):"
+msgstr "Password (admin):"
+
+# login/newSiteAdd.xml?NW_PASSWORD2
+# login/newSiteAdd.xml
+#: password - NW_PASSWORD2
+msgid "[login/newSiteAdd.xml?NW_PASSWORD2] Re-type Password:"
+msgstr "Re-type Password:"
+
+# login/newSiteAdd.xml?DBS
+# login/newSiteAdd.xml
+#: subtitle - DBS
+msgid "Define Database"
+msgstr "Define Database"
+
+# login/newSiteAdd.xml?DB_ENGINE
+# login/newSiteAdd.xml
+#: text - DB_ENGINE
+msgid "Engine:"
+msgstr "Engine:"
+
+# login/newSiteAdd.xml?DB_SERVER
+# login/newSiteAdd.xml
+#: text - DB_SERVER
+msgid "Server:"
+msgstr "Server:"
+
+# login/newSiteAdd.xml?DB_PORT
+# login/newSiteAdd.xml
+#: text - DB_PORT
+msgid "Port:"
+msgstr "Port:"
+
+# login/newSiteAdd.xml?DB_USERNAME
+# login/newSiteAdd.xml
+#: text - DB_USERNAME
+msgid "[login/newSiteAdd.xml?DB_USERNAME] Username:"
+msgstr "Username:"
+
+# login/newSiteAdd.xml?DB_PASSWORD
+# login/newSiteAdd.xml
+#: password - DB_PASSWORD
+msgid "Password:"
+msgstr "Password:"
+
+# login/newSiteAdd.xml?NW_SUB
+# login/newSiteAdd.xml
+#: submit - NW_SUB
+msgid "[login/newSiteAdd.xml?NW_SUB] Test"
+msgstr "Test"
+
+# login/noViewPage.xml?title
+# login/noViewPage.xml
+#: title - title
+msgid "You don't have permission"
+msgstr "You don't have permission"
+
+# login/noViewPage.xml?subtitle1
+# login/noViewPage.xml
+#: subtitle - subtitle1
+msgid "The account you are logged in under does not have enough security privileges to view this page"
+msgstr "The account you are logged in under does not have enough security privileges to view this page"
+
+# login/noViewPage.xml?subtitle2
+# login/noViewPage.xml
+#: subtitle - subtitle2
+msgid "Please press back button to continue working with this system."
+msgstr "Please press back button to continue working with this system."
+
+# login/nologin.xml?subtitle
+# login/nologin.xml
+#: subtitle - subtitle
+msgid "[login/nologin.xml?subtitle] "
+msgstr ""
+
+# login/nologin.xml?BSUBMIT
+# login/nologin.xml
+#: submit - BSUBMIT
+msgid "[login/nologin.xml?BSUBMIT] Login"
+msgstr "Login"
+
+# login/showInfo.xml?TITLE
+# login/showInfo.xml
+#: title - TITLE
+msgid "[login/showInfo.xml?TITLE] Information"
+msgstr "Information"
+
+# login/showInfo.xml?MESSAGE
+# login/showInfo.xml
+#: text - MESSAGE
+msgid "[login/showInfo.xml?MESSAGE] "
+msgstr ""
+
+# login/showInfoUpdate.xml?THETITLE1
+# login/showInfoUpdate.xml
+#: title - THETITLE1
+msgid "[login/showInfoUpdate.xml?THETITLE1] Information"
+msgstr "Information"
+
+# login/showInfoUpdate.xml?THETITLE2
+# login/showInfoUpdate.xml
+#: title - THETITLE2
+msgid "Affected Files"
+msgstr "Affected Files"
+
+# login/showInfoUpdate.xml?THETITLE4
+# login/showInfoUpdate.xml
+#: title - THETITLE4
+msgid "Errors"
+msgstr "Errors"
+
+# login/showInfoUpdate.xml?THETITLE3
+# login/showInfoUpdate.xml
+#: title - THETITLE3
+msgid "Environments Updated"
+msgstr "Environments Updated"
+
+# login/showInfoUpdate.xml?SUBTITLE4
+# login/showInfoUpdate.xml
+#: subtitle - SUBTITLE4
+msgid "[login/showInfoUpdate.xml?SUBTITLE4] "
+msgstr ""
+
+# login/showMessage.xml?TITLE
+# login/showMessage.xml
+#: title - TITLE
+msgid "Error"
+msgstr "Error"
+
+# login/showMessage.xml?MESSAGE
+# login/showMessage.xml
+#: text - MESSAGE
+msgid "[login/showMessage.xml?MESSAGE] "
+msgstr ""
+
+# login/sysLogin.xml?TITLE
+# login/sysLogin.xml
+#: title - TITLE
+msgid "[login/sysLogin.xml?TITLE] Login"
+msgstr "Login"
+
+# login/sysLogin.xml?USR_USERNAME
+# login/sysLogin.xml
+#: text - USR_USERNAME
+msgid "[login/sysLogin.xml?USR_USERNAME] User"
+msgstr "User"
+
+# login/sysLogin.xml?USR_PASSWORD
+# login/sysLogin.xml
+#: password - USR_PASSWORD
+msgid "[login/sysLogin.xml?USR_PASSWORD] Password"
+msgstr "Password"
+
+# login/sysLogin.xml?USER_ENV
+# login/sysLogin.xml
+#: dropdown - USER_ENV
+msgid "[login/sysLogin.xml?USER_ENV] Workspace"
+msgstr "Workspace"
+
+# login/sysLogin.xml?USER_LANG
+# login/sysLogin.xml
+#: dropdown - USER_LANG
+msgid "[login/sysLogin.xml?USER_LANG] Language"
+msgstr "Language"
+

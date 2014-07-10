@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_WS_USER_PASSWORD
+#: LABEL/PENTAHO_LABEL_WS_USER_PASSWORD
+msgid "Pentaho Workspace User and Password"
+msgstr "Pentaho Workspace User and Password"
+
+# TRANSLATION
+# LABEL/PENTAHO_TABLES_TRIGGERS
+#: LABEL/PENTAHO_TABLES_TRIGGERS
+msgid "[LABEL/PENTAHO_TABLES_TRIGGERS] Database tables and triggers"
+msgstr "Database tables and triggers"
+
+# TRANSLATION
+# LABEL/PHOTO_GALLERY
+#: LABEL/PHOTO_GALLERY
+msgid "Photo gallery"
+msgstr "Photo gallery"
+
+# TRANSLATION
+# LABEL/PORT_DEFAULT
+#: LABEL/PORT_DEFAULT
+msgid "Port (default 25)"
+msgstr "Port (default 25)"
+
+# TRANSLATION
+# LABEL/REQUIRE_AUTHENTICATION
+#: LABEL/REQUIRE_AUTHENTICATION
+msgid "Require authentication"
+msgstr "Require authentication"
+
+# TRANSLATION
+# LABEL/RESOLVING_NAME
+#: LABEL/RESOLVING_NAME
+msgid "[LABEL/RESOLVING_NAME] Resolving Host Name"
+msgstr "Resolving Host Name"
+
+# TRANSLATION
+# LABEL/SENDING_TEST_EMAIL
+#: LABEL/SENDING_TEST_EMAIL
+msgid "Sending a test mail to"
+msgstr "Sending a test mail to"
+
+# TRANSLATION
+# LABEL/SEND_TEST_MAIL
+#: LABEL/SEND_TEST_MAIL
+msgid "Send a test mail"
+msgstr "Send a test mail"
+
+# TRANSLATION
+# LABEL/SERVER_RESPONSE
+#: LABEL/SERVER_RESPONSE
+msgid "[LABEL/SERVER_RESPONSE] Server Response"
+msgstr "Server Response"
+
+# TRANSLATION
+# LABEL/SMTP_SERVER
+#: LABEL/SMTP_SERVER
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+# TRANSLATION
+# LABEL/STEP1
+#: LABEL/STEP1
+msgid "Step 1"
+msgstr "Step 1"
+
+# TRANSLATION
+# LABEL/STEP2
+#: LABEL/STEP2
+msgid "Step 2"
+msgstr "Step 2"
+
+# TRANSLATION
+# LABEL/STEP3
+#: LABEL/STEP3
+msgid "Step 3"
+msgstr "Step 3"
+
+# TRANSLATION
+# LABEL/STEP4
+#: LABEL/STEP4
+msgid "Step 4"
+msgstr "Step 4"
+
+# TRANSLATION
+# LABEL/STEP_MODE
+#: LABEL/STEP_MODE
+msgid "Mode"
+msgstr "Mode"
+
+# TRANSLATION
+# LABEL/TESTING_EMAIL_CONF
+#: LABEL/TESTING_EMAIL_CONF
+msgid "Testing email configuration"
+msgstr "Testing email configuration"
+
+# TRANSLATION
+# LABEL/TEST_HAS
+#: LABEL/TEST_HAS
+msgid "[LABEL/TEST_HAS] The test has"
+msgstr "The test has"
+
+# TRANSLATION
+# LABEL/TO_DO
+#: LABEL/TO_DO
+msgid "[LABEL/TO_DO] To Do"
+msgstr "To Do"
+
+# TRANSLATION
+# LABEL/UID_UNDEFINED_USER
+#: LABEL/UID_UNDEFINED_USER
+msgid "Undefined user"
+msgstr "Undefined user"
+
+# TRANSLATION
+# LABEL/UNCHECK_ALL
+#: LABEL/UNCHECK_ALL
+msgid "Uncheck All"
+msgstr "Uncheck All"
+
+# TRANSLATION
+# LABEL/USE_SECURE_CONNECTION
+#: LABEL/USE_SECURE_CONNECTION
+msgid "Use Secure Connection"
+msgstr "Use Secure Connection"
+
+# TRANSLATION
+# LABEL/VIEW_ROLE_USERS
+#: LABEL/VIEW_ROLE_USERS
+msgid "[LABEL/VIEW_ROLE_USERS] Users"
+msgstr "Users"
+
+# TRANSLATION
+# LABEL/WEBEN_ONLY_BALANCED
+#: LABEL/WEBEN_ONLY_BALANCED
+msgid "Web Entry only works with tasks which have Cyclical Assignment.<br/> Please change the Assignment Rules"
+msgstr "Web Entry only works with tasks which have Cyclical Assignment.<br/> Please change the Assignment Rules"
+
+# TRANSLATION
+# LABEL/WRONG_LOGIN_CREDENTIALS
+#: LABEL/WRONG_LOGIN_CREDENTIALS
+msgid "Wrong login credentials"
+msgstr "Wrong login credentials"
+
+# additionalTables/additionalTablesData.xml?ADD_TAB_NAME
+# additionalTables/additionalTablesData.xml
+#: text - ADD_TAB_NAME
+msgid "[additionalTables/additionalTablesData.xml?ADD_TAB_NAME] Name"
+msgstr "Name"
+
+# additionalTables/additionalTablesData.xml?ADD_TAB_DESCRIPTION
+# additionalTables/additionalTablesData.xml
+#: text - ADD_TAB_DESCRIPTION
+msgid "[additionalTables/additionalTablesData.xml?ADD_TAB_DESCRIPTION] Description"
+msgstr "Description"
+
+# additionalTables/additionalTablesData.xml?EDIT
+# additionalTables/additionalTablesData.xml
+#: link - EDIT
+msgid "[additionalTables/additionalTablesData.xml?EDIT] "
+msgstr ""
+
+# additionalTables/additionalTablesData.xml?DELETE
+# additionalTables/additionalTablesData.xml
+#: link - DELETE
+msgid "[additionalTables/additionalTablesData.xml?DELETE] "
+msgstr ""
+
+# additionalTables/additionalTablesDataImportForm.xml?TITLE
+# additionalTables/additionalTablesDataImportForm.xml
+#: title - TITLE
+msgid "[additionalTables/additionalTablesDataImportForm.xml?TITLE] Import Data from CSV file"
+msgstr "Import Data from CSV file"
+
+# additionalTables/additionalTablesDataImportForm.xml?CSV_FILE
+# additionalTables/additionalTablesDataImportForm.xml
+#: file - CSV_FILE
+msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_FILE] CSV File"
+msgstr "CSV File"
+
+# additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER
+# additionalTables/additionalTablesDataImportForm.xml
+#: dropdown - CSV_DELIMITER
+msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER] Delimited by"
+msgstr "Delimited by"
+
+# additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER-;
+# additionalTables/additionalTablesDataImportForm.xml
+#: dropdown - CSV_DELIMITER - ;
+msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER-;]"
+msgstr "SemiColon (;)"
+
+# additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER-,
+# additionalTables/additionalTablesDataImportForm.xml
+#: dropdown - CSV_DELIMITER - ,
+msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER-,]"
+msgstr "Comma (,)"
+
+# additionalTables/additionalTablesDataImportForm.xml?btnSave
+# additionalTables/additionalTablesDataImportForm.xml
+#: submit - btnSave
+msgid "[additionalTables/additionalTablesDataImportForm.xml?btnSave] Save"
+msgstr "Save"
+
+# additionalTables/additionalTablesDataImportForm.xml?BTN_CANCEL
+# additionalTables/additionalTablesDataImportForm.xml
+#: button - BTN_CANCEL
+msgid "[additionalTables/additionalTablesDataImportForm.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# additionalTables/additionalTablesEdit.xml?TITLE1
+# additionalTables/additionalTablesEdit.xml
+#: title - TITLE1
+msgid "Table Information"
+msgstr "Table Information"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_NAME
+# additionalTables/additionalTablesEdit.xml
+#: text - ADD_TAB_NAME
+msgid "[additionalTables/additionalTablesEdit.xml?ADD_TAB_NAME] Table Name"
+msgstr "Table Name"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_DESCRIPTION
+# additionalTables/additionalTablesEdit.xml
+#: textarea - ADD_TAB_DESCRIPTION
+msgid "[additionalTables/additionalTablesEdit.xml?ADD_TAB_DESCRIPTION] Description"
+msgstr "Description"
+
+# additionalTables/additionalTablesEdit.xml?TITLE2
+# additionalTables/additionalTablesEdit.xml
+#: title - TITLE2
+msgid "Log Configuration"
+msgstr "Log Configuration"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_INSERT
+# additionalTables/additionalTablesEdit.xml
+#: checkbox - ADD_TAB_SDW_LOG_INSERT
+msgid "Save log for insert actions"
+msgstr "Save log for insert actions"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_UPDATE
+# additionalTables/additionalTablesEdit.xml
+#: checkbox - ADD_TAB_SDW_LOG_UPDATE
+msgid "Save log for update actions"
+msgstr "Save log for update actions"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_DELETE
+# additionalTables/additionalTablesEdit.xml
+#: checkbox - ADD_TAB_SDW_LOG_DELETE
+msgid "Save log for delete actions"
+msgstr "Save log for delete actions"
+
+# additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_AUTO_DELETE
+# additionalTables/additionalTablesEdit.xml
+#: checkbox - ADD_TAB_SDW_AUTO_DELETE
+msgid "Delete related log when table is deleted"
+msgstr "Delete related log when table is deleted"
+
+# additionalTables/additionalTablesEdit.xml?TITLE3
+# additionalTables/additionalTablesEdit.xml
+#: title - TITLE3
+msgid "[additionalTables/additionalTablesEdit.xml?TITLE3] Fields"
+msgstr "Fields"
+
+# additionalTables/additionalTablesEdit.xml?btnSave
+# additionalTables/additionalTablesEdit.xml
+#: button - btnSave
+msgid "[additionalTables/additionalTablesEdit.xml?btnSave] Save"
+msgstr "Save"
+
+# additionalTables/additionalTablesEdit.xml?BTN_CANCEL
+# additionalTables/additionalTablesEdit.xml
+#: button - BTN_CANCEL
+msgid "[additionalTables/additionalTablesEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# additionalTables/additionalTablesExportList.xml?ADD_TAB_NAME
+# additionalTables/additionalTablesExportList.xml
+#: text - ADD_TAB_NAME
+msgid "[additionalTables/additionalTablesExportList.xml?ADD_TAB_NAME] Name"
+msgstr "Name"
+
+# additionalTables/additionalTablesExportList.xml?ADD_TAB_DESCRIPTION
+# additionalTables/additionalTablesExportList.xml
+#: text - ADD_TAB_DESCRIPTION
+msgid "[additionalTables/additionalTablesExportList.xml?ADD_TAB_DESCRIPTION] Description"
+msgstr "Description"
+
+# additionalTables/additionalTablesExportList.xml?ADD_SCHEMA
+# additionalTables/additionalTablesExportList.xml
+#: checkboxpt - ADD_SCHEMA
+msgid "Schema&nbsp;"
+msgstr "Schema&nbsp;"
+
+# additionalTables/additionalTablesExportList.xml?ADD_DATA
+# additionalTables/additionalTablesExportList.xml
+#: checkboxpt - ADD_DATA
+msgid "Data&nbsp;"
+msgstr "Data&nbsp;"
+
+# additionalTables/additionalTablesFields.xml?FLD_NAME
+# additionalTables/additionalTablesFields.xml
+#: text - FLD_NAME
+msgid "[additionalTables/additionalTablesFields.xml?FLD_NAME] Field Name"
+msgstr "Field Name"
+
+# additionalTables/additionalTablesFields.xml?FLD_DESCRIPTION
+# additionalTables/additionalTablesFields.xml
+#: text - FLD_DESCRIPTION
+msgid "[additionalTables/additionalTablesFields.xml?FLD_DESCRIPTION] Field Label"
+msgstr "Field Label"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE] Type"
+msgstr "Type"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE-VARCHAR
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE - VARCHAR
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE-VARCHAR]"
+msgstr "VARCHAR"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE-TEXT
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE - TEXT
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE-TEXT]"
+msgstr "TEXT"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE-DATE
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE - DATE
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE-DATE]"
+msgstr "DATE"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE-INT
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE - INT
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE-INT]"
+msgstr "INT"
+
+# additionalTables/additionalTablesFields.xml?FLD_TYPE-FLOAT
+# additionalTables/additionalTablesFields.xml
+#: dropdown - FLD_TYPE - FLOAT
+msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE-FLOAT]"
+msgstr "FLOAT"
+
+# additionalTables/additionalTablesFields.xml?FLD_SIZE
+# additionalTables/additionalTablesFields.xml
+#: text - FLD_SIZE
+msgid "[additionalTables/additionalTablesFields.xml?FLD_SIZE] Size"
+msgstr "Size"
+
+# additionalTables/additionalTablesFields.xml?FLD_NULL
+# additionalTables/additionalTablesFields.xml
+#: checkbox - FLD_NULL
+msgid "[additionalTables/additionalTablesFields.xml?FLD_NULL] Null"
+msgstr "Null"
+
+# additionalTables/additionalTablesFields.xml?FLD_KEY
+# additionalTables/additionalTablesFields.xml
+#: checkbox - FLD_KEY
+msgid "[additionalTables/additionalTablesFields.xml?FLD_KEY] Primary Key"
+msgstr "Primary Key"
+
+# additionalTables/additionalTablesFields2.xml?FLD_NAME
+# additionalTables/additionalTablesFields2.xml
+#: text - FLD_NAME
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_NAME] Field Name"
+msgstr "Field Name"
+
+# additionalTables/additionalTablesFields2.xml?FLD_DESCRIPTION
+# additionalTables/additionalTablesFields2.xml
+#: text - FLD_DESCRIPTION
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_DESCRIPTION] Field Label"
+msgstr "Field Label"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE] Type"
+msgstr "Type"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE-VARCHAR
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE - VARCHAR
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE-VARCHAR]"
+msgstr "VARCHAR"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE-TEXT
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE - TEXT
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE-TEXT]"
+msgstr "TEXT"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE-DATE
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE - DATE
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE-DATE]"
+msgstr "DATE"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE-INT
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE - INT
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE-INT]"
+msgstr "INT"
+
+# additionalTables/additionalTablesFields2.xml?FLD_TYPE-FLOAT
+# additionalTables/additionalTablesFields2.xml
+#: dropdown - FLD_TYPE - FLOAT
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE-FLOAT]"
+msgstr "FLOAT"
+
+# additionalTables/additionalTablesFields2.xml?FLD_SIZE
+# additionalTables/additionalTablesFields2.xml
+#: text - FLD_SIZE
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_SIZE] Size"
+msgstr "Size"
+
+# additionalTables/additionalTablesFields2.xml?FLD_NULL
+# additionalTables/additionalTablesFields2.xml
+#: checkbox - FLD_NULL
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_NULL] Null"
+msgstr "Null"
+
+# additionalTables/additionalTablesFields2.xml?FLD_KEY
+# additionalTables/additionalTablesFields2.xml
+#: checkbox - FLD_KEY
+msgid "[additionalTables/additionalTablesFields2.xml?FLD_KEY] Primary Key"
+msgstr "Primary Key"
+
+# additionalTables/additionalTablesList.xml?ADD_TAB_NAME
+# additionalTables/additionalTablesList.xml
+#: text - ADD_TAB_NAME
+msgid "[additionalTables/additionalTablesList.xml?ADD_TAB_NAME] Name"
+msgstr "Name"
+
+# additionalTables/additionalTablesList.xml?ADD_TAB_DESCRIPTION
+# additionalTables/additionalTablesList.xml
+#: text - ADD_TAB_DESCRIPTION
+msgid "[additionalTables/additionalTablesList.xml?ADD_TAB_DESCRIPTION] Description"
+msgstr "Description"
+
+# additionalTables/additionalTablesList.xml?EDIT
+# additionalTables/additionalTablesList.xml
+#: link - EDIT
+msgid "[additionalTables/additionalTablesList.xml?EDIT] "
+msgstr ""
+
+# additionalTables/additionalTablesList.xml?DELETE
+# additionalTables/additionalTablesList.xml
+#: link - DELETE
+msgid "[additionalTables/additionalTablesList.xml?DELETE] "
+msgstr ""
+
+# additionalTables/additionalTablesNew.xml?TITLE1
+# additionalTables/additionalTablesNew.xml
+#: title - TITLE1
+msgid "[additionalTables/additionalTablesNew.xml?TITLE1] Table Information"
+msgstr "Table Information"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_NAME
+# additionalTables/additionalTablesNew.xml
+#: text - ADD_TAB_NAME
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_NAME] Table Name"
+msgstr "Table Name"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_DESCRIPTION
+# additionalTables/additionalTablesNew.xml
+#: textarea - ADD_TAB_DESCRIPTION
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_DESCRIPTION] Description"
+msgstr "Description"
+
+# additionalTables/additionalTablesNew.xml?TITLE2
+# additionalTables/additionalTablesNew.xml
+#: title - TITLE2
+msgid "Log configuration"
+msgstr "Log configuration"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_INSERT
+# additionalTables/additionalTablesNew.xml
+#: checkbox - ADD_TAB_SDW_LOG_INSERT
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_INSERT] Save log for insert actions"
+msgstr "Save log for insert actions"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_UPDATE
+# additionalTables/additionalTablesNew.xml
+#: checkbox - ADD_TAB_SDW_LOG_UPDATE
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_UPDATE] Save log for update actions"
+msgstr "Save log for update actions"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_DELETE
+# additionalTables/additionalTablesNew.xml
+#: checkbox - ADD_TAB_SDW_LOG_DELETE
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_DELETE] Save log for delete actions"
+msgstr "Save log for delete actions"
+
+# additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_AUTO_DELETE
+# additionalTables/additionalTablesNew.xml
+#: checkbox - ADD_TAB_SDW_AUTO_DELETE
+msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_AUTO_DELETE] Delete related log when table is deleted"
+msgstr "Delete related log when table is deleted"
+
+# additionalTables/additionalTablesNew.xml?TITLE3
+# additionalTables/additionalTablesNew.xml
+#: title - TITLE3
+msgid "[additionalTables/additionalTablesNew.xml?TITLE3] Fields"
+msgstr "Fields"
+
+# additionalTables/additionalTablesNew.xml?btnSave
+# additionalTables/additionalTablesNew.xml
+#: button - btnSave
+msgid "[additionalTables/additionalTablesNew.xml?btnSave] Save"
+msgstr "Save"
+
+# additionalTables/additionalTablesNew.xml?BTN_CANCEL
+# additionalTables/additionalTablesNew.xml
+#: button - BTN_CANCEL
+msgid "[additionalTables/additionalTablesNew.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# additionalTables/additionalTablesOptions.xml?MNU_ADD
+# additionalTables/additionalTablesOptions.xml
+#: link - MNU_ADD
+msgid "[additionalTables/additionalTablesOptions.xml?MNU_ADD] New"
+msgstr "New"
+
+# additionalTables/additionalTablesOptions.xml?MNU_IMPORT
+# additionalTables/additionalTablesOptions.xml
+#: link - MNU_IMPORT
+msgid "[additionalTables/additionalTablesOptions.xml?MNU_IMPORT] Import"
+msgstr "Import"
+
+# additionalTables/additionalTablesOptions.xml?MNU_EXPORT
+# additionalTables/additionalTablesOptions.xml
+#: link - MNU_EXPORT
+msgid "[additionalTables/additionalTablesOptions.xml?MNU_EXPORT] Export"
+msgstr "Export"
+
+# additionalTables/additionalTablesTitle.xml?TITLE
+# additionalTables/additionalTablesTitle.xml
+#: title - TITLE
+msgid "@#ADD_TAB_NAME"
+msgstr "@#ADD_TAB_NAME"
+
+# additionalTables/additionalTablesToImport.xml?TITLE1
+# additionalTables/additionalTablesToImport.xml
+#: title - TITLE1
+msgid "Import PMTables"
+msgstr "Import PMTables"
+
+# additionalTables/additionalTablesToImport.xml?MAX_FILE_SIZE
+# additionalTables/additionalTablesToImport.xml
+#: edit - MAX_FILE_SIZE
+msgid "Max upload file size in bytes"
+msgstr "Max upload file size in bytes"
+
+# additionalTables/additionalTablesToImport.xml?FILENAME
+# additionalTables/additionalTablesToImport.xml
+#: file - FILENAME
+msgid "[additionalTables/additionalTablesToImport.xml?FILENAME] File"
+msgstr "File"
+
+# additionalTables/additionalTablesToImport.xml?OVERWRITE
+# additionalTables/additionalTablesToImport.xml
+#: checkbox - OVERWRITE
+msgid "Overwrite if exist"
+msgstr "Overwrite if exist"
+
+# additionalTables/additionalTablesToImport.xml?SAVE
+# additionalTables/additionalTablesToImport.xml
+#: button - SAVE
+msgid "[additionalTables/additionalTablesToImport.xml?SAVE] Import"
+msgstr "Import"
+
+# additionalTables/additionalTablesToImport.xml?BTN_CANCEL
+# additionalTables/additionalTablesToImport.xml
+#: button - BTN_CANCEL
+msgid "[additionalTables/additionalTablesToImport.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# additionalTables/doExport.xml?FILENAME_LABEL
+# additionalTables/doExport.xml
+#: link - FILENAME_LABEL
+msgid "[additionalTables/doExport.xml?FILENAME_LABEL] File"
+msgstr "File"
+
+# additionalTables/doExport.xml?SIZE
+# additionalTables/doExport.xml
+#: caption - SIZE
+msgid "File size"
+msgstr "File size"
+
+# additionalTables/doExport.xml?META
+# additionalTables/doExport.xml
+#: textarea - META
+msgid "[additionalTables/doExport.xml?META] Summary"
+msgstr "Summary"
+

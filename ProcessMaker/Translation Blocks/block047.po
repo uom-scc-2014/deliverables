@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# reports/report2_dashboard.xml?CASELASTMONTH
+# reports/report2_dashboard.xml
+#: text - CASELASTMONTH
+msgid "Last month"
+msgstr "Last month"
+
+# reports/report2_dashboard.xml?CASELASTDAY
+# reports/report2_dashboard.xml
+#: text - CASELASTDAY
+msgid "Last day"
+msgstr "Last day"
+
+# reports/report3.xml?FECHA
+# reports/report3.xml
+#: text - FECHA
+msgid "[reports/report3.xml?FECHA] Date"
+msgstr "Date"
+
+# reports/report3.xml?CANTCASES
+# reports/report3.xml
+#: text - CANTCASES
+msgid "[reports/report3.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report3.xml?MIN
+# reports/report3.xml
+#: hours - MIN
+msgid "[reports/report3.xml?MIN] Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/report3.xml?MAX
+# reports/report3.xml
+#: hours - MAX
+msgid "[reports/report3.xml?MAX] Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/report3.xml?TOTALDUR
+# reports/report3.xml
+#: hours - TOTALDUR
+msgid "[reports/report3.xml?TOTALDUR] Total Duration (Hours)"
+msgstr "Total Duration (Hours)"
+
+# reports/report3.xml?PROMEDIO
+# reports/report3.xml
+#: hours - PROMEDIO
+msgid "[reports/report3.xml?PROMEDIO] Average (Hours)"
+msgstr "Average (Hours)"
+
+# reports/report3_dashboard.xml?FECHA
+# reports/report3_dashboard.xml
+#: text - FECHA
+msgid "[reports/report3_dashboard.xml?FECHA] Date"
+msgstr "Date"
+
+# reports/report3_dashboard.xml?CANTCASES
+# reports/report3_dashboard.xml
+#: text - CANTCASES
+msgid "[reports/report3_dashboard.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report3_dashboard.xml?MAX
+# reports/report3_dashboard.xml
+#: hours - MAX
+msgid "[reports/report3_dashboard.xml?MAX] Slowest Time"
+msgstr "Slowest Time"
+
+# reports/report3_dashboard.xml?TOTALDUR
+# reports/report3_dashboard.xml
+#: hours - TOTALDUR
+msgid "[reports/report3_dashboard.xml?TOTALDUR] Total Duration"
+msgstr "Total Duration"
+
+# reports/report3_dashboard.xml?PROMEDIO
+# reports/report3_dashboard.xml
+#: hours - PROMEDIO
+msgid "[reports/report3_dashboard.xml?PROMEDIO] Average"
+msgstr "Average"
+
+# reports/report4.xml?USER
+# reports/report4.xml
+#: text - USER
+msgid "[reports/report4.xml?USER] User"
+msgstr "User"
+
+# reports/report4.xml?CANTCASES
+# reports/report4.xml
+#: text - CANTCASES
+msgid "[reports/report4.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report4.xml?MIN
+# reports/report4.xml
+#: hours - MIN
+msgid "[reports/report4.xml?MIN] Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/report4.xml?MAX
+# reports/report4.xml
+#: hours - MAX
+msgid "[reports/report4.xml?MAX] Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/report4.xml?TOTALDUR
+# reports/report4.xml
+#: hours - TOTALDUR
+msgid "[reports/report4.xml?TOTALDUR] Total Duration (Hours)"
+msgstr "Total Duration (Hours)"
+
+# reports/report4.xml?PROMEDIO
+# reports/report4.xml
+#: hours - PROMEDIO
+msgid "[reports/report4.xml?PROMEDIO] Average (Hours)"
+msgstr "Average (Hours)"
+
+# reports/report4_dashboard.xml?USER
+# reports/report4_dashboard.xml
+#: text - USER
+msgid "[reports/report4_dashboard.xml?USER] User"
+msgstr "User"
+
+# reports/report4_dashboard.xml?CANTCASES
+# reports/report4_dashboard.xml
+#: text - CANTCASES
+msgid "[reports/report4_dashboard.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report4_dashboard.xml?MAX
+# reports/report4_dashboard.xml
+#: hours - MAX
+msgid "[reports/report4_dashboard.xml?MAX] Slowest Time"
+msgstr "Slowest Time"
+
+# reports/report4_dashboard.xml?TOTALDUR
+# reports/report4_dashboard.xml
+#: hours - TOTALDUR
+msgid "[reports/report4_dashboard.xml?TOTALDUR] Total Duration"
+msgstr "Total Duration"
+
+# reports/report4_dashboard.xml?PROMEDIO
+# reports/report4_dashboard.xml
+#: hours - PROMEDIO
+msgid "[reports/report4_dashboard.xml?PROMEDIO] Average"
+msgstr "Average"
+
+# reports/report5.xml?USER
+# reports/report5.xml
+#: text - USER
+msgid "[reports/report5.xml?USER] User"
+msgstr "User"
+
+# reports/report5.xml?CANTCASES
+# reports/report5.xml
+#: text - CANTCASES
+msgid "[reports/report5.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report5.xml?MIN
+# reports/report5.xml
+#: hours - MIN
+msgid "[reports/report5.xml?MIN] Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/report5.xml?MAX
+# reports/report5.xml
+#: hours - MAX
+msgid "[reports/report5.xml?MAX] Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/report5.xml?TOTALDUR
+# reports/report5.xml
+#: hours - TOTALDUR
+msgid "[reports/report5.xml?TOTALDUR] Total Duration (Hours)"
+msgstr "Total Duration (Hours)"
+
+# reports/report5.xml?PROMEDIO
+# reports/report5.xml
+#: hours - PROMEDIO
+msgid "[reports/report5.xml?PROMEDIO] Average (Hours)"
+msgstr "Average (Hours)"
+
+# reports/report5_dashboard.xml?USER
+# reports/report5_dashboard.xml
+#: text - USER
+msgid "[reports/report5_dashboard.xml?USER] User"
+msgstr "User"
+
+# reports/report5_dashboard.xml?CANTCASES
+# reports/report5_dashboard.xml
+#: text - CANTCASES
+msgid "[reports/report5_dashboard.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report5_dashboard.xml?MAX
+# reports/report5_dashboard.xml
+#: hours - MAX
+msgid "[reports/report5_dashboard.xml?MAX] Slowest Time"
+msgstr "Slowest Time"
+
+# reports/report5_dashboard.xml?TOTALDUR
+# reports/report5_dashboard.xml
+#: hours - TOTALDUR
+msgid "[reports/report5_dashboard.xml?TOTALDUR] Total Duration"
+msgstr "Total Duration"
+
+# reports/report5_dashboard.xml?PROMEDIO
+# reports/report5_dashboard.xml
+#: hours - PROMEDIO
+msgid "[reports/report5_dashboard.xml?PROMEDIO] Average"
+msgstr "Average"
+
+# reports/report_filter.xml?PROCESS
+# reports/report_filter.xml
+#: dropdown - PROCESS
+msgid "[reports/report_filter.xml?PROCESS] Process"
+msgstr "Process"
+
+# reports/report_filter.xml?PROCESS-
+# reports/report_filter.xml
+#: dropdown - PROCESS -
+msgid "[reports/report_filter.xml?PROCESS-]"
+msgstr "All"
+
+# reports/report_filter.xml?TASKS
+# reports/report_filter.xml
+#: dropdown - TASKS
+msgid "[reports/report_filter.xml?TASKS] Tasks"
+msgstr "Tasks"
+
+# reports/report_filter.xml?TASKS-
+# reports/report_filter.xml
+#: dropdown - TASKS -
+msgid "[reports/report_filter.xml?TASKS-]"
+msgstr "All"
+
+# reports/report_filter.xml?FILTER
+# reports/report_filter.xml
+#: submit - FILTER
+msgid "[reports/report_filter.xml?FILTER] Filter"
+msgstr "Filter"
+
+# reports/reportsList.xml?RPT_NUMBER
+# reports/reportsList.xml
+#: text - RPT_NUMBER
+msgid "[reports/reportsList.xml?RPT_NUMBER] #"
+msgstr "#"
+
+# reports/reportsList.xml?RPT_TITLE
+# reports/reportsList.xml
+#: text - RPT_TITLE
+msgid "[reports/reportsList.xml?RPT_TITLE] Reports"
+msgstr "Reports"
+
+# reports/reportsList.xml?RPT_VIEW
+# reports/reportsList.xml
+#: link - RPT_VIEW
+msgid "[reports/reportsList.xml?RPT_VIEW] "
+msgstr ""
+
+# reports/reports_Description.xml?TAS_TITLE
+# reports/reports_Description.xml
+#: text - TAS_TITLE
+msgid "[reports/reports_Description.xml?TAS_TITLE] Task"
+msgstr "Task"
+
+# reports/reports_Description.xml?MIN
+# reports/reports_Description.xml
+#: hours - MIN
+msgid "[reports/reports_Description.xml?MIN] Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/reports_Description.xml?MAX
+# reports/reports_Description.xml
+#: hours - MAX
+msgid "[reports/reports_Description.xml?MAX] Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/reports_Description.xml?TOTALDUR
+# reports/reports_Description.xml
+#: hours - TOTALDUR
+msgid "[reports/reports_Description.xml?TOTALDUR] Total Duration (Hours)"
+msgstr "Total Duration (Hours)"
+
+# reports/reports_Description.xml?PROMEDIO
+# reports/reports_Description.xml
+#: hours - PROMEDIO
+msgid "[reports/reports_Description.xml?PROMEDIO] Average (Hours)"
+msgstr "Average (Hours)"
+
+# reports/reports_Description_search.xml?FROM_DES
+# reports/reports_Description_search.xml
+#: date - FROM_DES
+msgid "[reports/reports_Description_search.xml?FROM_DES] FROM"
+msgstr "FROM"
+
+# reports/reports_Description_search.xml?TO_DES
+# reports/reports_Description_search.xml
+#: date - TO_DES
+msgid "[reports/reports_Description_search.xml?TO_DES] TO"
+msgstr "TO"
+
+# reports/reports_Description_search.xml?STARTEDBY_DES
+# reports/reports_Description_search.xml
+#: dropdown - STARTEDBY_DES
+msgid "[reports/reports_Description_search.xml?STARTEDBY_DES] STARTED BY"
+msgstr "STARTED BY"
+
+# reports/reports_Description_search.xml?STARTEDBY_DES-
+# reports/reports_Description_search.xml
+#: dropdown - STARTEDBY_DES -
+msgid "[reports/reports_Description_search.xml?STARTEDBY_DES-]"
+msgstr ""
+
+# reports/reports_Description_search.xml?FILTER
+# reports/reports_Description_search.xml
+#: button - FILTER
+msgid "[reports/reports_Description_search.xml?FILTER] Filter"
+msgstr "Filter"
+
+# reports/rpt_filters.xml?FROM
+# reports/rpt_filters.xml
+#: date - FROM
+msgid "Initial date"
+msgstr "Initial date"
+
+# reports/rpt_filters.xml?TO
+# reports/rpt_filters.xml
+#: date - TO
+msgid "End date"
+msgstr "End date"
+
+# reports/rpt_filters.xml?FILTER
+# reports/rpt_filters.xml
+#: submit - FILTER
+msgid "[reports/rpt_filters.xml?FILTER] Filter"
+msgstr "Filter"
+
+# roles/roles_Edit.xml?title
+# roles/roles_Edit.xml
+#: title - title
+msgid "Edit role"
+msgstr "Edit role"
+
+# roles/roles_Edit.xml?ROL_CODE
+# roles/roles_Edit.xml
+#: text - ROL_CODE
+msgid "Role Code"
+msgstr "Role Code"
+
+# roles/roles_Edit.xml?ROL_NAME
+# roles/roles_Edit.xml
+#: text - ROL_NAME
+msgid "Role Name"
+msgstr "Role Name"
+
+# roles/roles_Edit.xml?ROL_STATUS
+# roles/roles_Edit.xml
+#: dropdown - ROL_STATUS
+msgid "[roles/roles_Edit.xml?ROL_STATUS] Status"
+msgstr "Status"
+
+# roles/roles_Edit.xml?ROL_STATUS-1
+# roles/roles_Edit.xml
+#: dropdown - ROL_STATUS - 1
+msgid "[roles/roles_Edit.xml?ROL_STATUS-1]"
+msgstr "Active"
+
+# roles/roles_Edit.xml?ROL_STATUS-0
+# roles/roles_Edit.xml
+#: dropdown - ROL_STATUS - 0
+msgid "[roles/roles_Edit.xml?ROL_STATUS-0]"
+msgstr "Inactive"
+
+# roles/roles_Edit.xml?BTN_CANCEL
+# roles/roles_Edit.xml
+#: button - BTN_CANCEL
+msgid "[roles/roles_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# roles/roles_Edit.xml?CREATE
+# roles/roles_Edit.xml
+#: button - CREATE
+msgid "[roles/roles_Edit.xml?CREATE] Update"
+msgstr "Update"
+
+# roles/roles_List.xml?ROL_CODE
+# roles/roles_List.xml
+#: text - ROL_CODE
+msgid "[roles/roles_List.xml?ROL_CODE] Code"
+msgstr "Code"
+
+# roles/roles_List.xml?ROL_NAME
+# roles/roles_List.xml
+#: text - ROL_NAME
+msgid "[roles/roles_List.xml?ROL_NAME] Name"
+msgstr "Name"
+
+# roles/roles_List.xml?ROL_CREATE_DATE
+# roles/roles_List.xml
+#: text - ROL_CREATE_DATE
+msgid "Create date"
+msgstr "Create date"
+
+# roles/roles_List.xml?ROL_UPDATE_DATE
+# roles/roles_List.xml
+#: text - ROL_UPDATE_DATE
+msgid "Update date"
+msgstr "Update date"
+
+# roles/roles_List.xml?ROL_VIEW
+# roles/roles_List.xml
+#: link - ROL_VIEW
+msgid "[roles/roles_List.xml?ROL_VIEW] "
+msgstr ""
+
+# roles/roles_List.xml?ROL_PERMITIONS
+# roles/roles_List.xml
+#: link - ROL_PERMITIONS
+msgid "[roles/roles_List.xml?ROL_PERMITIONS] "
+msgstr ""
+
+# roles/roles_List.xml?VIEW_INTO_GROUP
+# roles/roles_List.xml
+#: link - VIEW_INTO_GROUP
+msgid "[roles/roles_List.xml?VIEW_INTO_GROUP] "
+msgstr ""
+
+# roles/roles_List.xml?ROL_DELETE
+# roles/roles_List.xml
+#: link - ROL_DELETE
+msgid "[roles/roles_List.xml?ROL_DELETE] "
+msgstr ""
+
+# roles/roles_ListUsers.xml?USR_FIRSTNAME
+# roles/roles_ListUsers.xml
+#: text - USR_FIRSTNAME
+msgid "[roles/roles_ListUsers.xml?USR_FIRSTNAME] Firstname"
+msgstr "Firstname"
+
+# roles/roles_ListUsers.xml?USR_LASTNAME
+# roles/roles_ListUsers.xml
+#: text - USR_LASTNAME
+msgid "[roles/roles_ListUsers.xml?USR_LASTNAME] Lastname"
+msgstr "Lastname"
+
+# roles/roles_New.xml?title
+# roles/roles_New.xml
+#: title - title
+msgid "Create a new Role"
+msgstr "Create a new Role"
+
+# roles/roles_New.xml?ROL_CODE
+# roles/roles_New.xml
+#: text - ROL_CODE
+msgid "[roles/roles_New.xml?ROL_CODE] Role Code"
+msgstr "Role Code"
+
+# roles/roles_New.xml?ROL_NAME
+# roles/roles_New.xml
+#: text - ROL_NAME
+msgid "[roles/roles_New.xml?ROL_NAME] Role Name"
+msgstr "Role Name"
+
+# roles/roles_New.xml?ROL_STATUS
+# roles/roles_New.xml
+#: dropdown - ROL_STATUS
+msgid "[roles/roles_New.xml?ROL_STATUS] Status"
+msgstr "Status"
+
+# roles/roles_New.xml?ROL_STATUS-1
+# roles/roles_New.xml
+#: dropdown - ROL_STATUS - 1
+msgid "[roles/roles_New.xml?ROL_STATUS-1]"
+msgstr "Active"
+
+# roles/roles_New.xml?ROL_STATUS-
+# roles/roles_New.xml
+#: dropdown - ROL_STATUS -
+msgid "[roles/roles_New.xml?ROL_STATUS-]"
+msgstr "Inactive"
+
+# roles/roles_New.xml?BTN_CANCEL
+# roles/roles_New.xml
+#: button - BTN_CANCEL
+msgid "[roles/roles_New.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# roles/roles_New.xml?CREATE
+# roles/roles_New.xml
+#: button - CREATE
+msgid "[roles/roles_New.xml?CREATE] Create"
+msgstr "Create"
+
+# roles/roles_Options.xml?MNU_ADD
+# roles/roles_Options.xml
+#: link - MNU_ADD
+msgid "[roles/roles_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# services/serviceMessage.xml?Title
+# services/serviceMessage.xml
+#: title - Title
+msgid "[services/serviceMessage.xml?Title] Information"
+msgstr "Information"
+
+# services/serviceMessage.xml?Subtitle
+# services/serviceMessage.xml
+#: subtitle - Subtitle
+msgid "The access for the service is currently unavailable from the processmaker web interface."
+msgstr "The access for the service is currently unavailable from the processmaker web interface."
+
+# setup/calendarEdit.xml?DEFINITION_TITLE
+# setup/calendarEdit.xml
+#: title - DEFINITION_TITLE
+msgid "[setup/calendarEdit.xml?DEFINITION_TITLE] Calendar Definition"
+msgstr "Calendar Definition"
+
+# setup/calendarEdit.xml?CALENDAR_NAME
+# setup/calendarEdit.xml
+#: text - CALENDAR_NAME
+msgid "[setup/calendarEdit.xml?CALENDAR_NAME] Name"
+msgstr "Name"
+
+# setup/calendarEdit.xml?CALENDAR_DESCRIPTION
+# setup/calendarEdit.xml
+#: textarea - CALENDAR_DESCRIPTION
+msgid "[setup/calendarEdit.xml?CALENDAR_DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/calendarEdit.xml?CALENDAR_STATUS
+# setup/calendarEdit.xml
+#: checkbox - CALENDAR_STATUS
+msgid "[setup/calendarEdit.xml?CALENDAR_STATUS] Active"
+msgstr "Active"
+
+# setup/calendarEdit.xml?WorkDays
+# setup/calendarEdit.xml
+#: title - WorkDays
+msgid "Work Days"
+msgstr "Work Days"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS] "
+msgstr ""
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 0
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-0]"
+msgstr "SUN"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 1
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-1]"
+msgstr "MON"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 2
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-2]"
+msgstr "TUE"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 3
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-3]"
+msgstr "WED"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 4
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-4]"
+msgstr "THU"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 5
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-5]"
+msgstr "FRI"
+
+# setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6
+# setup/calendarEdit.xml
+#: checkgroup - CALENDAR_WORK_DAYS - 6
+msgid "[setup/calendarEdit.xml?CALENDAR_WORK_DAYS-6]"
+msgstr "SAT"
+
+# setup/calendarEdit.xml?BUSINESS_DAY_TITLE
+# setup/calendarEdit.xml
+#: title - BUSINESS_DAY_TITLE
+msgid "Work Hours"
+msgstr "Work Hours"
+
+# setup/calendarEdit.xml?HOLIDAY_LABEL
+# setup/calendarEdit.xml
+#: title - HOLIDAY_LABEL
+msgid "[setup/calendarEdit.xml?HOLIDAY_LABEL] Holidays"
+msgstr "Holidays"
+

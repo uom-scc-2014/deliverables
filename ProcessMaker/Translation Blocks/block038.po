@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# dynaforms/dynaforms_Properties.xml?PRINTDYNAFORM
+# dynaforms/dynaforms_Properties.xml
+#: checkbox - PRINTDYNAFORM
+msgid "Show print dynaform button"
+msgstr "Show print dynaform button"
+
+# dynaforms/dynaforms_Properties.xml?ADJUSTGRIDSWIDTH
+# dynaforms/dynaforms_Properties.xml
+#: checkbox - ADJUSTGRIDSWIDTH
+msgid "Adjust the grid width to the width of the main form"
+msgstr "Adjust the grid width to the width of the main form"
+
+# dynaforms/dynaforms_Properties.xml?PME_PROP_APPLY
+# dynaforms/dynaforms_Properties.xml
+#: button - PME_PROP_APPLY
+msgid "[dynaforms/dynaforms_Properties.xml?PME_PROP_APPLY] Apply"
+msgstr "Apply"
+
+# dynaforms/dynaforms_Properties.xml?PME_PROP_REVERT
+# dynaforms/dynaforms_Properties.xml
+#: button - PME_PROP_REVERT
+msgid "Revert"
+msgstr "Revert"
+
+# dynaforms/dynaforms_Saveas.xml?TITLE
+# dynaforms/dynaforms_Saveas.xml
+#: title - TITLE
+msgid "[dynaforms/dynaforms_Saveas.xml?TITLE] Dynaform Information"
+msgstr "Dynaform Information"
+
+# dynaforms/dynaforms_Saveas.xml?DYN_TITLENEW
+# dynaforms/dynaforms_Saveas.xml
+#: text - DYN_TITLENEW
+msgid "[dynaforms/dynaforms_Saveas.xml?DYN_TITLENEW] Title"
+msgstr "Title"
+
+# dynaforms/dynaforms_Saveas.xml?DYN_DESCRIPTIONNEW
+# dynaforms/dynaforms_Saveas.xml
+#: textarea - DYN_DESCRIPTIONNEW
+msgid "[dynaforms/dynaforms_Saveas.xml?DYN_DESCRIPTIONNEW] Description"
+msgstr "Description"
+
+# dynaforms/dynaforms_Saveas.xml?BTN_CANCEL
+# dynaforms/dynaforms_Saveas.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/dynaforms_Saveas.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/dynaforms_Saveas.xml?ACCEPT
+# dynaforms/dynaforms_Saveas.xml
+#: button - ACCEPT
+msgid "[dynaforms/dynaforms_Saveas.xml?ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/dynaforms_ShortList.xml?DYN_TITLE
+# dynaforms/dynaforms_ShortList.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_ShortList.xml?DYN_TITLE] Title"
+msgstr "Title"
+
+# dynaforms/dynaforms_ShortList.xml?DYN_TYPE
+# dynaforms/dynaforms_ShortList.xml
+#: dropdown - DYN_TYPE
+msgid "[dynaforms/dynaforms_ShortList.xml?DYN_TYPE] Type"
+msgstr "Type"
+
+# dynaforms/dynaforms_ShortList.xml?DYN_TYPE-xmlform
+# dynaforms/dynaforms_ShortList.xml
+#: dropdown - DYN_TYPE - xmlform
+msgid "[dynaforms/dynaforms_ShortList.xml?DYN_TYPE-xmlform]"
+msgstr "Normal"
+
+# dynaforms/dynaforms_ShortList.xml?DYN_TYPE-grid
+# dynaforms/dynaforms_ShortList.xml
+#: dropdown - DYN_TYPE - grid
+msgid "[dynaforms/dynaforms_ShortList.xml?DYN_TYPE-grid]"
+msgstr "Grid"
+
+# dynaforms/dynaforms_ShortList.xml?DELETE
+# dynaforms/dynaforms_ShortList.xml
+#: link - DELETE
+msgid "[dynaforms/dynaforms_ShortList.xml?DELETE] "
+msgstr ""
+
+# dynaforms/dynaforms_ShortList.xml?SEARCH
+# dynaforms/dynaforms_ShortList.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaforms_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/dynaforms_Supervisor.xml?DYN_TITLE
+# dynaforms/dynaforms_Supervisor.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_Supervisor.xml?DYN_TITLE] Title"
+msgstr "Title"
+
+# dynaforms/dynaforms_Supervisor.xml?SEARCH
+# dynaforms/dynaforms_Supervisor.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaforms_Supervisor.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/dynaforms_SupervisorOptions.xml?MNU_ASSIGN
+# dynaforms/dynaforms_SupervisorOptions.xml
+#: link - MNU_ASSIGN
+msgid "[dynaforms/dynaforms_SupervisorOptions.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# dynaforms/dynaforms_WebEntry.xml?subtitle1
+# dynaforms/dynaforms_WebEntry.xml
+#: subtitle - subtitle1
+msgid "[dynaforms/dynaforms_WebEntry.xml?subtitle1] Properties"
+msgstr "Properties"
+
+# dynaforms/dynaforms_WebEntry.xml?TASKS
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - TASKS
+msgid "[dynaforms/dynaforms_WebEntry.xml?TASKS] Initial Task"
+msgstr "Initial Task"
+
+# dynaforms/dynaforms_WebEntry.xml?DYNAFORM
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - DYNAFORM
+msgid "[dynaforms/dynaforms_WebEntry.xml?DYNAFORM] Initial Dynaform"
+msgstr "Initial Dynaform"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_TYPE
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_TYPE
+msgid "[dynaforms/dynaforms_WebEntry.xml?WE_TYPE] Method"
+msgstr "Method"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_TYPE-WS
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_TYPE - WS
+msgid "[dynaforms/dynaforms_WebEntry.xml?WE_TYPE-WS]"
+msgstr "PHP pages with Web Services"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_TYPE-SINGLE
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_TYPE - SINGLE
+msgid "[dynaforms/dynaforms_WebEntry.xml?WE_TYPE-SINGLE]"
+msgstr "Single HTML"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_USR
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_USR
+msgid "Input Documents Access"
+msgstr "Input Documents Access"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_USR-1
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_USR - 1
+msgid "[dynaforms/dynaforms_WebEntry.xml?WE_USR-1]"
+msgstr "No Restriction"
+
+# dynaforms/dynaforms_WebEntry.xml?WE_USR-2
+# dynaforms/dynaforms_WebEntry.xml
+#: dropdown - WE_USR - 2
+msgid "[dynaforms/dynaforms_WebEntry.xml?WE_USR-2]"
+msgstr "Restricted to process permissions"
+
+# dynaforms/dynaforms_WebEntry.xml?subtitle2
+# dynaforms/dynaforms_WebEntry.xml
+#: subtitle - subtitle2
+msgid "[dynaforms/dynaforms_WebEntry.xml?subtitle2] User"
+msgstr "User"
+
+# dynaforms/dynaforms_WebEntry.xml?WS_USER
+# dynaforms/dynaforms_WebEntry.xml
+#: text - WS_USER
+msgid "[dynaforms/dynaforms_WebEntry.xml?WS_USER] Web Service User"
+msgstr "Web Service User"
+
+# dynaforms/dynaforms_WebEntry.xml?WS_PASS
+# dynaforms/dynaforms_WebEntry.xml
+#: password - WS_PASS
+msgid "Web Service Passsword"
+msgstr "Web Service Passsword"
+
+# dynaforms/dynaforms_WebEntry.xml?WS_ROUNDROBIN
+# dynaforms/dynaforms_WebEntry.xml
+#: yesno - WS_ROUNDROBIN
+msgid "Cyclical Assignment"
+msgstr "Cyclical Assignment"
+
+# dynaforms/dynaforms_WebEntry.xml?TEST
+# dynaforms/dynaforms_WebEntry.xml
+#: button - TEST
+msgid "[dynaforms/dynaforms_WebEntry.xml?TEST] Test Configuration"
+msgstr "Test Configuration"
+
+# dynaforms/dynaforms_WebEntry.xml?SEARCH
+# dynaforms/dynaforms_WebEntry.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaforms_WebEntry.xml?SEARCH] Generate Web Entry Page"
+msgstr "Generate Web Entry Page"
+
+# dynaforms/dynaforms_WebEntryList.xml?W_LINK
+# dynaforms/dynaforms_WebEntryList.xml
+#: text - W_LINK
+msgid "[dynaforms/dynaforms_WebEntryList.xml?W_LINK] "
+msgstr ""
+
+# dynaforms/dynaforms_WebEntryList.xml?W_DELETE
+# dynaforms/dynaforms_WebEntryList.xml
+#: link - W_DELETE
+msgid "[dynaforms/dynaforms_WebEntryList.xml?W_DELETE] Delete"
+msgstr "Delete"
+
+# dynaforms/dynaforms_WebEntryOptions.xml?MNU_ASSIGN
+# dynaforms/dynaforms_WebEntryOptions.xml
+#: link - MNU_ASSIGN
+msgid "[dynaforms/dynaforms_WebEntryOptions.xml?MNU_ASSIGN] New"
+msgstr "New"
+
+# dynaforms/dynaforms_XmlEditor.xml?XML
+# dynaforms/dynaforms_XmlEditor.xml
+#: textarea - XML
+msgid "[dynaforms/dynaforms_XmlEditor.xml?XML] XML"
+msgstr "XML"
+
+# dynaforms/dynaforms_vars.xml?vars
+# dynaforms/dynaforms_vars.xml
+#: listbox - vars
+msgid "[dynaforms/dynaforms_vars.xml?vars] "
+msgstr ""
+
+# dynaforms/fields_Edit.xml?XMLNODE_NAME
+# dynaforms/fields_Edit.xml
+#: text - XMLNODE_NAME
+msgid "[dynaforms/fields_Edit.xml?XMLNODE_NAME] Field name"
+msgstr "Field name"
+
+# dynaforms/fields_Edit.xml?TYPE
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE
+msgid "[dynaforms/fields_Edit.xml?TYPE] Type"
+msgstr "Type"
+
+# dynaforms/fields_Edit.xml?TYPE-title
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - title
+msgid "[dynaforms/fields_Edit.xml?TYPE-title]"
+msgstr "Title"
+
+# dynaforms/fields_Edit.xml?TYPE-subtitle
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - subtitle
+msgid "[dynaforms/fields_Edit.xml?TYPE-subtitle]"
+msgstr "Subtitle"
+
+# dynaforms/fields_Edit.xml?TYPE-text
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - text
+msgid "[dynaforms/fields_Edit.xml?TYPE-text]"
+msgstr "Text"
+
+# dynaforms/fields_Edit.xml?TYPE-password
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - password
+msgid "[dynaforms/fields_Edit.xml?TYPE-password]"
+msgstr "Password"
+
+# dynaforms/fields_Edit.xml?TYPE-textarea
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - textarea
+msgid "[dynaforms/fields_Edit.xml?TYPE-textarea]"
+msgstr "Text Area"
+
+# dynaforms/fields_Edit.xml?TYPE-currency
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - currency
+msgid "[dynaforms/fields_Edit.xml?TYPE-currency]"
+msgstr "Currency"
+
+# dynaforms/fields_Edit.xml?TYPE-percentage
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - percentage
+msgid "[dynaforms/fields_Edit.xml?TYPE-percentage]"
+msgstr "Percentage"
+
+# dynaforms/fields_Edit.xml?TYPE-date
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - date
+msgid "[dynaforms/fields_Edit.xml?TYPE-date]"
+msgstr "date"
+
+# dynaforms/fields_Edit.xml?TYPE-yesno
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - yesno
+msgid "[dynaforms/fields_Edit.xml?TYPE-yesno]"
+msgstr "Yes/No"
+
+# dynaforms/fields_Edit.xml?TYPE-link
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - link
+msgid "[dynaforms/fields_Edit.xml?TYPE-link]"
+msgstr "link"
+
+# dynaforms/fields_Edit.xml?TYPE-file
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - file
+msgid "[dynaforms/fields_Edit.xml?TYPE-file]"
+msgstr "file"
+
+# dynaforms/fields_Edit.xml?TYPE-checkbox
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - checkbox
+msgid "[dynaforms/fields_Edit.xml?TYPE-checkbox]"
+msgstr "Check Box"
+
+# dynaforms/fields_Edit.xml?TYPE-button
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - button
+msgid "[dynaforms/fields_Edit.xml?TYPE-button]"
+msgstr "Button"
+
+# dynaforms/fields_Edit.xml?TYPE-reset
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - reset
+msgid "[dynaforms/fields_Edit.xml?TYPE-reset]"
+msgstr "Reset"
+
+# dynaforms/fields_Edit.xml?TYPE-submit
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - submit
+msgid "[dynaforms/fields_Edit.xml?TYPE-submit]"
+msgstr "Submit"
+
+# dynaforms/fields_Edit.xml?TYPE-hidden
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - hidden
+msgid "[dynaforms/fields_Edit.xml?TYPE-hidden]"
+msgstr "Hidden"
+
+# dynaforms/fields_Edit.xml?TYPE-dropdown
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - dropdown
+msgid "[dynaforms/fields_Edit.xml?TYPE-dropdown]"
+msgstr "Dropdown"
+
+# dynaforms/fields_Edit.xml?TYPE-listbox
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - listbox
+msgid "[dynaforms/fields_Edit.xml?TYPE-listbox]"
+msgstr "List Box"
+
+# dynaforms/fields_Edit.xml?TYPE-radiogroup
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - radiogroup
+msgid "[dynaforms/fields_Edit.xml?TYPE-radiogroup]"
+msgstr "Radio Group"
+
+# dynaforms/fields_Edit.xml?TYPE-checkgroup
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - checkgroup
+msgid "[dynaforms/fields_Edit.xml?TYPE-checkgroup]"
+msgstr "Check Group"
+
+# dynaforms/fields_Edit.xml?TYPE-grid
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - grid
+msgid "[dynaforms/fields_Edit.xml?TYPE-grid]"
+msgstr "grid"
+
+# dynaforms/fields_Edit.xml?TYPE-javascript
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - javascript
+msgid "[dynaforms/fields_Edit.xml?TYPE-javascript]"
+msgstr "Java Script"
+
+# dynaforms/fields_Edit.xml?TYPE-private
+# dynaforms/fields_Edit.xml
+#: dropdown - TYPE - private
+msgid "[dynaforms/fields_Edit.xml?TYPE-private]"
+msgstr "Private"
+
+# dynaforms/fields_Edit.xml?DEFAULTVALUE
+# dynaforms/fields_Edit.xml
+#: text - DEFAULTVALUE
+msgid "Default value"
+msgstr "Default value"
+
+# dynaforms/fields_Edit.xml?LABEL
+# dynaforms/fields_Edit.xml
+#: text - LABEL
+msgid "[dynaforms/fields_Edit.xml?LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields_Edit.xml?ACCEPT
+# dynaforms/fields_Edit.xml
+#: button - ACCEPT
+msgid "[dynaforms/fields_Edit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields_List.xml?XMLNODE_NAME
+# dynaforms/fields_List.xml
+#: text - XMLNODE_NAME
+msgid "[dynaforms/fields_List.xml?XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields_List.xml?TYPE
+# dynaforms/fields_List.xml
+#: dropdown - TYPE
+msgid "[dynaforms/fields_List.xml?TYPE] Type"
+msgstr "Type"
+
+# dynaforms/fields_List.xml?TYPE-title
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - title
+msgid "[dynaforms/fields_List.xml?TYPE-title]"
+msgstr "Title"
+
+# dynaforms/fields_List.xml?TYPE-subtitle
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - subtitle
+msgid "[dynaforms/fields_List.xml?TYPE-subtitle]"
+msgstr "Subtitle"
+
+# dynaforms/fields_List.xml?TYPE-text
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - text
+msgid "[dynaforms/fields_List.xml?TYPE-text]"
+msgstr "Text"
+
+# dynaforms/fields_List.xml?TYPE-password
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - password
+msgid "[dynaforms/fields_List.xml?TYPE-password]"
+msgstr "Password"
+
+# dynaforms/fields_List.xml?TYPE-textarea
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - textarea
+msgid "[dynaforms/fields_List.xml?TYPE-textarea]"
+msgstr "Textarea"
+
+# dynaforms/fields_List.xml?TYPE-currency
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - currency
+msgid "[dynaforms/fields_List.xml?TYPE-currency]"
+msgstr "Currency"
+
+# dynaforms/fields_List.xml?TYPE-percentage
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - percentage
+msgid "[dynaforms/fields_List.xml?TYPE-percentage]"
+msgstr "Percentage"
+
+# dynaforms/fields_List.xml?TYPE-date
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - date
+msgid "[dynaforms/fields_List.xml?TYPE-date]"
+msgstr "Date"
+
+# dynaforms/fields_List.xml?TYPE-yesno
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - yesno
+msgid "[dynaforms/fields_List.xml?TYPE-yesno]"
+msgstr "Yes/No"
+
+# dynaforms/fields_List.xml?TYPE-link
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - link
+msgid "[dynaforms/fields_List.xml?TYPE-link]"
+msgstr "Link"
+
+# dynaforms/fields_List.xml?TYPE-file
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - file
+msgid "[dynaforms/fields_List.xml?TYPE-file]"
+msgstr "File"
+
+# dynaforms/fields_List.xml?TYPE-checkbox
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - checkbox
+msgid "[dynaforms/fields_List.xml?TYPE-checkbox]"
+msgstr "Checkbox"
+
+# dynaforms/fields_List.xml?TYPE-button
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - button
+msgid "[dynaforms/fields_List.xml?TYPE-button]"
+msgstr "Button"
+
+# dynaforms/fields_List.xml?TYPE-reset
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - reset
+msgid "[dynaforms/fields_List.xml?TYPE-reset]"
+msgstr "Reset"
+
+# dynaforms/fields_List.xml?TYPE-submit
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - submit
+msgid "[dynaforms/fields_List.xml?TYPE-submit]"
+msgstr "Submit"
+
+# dynaforms/fields_List.xml?TYPE-hidden
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - hidden
+msgid "[dynaforms/fields_List.xml?TYPE-hidden]"
+msgstr "Hidden"
+
+# dynaforms/fields_List.xml?TYPE-dropdown
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - dropdown
+msgid "[dynaforms/fields_List.xml?TYPE-dropdown]"
+msgstr "Dropdown"
+
+# dynaforms/fields_List.xml?TYPE-listbox
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - listbox
+msgid "[dynaforms/fields_List.xml?TYPE-listbox]"
+msgstr "Listbox"
+
+# dynaforms/fields_List.xml?TYPE-radiogroup
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - radiogroup
+msgid "[dynaforms/fields_List.xml?TYPE-radiogroup]"
+msgstr "Radios Group"
+
+# dynaforms/fields_List.xml?TYPE-checkgroup
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - checkgroup
+msgid "[dynaforms/fields_List.xml?TYPE-checkgroup]"
+msgstr "Checkboxes Group"
+
+# dynaforms/fields_List.xml?TYPE-grid
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - grid
+msgid "[dynaforms/fields_List.xml?TYPE-grid]"
+msgstr "Grid"
+
+# dynaforms/fields_List.xml?TYPE-javascript
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - javascript
+msgid "[dynaforms/fields_List.xml?TYPE-javascript]"
+msgstr "Javascript Code"
+
+# dynaforms/fields_List.xml?TYPE-private
+# dynaforms/fields_List.xml
+#: dropdown - TYPE - private
+msgid "[dynaforms/fields_List.xml?TYPE-private]"
+msgstr "Private"
+
+# dynaforms/fields_List.xml?DELETE
+# dynaforms/fields_List.xml
+#: link - DELETE
+msgid "[dynaforms/fields_List.xml?DELETE] "
+msgstr ""
+
+# dynaforms/fields_List.xml?SEARCH
+# dynaforms/fields_List.xml
+#: button - SEARCH
+msgid "[dynaforms/fields_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/fields_ShortList.xml?XMLNODE_NAME
+# dynaforms/fields_ShortList.xml
+#: text - XMLNODE_NAME
+msgid "[dynaforms/fields_ShortList.xml?XMLNODE_NAME] Field name"
+msgstr "Field name"
+
+# dynaforms/fields_ShortList.xml?DELETE
+# dynaforms/fields_ShortList.xml
+#: link - DELETE
+msgid "[dynaforms/fields_ShortList.xml?DELETE] "
+msgstr ""
+
+# dynaforms/fields_ShortList.xml?SEARCH
+# dynaforms/fields_ShortList.xml
+#: button - SEARCH
+msgid "[dynaforms/fields_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/fields_Toolbar.xml?saveDyna
+# dynaforms/fields_Toolbar.xml
+#: toolButton - saveDyna
+msgid "[dynaforms/fields_Toolbar.xml?saveDyna] Save"
+msgstr "Save"
+
+# dynaforms/fields_Toolbar.xml?saveasDyna
+# dynaforms/fields_Toolbar.xml
+#: toolButton - saveasDyna
+msgid "Save as"
+msgstr "Save as"
+
+# dynaforms/fields_Toolbar.xml?text
+# dynaforms/fields_Toolbar.xml
+#: toolButton - text
+msgid "Text field"
+msgstr "Text field"
+
+# dynaforms/fields_Toolbar.xml?currency
+# dynaforms/fields_Toolbar.xml
+#: toolButton - currency
+msgid "Currency"
+msgstr "Currency"
+

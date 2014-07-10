@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# setup/mail.xml?PASSWORD
+# setup/mail.xml
+#: password - PASSWORD
+msgid "[setup/mail.xml?PASSWORD] Password"
+msgstr "Password"
+
+# setup/mail.xml?BSUBMIT
+# setup/mail.xml
+#: submit - BSUBMIT
+msgid "[setup/mail.xml?BSUBMIT] Save"
+msgstr "Save"
+
+# setup/mail.xml?BTEST
+# setup/mail.xml
+#: button - BTEST
+msgid "[setup/mail.xml?BTEST] Test"
+msgstr "Test"
+
+# setup/mailTest.xml?TITLE6171
+# setup/mailTest.xml
+#: title - TITLE6171
+msgid "[setup/mailTest.xml?TITLE6171] Test Email"
+msgstr "Test Email"
+
+# setup/mailTest.xml?TEST_EMAIL
+# setup/mailTest.xml
+#: text - TEST_EMAIL
+msgid "Send to :"
+msgstr "Send to :"
+
+# setup/mailTest.xml?BTEST
+# setup/mailTest.xml
+#: button - BTEST
+msgid "[setup/mailTest.xml?BTEST] Test"
+msgstr "Test"
+
+# setup/noProcesses.xml?MESSAGE
+# setup/noProcesses.xml
+#: subtitle - MESSAGE
+msgid "No processes available for this environment"
+msgstr "No processes available for this environment"
+
+# setup/pluginImport.xml?TITLE1
+# setup/pluginImport.xml
+#: title - TITLE1
+msgid "Import Plugin"
+msgstr "Import Plugin"
+
+# setup/pluginImport.xml?MAX_FILE_SIZE
+# setup/pluginImport.xml
+#: edit - MAX_FILE_SIZE
+msgid "[setup/pluginImport.xml?MAX_FILE_SIZE] Max upload file size in bytes"
+msgstr "Max upload file size in bytes"
+
+# setup/pluginImport.xml?PLUGIN_FILENAME
+# setup/pluginImport.xml
+#: file - PLUGIN_FILENAME
+msgid "[setup/pluginImport.xml?PLUGIN_FILENAME] File"
+msgstr "File"
+
+# setup/pluginImport.xml?SAVE
+# setup/pluginImport.xml
+#: button - SAVE
+msgid "[setup/pluginImport.xml?SAVE] Import"
+msgstr "Import"
+
+# setup/pluginImport.xml?BTN_CANCEL
+# setup/pluginImport.xml
+#: button - BTN_CANCEL
+msgid "[setup/pluginImport.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# setup/pluginList.xml?id
+# setup/pluginList.xml
+#: text - id
+msgid "[setup/pluginList.xml?id] #"
+msgstr "#"
+
+# setup/pluginList.xml?title
+# setup/pluginList.xml
+#: text - title
+msgid "Name (File)"
+msgstr "Name (File)"
+
+# setup/pluginList.xml?description
+# setup/pluginList.xml
+#: text - description
+msgid "[setup/pluginList.xml?description] Description"
+msgstr "Description"
+
+# setup/pluginList.xml?version
+# setup/pluginList.xml
+#: text - version
+msgid "[setup/pluginList.xml?version] Version"
+msgstr "Version"
+
+# setup/pluginList.xml?enabled
+# setup/pluginList.xml
+#: link - enabled
+msgid "[setup/pluginList.xml?enabled] "
+msgstr ""
+
+# setup/pluginList.xml?remove
+# setup/pluginList.xml
+#: link - remove
+msgid "[setup/pluginList.xml?remove] "
+msgstr ""
+
+# setup/pluginList.xml?linkEditValue
+# setup/pluginList.xml
+#: link - linkEditValue
+msgid "[setup/pluginList.xml?linkEditValue] "
+msgstr ""
+
+# setup/plugin_ListOptions.xml?MNU_IMPORT
+# setup/plugin_ListOptions.xml
+#: link - MNU_IMPORT
+msgid "[setup/plugin_ListOptions.xml?MNU_IMPORT] Import"
+msgstr "Import"
+
+# setup/processHeartBeatConfig.xml?HB_TITLE
+# setup/processHeartBeatConfig.xml
+#: title - HB_TITLE
+msgid "Processmaker Heartbeat"
+msgstr "Processmaker Heartbeat"
+
+# setup/processHeartBeatConfig.xml?HB_OPTION
+# setup/processHeartBeatConfig.xml
+#: dropdown - HB_OPTION
+msgid "Enable Heartbeat"
+msgstr "Enable Heartbeat"
+
+# setup/processHeartBeatConfig.xml?HB_OPTION-0
+# setup/processHeartBeatConfig.xml
+#: dropdown - HB_OPTION - 0
+msgid "[setup/processHeartBeatConfig.xml?HB_OPTION-0]"
+msgstr "No"
+
+# setup/processHeartBeatConfig.xml?HB_OPTION-1
+# setup/processHeartBeatConfig.xml
+#: dropdown - HB_OPTION - 1
+msgid "[setup/processHeartBeatConfig.xml?HB_OPTION-1]"
+msgstr "Yes"
+
+# setup/processHeartBeatConfig.xml?HB_SAVE
+# setup/processHeartBeatConfig.xml
+#: button - HB_SAVE
+msgid "[setup/processHeartBeatConfig.xml?HB_SAVE] save"
+msgstr "save"
+
+# setup/processHeartBeatConfig.xml?HB_LINKINFO
+# setup/processHeartBeatConfig.xml
+#: link - HB_LINKINFO
+msgid "[setup/processHeartBeatConfig.xml?HB_LINKINFO] Read Online Documentation"
+msgstr "Read Online Documentation"
+
+# setup/showMessage.xml?TITLE
+# setup/showMessage.xml
+#: title - TITLE
+msgid "[setup/showMessage.xml?TITLE] Error"
+msgstr "Error"
+
+# setup/showMessage.xml?MESSAGE
+# setup/showMessage.xml
+#: caption - MESSAGE
+msgid "you can't delete it is in use."
+msgstr "you can't delete it is in use."
+
+# setup/skinsList.xml?id
+# setup/skinsList.xml
+#: text - id
+msgid "[setup/skinsList.xml?id] #"
+msgstr "#"
+
+# setup/skinsList.xml?name
+# setup/skinsList.xml
+#: text - name
+msgid "[setup/skinsList.xml?name] Name (File)"
+msgstr "Name (File)"
+
+# setup/skinsList.xml?description
+# setup/skinsList.xml
+#: text - description
+msgid "[setup/skinsList.xml?description] Description"
+msgstr "Description"
+
+# setup/skinsList.xml?version
+# setup/skinsList.xml
+#: text - version
+msgid "[setup/skinsList.xml?version] Version"
+msgstr "Version"
+
+# setup/skinsList.xml?linkPackValue
+# setup/skinsList.xml
+#: link - linkPackValue
+msgid "[setup/skinsList.xml?linkPackValue] "
+msgstr ""
+
+# setup/skinsListOptions.xml?MNU_NEW
+# setup/skinsListOptions.xml
+#: link - MNU_NEW
+msgid "[setup/skinsListOptions.xml?MNU_NEW] New"
+msgstr "New"
+
+# setup/skinsNew.xml?TITLE1
+# setup/skinsNew.xml
+#: title - TITLE1
+msgid "[setup/skinsNew.xml?TITLE1] New Skin"
+msgstr "New Skin"
+
+# setup/skinsNew.xml?NAME
+# setup/skinsNew.xml
+#: text - NAME
+msgid "Skin Name"
+msgstr "Skin Name"
+
+# setup/skinsNew.xml?DESCRIPTION
+# setup/skinsNew.xml
+#: textarea - DESCRIPTION
+msgid "[setup/skinsNew.xml?DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/skinsNew.xml?SAVE
+# setup/skinsNew.xml
+#: button - SAVE
+msgid "[setup/skinsNew.xml?SAVE] Continue"
+msgstr "Continue"
+
+# setup/skinsNew.xml?BTN_CANCEL
+# setup/skinsNew.xml
+#: button - BTN_CANCEL
+msgid "[setup/skinsNew.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# setup/upgrade.xml?TITLE1
+# setup/upgrade.xml
+#: title - TITLE1
+msgid "[setup/upgrade.xml?TITLE1] Upgrade System"
+msgstr "Upgrade System"
+
+# setup/upgrade.xml?PM_VERSION
+# setup/upgrade.xml
+#: edit - PM_VERSION
+msgid "Current Version"
+msgstr "Current Version"
+
+# setup/upgrade.xml?MAX_FILE_SIZE
+# setup/upgrade.xml
+#: edit - MAX_FILE_SIZE
+msgid "[setup/upgrade.xml?MAX_FILE_SIZE] Max upload file size in bytes"
+msgstr "Max upload file size in bytes"
+
+# setup/upgrade.xml?UPGRADE_FILENAME
+# setup/upgrade.xml
+#: file - UPGRADE_FILENAME
+msgid "[setup/upgrade.xml?UPGRADE_FILENAME] File"
+msgstr "File"
+
+# setup/upgrade.xml?UPGRADE
+# setup/upgrade.xml
+#: button - UPGRADE
+msgid "Upgrade"
+msgstr "Upgrade"
+
+# setup/uplogo.xml?TITLE1
+# setup/uplogo.xml
+#: title - TITLE1
+msgid "Upload your logo"
+msgstr "Upload your logo"
+
+# setup/uplogo.xml?MAX_FILE_SIZE
+# setup/uplogo.xml
+#: edit - MAX_FILE_SIZE
+msgid "[setup/uplogo.xml?MAX_FILE_SIZE] Max upload file size in bytes"
+msgstr "Max upload file size in bytes"
+
+# setup/uplogo.xml?LOGO_FILENAME
+# setup/uplogo.xml
+#: file - LOGO_FILENAME
+msgid "[setup/uplogo.xml?LOGO_FILENAME] File"
+msgstr "File"
+
+# setup/uplogo.xml?LOGO_SAVE
+# setup/uplogo.xml
+#: button - LOGO_SAVE
+msgid "[setup/uplogo.xml?LOGO_SAVE] Upload"
+msgstr "Upload"
+
+# setup/uplogoList.xml?id
+# setup/uplogoList.xml
+#: text - id
+msgid "No."
+msgstr "No."
+
+# setup/uplogoList.xml?LOG0_IMACE
+# setup/uplogoList.xml
+#: text - LOG0_IMACE
+msgid "imagen"
+msgstr "imagen"
+
+# setup/uplogoList.xml?LOG0_NAME
+# setup/uplogoList.xml
+#: text - LOG0_NAME
+msgid "[setup/uplogoList.xml?LOG0_NAME] name"
+msgstr "name"
+
+# setup/uplogoList.xml?LOG0_SIZE
+# setup/uplogoList.xml
+#: text - LOG0_SIZE
+msgid "size"
+msgstr "size"
+
+# setup/uplogoList.xml?LOG0_DESCRIPTION
+# setup/uplogoList.xml
+#: text - LOG0_DESCRIPTION
+msgid "[setup/uplogoList.xml?LOG0_DESCRIPTION] Description"
+msgstr "Description"
+
+# setup/uplogoList.xml?LOGO_SELECTED
+# setup/uplogoList.xml
+#: text - LOGO_SELECTED
+msgid "[setup/uplogoList.xml?LOGO_SELECTED] "
+msgstr ""
+
+# setup/webServicesDetails.xml?title2
+# setup/webServicesDetails.xml
+#: title - title2
+msgid "WSDL Server Details"
+msgstr "WSDL Server Details"
+
+# setup/webServicesDetails.xml?WS_HOST
+# setup/webServicesDetails.xml
+#: text - WS_HOST
+msgid "[setup/webServicesDetails.xml?WS_HOST] Server"
+msgstr "Server"
+
+# setup/webServicesDetails.xml?WS_PORT
+# setup/webServicesDetails.xml
+#: text - WS_PORT
+msgid "[setup/webServicesDetails.xml?WS_PORT] Port"
+msgstr "Port"
+
+# setup/webServicesDetails.xml?WSDL
+# setup/webServicesDetails.xml
+#: text - WSDL
+msgid "WSDL URI"
+msgstr "WSDL URI"
+
+# setup/webServicesDetails.xml?WS_WORKSPACE
+# setup/webServicesDetails.xml
+#: text - WS_WORKSPACE
+msgid "[setup/webServicesDetails.xml?WS_WORKSPACE] Workspace"
+msgstr "Workspace"
+
+# setup/webServicesDetails.xml?WSID
+# setup/webServicesDetails.xml
+#: text - WSID
+msgid "Session ID"
+msgstr "Session ID"
+
+# setup/webServicesSetup.xml?title2
+# setup/webServicesSetup.xml
+#: title - title2
+msgid "Client Setup"
+msgstr "Client Setup"
+
+# setup/webServicesSetup.xml?WS_PROTOCOL
+# setup/webServicesSetup.xml
+#: dropdown - WS_PROTOCOL
+msgid "Protocol"
+msgstr "Protocol"
+
+# setup/webServicesSetup.xml?WS_HOST
+# setup/webServicesSetup.xml
+#: text - WS_HOST
+msgid "Server Host"
+msgstr "Server Host"
+
+# setup/webServicesSetup.xml?WS_WORKSPACE
+# setup/webServicesSetup.xml
+#: text - WS_WORKSPACE
+msgid "[setup/webServicesSetup.xml?WS_WORKSPACE] Workspace"
+msgstr "Workspace"
+
+# setup/webServicesSetup.xml?WS_PORT
+# setup/webServicesSetup.xml
+#: text - WS_PORT
+msgid "[setup/webServicesSetup.xml?WS_PORT] Port"
+msgstr "Port"
+
+# setup/webServicesSetup.xml?button
+# setup/webServicesSetup.xml
+#: submit - button
+msgid "[setup/webServicesSetup.xml?button] Save"
+msgstr "Save"
+
+# setup/webServicesSetup.xml?BTN_CANCEL
+# setup/webServicesSetup.xml
+#: button - BTN_CANCEL
+msgid "[setup/webServicesSetup.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# setup/weekend.xml?TITLE9592
+# setup/weekend.xml
+#: title - TITLE9592
+msgid "Weekend days"
+msgstr "Weekend days"
+
+# setup/weekend.xml?MONDAY
+# setup/weekend.xml
+#: checkbox - MONDAY
+msgid "[setup/weekend.xml?MONDAY] Monday"
+msgstr "Monday"
+
+# setup/weekend.xml?TUESDAY
+# setup/weekend.xml
+#: checkbox - TUESDAY
+msgid "[setup/weekend.xml?TUESDAY] Tuesday"
+msgstr "Tuesday"
+
+# setup/weekend.xml?WEDNESDAY
+# setup/weekend.xml
+#: checkbox - WEDNESDAY
+msgid "[setup/weekend.xml?WEDNESDAY] Wednesday"
+msgstr "Wednesday"
+
+# setup/weekend.xml?THURSDAY
+# setup/weekend.xml
+#: checkbox - THURSDAY
+msgid "[setup/weekend.xml?THURSDAY] Thursday"
+msgstr "Thursday"
+
+# setup/weekend.xml?FRIDAY
+# setup/weekend.xml
+#: checkbox - FRIDAY
+msgid "[setup/weekend.xml?FRIDAY] Friday"
+msgstr "Friday"
+
+# setup/weekend.xml?SATURDAY
+# setup/weekend.xml
+#: checkbox - SATURDAY
+msgid "[setup/weekend.xml?SATURDAY] Saturday"
+msgstr "Saturday"
+
+# setup/weekend.xml?SUNDAY
+# setup/weekend.xml
+#: checkbox - SUNDAY
+msgid "[setup/weekend.xml?SUNDAY] Sunday"
+msgstr "Sunday"
+
+# setup/weekend.xml?BSUBMIT
+# setup/weekend.xml
+#: button - BSUBMIT
+msgid "[setup/weekend.xml?BSUBMIT] Accept"
+msgstr "Accept"
+
+# setup/workPeriod.xml?TITLE9592
+# setup/workPeriod.xml
+#: title - TITLE9592
+msgid "[setup/workPeriod.xml?TITLE9592] Weekend days"
+msgstr "Weekend days"
+
+# setup/workPeriod.xml?SUNDAY
+# setup/workPeriod.xml
+#: checkbox - SUNDAY
+msgid "[setup/workPeriod.xml?SUNDAY] Sunday"
+msgstr "Sunday"
+
+# setup/workPeriod.xml?MONDAY
+# setup/workPeriod.xml
+#: checkbox - MONDAY
+msgid "[setup/workPeriod.xml?MONDAY] Monday"
+msgstr "Monday"
+
+# setup/workPeriod.xml?TUESDAY
+# setup/workPeriod.xml
+#: checkbox - TUESDAY
+msgid "[setup/workPeriod.xml?TUESDAY] Tuesday"
+msgstr "Tuesday"
+
+# setup/workPeriod.xml?WEDNESDAY
+# setup/workPeriod.xml
+#: checkbox - WEDNESDAY
+msgid "[setup/workPeriod.xml?WEDNESDAY] Wednesday"
+msgstr "Wednesday"
+
+# setup/workPeriod.xml?THURSDAY
+# setup/workPeriod.xml
+#: checkbox - THURSDAY
+msgid "[setup/workPeriod.xml?THURSDAY] Thursday"
+msgstr "Thursday"
+
+# setup/workPeriod.xml?FRIDAY
+# setup/workPeriod.xml
+#: checkbox - FRIDAY
+msgid "[setup/workPeriod.xml?FRIDAY] Friday"
+msgstr "Friday"
+
+# setup/workPeriod.xml?SATURDAY
+# setup/workPeriod.xml
+#: checkbox - SATURDAY
+msgid "[setup/workPeriod.xml?SATURDAY] Saturday"
+msgstr "Saturday"
+
+# setup/workPeriod.xml?titulo
+# setup/workPeriod.xml
+#: title - titulo
+msgid "First Period"
+msgstr "First Period"
+
+# setup/workPeriod.xml?initPeriod1
+# setup/workPeriod.xml
+#: dropdown - initPeriod1
+msgid "Start time"
+msgstr "Start time"
+
+# setup/workPeriod.xml?initPeriod1-
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 -
+msgid "[setup/workPeriod.xml?initPeriod1-]"
+msgstr "00:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-30
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 30
+msgid "[setup/workPeriod.xml?initPeriod1-30]"
+msgstr "00:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-60
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 60
+msgid "[setup/workPeriod.xml?initPeriod1-60]"
+msgstr "01:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-90
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 90
+msgid "[setup/workPeriod.xml?initPeriod1-90]"
+msgstr "01:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-120
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 120
+msgid "[setup/workPeriod.xml?initPeriod1-120]"
+msgstr "02:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-150
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 150
+msgid "[setup/workPeriod.xml?initPeriod1-150]"
+msgstr "02:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-180
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 180
+msgid "[setup/workPeriod.xml?initPeriod1-180]"
+msgstr "03:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-210
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 210
+msgid "[setup/workPeriod.xml?initPeriod1-210]"
+msgstr "03:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-240
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 240
+msgid "[setup/workPeriod.xml?initPeriod1-240]"
+msgstr "04:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-270
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 270
+msgid "[setup/workPeriod.xml?initPeriod1-270]"
+msgstr "04:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-300
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 300
+msgid "[setup/workPeriod.xml?initPeriod1-300]"
+msgstr "05:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-330
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 330
+msgid "[setup/workPeriod.xml?initPeriod1-330]"
+msgstr "05:30 a.m"
+
+# setup/workPeriod.xml?initPeriod1-360
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 360
+msgid "[setup/workPeriod.xml?initPeriod1-360]"
+msgstr "06:00 a.m"
+
+# setup/workPeriod.xml?initPeriod1-390
+# setup/workPeriod.xml
+#: dropdown - initPeriod1 - 390
+msgid "[setup/workPeriod.xml?initPeriod1-390]"
+msgstr "06:30 a.m"
+

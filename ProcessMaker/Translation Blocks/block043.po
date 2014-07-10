@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_RIGHT_MARGIN
+# outputdocs/outputdocs_Properties.xml
+#: text - OUT_DOC_RIGHT_MARGIN
+msgid "Right"
+msgstr "Right"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_TOP_MARGIN
+# outputdocs/outputdocs_Properties.xml
+#: text - OUT_DOC_TOP_MARGIN
+msgid "Top"
+msgstr "Top"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_BOTTOM_MARGIN
+# outputdocs/outputdocs_Properties.xml
+#: text - OUT_DOC_BOTTOM_MARGIN
+msgid "Bottom"
+msgstr "Bottom"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_DESTINATION_PATH
+# outputdocs/outputdocs_Properties.xml
+#: textpm - OUT_DOC_DESTINATION_PATH
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_DESTINATION_PATH] Destination Path"
+msgstr "Destination Path"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_TAGS
+# outputdocs/outputdocs_Properties.xml
+#: textpm - OUT_DOC_TAGS
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_TAGS] Tags"
+msgstr "Tags"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_ENABLED
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_PDF_SECURITY_ENABLED
+msgid "PDF Security"
+msgstr "PDF Security"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_ENABLED-0
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_PDF_SECURITY_ENABLED - 0
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_ENABLED-0]"
+msgstr "Disabled"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_ENABLED-1
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_PDF_SECURITY_ENABLED - 1
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_ENABLED-1]"
+msgstr "Enabled"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_OPEN_PASSWORD
+# outputdocs/outputdocs_Properties.xml
+#: password - OUT_DOC_PDF_SECURITY_OPEN_PASSWORD
+msgid "Open Password"
+msgstr "Open Password"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_OWNER_PASSWORD
+# outputdocs/outputdocs_Properties.xml
+#: password - OUT_DOC_PDF_SECURITY_OWNER_PASSWORD
+msgid "Owner Password"
+msgstr "Owner Password"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS
+# outputdocs/outputdocs_Properties.xml
+#: listbox - OUT_DOC_PDF_SECURITY_PERMISSIONS
+msgid "Allowed Permissions"
+msgstr "Allowed Permissions"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-print
+# outputdocs/outputdocs_Properties.xml
+#: listbox - OUT_DOC_PDF_SECURITY_PERMISSIONS - print
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-print]"
+msgstr "Print"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-modify
+# outputdocs/outputdocs_Properties.xml
+#: listbox - OUT_DOC_PDF_SECURITY_PERMISSIONS - modify
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-modify]"
+msgstr "Modify"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-copy
+# outputdocs/outputdocs_Properties.xml
+#: listbox - OUT_DOC_PDF_SECURITY_PERMISSIONS - copy
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-copy]"
+msgstr "Copy"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-annot-forms
+# outputdocs/outputdocs_Properties.xml
+#: listbox - OUT_DOC_PDF_SECURITY_PERMISSIONS - annot-forms
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_PDF_SECURITY_PERMISSIONS-annot-forms]"
+msgstr "Forms"
+
+# outputdocs/outputdocs_Properties.xml?BTN_CANCEL
+# outputdocs/outputdocs_Properties.xml
+#: button - BTN_CANCEL
+msgid "[outputdocs/outputdocs_Properties.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# outputdocs/outputdocs_Properties.xml?ACCEPT
+# outputdocs/outputdocs_Properties.xml
+#: button - ACCEPT
+msgid "[outputdocs/outputdocs_Properties.xml?ACCEPT] Save"
+msgstr "Save"
+
+# outputdocs/outputdocs_ShortList.xml?OUT_DOC_TITLE
+# outputdocs/outputdocs_ShortList.xml
+#: text - OUT_DOC_TITLE
+msgid "[outputdocs/outputdocs_ShortList.xml?OUT_DOC_TITLE] Title"
+msgstr "Title"
+
+# outputdocs/outputdocs_ShortList.xml?OUT_DOC_TYPE
+# outputdocs/outputdocs_ShortList.xml
+#: text - OUT_DOC_TYPE
+msgid "[outputdocs/outputdocs_ShortList.xml?OUT_DOC_TYPE] Type"
+msgstr "Type"
+
+# outputdocs/outputdocs_ShortList.xml?EDIT
+# outputdocs/outputdocs_ShortList.xml
+#: link - EDIT
+msgid "[outputdocs/outputdocs_ShortList.xml?EDIT] "
+msgstr ""
+
+# outputdocs/outputdocs_ShortList.xml?DELETE
+# outputdocs/outputdocs_ShortList.xml
+#: link - DELETE
+msgid "[outputdocs/outputdocs_ShortList.xml?DELETE] "
+msgstr ""
+
+# outputdocs/outputdocs_ShortList.xml?SEARCH
+# outputdocs/outputdocs_ShortList.xml
+#: button - SEARCH
+msgid "[outputdocs/outputdocs_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# patterns/patterns_Current.xml?TITLE
+# patterns/patterns_Current.xml
+#: title - TITLE
+msgid "Workflow Pattern"
+msgstr "Workflow Pattern"
+
+# patterns/patterns_Current.xml?ROU_TYPE
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE
+msgid "[patterns/patterns_Current.xml?ROU_TYPE] Type"
+msgstr "Type"
+
+# patterns/patterns_Current.xml?ROU_TYPE-
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE -
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-]"
+msgstr "- Select -"
+
+# patterns/patterns_Current.xml?ROU_TYPE-SEQUENTIAL
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - SEQUENTIAL
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-SEQUENTIAL]"
+msgstr "Sequential"
+
+# patterns/patterns_Current.xml?ROU_TYPE-SELECT
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - SELECT
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-SELECT]"
+msgstr "Selection"
+
+# patterns/patterns_Current.xml?ROU_TYPE-EVALUATE
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - EVALUATE
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-EVALUATE]"
+msgstr "Evaluation"
+
+# patterns/patterns_Current.xml?ROU_TYPE-PARALLEL
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - PARALLEL
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-PARALLEL]"
+msgstr "Parallel (fork)"
+
+# patterns/patterns_Current.xml?ROU_TYPE-PARALLEL-BY-EVALUATION
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - PARALLEL-BY-EVALUATION
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-PARALLEL-BY-EVALUATION]"
+msgstr "Parallel by evaluation (fork)"
+
+# patterns/patterns_Current.xml?ROU_TYPE-SEC-JOIN
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TYPE - SEC-JOIN
+msgid "[patterns/patterns_Current.xml?ROU_TYPE-SEC-JOIN]"
+msgstr "Parallel (join)"
+
+# patterns/patterns_Current.xml?ROU_NEXT_TASK
+# patterns/patterns_Current.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_Current.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_Current.xml?ROU_NEXT_TASK--1
+# patterns/patterns_Current.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_Current.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_Current.xml?ROU_NEXT_TASK--2
+# patterns/patterns_Current.xml
+#: dropdown - ROU_NEXT_TASK - -2
+msgid "[patterns/patterns_Current.xml?ROU_NEXT_TASK--2]"
+msgstr "Leaf task"
+
+# patterns/patterns_Current.xml?ROU_TO_LAST_USER
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TO_LAST_USER
+msgid "Selection of executant"
+msgstr "Selection of executant"
+
+# patterns/patterns_Current.xml?ROU_TO_LAST_USER-FALSE
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TO_LAST_USER - FALSE
+msgid "[patterns/patterns_Current.xml?ROU_TO_LAST_USER-FALSE]"
+msgstr "Rules and user groups"
+
+# patterns/patterns_Current.xml?ROU_TO_LAST_USER-TRUE
+# patterns/patterns_Current.xml
+#: dropdown - ROU_TO_LAST_USER - TRUE
+msgid "[patterns/patterns_Current.xml?ROU_TO_LAST_USER-TRUE]"
+msgstr "Last executant of the task"
+
+# patterns/patterns_Current.xml?SAVE
+# patterns/patterns_Current.xml
+#: button - SAVE
+msgid "[patterns/patterns_Current.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_Discriminator.xml?TITLE
+# patterns/patterns_Discriminator.xml
+#: title - TITLE
+msgid "Discriminator"
+msgstr "Discriminator"
+
+# patterns/patterns_Discriminator.xml?BTN_CANCEL
+# patterns/patterns_Discriminator.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_Discriminator.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_Discriminator.xml?SAVE
+# patterns/patterns_Discriminator.xml
+#: button - SAVE
+msgid "[patterns/patterns_Discriminator.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_Evaluate.xml?TITLE
+# patterns/patterns_Evaluate.xml
+#: title - TITLE
+msgid "[patterns/patterns_Evaluate.xml?TITLE] Evaluation"
+msgstr "Evaluation"
+
+# patterns/patterns_Evaluate.xml?BTN_CANCEL
+# patterns/patterns_Evaluate.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_Evaluate.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_Evaluate.xml?SAVE
+# patterns/patterns_Evaluate.xml
+#: button - SAVE
+msgid "[patterns/patterns_Evaluate.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_GridDiscriminator.xml?ROU_NEXT_TASK
+# patterns/patterns_GridDiscriminator.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_GridDiscriminator.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_GridDiscriminator.xml?ROU_CONDITION
+# patterns/patterns_GridDiscriminator.xml
+#: text - ROU_CONDITION
+msgid "No of Task to be Discriminated"
+msgstr "No of Task to be Discriminated"
+
+# patterns/patterns_GridDiscriminator.xml?ROU_OPTIONAL
+# patterns/patterns_GridDiscriminator.xml
+#: dropdown - ROU_OPTIONAL
+msgid "Type of Discriminator"
+msgstr "Type of Discriminator"
+
+# patterns/patterns_GridDiscriminator.xml?ROU_OPTIONAL-FALSE
+# patterns/patterns_GridDiscriminator.xml
+#: dropdown - ROU_OPTIONAL - FALSE
+msgid "[patterns/patterns_GridDiscriminator.xml?ROU_OPTIONAL-FALSE]"
+msgstr "Structured"
+
+# patterns/patterns_GridDiscriminator.xml?ROU_OPTIONAL-TRUE
+# patterns/patterns_GridDiscriminator.xml
+#: dropdown - ROU_OPTIONAL - TRUE
+msgid "[patterns/patterns_GridDiscriminator.xml?ROU_OPTIONAL-TRUE]"
+msgstr "Cancelling"
+
+# patterns/patterns_GridEvaluateType.xml?ROU_NEXT_TASK
+# patterns/patterns_GridEvaluateType.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_GridEvaluateType.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_GridEvaluateType.xml?ROU_NEXT_TASK--1
+# patterns/patterns_GridEvaluateType.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_GridEvaluateType.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_GridEvaluateType.xml?ROU_CONDITION
+# patterns/patterns_GridEvaluateType.xml
+#: textpm - ROU_CONDITION
+msgid "[patterns/patterns_GridEvaluateType.xml?ROU_CONDITION] Condition"
+msgstr "Condition"
+
+# patterns/patterns_GridParallelByEvaluationType.xml?ROU_NEXT_TASK
+# patterns/patterns_GridParallelByEvaluationType.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_GridParallelByEvaluationType.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_GridParallelByEvaluationType.xml?ROU_NEXT_TASK--1
+# patterns/patterns_GridParallelByEvaluationType.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_GridParallelByEvaluationType.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_GridParallelByEvaluationType.xml?ROU_CONDITION
+# patterns/patterns_GridParallelByEvaluationType.xml
+#: textpm - ROU_CONDITION
+msgid "[patterns/patterns_GridParallelByEvaluationType.xml?ROU_CONDITION] Condition"
+msgstr "Condition"
+
+# patterns/patterns_GridParallelType.xml?ROU_NEXT_TASK
+# patterns/patterns_GridParallelType.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_GridParallelType.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_GridSelectType.xml?ROU_NEXT_TASK
+# patterns/patterns_GridSelectType.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_GridSelectType.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_GridSelectType.xml?ROU_NEXT_TASK--1
+# patterns/patterns_GridSelectType.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_GridSelectType.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_GridSelectType.xml?ROU_CONDITION
+# patterns/patterns_GridSelectType.xml
+#: text - ROU_CONDITION
+msgid "[patterns/patterns_GridSelectType.xml?ROU_CONDITION] Description"
+msgstr "Description"
+
+# patterns/patterns_Parallel.xml?TITLE
+# patterns/patterns_Parallel.xml
+#: title - TITLE
+msgid "Parallel"
+msgstr "Parallel"
+
+# patterns/patterns_Parallel.xml?BTN_CANCEL
+# patterns/patterns_Parallel.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_Parallel.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_Parallel.xml?SAVE
+# patterns/patterns_Parallel.xml
+#: button - SAVE
+msgid "[patterns/patterns_Parallel.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_ParallelByEvaluation.xml?TITLE
+# patterns/patterns_ParallelByEvaluation.xml
+#: title - TITLE
+msgid "Parallel By Evaluation"
+msgstr "Parallel By Evaluation"
+
+# patterns/patterns_ParallelByEvaluation.xml?BTN_CANCEL
+# patterns/patterns_ParallelByEvaluation.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_ParallelByEvaluation.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_ParallelByEvaluation.xml?SAVE
+# patterns/patterns_ParallelByEvaluation.xml
+#: button - SAVE
+msgid "[patterns/patterns_ParallelByEvaluation.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_ParallelJoin.xml?TITLE
+# patterns/patterns_ParallelJoin.xml
+#: title - TITLE
+msgid "Parallel Join"
+msgstr "Parallel Join"
+
+# patterns/patterns_ParallelJoin.xml?ROU_NEXT_TASK
+# patterns/patterns_ParallelJoin.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_ParallelJoin.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_ParallelJoin.xml?ROU_NEXT_TASK--1
+# patterns/patterns_ParallelJoin.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_ParallelJoin.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_ParallelJoin.xml?SAVE
+# patterns/patterns_ParallelJoin.xml
+#: button - SAVE
+msgid "[patterns/patterns_ParallelJoin.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_Select.xml?TITLE
+# patterns/patterns_Select.xml
+#: title - TITLE
+msgid "[patterns/patterns_Select.xml?TITLE] Selection"
+msgstr "Selection"
+
+# patterns/patterns_Select.xml?BTN_CANCEL
+# patterns/patterns_Select.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_Select.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_Select.xml?SAVE
+# patterns/patterns_Select.xml
+#: button - SAVE
+msgid "[patterns/patterns_Select.xml?SAVE] Save"
+msgstr "Save"
+
+# patterns/patterns_Sequential.xml?TITLE
+# patterns/patterns_Sequential.xml
+#: title - TITLE
+msgid "[patterns/patterns_Sequential.xml?TITLE] Sequential"
+msgstr "Sequential"
+
+# patterns/patterns_Sequential.xml?ROU_NEXT_TASK
+# patterns/patterns_Sequential.xml
+#: dropdown - ROU_NEXT_TASK
+msgid "[patterns/patterns_Sequential.xml?ROU_NEXT_TASK] Next Task"
+msgstr "Next Task"
+
+# patterns/patterns_Sequential.xml?ROU_NEXT_TASK--1
+# patterns/patterns_Sequential.xml
+#: dropdown - ROU_NEXT_TASK - -1
+msgid "[patterns/patterns_Sequential.xml?ROU_NEXT_TASK--1]"
+msgstr "End of process"
+
+# patterns/patterns_Sequential.xml?BTN_CANCEL
+# patterns/patterns_Sequential.xml
+#: button - BTN_CANCEL
+msgid "[patterns/patterns_Sequential.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# patterns/patterns_Sequential.xml?SAVE
+# patterns/patterns_Sequential.xml
+#: button - SAVE
+msgid "[patterns/patterns_Sequential.xml?SAVE] Save"
+msgstr "Save"
+
+# processCategory/processCategory.xml?title1
+# processCategory/processCategory.xml
+#: title - title1
+msgid "Process Category form"
+msgstr "Process Category form"
+
+# processCategory/processCategory.xml?CATEGORY_UID
+# processCategory/processCategory.xml
+#: text - CATEGORY_UID
+msgid "Category UID"
+msgstr "Category UID"
+
+# processCategory/processCategory.xml?CATEGORY_PARENT
+# processCategory/processCategory.xml
+#: text - CATEGORY_PARENT
+msgid "Category Parent"
+msgstr "Category Parent"
+
+# processCategory/processCategory.xml?CATEGORY_NAME
+# processCategory/processCategory.xml
+#: text - CATEGORY_NAME
+msgid "[processCategory/processCategory.xml?CATEGORY_NAME] Category Name"
+msgstr "Category Name"
+
+# processCategory/processCategory.xml?CATEGORY_ICON
+# processCategory/processCategory.xml
+#: text - CATEGORY_ICON
+msgid "Category Icon"
+msgstr "Category Icon"
+
+# processCategory/processCategory.xml?BTN_SUBMIT
+# processCategory/processCategory.xml
+#: submit - BTN_SUBMIT
+msgid "[processCategory/processCategory.xml?BTN_SUBMIT] Save"
+msgstr "Save"
+
+# processCategory/processCategoryDelete.xml?title1
+# processCategory/processCategoryDelete.xml
+#: title - title1
+msgid "Delete Process Category"
+msgstr "Delete Process Category"
+
+# processCategory/processCategoryDelete.xml?LABEL_CATEGORY_NAME
+# processCategory/processCategoryDelete.xml
+#: caption - LABEL_CATEGORY_NAME
+msgid "[processCategory/processCategoryDelete.xml?LABEL_CATEGORY_NAME] Category Name"
+msgstr "Category Name"
+
+# processCategory/processCategoryDelete.xml?BTN_SUBMIT
+# processCategory/processCategoryDelete.xml
+#: submit - BTN_SUBMIT
+msgid "[processCategory/processCategoryDelete.xml?BTN_SUBMIT] delete"
+msgstr "delete"
+
+# processCategory/processCategoryDelete.xml?BTN_CANCEL
+# processCategory/processCategoryDelete.xml
+#: button - BTN_CANCEL
+msgid "[processCategory/processCategoryDelete.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processCategory/processCategoryEdit.xml?title1
+# processCategory/processCategoryEdit.xml
+#: title - title1
+msgid "[processCategory/processCategoryEdit.xml?title1] Process Category form"
+msgstr "Process Category form"
+
+# processCategory/processCategoryEdit.xml?CATEGORY_NAME
+# processCategory/processCategoryEdit.xml
+#: text - CATEGORY_NAME
+msgid "[processCategory/processCategoryEdit.xml?CATEGORY_NAME] Category Name"
+msgstr "Category Name"
+
+# processCategory/processCategoryEdit.xml?BTN_SUBMIT
+# processCategory/processCategoryEdit.xml
+#: button - BTN_SUBMIT
+msgid "[processCategory/processCategoryEdit.xml?BTN_SUBMIT] save"
+msgstr "save"
+
+# processCategory/processCategoryEdit.xml?BTN_CANCEL
+# processCategory/processCategoryEdit.xml
+#: button - BTN_CANCEL
+msgid "[processCategory/processCategoryEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processCategory/processCategoryList.xml?CATEGORY_NAME
+# processCategory/processCategoryList.xml
+#: text - CATEGORY_NAME
+msgid "[processCategory/processCategoryList.xml?CATEGORY_NAME] Category Name"
+msgstr "Category Name"
+
+# processCategory/processCategoryNew.xml?title1
+# processCategory/processCategoryNew.xml
+#: title - title1
+msgid "[processCategory/processCategoryNew.xml?title1] Process Category form"
+msgstr "Process Category form"
+
+# processCategory/processCategoryNew.xml?CATEGORY_NAME
+# processCategory/processCategoryNew.xml
+#: text - CATEGORY_NAME
+msgid "[processCategory/processCategoryNew.xml?CATEGORY_NAME] Category Name"
+msgstr "Category Name"
+
+# processCategory/processCategoryNew.xml?BTN_SUBMIT
+# processCategory/processCategoryNew.xml
+#: button - BTN_SUBMIT
+msgid "[processCategory/processCategoryNew.xml?BTN_SUBMIT] save"
+msgstr "save"
+
+# processCategory/processCategoryNew.xml?BTN_CANCEL
+# processCategory/processCategoryNew.xml
+#: button - BTN_CANCEL
+msgid "[processCategory/processCategoryNew.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processCategory/processCategoryOptions.xml?MNU_NEW
+# processCategory/processCategoryOptions.xml
+#: link - MNU_NEW
+msgid "[processCategory/processCategoryOptions.xml?MNU_NEW] New"
+msgstr "New"
+
+# processes/objectpmView.xml?thetitle
+# processes/objectpmView.xml
+#: title - thetitle
+msgid "Process Properties"
+msgstr "Process Properties"
+
+# processes/objectpmView.xml?title
+# processes/objectpmView.xml
+#: text - title
+msgid "[processes/objectpmView.xml?title] Title"
+msgstr "Title"
+
+# processes/objectpmView.xml?version
+# processes/objectpmView.xml
+#: text - version
+msgid "[processes/objectpmView.xml?version] Version"
+msgstr "Version"
+

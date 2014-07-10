@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING
+#: LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING
+msgid "[LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING] Save changes to the routing rules before closing?"
+msgstr "Save changes to the routing rules before closing?"
+
+# TRANSLATION
+# LABEL/ID_SAVE_DYNAFORM_INFORMATION_BEFORE_PRINTING
+#: LABEL/ID_SAVE_DYNAFORM_INFORMATION_BEFORE_PRINTING
+msgid "Do you want to save the dynaform information before printing it?"
+msgstr "Do you want to save the dynaform information before printing it?"
+
+# TRANSLATION
+# LABEL/ID_SAVE_SETTINGS
+#: LABEL/ID_SAVE_SETTINGS
+msgid "Save Settings"
+msgstr "Save Settings"
+
+# TRANSLATION
+# LABEL/ID_SAVING
+#: LABEL/ID_SAVING
+msgid "Saving..."
+msgstr "Saving..."
+
+# TRANSLATION
+# LABEL/ID_SAVING_ENVIRONMENT_SETTINGS
+#: LABEL/ID_SAVING_ENVIRONMENT_SETTINGS
+msgid "Saving Environment Settings"
+msgstr "Saving Environment Settings"
+
+# TRANSLATION
+# LABEL/ID_SAVING_LABEL
+#: LABEL/ID_SAVING_LABEL
+msgid "Saving"
+msgstr "Saving"
+
+# TRANSLATION
+# LABEL/ID_SAVING_PROCESS
+#: LABEL/ID_SAVING_PROCESS
+msgid "Saving process"
+msgstr "Saving process"
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_LIST
+#: LABEL/ID_SCHEDULER_LIST
+msgid "New cases scheduler"
+msgstr "New cases scheduler"
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_LOG
+#: LABEL/ID_SCHEDULER_LOG
+msgid "Cases Scheduler Logs"
+msgstr "Cases Scheduler Logs"
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_SUCCESS_CHANGE_STATUS
+#: LABEL/ID_SCHEDULER_SUCCESS_CHANGE_STATUS
+msgid "Case Scheduler status has been changed correctly."
+msgstr "Case Scheduler status has been changed correctly."
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_SUCCESS_DELETE
+#: LABEL/ID_SCHEDULER_SUCCESS_DELETE
+msgid "Case Scheduler has been deleted correctly."
+msgstr "Case Scheduler has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_SUCCESS_NEW
+#: LABEL/ID_SCHEDULER_SUCCESS_NEW
+msgid "Case Scheduler has been created correctly."
+msgstr "Case Scheduler has been created correctly."
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_SUCCESS_UPDATE
+#: LABEL/ID_SCHEDULER_SUCCESS_UPDATE
+msgid "Case Scheduler has been updated correctly."
+msgstr "Case Scheduler has been updated correctly."
+
+# TRANSLATION
+# LABEL/ID_SCHEDULER_TASK
+#: LABEL/ID_SCHEDULER_TASK
+msgid "Scheduled Task ID"
+msgstr "Scheduled Task ID"
+
+# TRANSLATION
+# LABEL/ID_SCHEMA
+#: LABEL/ID_SCHEMA
+msgid "Schema"
+msgstr "Schema"
+
+# TRANSLATION
+# LABEL/ID_SEARCH
+#: LABEL/ID_SEARCH
+msgid "[LABEL/ID_SEARCH] Search"
+msgstr "Search"
+
+# TRANSLATION
+# LABEL/ID_SEARCH_PATTERN
+#: LABEL/ID_SEARCH_PATTERN
+msgid "Search Pattern"
+msgstr "Search Pattern"
+
+# TRANSLATION
+# LABEL/ID_SEARCH_RESULT
+#: LABEL/ID_SEARCH_RESULT
+msgid "Search results"
+msgstr "Search results"
+
+# TRANSLATION
+# LABEL/ID_SEARCH_USER
+#: LABEL/ID_SEARCH_USER
+msgid "Username"
+msgstr "Username"
+
+# TRANSLATION
+# LABEL/ID_SEARCH_XML_METADATA
+#: LABEL/ID_SEARCH_XML_METADATA
+msgid "Search XML metadata"
+msgstr "Search XML metadata"
+
+# TRANSLATION
+# LABEL/ID_SECOND
+#: LABEL/ID_SECOND
+msgid "Second"
+msgstr "Second"
+
+# TRANSLATION
+# LABEL/ID_SECONDS
+#: LABEL/ID_SECONDS
+msgid "Seconds"
+msgstr "Seconds"
+
+# TRANSLATION
+# LABEL/ID_SEE
+#: LABEL/ID_SEE
+msgid "See"
+msgstr "See"
+
+# TRANSLATION
+# LABEL/ID_SELECT
+#: LABEL/ID_SELECT
+msgid "Select"
+msgstr "Select"
+
+# TRANSLATION
+# LABEL/ID_SELECTED
+#: LABEL/ID_SELECTED
+msgid "selected"
+msgstr "selected"
+
+# TRANSLATION
+# LABEL/ID_SELECTED_FIELD
+#: LABEL/ID_SELECTED_FIELD
+msgid "selected field"
+msgstr "selected field"
+
+# TRANSLATION
+# LABEL/ID_SELECTED_IMAGE_DELETED
+#: LABEL/ID_SELECTED_IMAGE_DELETED
+msgid "The selected image has been deleted."
+msgstr "The selected image has been deleted."
+
+# TRANSLATION
+# LABEL/ID_SELECTED_IMAGE_IS_LOGO
+#: LABEL/ID_SELECTED_IMAGE_IS_LOGO
+msgid "The selected image is established as logo."
+msgstr "The selected image is established as logo."
+
+# TRANSLATION
+# LABEL/ID_SELECT_ALL
+#: LABEL/ID_SELECT_ALL
+msgid "You must define at least one 'ALL' for other days you have not defined"
+msgstr "You must define at least one 'ALL' for other days you have not defined"
+
+# TRANSLATION
+# LABEL/ID_SELECT_AN_IMAGE
+#: LABEL/ID_SELECT_AN_IMAGE
+msgid "Please select an image"
+msgstr "Please select an image"
+
+# TRANSLATION
+# LABEL/ID_SELECT_AUTH_SOURCE
+#: LABEL/ID_SELECT_AUTH_SOURCE
+msgid "Select Authentication Source..."
+msgstr "Select Authentication Source..."
+
+# TRANSLATION
+# LABEL/ID_SELECT_DATE_TIME
+#: LABEL/ID_SELECT_DATE_TIME
+msgid "Select the time and day you want this task to start"
+msgstr "Select the time and day you want this task to start"
+
+# TRANSLATION
+# LABEL/ID_SELECT_DAY_OF_WEEK
+#: LABEL/ID_SELECT_DAY_OF_WEEK
+msgid "Select the day(s) of the week below"
+msgstr "Select the day(s) of the week below"
+
+# TRANSLATION
+# LABEL/ID_SELECT_DIRECTORY
+#: LABEL/ID_SELECT_DIRECTORY
+msgid "Select a directory"
+msgstr "Select a directory"
+
+# TRANSLATION
+# LABEL/ID_SELECT_DYNAFORM
+#: LABEL/ID_SELECT_DYNAFORM
+msgid "Please select the Dynaform Type"
+msgstr "Please select the Dynaform Type"
+
+# TRANSLATION
+# LABEL/ID_SELECT_FILE
+#: LABEL/ID_SELECT_FILE
+msgid "Select a file"
+msgstr "Select a file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_FILE_PMT_IMPORT
+#: LABEL/ID_SELECT_FILE_PMT_IMPORT
+msgid "Please select a .pmt file"
+msgstr "Please select a .pmt file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_FILE_PM_IMPORT
+#: LABEL/ID_SELECT_FILE_PM_IMPORT
+msgid "Please select a .pm file"
+msgstr "Please select a .pm file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_FIRST_PM_TABLE_ROW
+#: LABEL/ID_SELECT_FIRST_PM_TABLE_ROW
+msgid "First select a PM Table from the list please."
+msgstr "First select a PM Table from the list please."
+
+# TRANSLATION
+# LABEL/ID_SELECT_FIRST_ROW
+#: LABEL/ID_SELECT_FIRST_ROW
+msgid "First select a ROW from the list"
+msgstr "First select a ROW from the list"
+
+# TRANSLATION
+# LABEL/ID_SELECT_GRID
+#: LABEL/ID_SELECT_GRID
+msgid "Select a grid"
+msgstr "Select a grid"
+
+# TRANSLATION
+# LABEL/ID_SELECT_LANGUAGE_FROM_LIST
+#: LABEL/ID_SELECT_LANGUAGE_FROM_LIST
+msgid "First select a language from the list please."
+msgstr "First select a language from the list please."
+
+# TRANSLATION
+# LABEL/ID_SELECT_ONE_AT_LEAST
+#: LABEL/ID_SELECT_ONE_AT_LEAST
+msgid "Select at least one item from the list"
+msgstr "Select at least one item from the list"
+
+# TRANSLATION
+# LABEL/ID_SELECT_ONE_ITEM_FROM_LIST
+#: LABEL/ID_SELECT_ONE_ITEM_FROM_LIST
+msgid "Just select one item from the list to edit"
+msgstr "Just select one item from the list to edit"
+
+# TRANSLATION
+# LABEL/ID_SELECT_ONE_OPTION
+#: LABEL/ID_SELECT_ONE_OPTION
+msgid "select one option"
+msgstr "select one option"
+
+# TRANSLATION
+# LABEL/ID_SELECT_OPTION_TABLE
+#: LABEL/ID_SELECT_OPTION_TABLE
+msgid "Select a option to export schema or data from the selected table(s)."
+msgstr "Select a option to export schema or data from the selected table(s)."
+
+# TRANSLATION
+# LABEL/ID_SELECT_PM_FILE
+#: LABEL/ID_SELECT_PM_FILE
+msgid "Select a .pmt file"
+msgstr "Select a .pmt file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_PROCESS_FILE
+#: LABEL/ID_SELECT_PROCESS_FILE
+msgid "Select a process file"
+msgstr "Select a process file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_STATUS
+#: LABEL/ID_SELECT_STATUS
+msgid "Select status..."
+msgstr "Select status..."
+
+# TRANSLATION
+# LABEL/ID_SELECT_TABLE
+#: LABEL/ID_SELECT_TABLE
+msgid "Please select a table to export."
+msgstr "Please select a table to export."
+
+# TRANSLATION
+# LABEL/ID_SELECT_TEMPLATE_FILE
+#: LABEL/ID_SELECT_TEMPLATE_FILE
+msgid "Select a template file"
+msgstr "Select a template file"
+
+# TRANSLATION
+# LABEL/ID_SELECT_WORKSPACE
+#: LABEL/ID_SELECT_WORKSPACE
+msgid "Select a workspace"
+msgstr "Select a workspace"
+
+# TRANSLATION
+# LABEL/ID_SELFSERVICE
+#: LABEL/ID_SELFSERVICE
+msgid "Self Service"
+msgstr "Self Service"
+
+# TRANSLATION
+# LABEL/ID_SELF_SERVICE
+#: LABEL/ID_SELF_SERVICE
+msgid "[LABEL/ID_SELF_SERVICE] Self Service"
+msgstr "Self Service"
+
+# TRANSLATION
+# LABEL/ID_SEL_AFTER_DATE
+#: LABEL/ID_SEL_AFTER_DATE
+msgid "Please select after date"
+msgstr "Please select after date"
+
+# TRANSLATION
+# LABEL/ID_SEL_BEFORE_DATE
+#: LABEL/ID_SEL_BEFORE_DATE
+msgid "Please select before date"
+msgstr "Please select before date"
+
+# TRANSLATION
+# LABEL/ID_SEL_END_DATE
+#: LABEL/ID_SEL_END_DATE
+msgid "Please select end date"
+msgstr "Please select end date"
+
+# TRANSLATION
+# LABEL/ID_SEL_START_DATE
+#: LABEL/ID_SEL_START_DATE
+msgid "Please select start date"
+msgstr "Please select start date"
+
+# TRANSLATION
+# LABEL/ID_SEND
+#: LABEL/ID_SEND
+msgid "Post"
+msgstr "Post"
+
+# TRANSLATION
+# LABEL/ID_SENDING_REQUEST
+#: LABEL/ID_SENDING_REQUEST
+msgid "Sending Request..."
+msgstr "Sending Request..."
+
+# TRANSLATION
+# LABEL/ID_SENDMAIL_NOT_INSTALLED
+#: LABEL/ID_SENDMAIL_NOT_INSTALLED
+msgid "An error has occured, please verify on which server \"SendMail\" has been installed or any other mail service, and if it has been configured correctly."
+msgstr "An error has occured, please verify on which server \"SendMail\" has been installed or any other mail service, and if it has been configured correctly."
+
+# TRANSLATION
+# LABEL/ID_SEND_AT
+#: LABEL/ID_SEND_AT
+msgid "send at"
+msgstr "send at"
+
+# TRANSLATION
+# LABEL/ID_SEND_EMAIL_CASE_PARTICIPANTS
+#: LABEL/ID_SEND_EMAIL_CASE_PARTICIPANTS
+msgid "Send Email (Case Participants)"
+msgstr "Send Email (Case Participants)"
+
+# TRANSLATION
+# LABEL/ID_SENT
+#: LABEL/ID_SENT
+msgid "Participated"
+msgstr "Participated"
+
+# TRANSLATION
+# LABEL/ID_SENT_BY
+#: LABEL/ID_SENT_BY
+msgid "Sent By"
+msgstr "Sent By"
+
+# TRANSLATION
+# LABEL/ID_SERVER
+#: LABEL/ID_SERVER
+msgid "Server"
+msgstr "Server"
+
+# TRANSLATION
+# LABEL/ID_SERVER_COMMUNICATION_ERROR
+#: LABEL/ID_SERVER_COMMUNICATION_ERROR
+msgid "Failed to connect to the server"
+msgstr "Failed to connect to the server"
+
+# TRANSLATION
+# LABEL/ID_SERVER_IP
+#: LABEL/ID_SERVER_IP
+msgid "Server IP Address"
+msgstr "Server IP Address"
+
+# TRANSLATION
+# LABEL/ID_SERVER_NAME
+#: LABEL/ID_SERVER_NAME
+msgid "Server Address"
+msgstr "Server Address"
+
+# TRANSLATION
+# LABEL/ID_SERVER_PORT
+#: LABEL/ID_SERVER_PORT
+msgid "Server Port"
+msgstr "Server Port"
+
+# TRANSLATION
+# LABEL/ID_SERVER_PROBLEM
+#: LABEL/ID_SERVER_PROBLEM
+msgid "Server Problem :"
+msgstr "Server Problem :"
+
+# TRANSLATION
+# LABEL/ID_SERVER_PROTOCOL
+#: LABEL/ID_SERVER_PROTOCOL
+msgid "Server Protocol"
+msgstr "Server Protocol"
+
+# TRANSLATION
+# LABEL/ID_SERVER_REPORTED
+#: LABEL/ID_SERVER_REPORTED
+msgid "Server reported"
+msgstr "Server reported"
+
+# TRANSLATION
+# LABEL/ID_SERVICE
+#: LABEL/ID_SERVICE
+msgid "Service"
+msgstr "Service"
+
+# TRANSLATION
+# LABEL/ID_SESSION
+#: LABEL/ID_SESSION
+msgid "Session"
+msgstr "Session"
+
+# TRANSLATION
+# LABEL/ID_SESSION_ACTIVE
+#: LABEL/ID_SESSION_ACTIVE
+msgid "Session active"
+msgstr "Session active"
+
+# TRANSLATION
+# LABEL/ID_SESSION_EXPIRED
+#: LABEL/ID_SESSION_EXPIRED
+msgid "The session has expired."
+msgstr "The session has expired."
+
+# TRANSLATION
+# LABEL/ID_SETTINGS
+#: LABEL/ID_SETTINGS
+msgid "Settings"
+msgstr "Settings"
+
+# TRANSLATION
+# LABEL/ID_SETTINGS_HEARTBEAT_TITLE
+#: LABEL/ID_SETTINGS_HEARTBEAT_TITLE
+msgid "Display Setting"
+msgstr "Display Setting"
+
+# TRANSLATION
+# LABEL/ID_SETTING_MESSAGE
+#: LABEL/ID_SETTING_MESSAGE
+msgid "The Settings tool was clicked"
+msgstr "The Settings tool was clicked"
+
+# TRANSLATION
+# LABEL/ID_SETUP
+#: LABEL/ID_SETUP
+msgid "ADMIN"
+msgstr "ADMIN"
+
+# TRANSLATION
+# LABEL/ID_SETUP_MAILCONF_TITLE
+#: LABEL/ID_SETUP_MAILCONF_TITLE
+msgid "Test SMTP Connection"
+msgstr "Test SMTP Connection"
+
+# TRANSLATION
+# LABEL/ID_SETUP_WEBSERVICES
+#: LABEL/ID_SETUP_WEBSERVICES
+msgid "Setup"
+msgstr "Setup"
+
+# TRANSLATION
+# LABEL/ID_SET_A_TABLE_NAME
+#: LABEL/ID_SET_A_TABLE_NAME
+msgid "Set a Table Name"
+msgstr "Set a Table Name"
+
+# TRANSLATION
+# LABEL/ID_SET_SUPERVISOR
+#: LABEL/ID_SET_SUPERVISOR
+msgid "Set Supervisor"
+msgstr "Set Supervisor"
+
+# TRANSLATION
+# LABEL/ID_SET_SUPERVISOR_SUCCESS
+#: LABEL/ID_SET_SUPERVISOR_SUCCESS
+msgid "Supervisor assigned correctly"
+msgstr "Supervisor assigned correctly"
+
+# TRANSLATION
+# LABEL/ID_SET_TABLE_DESCRIPTION
+#: LABEL/ID_SET_TABLE_DESCRIPTION
+msgid "Set a Table Description"
+msgstr "Set a Table Description"
+
+# TRANSLATION
+# LABEL/ID_SHOULD_SELECT_LANGUAGE_FROM_LIST
+#: LABEL/ID_SHOULD_SELECT_LANGUAGE_FROM_LIST
+msgid "You should to select a language from the list."
+msgstr "You should to select a language from the list."
+
+# TRANSLATION
+# LABEL/ID_SHOW_CASES_NOTES
+#: LABEL/ID_SHOW_CASES_NOTES
+msgid "Show Case Notes"
+msgstr "Show Case Notes"
+
+# TRANSLATION
+# LABEL/ID_SHOW_DIRS
+#: LABEL/ID_SHOW_DIRS
+msgid "Show Dirs"
+msgstr "Show Dirs"
+
+# TRANSLATION
+# LABEL/ID_SHOW_HIDE_CASES_STEPS
+#: LABEL/ID_SHOW_HIDE_CASES_STEPS
+msgid "Show or hide the Cases Steps"
+msgstr "Show or hide the Cases Steps"
+
+# TRANSLATION
+# LABEL/ID_SIGN_IN
+#: LABEL/ID_SIGN_IN
+msgid "Sign In"
+msgstr "Sign In"
+
+# TRANSLATION
+# LABEL/ID_SIGN_OUT
+#: LABEL/ID_SIGN_OUT
+msgid "Sign out"
+msgstr "Sign out"
+
+# TRANSLATION
+# LABEL/ID_SIMPLE_REPORT
+#: LABEL/ID_SIMPLE_REPORT
+msgid "Simple Report"
+msgstr "Simple Report"
+
+# TRANSLATION
+# LABEL/ID_SITE
+#: LABEL/ID_SITE
+msgid "Site"
+msgstr "Site"
+
+# TRANSLATION
+# LABEL/ID_SITE_CREATING
+#: LABEL/ID_SITE_CREATING
+msgid "site creating..."
+msgstr "site creating..."
+
+# TRANSLATION
+# LABEL/ID_SIZE
+#: LABEL/ID_SIZE
+msgid "Size"
+msgstr "Size"
+
+# TRANSLATION
+# LABEL/ID_SIZE_IN_BYTES
+#: LABEL/ID_SIZE_IN_BYTES
+msgid "Size in bytes"
+msgstr "Size in bytes"
+
+# TRANSLATION
+# LABEL/ID_SKINS
+#: LABEL/ID_SKINS
+msgid "Skins"
+msgstr "Skins"
+
+# TRANSLATION
+# LABEL/ID_SKIN_ALREADY_EXISTS
+#: LABEL/ID_SKIN_ALREADY_EXISTS
+msgid "Skin already exists"
+msgstr "Skin already exists"
+

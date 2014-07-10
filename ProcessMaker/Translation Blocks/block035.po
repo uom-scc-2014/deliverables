@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_ViewInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_ViewInputDocument2.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_ViewInputDocument2.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewInputDocument2.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewInputDocument2.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# cases/cases_ViewInputDocument2.xml?CREATOR
+# cases/cases_ViewInputDocument2.xml
+#: text - CREATOR
+msgid "[cases/cases_ViewInputDocument2.xml?CREATOR] Creator"
+msgstr "Creator"
+
+# cases/cases_ViewInputDocument2.xml?APP_DOC_COMMENT
+# cases/cases_ViewInputDocument2.xml
+#: caption - APP_DOC_COMMENT
+msgid "[cases/cases_ViewInputDocument2.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_ViewInputDocument2.xml?BACK
+# cases/cases_ViewInputDocument2.xml
+#: button - BACK
+msgid "[cases/cases_ViewInputDocument2.xml?BACK] Back"
+msgstr "Back"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_TITLE
+# cases/cases_ViewInputDocument3.xml
+#: caption - INP_DOC_TITLE
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_DESCRIPTION
+# cases/cases_ViewInputDocument3.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_ViewInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_ViewInputDocument3.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_ViewInputDocument3.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewInputDocument3.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewInputDocument3.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# cases/cases_ViewInputDocument3.xml?CREATOR
+# cases/cases_ViewInputDocument3.xml
+#: text - CREATOR
+msgid "[cases/cases_ViewInputDocument3.xml?CREATOR] Creator"
+msgstr "Creator"
+
+# cases/cases_ViewInputDocument3.xml?APP_DOC_COMMENT
+# cases/cases_ViewInputDocument3.xml
+#: caption - APP_DOC_COMMENT
+msgid "[cases/cases_ViewInputDocument3.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_ViewInputDocument3.xml?APP_DOC_FILENAME
+# cases/cases_ViewInputDocument3.xml
+#: link - APP_DOC_FILENAME
+msgid "[cases/cases_ViewInputDocument3.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+
+# cases/cases_ViewInputDocument3.xml?BACK
+# cases/cases_ViewInputDocument3.xml
+#: button - BACK
+msgid "[cases/cases_ViewInputDocument3.xml?BACK] Back"
+msgstr "Back"
+
+# cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_TITLE
+# cases/cases_ViewInputDocumentToRevise.xml
+#: caption - APP_DOC_TITLE
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_COMMENT
+# cases/cases_ViewInputDocumentToRevise.xml
+#: caption - APP_DOC_COMMENT
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_COMMENT] Comment"
+msgstr "Comment"
+
+# cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_TYPE
+# cases/cases_ViewInputDocumentToRevise.xml
+#: text - APP_DOC_TYPE
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_TYPE] Type"
+msgstr "Type"
+
+# cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL
+# cases/cases_ViewInputDocumentToRevise.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_ViewInputDocumentToRevise.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_ViewInputDocumentToRevise.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_ViewInputDocumentToRevise.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewInputDocumentToRevise.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# cases/cases_ViewInputDocumentToRevise.xml?CREATOR
+# cases/cases_ViewInputDocumentToRevise.xml
+#: text - CREATOR
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?CREATOR] Creator"
+msgstr "Creator"
+
+# cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_FILENAME
+# cases/cases_ViewInputDocumentToRevise.xml
+#: link - APP_DOC_FILENAME
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+
+# cases/cases_ViewInputDocumentToRevise.xml?BACK
+# cases/cases_ViewInputDocumentToRevise.xml
+#: button - BACK
+msgid "[cases/cases_ViewInputDocumentToRevise.xml?BACK] Back"
+msgstr "Back"
+
+# cases/cases_ViewOutputDocument1.xml?OUT_DOC_TITLE
+# cases/cases_ViewOutputDocument1.xml
+#: caption - OUT_DOC_TITLE
+msgid "[cases/cases_ViewOutputDocument1.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# cases/cases_ViewOutputDocument1.xml?OUT_DOC_DESCRIPTION
+# cases/cases_ViewOutputDocument1.xml
+#: caption - OUT_DOC_DESCRIPTION
+msgid "[cases/cases_ViewOutputDocument1.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_ViewOutputDocument1.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewOutputDocument1.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewOutputDocument1.xml?APP_DOC_CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_ViewOutputDocument1.xml?APP_DOC_FILENAME1
+# cases/cases_ViewOutputDocument1.xml
+#: link - APP_DOC_FILENAME1
+msgid "[cases/cases_ViewOutputDocument1.xml?APP_DOC_FILENAME1] File (.doc)"
+msgstr "File (.doc)"
+
+# cases/cases_ViewOutputDocument1.xml?APP_DOC_FILENAME2
+# cases/cases_ViewOutputDocument1.xml
+#: link - APP_DOC_FILENAME2
+msgid "[cases/cases_ViewOutputDocument1.xml?APP_DOC_FILENAME2] File (.pdf)"
+msgstr "File (.pdf)"
+
+# cases/cases_ViewOutputDocument1.xml?NEXT_STEP
+# cases/cases_ViewOutputDocument1.xml
+#: button - NEXT_STEP
+msgid "Next step"
+msgstr "Next step"
+
+# cases/cases_ViewOutputDocument2.xml?OUT_DOC_TITLE
+# cases/cases_ViewOutputDocument2.xml
+#: caption - OUT_DOC_TITLE
+msgid "[cases/cases_ViewOutputDocument2.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# cases/cases_ViewOutputDocument2.xml?OUT_DOC_DESCRIPTION
+# cases/cases_ViewOutputDocument2.xml
+#: caption - OUT_DOC_DESCRIPTION
+msgid "[cases/cases_ViewOutputDocument2.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_ViewOutputDocument2.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewOutputDocument2.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewOutputDocument2.xml?APP_DOC_CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_ViewOutputDocument2.xml?APP_DOC_FILENAME1
+# cases/cases_ViewOutputDocument2.xml
+#: link - APP_DOC_FILENAME1
+msgid "[cases/cases_ViewOutputDocument2.xml?APP_DOC_FILENAME1] File (.doc)"
+msgstr "File (.doc)"
+
+# cases/cases_ViewOutputDocument2.xml?NEXT_STEP
+# cases/cases_ViewOutputDocument2.xml
+#: button - NEXT_STEP
+msgid "[cases/cases_ViewOutputDocument2.xml?NEXT_STEP] Next step"
+msgstr "Next step"
+
+# cases/cases_ViewOutputDocument3.xml?OUT_DOC_TITLE
+# cases/cases_ViewOutputDocument3.xml
+#: caption - OUT_DOC_TITLE
+msgid "[cases/cases_ViewOutputDocument3.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# cases/cases_ViewOutputDocument3.xml?OUT_DOC_DESCRIPTION
+# cases/cases_ViewOutputDocument3.xml
+#: caption - OUT_DOC_DESCRIPTION
+msgid "[cases/cases_ViewOutputDocument3.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_ViewOutputDocument3.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewOutputDocument3.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewOutputDocument3.xml?APP_DOC_CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_ViewOutputDocument3.xml?APP_DOC_FILENAME2
+# cases/cases_ViewOutputDocument3.xml
+#: link - APP_DOC_FILENAME2
+msgid "[cases/cases_ViewOutputDocument3.xml?APP_DOC_FILENAME2] File (.pdf)"
+msgstr "File (.pdf)"
+
+# cases/cases_ViewOutputDocument3.xml?NEXT_STEP
+# cases/cases_ViewOutputDocument3.xml
+#: button - NEXT_STEP
+msgid "[cases/cases_ViewOutputDocument3.xml?NEXT_STEP] Next step"
+msgstr "Next step"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?OUT_DOC_TITLE
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: caption - OUT_DOC_TITLE
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?OUT_DOC_DESCRIPTION
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: caption - OUT_DOC_DESCRIPTION
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_CREATE_DATE
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: caption - APP_DOC_CREATE_DATE
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_FILENAME1
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: link - APP_DOC_FILENAME1
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_FILENAME1] File (.doc)"
+msgstr "File (.doc)"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_FILENAME2
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: link - APP_DOC_FILENAME2
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?APP_DOC_FILENAME2] File (.pdf)"
+msgstr "File (.pdf)"
+
+# cases/cases_ViewOutputDocumentToRevise.xml?BACK
+# cases/cases_ViewOutputDocumentToRevise.xml
+#: button - BACK
+msgid "[cases/cases_ViewOutputDocumentToRevise.xml?BACK] Back"
+msgstr "Back"
+
+# cases/cases_advancedSearch.xml?APP_NUMBER
+# cases/cases_advancedSearch.xml
+#: text - APP_NUMBER
+msgid "[cases/cases_advancedSearch.xml?APP_NUMBER] #"
+msgstr "#"
+
+# cases/cases_advancedSearch.xml?APP_TITLE
+# cases/cases_advancedSearch.xml
+#: text - APP_TITLE
+msgid "[cases/cases_advancedSearch.xml?APP_TITLE] Case"
+msgstr "Case"
+
+# cases/cases_advancedSearch.xml?APP_TAS_TITLE
+# cases/cases_advancedSearch.xml
+#: text - APP_TAS_TITLE
+msgid "[cases/cases_advancedSearch.xml?APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_advancedSearch.xml?APP_PRO_TITLE
+# cases/cases_advancedSearch.xml
+#: text - APP_PRO_TITLE
+msgid "[cases/cases_advancedSearch.xml?APP_PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_advancedSearch.xml?APP_CURRENT_USER
+# cases/cases_advancedSearch.xml
+#: text - APP_CURRENT_USER
+msgid "[cases/cases_advancedSearch.xml?APP_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# cases/cases_advancedSearch.xml?APP_DEL_PREVIOUS_USER
+# cases/cases_advancedSearch.xml
+#: text - APP_DEL_PREVIOUS_USER
+msgid "[cases/cases_advancedSearch.xml?APP_DEL_PREVIOUS_USER] Sent by"
+msgstr "Sent by"
+
+# cases/cases_advancedSearch.xml?DEL_TASK_DUE_DATE
+# cases/cases_advancedSearch.xml
+#: date - DEL_TASK_DUE_DATE
+msgid "[cases/cases_advancedSearch.xml?DEL_TASK_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# cases/cases_advancedSearch.xml?APP_UPDATE_DATE
+# cases/cases_advancedSearch.xml
+#: date - APP_UPDATE_DATE
+msgid "Last Modification"
+msgstr "Last Modification"
+
+# cases/cases_advancedSearch.xml?DEL_INIT_DATE
+# cases/cases_advancedSearch.xml
+#: date - DEL_INIT_DATE
+msgid "[cases/cases_advancedSearch.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# cases/cases_advancedSearch.xml?DEL_FINISH_DATE
+# cases/cases_advancedSearch.xml
+#: date - DEL_FINISH_DATE
+msgid "[cases/cases_advancedSearch.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_advancedSearch.xml?APP_STATUS
+# cases/cases_advancedSearch.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_advancedSearch.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_advancedSearch.xml?APP_STATUS-DRAFT
+# cases/cases_advancedSearch.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_advancedSearch.xml?APP_STATUS-DRAFT]"
+msgstr "Draft"
+
+# cases/cases_advancedSearch.xml?APP_STATUS-TO_DO
+# cases/cases_advancedSearch.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_advancedSearch.xml?APP_STATUS-TO_DO]"
+msgstr "To Do"
+
+# cases/cases_advancedSearch.xml?APP_STATUS-CANCELLED
+# cases/cases_advancedSearch.xml
+#: dropdown - APP_STATUS - CANCELLED
+msgid "[cases/cases_advancedSearch.xml?APP_STATUS-CANCELLED]"
+msgstr "Cancelled"
+
+# cases/cases_advancedSearch.xml?APP_STATUS-COMPLETED
+# cases/cases_advancedSearch.xml
+#: dropdown - APP_STATUS - COMPLETED
+msgid "[cases/cases_advancedSearch.xml?APP_STATUS-COMPLETED]"
+msgstr "Completed"
+
+# cases/cases_advancedSearch.xml?OPEN
+# cases/cases_advancedSearch.xml
+#: link - OPEN
+msgid "[cases/cases_advancedSearch.xml?OPEN] "
+msgstr ""
+
+# cases/cases_advancedSearch.xml?SEARCH
+# cases/cases_advancedSearch.xml
+#: button - SEARCH
+msgid "[cases/cases_advancedSearch.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# cases/cases_advancedSearchFilter.xml?CASE_NUMBER
+# cases/cases_advancedSearchFilter.xml
+#: text - CASE_NUMBER
+msgid "[cases/cases_advancedSearchFilter.xml?CASE_NUMBER] Case Number"
+msgstr "Case Number"
+
+# cases/cases_advancedSearchFilter.xml?PROCESS
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - PROCESS
+msgid "[cases/cases_advancedSearchFilter.xml?PROCESS] Process"
+msgstr "Process"
+
+# cases/cases_advancedSearchFilter.xml?PROCESS-
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - PROCESS -
+msgid "[cases/cases_advancedSearchFilter.xml?PROCESS-]"
+msgstr "All"
+
+# cases/cases_advancedSearchFilter.xml?TASKS
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - TASKS
+msgid "[cases/cases_advancedSearchFilter.xml?TASKS] Tasks"
+msgstr "Tasks"
+
+# cases/cases_advancedSearchFilter.xml?TASKS-
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - TASKS -
+msgid "[cases/cases_advancedSearchFilter.xml?TASKS-]"
+msgstr "All"
+
+# cases/cases_advancedSearchFilter.xml?CURRENT_USER
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - CURRENT_USER
+msgid "[cases/cases_advancedSearchFilter.xml?CURRENT_USER] Current User"
+msgstr "Current User"
+
+# cases/cases_advancedSearchFilter.xml?CURRENT_USER-
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - CURRENT_USER -
+msgid "[cases/cases_advancedSearchFilter.xml?CURRENT_USER-]"
+msgstr "All"
+
+# cases/cases_advancedSearchFilter.xml?SENT_BY
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - SENT_BY
+msgid "[cases/cases_advancedSearchFilter.xml?SENT_BY] Sent by"
+msgstr "Sent by"
+
+# cases/cases_advancedSearchFilter.xml?SENT_BY-
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - SENT_BY -
+msgid "[cases/cases_advancedSearchFilter.xml?SENT_BY-]"
+msgstr "All"
+
+# cases/cases_advancedSearchFilter.xml?LAST_MODIFICATION_F
+# cases/cases_advancedSearchFilter.xml
+#: date - LAST_MODIFICATION_F
+msgid "[cases/cases_advancedSearchFilter.xml?LAST_MODIFICATION_F] From"
+msgstr "From"
+
+# cases/cases_advancedSearchFilter.xml?LAST_MODIFICATION_T
+# cases/cases_advancedSearchFilter.xml
+#: date - LAST_MODIFICATION_T
+msgid "[cases/cases_advancedSearchFilter.xml?LAST_MODIFICATION_T] To"
+msgstr "To"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS] Status"
+msgstr "Status"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS-
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS -
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS-]"
+msgstr "All"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS-DRAFT
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS - DRAFT
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS-DRAFT]"
+msgstr "Draft"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS-TO_DO
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS - TO_DO
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS-TO_DO]"
+msgstr "To Do"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS-CANCELLED
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS - CANCELLED
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS-CANCELLED]"
+msgstr "Cancelled"
+
+# cases/cases_advancedSearchFilter.xml?APP_STATUS-COMPLETED
+# cases/cases_advancedSearchFilter.xml
+#: dropdown - APP_STATUS - COMPLETED
+msgid "[cases/cases_advancedSearchFilter.xml?APP_STATUS-COMPLETED]"
+msgstr "Completed"
+
+# cases/cases_advancedSearchFilter.xml?FILTER
+# cases/cases_advancedSearchFilter.xml
+#: submit - FILTER
+msgid "[cases/cases_advancedSearchFilter.xml?FILTER] Filter"
+msgstr "Filter"
+
+# dbConnections/dbConnections.xml?DBS_TYPE
+# dbConnections/dbConnections.xml
+#: text - DBS_TYPE
+msgid "[dbConnections/dbConnections.xml?DBS_TYPE] Type"
+msgstr "Type"
+
+# dbConnections/dbConnections.xml?DBS_SERVER
+# dbConnections/dbConnections.xml
+#: text - DBS_SERVER
+msgid "[dbConnections/dbConnections.xml?DBS_SERVER] Server"
+msgstr "Server"
+
+# dbConnections/dbConnections.xml?DBS_DATABASE_NAME
+# dbConnections/dbConnections.xml
+#: text - DBS_DATABASE_NAME
+msgid "[dbConnections/dbConnections.xml?DBS_DATABASE_NAME] Database Name"
+msgstr "Database Name"
+
+# dbConnections/dbConnections.xml?DBS_DESCRIPTION
+# dbConnections/dbConnections.xml
+#: text - DBS_DESCRIPTION
+msgid "[dbConnections/dbConnections.xml?DBS_DESCRIPTION] Description"
+msgstr "Description"
+
+# dbConnections/dbConnections.xml?DBS_EDIT
+# dbConnections/dbConnections.xml
+#: link - DBS_EDIT
+msgid "[dbConnections/dbConnections.xml?DBS_EDIT] Edit"
+msgstr "Edit"
+
+# dbConnections/dbConnections.xml?DBS_DELETE
+# dbConnections/dbConnections.xml
+#: link - DBS_DELETE
+msgid "[dbConnections/dbConnections.xml?DBS_DELETE] Delete"
+msgstr "Delete"
+

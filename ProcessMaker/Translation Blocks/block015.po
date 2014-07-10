@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_MSG_CONFIRM_RESET_TEMPLATE
+#: LABEL/ID_MSG_CONFIRM_RESET_TEMPLATE
+msgid "Are you sure you want to restore the default template ?"
+msgstr "Are you sure you want to restore the default template ?"
+
+# TRANSLATION
+# LABEL/ID_MSG_ENABLE_HTML_EDITING
+#: LABEL/ID_MSG_ENABLE_HTML_EDITING
+msgid "<b>Warning:</b> Editing the HTML prevents fields from being added or moved, so only edit the HTML after creating all the fields. Do you like to continue anyway?"
+msgstr "<b>Warning:</b> Editing the HTML prevents fields from being added or moved, so only edit the HTML after creating all the fields. Do you like to continue anyway?"
+
+# TRANSLATION
+# LABEL/ID_MSG_ERROR_DUE_DATE
+#: LABEL/ID_MSG_ERROR_DUE_DATE
+msgid "Due date required!"
+msgstr "Due date required!"
+
+# TRANSLATION
+# LABEL/ID_MSG_ERROR_PRO_TITLE
+#: LABEL/ID_MSG_ERROR_PRO_TITLE
+msgid "Process title required!"
+msgstr "Process title required!"
+
+# TRANSLATION
+# LABEL/ID_MSG_ERROR_USR_FIRSTNAME
+#: LABEL/ID_MSG_ERROR_USR_FIRSTNAME
+msgid "First name is required"
+msgstr "First name is required"
+
+# TRANSLATION
+# LABEL/ID_MSG_ERROR_USR_LASTNAME
+#: LABEL/ID_MSG_ERROR_USR_LASTNAME
+msgid "Last name is required"
+msgstr "Last name is required"
+
+# TRANSLATION
+# LABEL/ID_MSG_ERROR_USR_USERNAME
+#: LABEL/ID_MSG_ERROR_USR_USERNAME
+msgid "User name required!"
+msgstr "User name required!"
+
+# TRANSLATION
+# LABEL/ID_MSG_GROUP_NAME_EXISTS
+#: LABEL/ID_MSG_GROUP_NAME_EXISTS
+msgid "[LABEL/ID_MSG_GROUP_NAME_EXISTS] Group name already exists!"
+msgstr "Group name already exists!"
+
+# TRANSLATION
+# LABEL/ID_MSG_NORESULTS_USERGROUP
+#: LABEL/ID_MSG_NORESULTS_USERGROUP
+msgid "This user is not assigned to a group"
+msgstr "This user is not assigned to a group"
+
+# TRANSLATION
+# LABEL/ID_MSG_REMOVE_PLUGIN
+#: LABEL/ID_MSG_REMOVE_PLUGIN
+msgid "[LABEL/ID_MSG_REMOVE_PLUGIN] Are you sure that you want to remove this plugin?"
+msgstr "Are you sure that you want to remove this plugin?"
+
+# TRANSLATION
+# LABEL/ID_MSG_REMOVE_PLUGIN_SUCCESS
+#: LABEL/ID_MSG_REMOVE_PLUGIN_SUCCESS
+msgid "Plugin successfully removed!"
+msgstr "Plugin successfully removed!"
+
+# TRANSLATION
+# LABEL/ID_MSJ_REPORSTO
+#: LABEL/ID_MSJ_REPORSTO
+msgid "The current user does not have a valid Reports To user. Please contact the administrator."
+msgstr "The current user does not have a valid Reports To user. Please contact the administrator."
+
+# TRANSLATION
+# LABEL/ID_MSSQL_SUCCESS_CONNECT
+#: LABEL/ID_MSSQL_SUCCESS_CONNECT
+msgid "Succesfully connected to MSSQL Server"
+msgstr "Succesfully connected to MSSQL Server"
+
+# TRANSLATION
+# LABEL/ID_MSSQL_SUPPORT_OPTIONAL
+#: LABEL/ID_MSSQL_SUPPORT_OPTIONAL
+msgid "MSSQL Support is optional."
+msgstr "MSSQL Support is optional."
+
+# TRANSLATION
+# LABEL/ID_MULTIPLE_STARTING_TASKS
+#: LABEL/ID_MULTIPLE_STARTING_TASKS
+msgid "Multiple starting tasks in the process"
+msgstr "Multiple starting tasks in the process"
+
+# TRANSLATION
+# LABEL/ID_MYSQL_CREDENTIALS_WRONG
+#: LABEL/ID_MYSQL_CREDENTIALS_WRONG
+msgid "Connection Error: unable to connect to MySQL using provided credentials."
+msgstr "Connection Error: unable to connect to MySQL using provided credentials."
+
+# TRANSLATION
+# LABEL/ID_MYSQL_ERROR
+#: LABEL/ID_MYSQL_ERROR
+msgid "MySQL error: {0}"
+msgstr "MySQL error: {0}"
+
+# TRANSLATION
+# LABEL/ID_MYSQL_SUCCESS_CONNECT
+#: LABEL/ID_MYSQL_SUCCESS_CONNECT
+msgid "Succesfully connected to MySQL Server"
+msgstr "Succesfully connected to MySQL Server"
+
+# TRANSLATION
+# LABEL/ID_MY_ACCOUNT
+#: LABEL/ID_MY_ACCOUNT
+msgid "My account"
+msgstr "My account"
+
+# TRANSLATION
+# LABEL/ID_MY_DRAFTS
+#: LABEL/ID_MY_DRAFTS
+msgid "My Drafts"
+msgstr "My Drafts"
+
+# TRANSLATION
+# LABEL/ID_MY_INBOX
+#: LABEL/ID_MY_INBOX
+msgid "My inbox"
+msgstr "My inbox"
+
+# TRANSLATION
+# LABEL/ID_NAME
+#: LABEL/ID_NAME
+msgid "Name"
+msgstr "Name"
+
+# TRANSLATION
+# LABEL/ID_NAME_TAS_TITLE_REQUIRE
+#: LABEL/ID_NAME_TAS_TITLE_REQUIRE
+msgid "Task title required"
+msgstr "Task title required"
+
+# TRANSLATION
+# LABEL/ID_NCAMBIO
+#: LABEL/ID_NCAMBIO
+msgid "@#, Replaces the value without any change."
+msgstr "@#, Replaces the value without any change."
+
+# TRANSLATION
+# LABEL/ID_NEED_REGISTER
+#: LABEL/ID_NEED_REGISTER
+msgid "You need to be registered to download this process. Register NOW!"
+msgstr "You need to be registered to download this process. Register NOW!"
+
+# TRANSLATION
+# LABEL/ID_NEW
+#: LABEL/ID_NEW
+msgid "New"
+msgstr "New"
+
+# TRANSLATION
+# LABEL/ID_NEW_ADD_TABLE
+#: LABEL/ID_NEW_ADD_TABLE
+msgid "New PM Table"
+msgstr "New PM Table"
+
+# TRANSLATION
+# LABEL/ID_NEW_CASE
+#: LABEL/ID_NEW_CASE
+msgid "New case"
+msgstr "New case"
+
+# TRANSLATION
+# LABEL/ID_NEW_CASE_PANEL
+#: LABEL/ID_NEW_CASE_PANEL
+msgid "New Case Panel"
+msgstr "New Case Panel"
+
+# TRANSLATION
+# LABEL/ID_NEW_CASE_SCHEDULER
+#: LABEL/ID_NEW_CASE_SCHEDULER
+msgid "New Case Scheduler"
+msgstr "New Case Scheduler"
+
+# TRANSLATION
+# LABEL/ID_NEW_CATEGORY
+#: LABEL/ID_NEW_CATEGORY
+msgid "Create New Category"
+msgstr "Create New Category"
+
+# TRANSLATION
+# LABEL/ID_NEW_DEPARTMENT
+#: LABEL/ID_NEW_DEPARTMENT
+msgid "[LABEL/ID_NEW_DEPARTMENT] New"
+msgstr "New"
+
+# TRANSLATION
+# LABEL/ID_NEW_DYNAFORM
+#: LABEL/ID_NEW_DYNAFORM
+msgid "New dynaform"
+msgstr "New dynaform"
+
+# TRANSLATION
+# LABEL/ID_NEW_EVENT
+#: LABEL/ID_NEW_EVENT
+msgid "New Event"
+msgstr "New Event"
+
+# TRANSLATION
+# LABEL/ID_NEW_FOLDER
+#: LABEL/ID_NEW_FOLDER
+msgid "New Folder"
+msgstr "New Folder"
+
+# TRANSLATION
+# LABEL/ID_NEW_GROUP
+#: LABEL/ID_NEW_GROUP
+msgid "[LABEL/ID_NEW_GROUP] New"
+msgstr "New"
+
+# TRANSLATION
+# LABEL/ID_NEW_INPUTDOCS
+#: LABEL/ID_NEW_INPUTDOCS
+msgid "New Input Document"
+msgstr "New Input Document"
+
+# TRANSLATION
+# LABEL/ID_NEW_NOTE
+#: LABEL/ID_NEW_NOTE
+msgid "New Note"
+msgstr "New Note"
+
+# TRANSLATION
+# LABEL/ID_NEW_PASSWORD
+#: LABEL/ID_NEW_PASSWORD
+msgid "New Password"
+msgstr "New Password"
+
+# TRANSLATION
+# LABEL/ID_NEW_PASSWORD_SENT
+#: LABEL/ID_NEW_PASSWORD_SENT
+msgid "Your new password was sent to your email account!"
+msgstr "Your new password was sent to your email account!"
+
+# TRANSLATION
+# LABEL/ID_NEW_PASS_SAME_OLD_PASS
+#: LABEL/ID_NEW_PASS_SAME_OLD_PASS
+msgid "The confirm Password fields must be the same!"
+msgstr "The confirm Password fields must be the same!"
+
+# TRANSLATION
+# LABEL/ID_NEW_PMTABLE
+#: LABEL/ID_NEW_PMTABLE
+msgid "[LABEL/ID_NEW_PMTABLE] New PM Table"
+msgstr "New PM Table"
+
+# TRANSLATION
+# LABEL/ID_NEW_REPORT_TABLE
+#: LABEL/ID_NEW_REPORT_TABLE
+msgid "New Report Table"
+msgstr "New Report Table"
+
+# TRANSLATION
+# LABEL/ID_NEW_REPORT_TABLE_OLD
+#: LABEL/ID_NEW_REPORT_TABLE_OLD
+msgid "New Report Table (Old Version)"
+msgstr "New Report Table (Old Version)"
+
+# TRANSLATION
+# LABEL/ID_NEW_SITE_TESTING
+#: LABEL/ID_NEW_SITE_TESTING
+msgid "New site testing..."
+msgstr "New site testing..."
+
+# TRANSLATION
+# LABEL/ID_NEW_SKIN
+#: LABEL/ID_NEW_SKIN
+msgid "New Skin"
+msgstr "New Skin"
+
+# TRANSLATION
+# LABEL/ID_NEW_STEP
+#: LABEL/ID_NEW_STEP
+msgid "New Step"
+msgstr "New Step"
+
+# TRANSLATION
+# LABEL/ID_NEW_SUB_DEPARTMENT
+#: LABEL/ID_NEW_SUB_DEPARTMENT
+msgid "New Sub-Department"
+msgstr "New Sub-Department"
+
+# TRANSLATION
+# LABEL/ID_NEW_TRANSLATION
+#: LABEL/ID_NEW_TRANSLATION
+msgid "New Translation"
+msgstr "New Translation"
+
+# TRANSLATION
+# LABEL/ID_NEW_TRIGGERS
+#: LABEL/ID_NEW_TRIGGERS
+msgid "New Trigger"
+msgstr "New Trigger"
+
+# TRANSLATION
+# LABEL/ID_NEW_VERSION
+#: LABEL/ID_NEW_VERSION
+msgid "New Version"
+msgstr "New Version"
+
+# TRANSLATION
+# LABEL/ID_NEW_WEB_ENTRY
+#: LABEL/ID_NEW_WEB_ENTRY
+msgid "New Web Entry"
+msgstr "New Web Entry"
+
+# TRANSLATION
+# LABEL/ID_NEW_WORKSPACE
+#: LABEL/ID_NEW_WORKSPACE
+msgid "New Workspace"
+msgstr "New Workspace"
+
+# TRANSLATION
+# LABEL/ID_NEXT
+#: LABEL/ID_NEXT
+msgid "Next"
+msgstr "Next"
+
+# TRANSLATION
+# LABEL/ID_NEXT_STEP
+#: LABEL/ID_NEXT_STEP
+msgid "Next Step"
+msgstr "Next Step"
+
+# TRANSLATION
+# LABEL/ID_NEXT_TASK
+#: LABEL/ID_NEXT_TASK
+msgid "Next Task"
+msgstr "Next Task"
+
+# TRANSLATION
+# LABEL/ID_NO
+#: LABEL/ID_NO
+msgid "No"
+msgstr "No"
+
+# TRANSLATION
+# LABEL/ID_NODELETEOPTIONALL
+#: LABEL/ID_NODELETEOPTIONALL
+msgid "You must add all the days that you have selected in work days, otherwise you should leave at least an \"-- ALL --\" option."
+msgstr "You must add all the days that you have selected in work days, otherwise you should leave at least an \"-- ALL --\" option."
+
+# TRANSLATION
+# LABEL/ID_NONE
+#: LABEL/ID_NONE
+msgid "None"
+msgstr "None"
+
+# TRANSLATION
+# LABEL/ID_NONEC
+#: LABEL/ID_NONEC
+msgid "@# Replace the value with no change"
+msgstr "@# Replace the value with no change"
+
+# TRANSLATION
+# LABEL/ID_NON_WRITABLE_FILES
+#: LABEL/ID_NON_WRITABLE_FILES
+msgid "Non-writable Files"
+msgstr "Non-writable Files"
+
+# TRANSLATION
+# LABEL/ID_NORMAL
+#: LABEL/ID_NORMAL
+msgid "Normal"
+msgstr "Normal"
+
+# TRANSLATION
+# LABEL/ID_NOTES_READY
+#: LABEL/ID_NOTES_READY
+msgid "Ready"
+msgstr "Ready"
+
+# TRANSLATION
+# LABEL/ID_NOTICE
+#: LABEL/ID_NOTICE
+msgid "Notice"
+msgstr "Notice"
+
+# TRANSLATION
+# LABEL/ID_NOTIFICATION
+#: LABEL/ID_NOTIFICATION
+msgid "Notification"
+msgstr "Notification"
+
+# TRANSLATION
+# LABEL/ID_NOTIFICATION_ERROR
+#: LABEL/ID_NOTIFICATION_ERROR
+msgid "Some problem happens while trying to send the Task notification."
+msgstr "Some problem happens while trying to send the Task notification."
+
+# TRANSLATION
+# LABEL/ID_NOTIFY_USERS_AFTER_ASSIGN
+#: LABEL/ID_NOTIFY_USERS_AFTER_ASSIGN
+msgid "After routing notify the next assigned user(s)"
+msgstr "After routing notify the next assigned user(s)"
+
+# TRANSLATION
+# LABEL/ID_NOTIFY_USERS_CASE
+#: LABEL/ID_NOTIFY_USERS_CASE
+msgid "Notify users of case"
+msgstr "Notify users of case"
+
+# TRANSLATION
+# LABEL/ID_NOT_CREATE_TABLE
+#: LABEL/ID_NOT_CREATE_TABLE
+msgid "Could not create the table with the name"
+msgstr "Could not create the table with the name"
+
+# TRANSLATION
+# LABEL/ID_NOT_DEFINED
+#: LABEL/ID_NOT_DEFINED
+msgid "Not defined"
+msgstr "Not defined"
+
+# TRANSLATION
+# LABEL/ID_NOT_DERIVATED
+#: LABEL/ID_NOT_DERIVATED
+msgid "The case couldn't be routed. Consult the system administrator"
+msgstr "The case couldn't be routed. Consult the system administrator"
+
+# TRANSLATION
+# LABEL/ID_NOT_ENABLED
+#: LABEL/ID_NOT_ENABLED
+msgid "Not Enabled"
+msgstr "Not Enabled"
+
+# TRANSLATION
+# LABEL/ID_NOT_FINISHED
+#: LABEL/ID_NOT_FINISHED
+msgid "Not finished"
+msgstr "Not finished"
+
+# TRANSLATION
+# LABEL/ID_NOT_HAVE_USERS
+#: LABEL/ID_NOT_HAVE_USERS
+msgid "doesn't have users."
+msgstr "doesn't have users."
+
+# TRANSLATION
+# LABEL/ID_NOT_IN_FOLDER
+#: LABEL/ID_NOT_IN_FOLDER
+msgid "Not in folder"
+msgstr "Not in folder"
+
+# TRANSLATION
+# LABEL/ID_NOT_PASSED
+#: LABEL/ID_NOT_PASSED
+msgid "Not Passed."
+msgstr "Not Passed."
+
+# TRANSLATION
+# LABEL/ID_NOT_PM_FILE
+#: LABEL/ID_NOT_PM_FILE
+msgid "This is not a .pm file"
+msgstr "This is not a .pm file"
+
+# TRANSLATION
+# LABEL/ID_NOT_PRIVILEGES
+#: LABEL/ID_NOT_PRIVILEGES
+msgid "You do not have privileges"
+msgstr "You do not have privileges"
+
+# TRANSLATION
+# LABEL/ID_NOT_PROCESS_RELATED
+#: LABEL/ID_NOT_PROCESS_RELATED
+msgid "Not from a Process"
+msgstr "Not from a Process"
+
+# TRANSLATION
+# LABEL/ID_NOT_REQUIRED
+#: LABEL/ID_NOT_REQUIRED
+msgid "Not Required"
+msgstr "Not Required"
+
+# TRANSLATION
+# LABEL/ID_NOT_SENT
+#: LABEL/ID_NOT_SENT
+msgid "Not sent"
+msgstr "Not sent"
+
+# TRANSLATION
+# LABEL/ID_NOT_WORKSPACE
+#: LABEL/ID_NOT_WORKSPACE
+msgid "You have specified an unavailable workspace."
+msgstr "You have specified an unavailable workspace."
+
+# TRANSLATION
+# LABEL/ID_NOT_WORKSPACE_SPECIFIED
+#: LABEL/ID_NOT_WORKSPACE_SPECIFIED
+msgid "No workspace specified!"
+msgstr "No workspace specified!"
+
+# TRANSLATION
+# LABEL/ID_NO_DB_CONNECTION
+#: LABEL/ID_NO_DB_CONNECTION
+msgid "No DB Connection to display"
+msgstr "No DB Connection to display"
+
+# TRANSLATION
+# LABEL/ID_NO_DERIVATION_RULE
+#: LABEL/ID_NO_DERIVATION_RULE
+msgid "Process definition error: All conditions in parallel evaluation routing rule evaluated to false, so workflow has stopped. Please change the definition of the parallel evaluation routing rule."
+msgstr "Process definition error: All conditions in parallel evaluation routing rule evaluated to false, so workflow has stopped. Please change the definition of the parallel evaluation routing rule."
+
+# TRANSLATION
+# LABEL/ID_NO_EXIST
+#: LABEL/ID_NO_EXIST
+msgid "No exists"
+msgstr "No exists"
+
+# TRANSLATION
+# LABEL/ID_NO_FIELD_FOUND
+#: LABEL/ID_NO_FIELD_FOUND
+msgid "No fields found!"
+msgstr "No fields found!"
+
+# TRANSLATION
+# LABEL/ID_NO_IMAGES_TO_DISPLAY
+#: LABEL/ID_NO_IMAGES_TO_DISPLAY
+msgid "No images to display"
+msgstr "No images to display"
+
+# TRANSLATION
+# LABEL/ID_NO_INSTALL
+#: LABEL/ID_NO_INSTALL
+msgid "A problem occurred during the installation of the system. Please, uninstall the partial installation and try again."
+msgstr "A problem occurred during the installation of the system. Please, uninstall the partial installation and try again."
+
+# TRANSLATION
+# LABEL/ID_NO_ITEMS_SELECTED
+#: LABEL/ID_NO_ITEMS_SELECTED
+msgid "No items Selected"
+msgstr "No items Selected"
+
+# TRANSLATION
+# LABEL/ID_NO_MANAGER_SELECTED
+#: LABEL/ID_NO_MANAGER_SELECTED
+msgid "No Manager Selected"
+msgstr "No Manager Selected"
+
+# TRANSLATION
+# LABEL/ID_NO_MORE_APPLICATIONS
+#: LABEL/ID_NO_MORE_APPLICATIONS
+msgid "No more applications to show."
+msgstr "No more applications to show."
+
+# TRANSLATION
+# LABEL/ID_NO_OLDER_SESSION_FILES
+#: LABEL/ID_NO_OLDER_SESSION_FILES
+msgid "There are no older session files"
+msgstr "There are no older session files"
+
+# TRANSLATION
+# LABEL/ID_NO_PERMISSION_NO_PARTICIPATED
+#: LABEL/ID_NO_PERMISSION_NO_PARTICIPATED
+msgid "You do not have permission to see this case or you have not participated in it."
+msgstr "You do not have permission to see this case or you have not participated in it."
+
+# TRANSLATION
+# LABEL/ID_NO_REASSIGN
+#: LABEL/ID_NO_REASSIGN
+msgid "Do not reassign"
+msgstr "Do not reassign"
+
+# TRANSLATION
+# LABEL/ID_NO_RECORDS
+#: LABEL/ID_NO_RECORDS
+msgid "No records"
+msgstr "No records"
+
+# TRANSLATION
+# LABEL/ID_NO_RECORDS_FOUND
+#: LABEL/ID_NO_RECORDS_FOUND
+msgid "No records found"
+msgstr "No records found"
+
+# TRANSLATION
+# LABEL/ID_NO_RESUME
+#: LABEL/ID_NO_RESUME
+msgid "The user doesn't have a resume."
+msgstr "The user doesn't have a resume."
+
+# TRANSLATION
+# LABEL/ID_NO_SELECTED_FIELDS
+#: LABEL/ID_NO_SELECTED_FIELDS
+msgid "No selected fields"
+msgstr "No selected fields"
+
+# TRANSLATION
+# LABEL/ID_NO_SELECTION_WARNING
+#: LABEL/ID_NO_SELECTION_WARNING
+msgid "One item should be selected in order to execute the action."
+msgstr "One item should be selected in order to execute the action."
+

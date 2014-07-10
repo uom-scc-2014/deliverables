@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-3
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 3
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-3]"
+msgstr "Third case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-4
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 4
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-4]"
+msgstr "Fourth case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-5
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 5
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-5]"
+msgstr "Fifth case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-6
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 6
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-6]"
+msgstr "Sixth case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-7
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 7
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-7]"
+msgstr "Seventh case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-8
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 8
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-8]"
+msgstr "Eighth case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-9
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 9
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-9]"
+msgstr "Ninth case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-10
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 10
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-10]"
+msgstr "Tenth case owner"
+
+# tasks/tasks_Permissions.xml?TAS_SUBTITLE1
+# tasks/tasks_Permissions.xml
+#: subtitle - TAS_SUBTITLE1
+msgid "Exceptions Handling"
+msgstr "Exceptions Handling"
+
+# tasks/tasks_Permissions.xml?TAS_TYPE
+# tasks/tasks_Permissions.xml
+#: checkbox - TAS_TYPE
+msgid "Allow arbitrary transfer (Ad hoc)"
+msgstr "Allow arbitrary transfer (Ad hoc)"
+
+# tasks/tasks_TimingControl.xml?TAS_TRANSFER_FLY
+# tasks/tasks_TimingControl.xml
+#: checkbox - TAS_TRANSFER_FLY
+msgid "[tasks/tasks_TimingControl.xml?TAS_TRANSFER_FLY] Allow user defined timing control"
+msgstr "Allow user defined timing control"
+
+# tasks/tasks_TimingControl.xml?TAS_DURATION
+# tasks/tasks_TimingControl.xml
+#: text - TAS_DURATION
+msgid "Task duration"
+msgstr "Task duration"
+
+# tasks/tasks_TimingControl.xml?TAS_TIMEUNIT
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TIMEUNIT
+msgid "[tasks/tasks_TimingControl.xml?TAS_TIMEUNIT] Time unit"
+msgstr "Time unit"
+
+# tasks/tasks_TimingControl.xml?TAS_TIMEUNIT-HOURS
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TIMEUNIT - HOURS
+msgid "[tasks/tasks_TimingControl.xml?TAS_TIMEUNIT-HOURS]"
+msgstr "Hours"
+
+# tasks/tasks_TimingControl.xml?TAS_TIMEUNIT-DAYS
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TIMEUNIT - DAYS
+msgid "[tasks/tasks_TimingControl.xml?TAS_TIMEUNIT-DAYS]"
+msgstr "Days"
+
+# tasks/tasks_TimingControl.xml?TAS_TYPE_DAY
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TYPE_DAY
+msgid "Count days by"
+msgstr "Count days by"
+
+# tasks/tasks_TimingControl.xml?TAS_TYPE_DAY-1
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TYPE_DAY - 1
+msgid "[tasks/tasks_TimingControl.xml?TAS_TYPE_DAY-1]"
+msgstr "Work Days"
+
+# tasks/tasks_TimingControl.xml?TAS_TYPE_DAY-2
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_TYPE_DAY - 2
+msgid "[tasks/tasks_TimingControl.xml?TAS_TYPE_DAY-2]"
+msgstr "Calendar Days"
+
+# tasks/tasks_TimingControl.xml?TAS_CALENDAR
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_CALENDAR
+msgid "[tasks/tasks_TimingControl.xml?TAS_CALENDAR] Calendar"
+msgstr "Calendar"
+
+# tasks/tasks_TimingControl.xml?TAS_CALENDAR-
+# tasks/tasks_TimingControl.xml
+#: dropdown - TAS_CALENDAR -
+msgid "[tasks/tasks_TimingControl.xml?TAS_CALENDAR-]"
+msgstr "- None -"
+
+# tools/translationAdd.xml?titles
+# tools/translationAdd.xml
+#: title - titles
+msgid "Insert Translation"
+msgstr "Insert Translation"
+
+# tools/translationAdd.xml?trn_category
+# tools/translationAdd.xml
+#: dropdown - trn_category
+msgid "category"
+msgstr "category"
+
+# tools/translationAdd.xml?trn_category-LABEL
+# tools/translationAdd.xml
+#: dropdown - trn_category - LABEL
+msgid "[tools/translationAdd.xml?trn_category-LABEL]"
+msgstr "Label"
+
+# tools/translationAdd.xml?trn_category-JAVASCRIPT
+# tools/translationAdd.xml
+#: dropdown - trn_category - JAVASCRIPT
+msgid "[tools/translationAdd.xml?trn_category-JAVASCRIPT]"
+msgstr "Javascript"
+
+# tools/translationAdd.xml?trn_id
+# tools/translationAdd.xml
+#: text - trn_id
+msgid "Id"
+msgstr "Id"
+
+# tools/translationAdd.xml?trn_value
+# tools/translationAdd.xml
+#: textarea - trn_value
+msgid "value"
+msgstr "value"
+
+# tools/translationAdd.xml?rowsJS
+# tools/translationAdd.xml
+#: submit - rowsJS
+msgid "[tools/translationAdd.xml?rowsJS] save"
+msgstr "save"
+
+# tools/translationsList.xml?TRN_CATEGORY
+# tools/translationsList.xml
+#: text - TRN_CATEGORY
+msgid "[tools/translationsList.xml?TRN_CATEGORY] Category"
+msgstr "Category"
+
+# tools/translationsList.xml?TRN_ID
+# tools/translationsList.xml
+#: text - TRN_ID
+msgid "[tools/translationsList.xml?TRN_ID] Id"
+msgstr "Id"
+
+# tools/translationsList.xml?TRN_VALUE
+# tools/translationsList.xml
+#: text - TRN_VALUE
+msgid "[tools/translationsList.xml?TRN_VALUE] Value"
+msgstr "Value"
+
+# tools/translationsList.xml?LINK
+# tools/translationsList.xml
+#: link - LINK
+msgid "[tools/translationsList.xml?LINK] Edit"
+msgstr "Edit"
+
+# tools/translationsList.xml?LINK2
+# tools/translationsList.xml
+#: link - LINK2
+msgid "[tools/translationsList.xml?LINK2] Delete"
+msgstr "Delete"
+
+# tools/updateTranslation.xml?titles
+# tools/updateTranslation.xml
+#: title - titles
+msgid "UpdateTranslation"
+msgstr "UpdateTranslation"
+
+# tools/updateTranslation.xml?cacheFile
+# tools/updateTranslation.xml
+#: text - cacheFile
+msgid "[tools/updateTranslation.xml?cacheFile] file"
+msgstr "file"
+
+# tools/updateTranslation.xml?rows
+# tools/updateTranslation.xml
+#: text - rows
+msgid "rows"
+msgstr "rows"
+
+# tools/updateTranslation.xml?titles2
+# tools/updateTranslation.xml
+#: title - titles2
+msgid "JavaScript Update Translation"
+msgstr "JavaScript Update Translation"
+
+# tools/updateTranslation.xml?cacheFileJS
+# tools/updateTranslation.xml
+#: text - cacheFileJS
+msgid "[tools/updateTranslation.xml?cacheFileJS] file"
+msgstr "file"
+
+# tools/updateTranslation.xml?rowsJS
+# tools/updateTranslation.xml
+#: text - rowsJS
+msgid "[tools/updateTranslation.xml?rowsJS] rows"
+msgstr "rows"
+
+# tracker/login.xml?TITLE
+# tracker/login.xml
+#: title - TITLE
+msgid "CASE TRACKER"
+msgstr "CASE TRACKER"
+
+# tracker/login.xml?CASE
+# tracker/login.xml
+#: Text - CASE
+msgid "Case Code"
+msgstr "Case Code"
+
+# tracker/login.xml?PIN
+# tracker/login.xml
+#: password - PIN
+msgid "Pin"
+msgstr "Pin"
+
+# tracker/login.xml?BSUBMIT
+# tracker/login.xml
+#: submit - BSUBMIT
+msgid "Enter"
+msgstr "Enter"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TITLE
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: text - OBJECT_TITLE
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: dropdown - OBJECT_TYPE
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE] Type"
+msgstr "Type"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-DYNAFORM
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: dropdown - OBJECT_TYPE - DYNAFORM
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-DYNAFORM]"
+msgstr "Dynaform"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-INPUT_DOCUMENT
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: dropdown - OBJECT_TYPE - INPUT_DOCUMENT
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-INPUT_DOCUMENT]"
+msgstr "Input Document"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-OUTPUT_DOCUMENT
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: dropdown - OBJECT_TYPE - OUTPUT_DOCUMENT
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?OBJECT_TYPE-OUTPUT_DOCUMENT]"
+msgstr "Output Document"
+
+# tracker/tracker_AvailableCaseTrackerObjects.xml?ASSIGN
+# tracker/tracker_AvailableCaseTrackerObjects.xml
+#: link - ASSIGN
+msgid "[tracker/tracker_AvailableCaseTrackerObjects.xml?ASSIGN] "
+msgstr ""
+
+# tracker/tracker_AvailableStageTasks.xml?TAS_TITLE
+# tracker/tracker_AvailableStageTasks.xml
+#: text - TAS_TITLE
+msgid "[tracker/tracker_AvailableStageTasks.xml?TAS_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_AvailableStageTasks.xml?ASSIGN
+# tracker/tracker_AvailableStageTasks.xml
+#: link - ASSIGN
+msgid "[tracker/tracker_AvailableStageTasks.xml?ASSIGN] "
+msgstr ""
+
+# tracker/tracker_ConditionsEdit.xml?CTO_CONDITION
+# tracker/tracker_ConditionsEdit.xml
+#: textareapm - CTO_CONDITION
+msgid "[tracker/tracker_ConditionsEdit.xml?CTO_CONDITION] Condition"
+msgstr "Condition"
+
+# tracker/tracker_ConditionsEdit.xml?SAVE
+# tracker/tracker_ConditionsEdit.xml
+#: button - SAVE
+msgid "[tracker/tracker_ConditionsEdit.xml?SAVE] Save"
+msgstr "Save"
+
+# tracker/tracker_Configuration.xml?CT_MAP_TYPE
+# tracker/tracker_Configuration.xml
+#: dropdown - CT_MAP_TYPE
+msgid "Map type"
+msgstr "Map type"
+
+# tracker/tracker_Configuration.xml?CT_MAP_TYPE-NONE
+# tracker/tracker_Configuration.xml
+#: dropdown - CT_MAP_TYPE - NONE
+msgid "[tracker/tracker_Configuration.xml?CT_MAP_TYPE-NONE]"
+msgstr "None"
+
+# tracker/tracker_Configuration.xml?CT_MAP_TYPE-PROCESSMAP
+# tracker/tracker_Configuration.xml
+#: dropdown - CT_MAP_TYPE - PROCESSMAP
+msgid "[tracker/tracker_Configuration.xml?CT_MAP_TYPE-PROCESSMAP]"
+msgstr "Process Map"
+
+# tracker/tracker_Configuration.xml?CT_MAP_TYPE-STAGES
+# tracker/tracker_Configuration.xml
+#: dropdown - CT_MAP_TYPE - STAGES
+msgid "[tracker/tracker_Configuration.xml?CT_MAP_TYPE-STAGES]"
+msgstr "Stages Map"
+
+# tracker/tracker_Configuration.xml?CT_STAGES_MAP_EDIT
+# tracker/tracker_Configuration.xml
+#: link - CT_STAGES_MAP_EDIT
+msgid "[tracker/tracker_Configuration.xml?CT_STAGES_MAP_EDIT] Edit"
+msgstr "Edit"
+
+# tracker/tracker_Configuration.xml?CT_DERIVATION_HISTORY
+# tracker/tracker_Configuration.xml
+#: checkbox - CT_DERIVATION_HISTORY
+msgid "[tracker/tracker_Configuration.xml?CT_DERIVATION_HISTORY] Routing History"
+msgstr "Routing History"
+
+# tracker/tracker_Configuration.xml?CT_MESSAGE_HISTORY
+# tracker/tracker_Configuration.xml
+#: checkbox - CT_MESSAGE_HISTORY
+msgid "[tracker/tracker_Configuration.xml?CT_MESSAGE_HISTORY] Messages History"
+msgstr "Messages History"
+
+# tracker/tracker_Configuration.xml?BTN_CANCEL
+# tracker/tracker_Configuration.xml
+#: button - BTN_CANCEL
+msgid "[tracker/tracker_Configuration.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# tracker/tracker_Configuration.xml?SAVE
+# tracker/tracker_Configuration.xml
+#: button - SAVE
+msgid "[tracker/tracker_Configuration.xml?SAVE] Save"
+msgstr "Save"
+
+# tracker/tracker_DynaDocs.xml?CTO_TITLE
+# tracker/tracker_DynaDocs.xml
+#: text - CTO_TITLE
+msgid "[tracker/tracker_DynaDocs.xml?CTO_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ
+# tracker/tracker_DynaDocs.xml
+#: dropdown - CTO_TYPE_OBJ
+msgid "[tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ] Type"
+msgstr "Type"
+
+# tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-DYNAFORM
+# tracker/tracker_DynaDocs.xml
+#: dropdown - CTO_TYPE_OBJ - DYNAFORM
+msgid "[tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-DYNAFORM]"
+msgstr "Form"
+
+# tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-INPUT_DOCUMENT
+# tracker/tracker_DynaDocs.xml
+#: dropdown - CTO_TYPE_OBJ - INPUT_DOCUMENT
+msgid "[tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-INPUT_DOCUMENT]"
+msgstr "Document"
+
+# tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-OUTPUT_DOCUMENT
+# tracker/tracker_DynaDocs.xml
+#: dropdown - CTO_TYPE_OBJ - OUTPUT_DOCUMENT
+msgid "[tracker/tracker_DynaDocs.xml?CTO_TYPE_OBJ-OUTPUT_DOCUMENT]"
+msgstr "Document"
+
+# tracker/tracker_DynaDocs.xml?CTO_VIEW
+# tracker/tracker_DynaDocs.xml
+#: link - CTO_VIEW
+msgid "[tracker/tracker_DynaDocs.xml?CTO_VIEW] "
+msgstr ""
+
+# tracker/tracker_Inputdocs.xml?TITLE
+# tracker/tracker_Inputdocs.xml
+#: text - TITLE
+msgid "Filename/Comments"
+msgstr "Filename/Comments"
+
+# tracker/tracker_Inputdocs.xml?VIEW
+# tracker/tracker_Inputdocs.xml
+#: link - VIEW
+msgid "[tracker/tracker_Inputdocs.xml?VIEW] "
+msgstr ""
+
+# tracker/tracker_Messages.xml?APP_MSG_DATE
+# tracker/tracker_Messages.xml
+#: text - APP_MSG_DATE
+msgid "[tracker/tracker_Messages.xml?APP_MSG_DATE] DATE"
+msgstr "DATE"
+
+# tracker/tracker_Messages.xml?APP_MSG_SUBJECT
+# tracker/tracker_Messages.xml
+#: text - APP_MSG_SUBJECT
+msgid "[tracker/tracker_Messages.xml?APP_MSG_SUBJECT] SUBJECT"
+msgstr "SUBJECT"
+
+# tracker/tracker_Messages.xml?APP_MSG_FROM
+# tracker/tracker_Messages.xml
+#: text - APP_MSG_FROM
+msgid "[tracker/tracker_Messages.xml?APP_MSG_FROM] FROM"
+msgstr "FROM"
+
+# tracker/tracker_Messages.xml?APP_MSG_TO
+# tracker/tracker_Messages.xml
+#: text - APP_MSG_TO
+msgid "[tracker/tracker_Messages.xml?APP_MSG_TO] TO"
+msgstr "TO"
+
+# tracker/tracker_Messages.xml?VIEW
+# tracker/tracker_Messages.xml
+#: link - VIEW
+msgid "[tracker/tracker_Messages.xml?VIEW] "
+msgstr ""
+
+# tracker/tracker_MessagesView.xml?title
+# tracker/tracker_MessagesView.xml
+#: title - title
+msgid "[tracker/tracker_MessagesView.xml?title] MESSAGE"
+msgstr "MESSAGE"
+
+# tracker/tracker_MessagesView.xml?APP_MSG_SUBJECT
+# tracker/tracker_MessagesView.xml
+#: text - APP_MSG_SUBJECT
+msgid "[tracker/tracker_MessagesView.xml?APP_MSG_SUBJECT] SUBJECT"
+msgstr "SUBJECT"
+
+# tracker/tracker_MessagesView.xml?APP_MSG_FROM
+# tracker/tracker_MessagesView.xml
+#: text - APP_MSG_FROM
+msgid "[tracker/tracker_MessagesView.xml?APP_MSG_FROM] FROM"
+msgstr "FROM"
+
+# tracker/tracker_MessagesView.xml?APP_MSG_TO
+# tracker/tracker_MessagesView.xml
+#: text - APP_MSG_TO
+msgid "[tracker/tracker_MessagesView.xml?APP_MSG_TO] TO"
+msgstr "TO"
+
+# tracker/tracker_MessagesView.xml?APP_MSG_DATE
+# tracker/tracker_MessagesView.xml
+#: text - APP_MSG_DATE
+msgid "[tracker/tracker_MessagesView.xml?APP_MSG_DATE] DATE"
+msgstr "DATE"
+
+# tracker/tracker_MessagesView.xml?APP_MSG_BODY
+# tracker/tracker_MessagesView.xml
+#: text - APP_MSG_BODY
+msgid "[tracker/tracker_MessagesView.xml?APP_MSG_BODY] "
+msgstr ""
+
+# tracker/tracker_No.xml?MESSAGE
+# tracker/tracker_No.xml
+#: title - MESSAGE
+msgid "It is not possible to see information related to this case.  Please contact the System Administrator."
+msgstr "It is not possible to see information related to this case.  Please contact the System Administrator."
+
+# tracker/tracker_Outputdocs.xml?TITLE
+# tracker/tracker_Outputdocs.xml
+#: text - TITLE
+msgid "[tracker/tracker_Outputdocs.xml?TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_Outputdocs.xml?VIEW
+# tracker/tracker_Outputdocs.xml
+#: link - VIEW
+msgid "[tracker/tracker_Outputdocs.xml?VIEW] "
+msgstr ""
+
+# tracker/tracker_StageEdit.xml?TITLE1
+# tracker/tracker_StageEdit.xml
+#: title - TITLE1
+msgid "Stage Information"
+msgstr "Stage Information"
+
+# tracker/tracker_StageEdit.xml?STG_TITLE
+# tracker/tracker_StageEdit.xml
+#: text - STG_TITLE
+msgid "[tracker/tracker_StageEdit.xml?STG_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_StageEdit.xml?SAVE
+# tracker/tracker_StageEdit.xml
+#: button - SAVE
+msgid "[tracker/tracker_StageEdit.xml?SAVE] Save"
+msgstr "Save"
+
+# tracker/tracker_StageTasks.xml?TAS_TITLE
+# tracker/tracker_StageTasks.xml
+#: text - TAS_TITLE
+msgid "[tracker/tracker_StageTasks.xml?TAS_TITLE] Title"
+msgstr "Title"
+
+# tracker/tracker_TasksOptions.xml?MNU_ASSIGN
+# tracker/tracker_TasksOptions.xml
+#: link - MNU_ASSIGN
+msgid "[tracker/tracker_TasksOptions.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# tracker/tracker_TransferHistory.xml?TAS_TITLE
+# tracker/tracker_TransferHistory.xml
+#: text - TAS_TITLE
+msgid "[tracker/tracker_TransferHistory.xml?TAS_TITLE] Task"
+msgstr "Task"
+
+# tracker/tracker_TransferHistory.xml?USR_NAME
+# tracker/tracker_TransferHistory.xml
+#: text - USR_NAME
+msgid "[tracker/tracker_TransferHistory.xml?USR_NAME] Delegated User"
+msgstr "Delegated User"
+
+# tracker/tracker_TransferHistory.xml?DEL_DELEGATE_DATE
+# tracker/tracker_TransferHistory.xml
+#: date - DEL_DELEGATE_DATE
+msgid "[tracker/tracker_TransferHistory.xml?DEL_DELEGATE_DATE] Task Transfer Date"
+msgstr "Task Transfer Date"
+
+# tracker/tracker_TransferHistory.xml?DEL_INIT_DATE
+# tracker/tracker_TransferHistory.xml
+#: date - DEL_INIT_DATE
+msgid "[tracker/tracker_TransferHistory.xml?DEL_INIT_DATE] Start Date"
+msgstr "Start Date"
+
+# tracker/tracker_TransferHistory.xml?DEL_FINISH_DATE
+# tracker/tracker_TransferHistory.xml
+#: date - DEL_FINISH_DATE
+msgid "[tracker/tracker_TransferHistory.xml?DEL_FINISH_DATE] End Date"
+msgstr "End Date"
+
+# tracker/tracker_TransferHistory.xml?APP_TYPE
+# tracker/tracker_TransferHistory.xml
+#: dropdown - APP_TYPE
+msgid "[tracker/tracker_TransferHistory.xml?APP_TYPE] Action"
+msgstr "Action"
+
+# tracker/tracker_TransferHistory.xml?APP_TYPE-PAUSE
+# tracker/tracker_TransferHistory.xml
+#: dropdown - APP_TYPE - PAUSE
+msgid "[tracker/tracker_TransferHistory.xml?APP_TYPE-PAUSE]"
+msgstr "Paused"
+
+# tracker/tracker_TransferHistory.xml?APP_TYPE-CANCEL
+# tracker/tracker_TransferHistory.xml
+#: dropdown - APP_TYPE - CANCEL
+msgid "[tracker/tracker_TransferHistory.xml?APP_TYPE-CANCEL]"
+msgstr "Cancelled"
+
+# tracker/tracker_TransferHistory.xml?APP_TYPE-
+# tracker/tracker_TransferHistory.xml
+#: dropdown - APP_TYPE -
+msgid "[tracker/tracker_TransferHistory.xml?APP_TYPE-]"
+msgstr "Routed"
+
+# tracker/tracker_ViewAnyInputDocument.xml?FILENAME
+# tracker/tracker_ViewAnyInputDocument.xml
+#: caption - FILENAME
+msgid "[tracker/tracker_ViewAnyInputDocument.xml?FILENAME] Filename"
+msgstr "Filename"
+
+# tracker/tracker_ViewAnyInputDocument.xml?APP_DOC_CREATE_DATE
+# tracker/tracker_ViewAnyInputDocument.xml
+#: date - APP_DOC_CREATE_DATE
+msgid "[tracker/tracker_ViewAnyInputDocument.xml?APP_DOC_CREATE_DATE] Created Date"
+msgstr "Created Date"
+
+# tracker/tracker_ViewAnyInputDocument.xml?APP_DOC_FILENAME
+# tracker/tracker_ViewAnyInputDocument.xml
+#: link - APP_DOC_FILENAME
+msgid "[tracker/tracker_ViewAnyInputDocument.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# setup/wsrOutputDocumentList.xml?createBy
+# setup/wsrOutputDocumentList.xml
+#: text - createBy
+msgid "[setup/wsrOutputDocumentList.xml?createBy] created by"
+msgstr "created by"
+
+# setup/wsrOutputDocumentList.xml?type
+# setup/wsrOutputDocumentList.xml
+#: text - type
+msgid "[setup/wsrOutputDocumentList.xml?type] type"
+msgstr "type"
+
+# setup/wsrProcessList.xml?guid
+# setup/wsrProcessList.xml
+#: text - guid
+msgid "[setup/wsrProcessList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrProcessList.xml?name
+# setup/wsrProcessList.xml
+#: text - name
+msgid "[setup/wsrProcessList.xml?name] Process Title"
+msgstr "Process Title"
+
+# setup/wsrRoleList.xml?guid
+# setup/wsrRoleList.xml
+#: text - guid
+msgid "[setup/wsrRoleList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrRoleList.xml?name
+# setup/wsrRoleList.xml
+#: text - name
+msgid "Role Title"
+msgstr "Role Title"
+
+# setup/wsrTaskCase.xml?guid
+# setup/wsrTaskCase.xml
+#: text - guid
+msgid "Task Uid"
+msgstr "Task Uid"
+
+# setup/wsrTaskCase.xml?name
+# setup/wsrTaskCase.xml
+#: text - name
+msgid "Task Title"
+msgstr "Task Title"
+
+# setup/wsrTaskCase.xml?delegate
+# setup/wsrTaskCase.xml
+#: text - delegate
+msgid "Delegate Index"
+msgstr "Delegate Index"
+
+# setup/wsrTaskList.xml?guid
+# setup/wsrTaskList.xml
+#: text - guid
+msgid "[setup/wsrTaskList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrTaskList.xml?name
+# setup/wsrTaskList.xml
+#: text - name
+msgid "[setup/wsrTaskList.xml?name] Task Title"
+msgstr "Task Title"
+
+# setup/wsrTriggerList.xml?guid
+# setup/wsrTriggerList.xml
+#: text - guid
+msgid "[setup/wsrTriggerList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrTriggerList.xml?name
+# setup/wsrTriggerList.xml
+#: text - name
+msgid "[setup/wsrTriggerList.xml?name] Task Title"
+msgstr "Task Title"
+
+# setup/wsrTriggerList.xml?processId
+# setup/wsrTriggerList.xml
+#: text - processId
+msgid "Process GUID/Title"
+msgstr "Process GUID/Title"
+
+# setup/wsrUnassignedCaseList.xml?guid
+# setup/wsrUnassignedCaseList.xml
+#: text - guid
+msgid "[setup/wsrUnassignedCaseList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrUnassignedCaseList.xml?name
+# setup/wsrUnassignedCaseList.xml
+#: text - name
+msgid "[setup/wsrUnassignedCaseList.xml?name] Case Title"
+msgstr "Case Title"
+
+# setup/wsrUnassignedCaseList.xml?delIndex
+# setup/wsrUnassignedCaseList.xml
+#: text - delIndex
+msgid "[setup/wsrUnassignedCaseList.xml?delIndex] Del Index"
+msgstr "Del Index"
+
+# setup/wsrUserList.xml?guid
+# setup/wsrUserList.xml
+#: text - guid
+msgid "[setup/wsrUserList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrUserList.xml?name
+# setup/wsrUserList.xml
+#: text - name
+msgid "[setup/wsrUserList.xml?name] User"
+msgstr "User"
+
+# setup/wsremoveUserFromGroup.xml?SESSION_ID
+# setup/wsremoveUserFromGroup.xml
+#: text - SESSION_ID
+msgid "[setup/wsremoveUserFromGroup.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsremoveUserFromGroup.xml?USER_ID
+# setup/wsremoveUserFromGroup.xml
+#: dropdown - USER_ID
+msgid "[setup/wsremoveUserFromGroup.xml?USER_ID] User ID"
+msgstr "User ID"
+
+# setup/wsremoveUserFromGroup.xml?GROUP_ID
+# setup/wsremoveUserFromGroup.xml
+#: dropdown - GROUP_ID
+msgid "[setup/wsremoveUserFromGroup.xml?GROUP_ID] Group ID"
+msgstr "Group ID"
+
+# setup/wsremoveUserFromGroup.xml?ACTIONB
+# setup/wsremoveUserFromGroup.xml
+#: button - ACTIONB
+msgid "RemoveUserToGroup"
+msgstr "RemoveUserToGroup"
+
+# steps/conditions_Edit.xml?STEP_CONDITION
+# steps/conditions_Edit.xml
+#: textareapm - STEP_CONDITION
+msgid "[steps/conditions_Edit.xml?STEP_CONDITION] Condition"
+msgstr "Condition"
+
+# steps/conditions_Edit.xml?ACCEPT
+# steps/conditions_Edit.xml
+#: button - ACCEPT
+msgid "[steps/conditions_Edit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# steps/conditions_List.xml?STEP_TITLE
+# steps/conditions_List.xml
+#: text - STEP_TITLE
+msgid "[steps/conditions_List.xml?STEP_TITLE] Title"
+msgstr "Title"
+
+# steps/conditions_List.xml?STEP_CONDITION
+# steps/conditions_List.xml
+#: text - STEP_CONDITION
+msgid "[steps/conditions_List.xml?STEP_CONDITION] Condition"
+msgstr "Condition"
+
+# steps/conditions_List.xml?EDIT
+# steps/conditions_List.xml
+#: link - EDIT
+msgid "[steps/conditions_List.xml?EDIT] "
+msgstr ""
+
+# steps/conditions_List.xml?SEARCH
+# steps/conditions_List.xml
+#: button - SEARCH
+msgid "[steps/conditions_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# steps/steps_List.xml?STEP_TITLE
+# steps/steps_List.xml
+#: text - STEP_TITLE
+msgid "[steps/steps_List.xml?STEP_TITLE] Title"
+msgstr "Title"
+
+# steps/steps_List.xml?STEP_TYPE_OBJ
+# steps/steps_List.xml
+#: dropdown - STEP_TYPE_OBJ
+msgid "[steps/steps_List.xml?STEP_TYPE_OBJ] Type"
+msgstr "Type"
+
+# steps/steps_List.xml?STEP_TYPE_OBJ-DYNAFORM
+# steps/steps_List.xml
+#: dropdown - STEP_TYPE_OBJ - DYNAFORM
+msgid "[steps/steps_List.xml?STEP_TYPE_OBJ-DYNAFORM]"
+msgstr "Dynaform"
+
+# steps/steps_List.xml?STEP_TYPE_OBJ-INPUT_DOCUMENT
+# steps/steps_List.xml
+#: dropdown - STEP_TYPE_OBJ - INPUT_DOCUMENT
+msgid "[steps/steps_List.xml?STEP_TYPE_OBJ-INPUT_DOCUMENT]"
+msgstr "Input Document"
+
+# steps/steps_List.xml?STEP_TYPE_OBJ-OUTPUT_DOCUMENT
+# steps/steps_List.xml
+#: dropdown - STEP_TYPE_OBJ - OUTPUT_DOCUMENT
+msgid "[steps/steps_List.xml?STEP_TYPE_OBJ-OUTPUT_DOCUMENT]"
+msgstr "Output Document"
+
+# steps/steps_List.xml?STEP_TYPE_OBJ-EXTERNAL
+# steps/steps_List.xml
+#: dropdown - STEP_TYPE_OBJ - EXTERNAL
+msgid "[steps/steps_List.xml?STEP_TYPE_OBJ-EXTERNAL]"
+msgstr "External Step"
+
+# steps/steps_List.xml?STEP_MODE
+# steps/steps_List.xml
+#: dropdown - STEP_MODE
+msgid "[steps/steps_List.xml?STEP_MODE] Mode"
+msgstr "Mode"
+
+# steps/steps_List.xml?STEP_MODE-
+# steps/steps_List.xml
+#: dropdown - STEP_MODE -
+msgid "[steps/steps_List.xml?STEP_MODE-]"
+msgstr "N/A"
+
+# steps/steps_List.xml?STEP_MODE-VIEW
+# steps/steps_List.xml
+#: dropdown - STEP_MODE - VIEW
+msgid "[steps/steps_List.xml?STEP_MODE-VIEW]"
+msgstr "View"
+
+# steps/steps_List.xml?STEP_MODE-EDIT
+# steps/steps_List.xml
+#: dropdown - STEP_MODE - EDIT
+msgid "[steps/steps_List.xml?STEP_MODE-EDIT]"
+msgstr "Edit"
+
+# steps/steps_List.xml?DELETE
+# steps/steps_List.xml
+#: link - DELETE
+msgid "[steps/steps_List.xml?DELETE] "
+msgstr ""
+
+# steps/steps_List.xml?SEARCH
+# steps/steps_List.xml
+#: button - SEARCH
+msgid "[steps/steps_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# steps/steps_Options.xml?MNU_ADD
+# steps/steps_Options.xml
+#: link - MNU_ADD
+msgid "[steps/steps_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# steps/steps_availableBB.xml?STEP_TITLE
+# steps/steps_availableBB.xml
+#: text - STEP_TITLE
+msgid "[steps/steps_availableBB.xml?STEP_TITLE] Title"
+msgstr "Title"
+
+# steps/steps_availableBB.xml?STEP_TYPE_OBJ
+# steps/steps_availableBB.xml
+#: dropdown - STEP_TYPE_OBJ
+msgid "[steps/steps_availableBB.xml?STEP_TYPE_OBJ] Type"
+msgstr "Type"
+
+# steps/steps_availableBB.xml?STEP_TYPE_OBJ-DYNAFORM
+# steps/steps_availableBB.xml
+#: dropdown - STEP_TYPE_OBJ - DYNAFORM
+msgid "[steps/steps_availableBB.xml?STEP_TYPE_OBJ-DYNAFORM]"
+msgstr "Dynaform"
+
+# steps/steps_availableBB.xml?STEP_TYPE_OBJ-OUTPUT_DOCUMENT
+# steps/steps_availableBB.xml
+#: dropdown - STEP_TYPE_OBJ - OUTPUT_DOCUMENT
+msgid "[steps/steps_availableBB.xml?STEP_TYPE_OBJ-OUTPUT_DOCUMENT]"
+msgstr "Output Document"
+
+# steps/steps_availableBB.xml?STEP_TYPE_OBJ-INPUT_DOCUMENT
+# steps/steps_availableBB.xml
+#: dropdown - STEP_TYPE_OBJ - INPUT_DOCUMENT
+msgid "[steps/steps_availableBB.xml?STEP_TYPE_OBJ-INPUT_DOCUMENT]"
+msgstr "Input Document"
+
+# steps/steps_availableBB.xml?STEP_TYPE_OBJ-EXTERNAL
+# steps/steps_availableBB.xml
+#: dropdown - STEP_TYPE_OBJ - EXTERNAL
+msgid "[steps/steps_availableBB.xml?STEP_TYPE_OBJ-EXTERNAL]"
+msgstr "External Step"
+
+# steps/steps_availableBB.xml?STEP_MODE
+# steps/steps_availableBB.xml
+#: text - STEP_MODE
+msgid "[steps/steps_availableBB.xml?STEP_MODE] Mode"
+msgstr "Mode"
+
+# steps/steps_availableBB.xml?ASSIGN
+# steps/steps_availableBB.xml
+#: link - ASSIGN
+msgid "[steps/steps_availableBB.xml?ASSIGN] "
+msgstr ""
+
+# steps/triggersAfter_List.xml?TRI_TITLE
+# steps/triggersAfter_List.xml
+#: text - TRI_TITLE
+msgid "[steps/triggersAfter_List.xml?TRI_TITLE] Title"
+msgstr "Title"
+
+# steps/triggersAfter_List.xml?DELETE
+# steps/triggersAfter_List.xml
+#: link - DELETE
+msgid "[steps/triggersAfter_List.xml?DELETE] "
+msgstr ""
+
+# steps/triggersAfter_Options.xml?MNU_ADD
+# steps/triggersAfter_Options.xml
+#: link - MNU_ADD
+msgid "[steps/triggersAfter_Options.xml?MNU_ADD] Add"
+msgstr "Add"
+
+# steps/triggersBefore_List.xml?TRI_TITLE
+# steps/triggersBefore_List.xml
+#: text - TRI_TITLE
+msgid "[steps/triggersBefore_List.xml?TRI_TITLE] Title"
+msgstr "Title"
+
+# steps/triggersBefore_List.xml?DELETE
+# steps/triggersBefore_List.xml
+#: link - DELETE
+msgid "[steps/triggersBefore_List.xml?DELETE] "
+msgstr ""
+
+# steps/triggersBefore_Options.xml?MNU_ADD
+# steps/triggersBefore_Options.xml
+#: link - MNU_ADD
+msgid "[steps/triggersBefore_Options.xml?MNU_ADD] Add"
+msgstr "Add"
+
+# steps/triggersCondition_Edit.xml?ST_CONDITION
+# steps/triggersCondition_Edit.xml
+#: textareapm - ST_CONDITION
+msgid "[steps/triggersCondition_Edit.xml?ST_CONDITION] Condition"
+msgstr "Condition"
+
+# steps/triggersCondition_Edit.xml?SAVE
+# steps/triggersCondition_Edit.xml
+#: button - SAVE
+msgid "[steps/triggersCondition_Edit.xml?SAVE] Save"
+msgstr "Save"
+
+# steps/triggers_Assign.xml?TITLE
+# steps/triggers_Assign.xml
+#: title - TITLE
+msgid "[steps/triggers_Assign.xml?TITLE] Available Triggers"
+msgstr "Available Triggers"
+
+# steps/triggers_Assign.xml?TRI_UID
+# steps/triggers_Assign.xml
+#: dropdown - TRI_UID
+msgid "[steps/triggers_Assign.xml?TRI_UID] Triggers"
+msgstr "Triggers"
+
+# steps/triggers_Assign.xml?ST_CONDITION
+# steps/triggers_Assign.xml
+#: textareapm - ST_CONDITION
+msgid "[steps/triggers_Assign.xml?ST_CONDITION] Condition"
+msgstr "Condition"
+
+# steps/triggers_Assign.xml?ASSIGN
+# steps/triggers_Assign.xml
+#: button - ASSIGN
+msgid "[steps/triggers_Assign.xml?ASSIGN] Assign"
+msgstr "Assign"
+
+# steps/triggers_NoAssign.xml?MESSAGE
+# steps/triggers_NoAssign.xml
+#: subtitle - MESSAGE
+msgid "Triggers not created or all the triggers available were assigned!"
+msgstr "Triggers not created or all the triggers available were assigned!"
+
+# steps/triggers_NoAssign.xml?ClOSE
+# steps/triggers_NoAssign.xml
+#: button - ClOSE
+msgid "[steps/triggers_NoAssign.xml?ClOSE] Close"
+msgstr "Close"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE
+msgid "Case to be assigned by"
+msgstr "Case to be assigned by"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-BALANCED
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - BALANCED
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-BALANCED]"
+msgstr "Cyclical Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-MANUAL
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - MANUAL
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-MANUAL]"
+msgstr "Manual Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-EVALUATE
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - EVALUATE
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-EVALUATE]"
+msgstr "Value Based Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-REPORT_TO
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - REPORT_TO
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-REPORT_TO]"
+msgstr "Reports to"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-SELF_SERVICE
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - SELF_SERVICE
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-SELF_SERVICE]"
+msgstr "Self Service"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-SELF_SERVICE_EVALUATE
+# tasks/tasks_AssignmentRules.xml
+#: radiogroup - TAS_ASSIGN_TYPE - SELF_SERVICE_EVALUATE
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_TYPE-SELF_SERVICE_EVALUATE]"
+msgstr "Self Service Value Based Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_VARIABLE
+# tasks/tasks_AssignmentRules.xml
+#: textpm - TAS_ASSIGN_VARIABLE
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_ASSIGN_VARIABLE] Variable for Value Based Assignment"
+msgstr "Variable for Value Based Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_GROUP_VARIABLE
+# tasks/tasks_AssignmentRules.xml
+#: textpm - TAS_GROUP_VARIABLE
+msgid "Variable for Self Service Value Based Assignment"
+msgstr "Variable for Self Service Value Based Assignment"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIMEOUT
+# tasks/tasks_AssignmentRules.xml
+#: checkbox - TAS_SELFSERVICE_TIMEOUT
+msgid "Set a timeout"
+msgstr "Set a timeout"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME
+# tasks/tasks_AssignmentRules.xml
+#: text - TAS_SELFSERVICE_TIME
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME] Time"
+msgstr "Time"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME_UNIT
+# tasks/tasks_AssignmentRules.xml
+#: dropdown - TAS_SELFSERVICE_TIME_UNIT
+msgid "Time unit"
+msgstr "Time unit"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME_UNIT-HOURS
+# tasks/tasks_AssignmentRules.xml
+#: dropdown - TAS_SELFSERVICE_TIME_UNIT - HOURS
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME_UNIT-HOURS]"
+msgstr "Hours"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME_UNIT-DAYS
+# tasks/tasks_AssignmentRules.xml
+#: dropdown - TAS_SELFSERVICE_TIME_UNIT - DAYS
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TIME_UNIT-DAYS]"
+msgstr "Days"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TRIGGER_UID
+# tasks/tasks_AssignmentRules.xml
+#: dropdown - TAS_SELFSERVICE_TRIGGER_UID
+msgid "Trigger to execute"
+msgstr "Trigger to execute"
+
+# tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TRIGGER_UID-
+# tasks/tasks_AssignmentRules.xml
+#: dropdown - TAS_SELFSERVICE_TRIGGER_UID -
+msgid "[tasks/tasks_AssignmentRules.xml?TAS_SELFSERVICE_TRIGGER_UID-]"
+msgstr "- Select a trigger -"
+
+# tasks/tasks_Definition.xml?TAS_TITLE
+# tasks/tasks_Definition.xml
+#: text - TAS_TITLE
+msgid "[tasks/tasks_Definition.xml?TAS_TITLE] Title"
+msgstr "Title"
+
+# tasks/tasks_Definition.xml?TAS_DESCRIPTION
+# tasks/tasks_Definition.xml
+#: textarea - TAS_DESCRIPTION
+msgid "[tasks/tasks_Definition.xml?TAS_DESCRIPTION] Description"
+msgstr "Description"
+
+# tasks/tasks_Definition.xml?TAS_PRIORITY_VARIABLE
+# tasks/tasks_Definition.xml
+#: textpm - TAS_PRIORITY_VARIABLE
+msgid "[tasks/tasks_Definition.xml?TAS_PRIORITY_VARIABLE] Variable for Case priority"
+msgstr "Variable for Case priority"
+
+# tasks/tasks_Definition.xml?TAS_DERIVATION_SCREEN_TPL
+# tasks/tasks_Definition.xml
+#: dropdown - TAS_DERIVATION_SCREEN_TPL
+msgid "[tasks/tasks_Definition.xml?TAS_DERIVATION_SCREEN_TPL] Routing Screen Template"
+msgstr "Routing Screen Template"
+
+# tasks/tasks_Definition.xml?TAS_DERIVATION_SCREEN_TPL-
+# tasks/tasks_Definition.xml
+#: dropdown - TAS_DERIVATION_SCREEN_TPL -
+msgid "[tasks/tasks_Definition.xml?TAS_DERIVATION_SCREEN_TPL-]"
+msgstr "- Default -"
+
+# tasks/tasks_Definition.xml?TAS_START
+# tasks/tasks_Definition.xml
+#: checkbox - TAS_START
+msgid "Starting task"
+msgstr "Starting task"
+
+# tasks/tasks_Labels.xml?TAS_DEF_TITLE
+# tasks/tasks_Labels.xml
+#: textareapm - TAS_DEF_TITLE
+msgid "[tasks/tasks_Labels.xml?TAS_DEF_TITLE] Case Title"
+msgstr "Case Title"
+
+# tasks/tasks_Labels.xml?TAS_DEF_DESCRIPTION
+# tasks/tasks_Labels.xml
+#: textareapm - TAS_DEF_DESCRIPTION
+msgid "[tasks/tasks_Labels.xml?TAS_DEF_DESCRIPTION] Case Description"
+msgstr "Case Description"
+
+# tasks/tasks_Notifications.xml?SEND_EMAIL
+# tasks/tasks_Notifications.xml
+#: checkbox - SEND_EMAIL
+msgid "[tasks/tasks_Notifications.xml?SEND_EMAIL] After routing notify the next assigned user(s)"
+msgstr "After routing notify the next assigned user(s)"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_SUBJECT_MESSAGE
+# tasks/tasks_Notifications.xml
+#: text - TAS_DEF_SUBJECT_MESSAGE
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_SUBJECT_MESSAGE] Subject"
+msgstr "Subject"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TYPE
+# tasks/tasks_Notifications.xml
+#: dropdown - TAS_DEF_MESSAGE_TYPE
+msgid "Content Type"
+msgstr "Content Type"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TYPE-text
+# tasks/tasks_Notifications.xml
+#: dropdown - TAS_DEF_MESSAGE_TYPE - text
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TYPE-text]"
+msgstr "Plain Text"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TYPE-template
+# tasks/tasks_Notifications.xml
+#: dropdown - TAS_DEF_MESSAGE_TYPE - template
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TYPE-template]"
+msgstr "HTML Template"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE
+# tasks/tasks_Notifications.xml
+#: textareapm - TAS_DEF_MESSAGE
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE] Message"
+msgstr "Message"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TEMPLATE
+# tasks/tasks_Notifications.xml
+#: dropdown - TAS_DEF_MESSAGE_TEMPLATE
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TEMPLATE] Template"
+msgstr "Template"
+
+# tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TEMPLATE-alert_message.html
+# tasks/tasks_Notifications.xml
+#: dropdown - TAS_DEF_MESSAGE_TEMPLATE - alert_message.html
+msgid "[tasks/tasks_Notifications.xml?TAS_DEF_MESSAGE_TEMPLATE-alert_message.html]"
+msgstr "-- Default --"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP
+msgid "Set task performer as"
+msgstr "Set task performer as"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP -
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-]"
+msgstr "(No ownership changes)"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-1
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 1
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-1]"
+msgstr "First case owner"
+
+# tasks/tasks_Owner.xml?TAS_OWNER_APP-2
+# tasks/tasks_Owner.xml
+#: dropdown - TAS_OWNER_APP - 2
+msgid "[tasks/tasks_Owner.xml?TAS_OWNER_APP-2]"
+msgstr "Second case owner"
+

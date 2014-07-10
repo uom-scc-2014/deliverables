@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# cases/cases_Resume.xml?DEL_FINISH_DATE
+# cases/cases_Resume.xml
+#: text - DEL_FINISH_DATE
+msgid "[cases/cases_Resume.xml?DEL_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# cases/cases_Resume.xml?DESCRIPTION
+# cases/cases_Resume.xml
+#: text - DESCRIPTION
+msgid "[cases/cases_Resume.xml?DESCRIPTION] Case Description"
+msgstr "Case Description"
+
+# cases/cases_Scheduler_Edit.xml?GENERAL_INF
+# cases/cases_Scheduler_Edit.xml
+#: title - GENERAL_INF
+msgid "[cases/cases_Scheduler_Edit.xml?GENERAL_INF] General Information"
+msgstr "General Information"
+
+# cases/cases_Scheduler_Edit.xml?PROPERTIES_INF
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - PROPERTIES_INF
+msgid "Enter the username and password of the user who will be assigned to the initial task in the case."
+msgstr "Enter the username and password of the user who will be assigned to the initial task in the case."
+
+# cases/cases_Scheduler_Edit.xml?SCH_USER_NAME
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_USER_NAME
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_USER_NAME] User Name"
+msgstr "User Name"
+
+# cases/cases_Scheduler_Edit.xml?SCH_USER_PASSWORD
+# cases/cases_Scheduler_Edit.xml
+#: password - SCH_USER_PASSWORD
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_USER_PASSWORD] Password"
+msgstr "Password"
+
+# cases/cases_Scheduler_Edit.xml?TEST_CONNECTION
+# cases/cases_Scheduler_Edit.xml
+#: button - TEST_CONNECTION
+msgid "[cases/cases_Scheduler_Edit.xml?TEST_CONNECTION] Test User"
+msgstr "Test User"
+
+# cases/cases_Scheduler_Edit.xml?EDIT_USER
+# cases/cases_Scheduler_Edit.xml
+#: button - EDIT_USER
+msgid "Edit User"
+msgstr "Edit User"
+
+# cases/cases_Scheduler_Edit.xml?PERFORM_TASK
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - PERFORM_TASK
+msgid "[cases/cases_Scheduler_Edit.xml?PERFORM_TASK] Properties"
+msgstr "Properties"
+
+# cases/cases_Scheduler_Edit.xml?SCH_NAME
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_NAME
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_NAME] Name"
+msgstr "Name"
+
+# cases/cases_Scheduler_Edit.xml?TAS_UID
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - TAS_UID
+msgid "[cases/cases_Scheduler_Edit.xml?TAS_UID] Task"
+msgstr "Task"
+
+# cases/cases_Scheduler_Edit.xml?SCH_OPTION_VIEW
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_OPTION_VIEW
+msgid "Perform this task"
+msgstr "Perform this task"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_TIME_DAY
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_TIME_DAY
+msgid "Select the date and time for case(s) to be initiated."
+msgstr "Select the date and time for case(s) to be initiated."
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_TIME
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_START_TIME
+msgid "Execution time"
+msgstr "Execution time"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_DATE
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_DATE
+msgid "Select date"
+msgstr "Select date"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DATE
+# cases/cases_Scheduler_Edit.xml
+#: date - SCH_START_DATE
+msgid "Start date"
+msgstr "Start date"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_1
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_1
+msgid "Daily"
+msgstr "Daily"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_2
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_2
+msgid "Weekly"
+msgstr "Weekly"
+
+# cases/cases_Scheduler_Edit.xml?SCH_EVERY_DAYS
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_EVERY_DAYS
+msgid "Every"
+msgstr "Every"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS
+msgid "Select the day(s) of the week"
+msgstr "Select the day(s) of the week"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-1
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-1]"
+msgstr "Monday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-2
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-2]"
+msgstr "Tuesday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-3
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS - 3
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-3]"
+msgstr "Wednesday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-4
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS - 4
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS-4]"
+msgstr "Thursday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS_2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-5
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 5
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-5]"
+msgstr "Friday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-6
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 6
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-6]"
+msgstr "Saturday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-7
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_WEEK_DAYS_2 - 7
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_WEEK_DAYS_2-7]"
+msgstr "Sunday"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_3
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_3
+msgid "Monthly"
+msgstr "Monthly"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY
+# cases/cases_Scheduler_Edit.xml
+#: radiogroup - SCH_START_DAY
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY-1
+# cases/cases_Scheduler_Edit.xml
+#: radiogroup - SCH_START_DAY - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY-1]"
+msgstr "Day"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY-2
+# cases/cases_Scheduler_Edit.xml
+#: radiogroup - SCH_START_DAY - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY-2]"
+msgstr "The"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_1
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_START_DAY_OPT_1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_1] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-1
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-1]"
+msgstr "First"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-2
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-2]"
+msgstr "Second"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-3
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 3
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-3]"
+msgstr "Third"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-4
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 4
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-4]"
+msgstr "Fourth"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-5
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_WEEKS - 5
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_WEEKS-5]"
+msgstr "Last"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-1
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-1]"
+msgstr "Monday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-2
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-2]"
+msgstr "Tuesday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-3
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 3
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-3]"
+msgstr "Wednesday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-4
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 4
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-4]"
+msgstr "Thursday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-5
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 5
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-5]"
+msgstr "Friday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-6
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 6
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-6]"
+msgstr "Saturday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-7
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_START_DAY_OPT_2_DAYS_WEEK - 7
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_START_DAY_OPT_2_DAYS_WEEK-7]"
+msgstr "Sunday"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS
+msgid "Of the month(s)"
+msgstr "Of the month(s)"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS-1
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS-1]"
+msgstr "Jan"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS-2
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS-2]"
+msgstr "Feb"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS-3
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS - 3
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS-3]"
+msgstr "Mar"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS-4
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS - 4
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS-4]"
+msgstr "Apr"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-5
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_2 - 5
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-5]"
+msgstr "May"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-6
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_2 - 6
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-6]"
+msgstr "Jun"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-7
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_2 - 7
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-7]"
+msgstr "Jul"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-8
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_2 - 8
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_2-8]"
+msgstr "Aug"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_3
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-9
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_3 - 9
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-9]"
+msgstr "Sep"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-10
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_3 - 10
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-10]"
+msgstr "Oct"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-11
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_3 - 11
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-11]"
+msgstr "Nov"
+
+# cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-12
+# cases/cases_Scheduler_Edit.xml
+#: checkgroup - SCH_MONTHS_3 - 12
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_MONTHS_3-12]"
+msgstr "Dec"
+
+# cases/cases_Scheduler_Edit.xml?ADVANCED_4
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - ADVANCED_4
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+# cases/cases_Scheduler_Edit.xml?SCH_END_DATE_CHK
+# cases/cases_Scheduler_Edit.xml
+#: checkbox - SCH_END_DATE_CHK
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_END_DATE_CHK] End Date"
+msgstr "End Date"
+
+# cases/cases_Scheduler_Edit.xml?SCH_END_DATE
+# cases/cases_Scheduler_Edit.xml
+#: date - SCH_END_DATE
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_END_DATE] End Date"
+msgstr "End Date"
+
+# cases/cases_Scheduler_Edit.xml?SCH_REPEAT_TASK_CHK
+# cases/cases_Scheduler_Edit.xml
+#: checkbox - SCH_REPEAT_TASK_CHK
+msgid "Repeat Task"
+msgstr "Repeat Task"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_EVERY
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_EVERY
+msgid "Record the time."
+msgstr "Record the time."
+
+# cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY
+# cases/cases_Scheduler_Edit.xml
+#: text - SCH_REPEAT_EVERY
+msgid "Execute every"
+msgstr "Execute every"
+
+# cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT] "
+msgstr ""
+
+# cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT-1
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT - 1
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT-1]"
+msgstr "Minutes"
+
+# cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT-2
+# cases/cases_Scheduler_Edit.xml
+#: dropdown - SCH_REPEAT_EVERY_OPT - 2
+msgid "[cases/cases_Scheduler_Edit.xml?SCH_REPEAT_EVERY_OPT-2]"
+msgstr "Hours"
+
+# cases/cases_Scheduler_Edit.xml?SELECT_PLUGIN
+# cases/cases_Scheduler_Edit.xml
+#: subtitle - SELECT_PLUGIN
+msgid "Start a case based on following registered Plugin."
+msgstr "Start a case based on following registered Plugin."
+
+# cases/cases_Scheduler_Edit.xml?UPDATE
+# cases/cases_Scheduler_Edit.xml
+#: button - UPDATE
+msgid "[cases/cases_Scheduler_Edit.xml?UPDATE] Update"
+msgstr "Update"
+
+# cases/cases_Scheduler_List.xml?SCH_NAME
+# cases/cases_Scheduler_List.xml
+#: text - SCH_NAME
+msgid "[cases/cases_Scheduler_List.xml?SCH_NAME] Name"
+msgstr "Name"
+
+# cases/cases_Scheduler_List.xml?PRO_TITLE
+# cases/cases_Scheduler_List.xml
+#: text - PRO_TITLE
+msgid "[cases/cases_Scheduler_List.xml?PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_Scheduler_List.xml?TAS_TITLE
+# cases/cases_Scheduler_List.xml
+#: text - TAS_TITLE
+msgid "[cases/cases_Scheduler_List.xml?TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_Scheduler_List.xml?SCH_TIME_NEXT_RUN
+# cases/cases_Scheduler_List.xml
+#: text - SCH_TIME_NEXT_RUN
+msgid "Time next run"
+msgstr "Time next run"
+
+# cases/cases_Scheduler_List.xml?SCH_LAST_RUN_TIME
+# cases/cases_Scheduler_List.xml
+#: text - SCH_LAST_RUN_TIME
+msgid "Last run time"
+msgstr "Last run time"
+
+# cases/cases_Scheduler_List.xml?SCH_STATUS_LNK
+# cases/cases_Scheduler_List.xml
+#: link - SCH_STATUS_LNK
+msgid "[cases/cases_Scheduler_List.xml?SCH_STATUS_LNK] "
+msgstr ""
+
+# cases/cases_Scheduler_List.xml?ROL_VIEW
+# cases/cases_Scheduler_List.xml
+#: link - ROL_VIEW
+msgid "[cases/cases_Scheduler_List.xml?ROL_VIEW] "
+msgstr ""
+
+# cases/cases_Scheduler_List.xml?DELETE
+# cases/cases_Scheduler_List.xml
+#: link - DELETE
+msgid "[cases/cases_Scheduler_List.xml?DELETE] "
+msgstr ""
+
+# cases/cases_Scheduler_Log.xml?EXEC_DATE
+# cases/cases_Scheduler_Log.xml
+#: text - EXEC_DATE
+msgid "[cases/cases_Scheduler_Log.xml?EXEC_DATE] Date"
+msgstr "Date"
+
+# cases/cases_Scheduler_Log.xml?EXEC_HOUR
+# cases/cases_Scheduler_Log.xml
+#: text - EXEC_HOUR
+msgid "[cases/cases_Scheduler_Log.xml?EXEC_HOUR] Time"
+msgstr "Time"
+
+# cases/cases_Scheduler_Log.xml?USR_NAME
+# cases/cases_Scheduler_Log.xml
+#: text - USR_NAME
+msgid "[cases/cases_Scheduler_Log.xml?USR_NAME] User"
+msgstr "User"
+
+# cases/cases_Scheduler_Log.xml?RESULT
+# cases/cases_Scheduler_Log.xml
+#: text - RESULT
+msgid "[cases/cases_Scheduler_Log.xml?RESULT] Result"
+msgstr "Result"
+
+# cases/cases_Scheduler_Log.xml?WS_CREATE_CASE_STATUS
+# cases/cases_Scheduler_Log.xml
+#: text - WS_CREATE_CASE_STATUS
+msgid "[cases/cases_Scheduler_Log.xml?WS_CREATE_CASE_STATUS] Created Case Status"
+msgstr "Created Case Status"
+
+# cases/cases_Scheduler_Log.xml?WS_ROUTE_CASE_STATUS
+# cases/cases_Scheduler_Log.xml
+#: text - WS_ROUTE_CASE_STATUS
+msgid "[cases/cases_Scheduler_Log.xml?WS_ROUTE_CASE_STATUS] Routed Case Status"
+msgstr "Routed Case Status"
+
+# cases/cases_Scheduler_Log.xml?VIEW
+# cases/cases_Scheduler_Log.xml
+#: link - VIEW
+msgid "[cases/cases_Scheduler_Log.xml?VIEW] View"
+msgstr "View"
+
+# cases/cases_Scheduler_Log_Detail.xml?SCH_UID
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - SCH_UID
+msgid "[cases/cases_Scheduler_Log_Detail.xml?SCH_UID] Scheduled Task ID"
+msgstr "Scheduled Task ID"
+
+# cases/cases_Scheduler_Log_Detail.xml?TAS_UID
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - TAS_UID
+msgid "[cases/cases_Scheduler_Log_Detail.xml?TAS_UID] Task ID"
+msgstr "Task ID"
+
+# cases/cases_Scheduler_Log_Detail.xml?PRO_UID
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - PRO_UID
+msgid "Process Id"
+msgstr "Process Id"
+
+# cases/cases_Scheduler_Log_Detail.xml?USR_NAME
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - USR_NAME
+msgid "[cases/cases_Scheduler_Log_Detail.xml?USR_NAME] User"
+msgstr "User"
+
+# cases/cases_Scheduler_Log_Detail.xml?EXEC_DATE
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - EXEC_DATE
+msgid "[cases/cases_Scheduler_Log_Detail.xml?EXEC_DATE] Execution Date"
+msgstr "Execution Date"
+
+# cases/cases_Scheduler_Log_Detail.xml?EXEC_HOUR
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - EXEC_HOUR
+msgid "[cases/cases_Scheduler_Log_Detail.xml?EXEC_HOUR] Execution Hour"
+msgstr "Execution Hour"
+
+# cases/cases_Scheduler_Log_Detail.xml?RESULT
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - RESULT
+msgid "[cases/cases_Scheduler_Log_Detail.xml?RESULT] Execution Status"
+msgstr "Execution Status"
+
+# cases/cases_Scheduler_Log_Detail.xml?WS_CREATE_CASE_STATUS
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - WS_CREATE_CASE_STATUS
+msgid "[cases/cases_Scheduler_Log_Detail.xml?WS_CREATE_CASE_STATUS] Created Case Status"
+msgstr "Created Case Status"
+
+# cases/cases_Scheduler_Log_Detail.xml?WS_ROUTE_CASE_STATUS
+# cases/cases_Scheduler_Log_Detail.xml
+#: text - WS_ROUTE_CASE_STATUS
+msgid "[cases/cases_Scheduler_Log_Detail.xml?WS_ROUTE_CASE_STATUS] Routed Case Status"
+msgstr "Routed Case Status"
+
+# cases/cases_Scheduler_New.xml?GENERAL_INF
+# cases/cases_Scheduler_New.xml
+#: title - GENERAL_INF
+msgid "[cases/cases_Scheduler_New.xml?GENERAL_INF] General Information"
+msgstr "General Information"
+
+# cases/cases_Scheduler_New.xml?PROPERTIES_INF
+# cases/cases_Scheduler_New.xml
+#: subtitle - PROPERTIES_INF
+msgid "[cases/cases_Scheduler_New.xml?PROPERTIES_INF] Enter the username and password of the user who will be assigned to the initial task in the case."
+msgstr "Enter the username and password of the user who will be assigned to the initial task in the case."
+
+# cases/cases_Scheduler_New.xml?SCH_USER_NAME
+# cases/cases_Scheduler_New.xml
+#: text - SCH_USER_NAME
+msgid "[cases/cases_Scheduler_New.xml?SCH_USER_NAME] User Name"
+msgstr "User Name"
+

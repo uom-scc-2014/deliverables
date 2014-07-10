@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_USER_UID_DOESNT_EXIST
+#: LABEL/ID_USER_UID_DOESNT_EXIST
+msgid "The row '{USR_UID}' in table USER doesn't exist!"
+msgstr "The row '{USR_UID}' in table USER doesn't exist!"
+
+# TRANSLATION
+# LABEL/ID_USER_WITH_ROLE
+#: LABEL/ID_USER_WITH_ROLE
+msgid "Users with role"
+msgstr "Users with role"
+
+# TRANSLATION
+# LABEL/ID_UXS_NORMAL
+#: LABEL/ID_UXS_NORMAL
+msgid "[LABEL/ID_UXS_NORMAL] Normal"
+msgstr "Normal"
+
+# TRANSLATION
+# LABEL/ID_UXS_SIMPLIFIED
+#: LABEL/ID_UXS_SIMPLIFIED
+msgid "Mobile"
+msgstr "Mobile"
+
+# TRANSLATION
+# LABEL/ID_UXS_SINGLE
+#: LABEL/ID_UXS_SINGLE
+msgid "Single Application"
+msgstr "Single Application"
+
+# TRANSLATION
+# LABEL/ID_UXS_SWITCHABLE
+#: LABEL/ID_UXS_SWITCHABLE
+msgid "Switchable"
+msgstr "Switchable"
+
+# TRANSLATION
+# LABEL/ID_VACATION
+#: LABEL/ID_VACATION
+msgid "Vacation"
+msgstr "Vacation"
+
+# TRANSLATION
+# LABEL/ID_VALIDATED_FIELDS
+#: LABEL/ID_VALIDATED_FIELDS
+msgid "[LABEL/ID_VALIDATED_FIELDS] The following fields have invalid values"
+msgstr "The following fields have invalid values"
+
+# TRANSLATION
+# LABEL/ID_VALIDATION_ERRORS
+#: LABEL/ID_VALIDATION_ERRORS
+msgid "validation Errors"
+msgstr "validation Errors"
+
+# TRANSLATION
+# LABEL/ID_VALID_ADMIN_NAME
+#: LABEL/ID_VALID_ADMIN_NAME
+msgid "Please enter a valid Admin Username."
+msgstr "Please enter a valid Admin Username."
+
+# TRANSLATION
+# LABEL/ID_VALID_ADMIN_PASSWORD
+#: LABEL/ID_VALID_ADMIN_PASSWORD
+msgid "Please enter the Admin Password."
+msgstr "Please enter the Admin Password."
+
+# TRANSLATION
+# LABEL/ID_VALID_CREDENTIALS
+#: LABEL/ID_VALID_CREDENTIALS
+msgid "Please enter valid credentials"
+msgstr "Please enter valid credentials"
+
+# TRANSLATION
+# LABEL/ID_VALID_FROM
+#: LABEL/ID_VALID_FROM
+msgid "[LABEL/ID_VALID_FROM] From"
+msgstr "From"
+
+# TRANSLATION
+# LABEL/ID_VALID_TO
+#: LABEL/ID_VALID_TO
+msgid "[LABEL/ID_VALID_TO] To"
+msgstr "To"
+
+# TRANSLATION
+# LABEL/ID_VALID_WORKSPACE
+#: LABEL/ID_VALID_WORKSPACE
+msgid "Please enter a valid Workspace Name."
+msgstr "Please enter a valid Workspace Name."
+
+# TRANSLATION
+# LABEL/ID_VALUE_BASED
+#: LABEL/ID_VALUE_BASED
+msgid "Value Based"
+msgstr "Value Based"
+
+# TRANSLATION
+# LABEL/ID_VARCHAR
+#: LABEL/ID_VARCHAR
+msgid "VARCHAR"
+msgstr "VARCHAR"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES
+#: LABEL/ID_VARIABLES
+msgid "Variables"
+msgstr "Variables"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_CASE_PRIORITY
+#: LABEL/ID_VARIABLES_CASE_PRIORITY
+msgid "Variable for Case priority"
+msgstr "Variable for Case priority"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_IN
+#: LABEL/ID_VARIABLES_IN
+msgid "Variables In"
+msgstr "Variables In"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_INSTANCES_TO _COMPLETE
+#: LABEL/ID_VARIABLES_INSTANCES_TO _COMPLETE
+msgid "Variable for No of Instances to complete"
+msgstr "Variable for No of Instances to complete"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_NO_INSTANCES
+#: LABEL/ID_VARIABLES_NO_INSTANCES
+msgid "Variable for No of Instances"
+msgstr "Variable for No of Instances"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_OUT
+#: LABEL/ID_VARIABLES_OUT
+msgid "Variables Out"
+msgstr "Variables Out"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_PARAM_NOT_ARRAY
+#: LABEL/ID_VARIABLES_PARAM_NOT_ARRAY
+msgid "The variables param is not an array"
+msgstr "The variables param is not an array"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_PARAM_ZERO
+#: LABEL/ID_VARIABLES_PARAM_ZERO
+msgid "The variables param length is zero"
+msgstr "The variables param length is zero"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_RECEIVED
+#: LABEL/ID_VARIABLES_RECEIVED
+msgid "variables received"
+msgstr "variables received"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_SENT
+#: LABEL/ID_VARIABLES_SENT
+msgid "variables sent"
+msgstr "variables sent"
+
+# TRANSLATION
+# LABEL/ID_VARIABLES_VALUE_ASSIGNMENT
+#: LABEL/ID_VARIABLES_VALUE_ASSIGNMENT
+msgid "Variable for Value Based Assignment"
+msgstr "Variable for Value Based Assignment"
+
+# TRANSLATION
+# LABEL/ID_VARIABLE_PICKER
+#: LABEL/ID_VARIABLE_PICKER
+msgid "pmVariablePicker"
+msgstr "pmVariablePicker"
+
+# TRANSLATION
+# LABEL/ID_VERSION
+#: LABEL/ID_VERSION
+msgid "[LABEL/ID_VERSION] Version"
+msgstr "Version"
+
+# TRANSLATION
+# LABEL/ID_VERSIONING
+#: LABEL/ID_VERSIONING
+msgid "Versioning"
+msgstr "Versioning"
+
+# TRANSLATION
+# LABEL/ID_VERSION_HISTORY
+#: LABEL/ID_VERSION_HISTORY
+msgid "Version History"
+msgstr "Version History"
+
+# TRANSLATION
+# LABEL/ID_VERTICAL_LINE
+#: LABEL/ID_VERTICAL_LINE
+msgid "Vertical Line"
+msgstr "Vertical Line"
+
+# TRANSLATION
+# LABEL/ID_VIEW
+#: LABEL/ID_VIEW
+msgid "View"
+msgstr "View"
+
+# TRANSLATION
+# LABEL/ID_VIEW_EDIT_PROFILE
+#: LABEL/ID_VIEW_EDIT_PROFILE
+msgid "View/Edit Profile"
+msgstr "View/Edit Profile"
+
+# TRANSLATION
+# LABEL/ID_VIEW_INFO
+#: LABEL/ID_VIEW_INFO
+msgid "View Information"
+msgstr "View Information"
+
+# TRANSLATION
+# LABEL/ID_VIEW_USER_GROUP
+#: LABEL/ID_VIEW_USER_GROUP
+msgid "[LABEL/ID_VIEW_USER_GROUP] Groups"
+msgstr "Groups"
+
+# TRANSLATION
+# LABEL/ID_VISIBLE
+#: LABEL/ID_VISIBLE
+msgid "Visible"
+msgstr "Visible"
+
+# TRANSLATION
+# LABEL/ID_VISIT
+#: LABEL/ID_VISIT
+msgid "Visit"
+msgstr "Visit"
+
+# TRANSLATION
+# LABEL/ID_WARNING
+#: LABEL/ID_WARNING
+msgid "WARNING"
+msgstr "WARNING"
+
+# TRANSLATION
+# LABEL/ID_WEBBOT
+#: LABEL/ID_WEBBOT
+msgid "Webbots"
+msgstr "Webbots"
+
+# TRANSLATION
+# LABEL/ID_WEBENTRY_LINK
+#: LABEL/ID_WEBENTRY_LINK
+msgid "WebEntry Link"
+msgstr "WebEntry Link"
+
+# TRANSLATION
+# LABEL/ID_WEB_ENTRY
+#: LABEL/ID_WEB_ENTRY
+msgid "[LABEL/ID_WEB_ENTRY] Web Entry"
+msgstr "Web Entry"
+
+# TRANSLATION
+# LABEL/ID_WEB_ENTRY_LINK
+#: LABEL/ID_WEB_ENTRY_LINK
+msgid "Web Entry Link"
+msgstr "Web Entry Link"
+
+# TRANSLATION
+# LABEL/ID_WEB_ENTRY_SUCCESS_DELETE
+#: LABEL/ID_WEB_ENTRY_SUCCESS_DELETE
+msgid "Web Entry deleted correctly"
+msgstr "Web Entry deleted correctly"
+
+# TRANSLATION
+# LABEL/ID_WEB_ENTRY_SUCCESS_NEW
+#: LABEL/ID_WEB_ENTRY_SUCCESS_NEW
+msgid "Web Entry has been created correctly."
+msgstr "Web Entry has been created correctly."
+
+# TRANSLATION
+# LABEL/ID_WEB_ENTRY_SUMMARY
+#: LABEL/ID_WEB_ENTRY_SUMMARY
+msgid "Web Entry Summary"
+msgstr "Web Entry Summary"
+
+# TRANSLATION
+# LABEL/ID_WEB_SERVER
+#: LABEL/ID_WEB_SERVER
+msgid "Web Server"
+msgstr "Web Server"
+
+# TRANSLATION
+# LABEL/ID_WEB_SERVICES
+#: LABEL/ID_WEB_SERVICES
+msgid "Web Services Test"
+msgstr "Web Services Test"
+
+# TRANSLATION
+# LABEL/ID_WEB_SERVICE_PASSWORD
+#: LABEL/ID_WEB_SERVICE_PASSWORD
+msgid "Web Service Password"
+msgstr "Web Service Password"
+
+# TRANSLATION
+# LABEL/ID_WEB_SERVICE_USER
+#: LABEL/ID_WEB_SERVICE_USER
+msgid "Web Service User"
+msgstr "Web Service User"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_0
+#: LABEL/ID_WEEKDAY_0
+msgid "Sunday"
+msgstr "Sunday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_1
+#: LABEL/ID_WEEKDAY_1
+msgid "Monday"
+msgstr "Monday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_2
+#: LABEL/ID_WEEKDAY_2
+msgid "Tuesday"
+msgstr "Tuesday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_3
+#: LABEL/ID_WEEKDAY_3
+msgid "Wednesday"
+msgstr "Wednesday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_4
+#: LABEL/ID_WEEKDAY_4
+msgid "Thursday"
+msgstr "Thursday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_5
+#: LABEL/ID_WEEKDAY_5
+msgid "Friday"
+msgstr "Friday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_6
+#: LABEL/ID_WEEKDAY_6
+msgid "Saturday"
+msgstr "Saturday"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_0
+#: LABEL/ID_WEEKDAY_ABB_0
+msgid "[LABEL/ID_WEEKDAY_ABB_0] Sun"
+msgstr "Sun"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_1
+#: LABEL/ID_WEEKDAY_ABB_1
+msgid "[LABEL/ID_WEEKDAY_ABB_1] Mon"
+msgstr "Mon"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_2
+#: LABEL/ID_WEEKDAY_ABB_2
+msgid "[LABEL/ID_WEEKDAY_ABB_2] Tue"
+msgstr "Tue"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_3
+#: LABEL/ID_WEEKDAY_ABB_3
+msgid "Wed"
+msgstr "Wed"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_4
+#: LABEL/ID_WEEKDAY_ABB_4
+msgid "[LABEL/ID_WEEKDAY_ABB_4] Thu"
+msgstr "Thu"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_5
+#: LABEL/ID_WEEKDAY_ABB_5
+msgid "[LABEL/ID_WEEKDAY_ABB_5] Fri"
+msgstr "Fri"
+
+# TRANSLATION
+# LABEL/ID_WEEKDAY_ABB_6
+#: LABEL/ID_WEEKDAY_ABB_6
+msgid "[LABEL/ID_WEEKDAY_ABB_6] Sat"
+msgstr "Sat"
+
+# TRANSLATION
+# LABEL/ID_WEN
+#: LABEL/ID_WEN
+msgid "Wen"
+msgstr "Wen"
+
+# TRANSLATION
+# LABEL/ID_WESTPANEL
+#: LABEL/ID_WESTPANEL
+msgid "westPanel"
+msgstr "westPanel"
+
+# TRANSLATION
+# LABEL/ID_WF_DATABASE_NAME
+#: LABEL/ID_WF_DATABASE_NAME
+msgid "Workflow Database Name"
+msgstr "Workflow Database Name"
+
+# TRANSLATION
+# LABEL/ID_WITHOUT_RESUME
+#: LABEL/ID_WITHOUT_RESUME
+msgid "Without resume!"
+msgstr "Without resume!"
+
+# TRANSLATION
+# LABEL/ID_WORFLOW_DATA_DIRECTORY
+#: LABEL/ID_WORFLOW_DATA_DIRECTORY
+msgid "Workflow Data Directory"
+msgstr "Workflow Data Directory"
+
+# TRANSLATION
+# LABEL/ID_WORKFLOW_DATABASE
+#: LABEL/ID_WORKFLOW_DATABASE
+msgid "Workflow Database"
+msgstr "Workflow Database"
+
+# TRANSLATION
+# LABEL/ID_WORKFLOW_DATABASE_NAME
+#: LABEL/ID_WORKFLOW_DATABASE_NAME
+msgid "Please enter the Workflow Database Name"
+msgstr "Please enter the Workflow Database Name"
+
+# TRANSLATION
+# LABEL/ID_WORKFLOW_DATA_DIRECTORY_REQUIRED
+#: LABEL/ID_WORKFLOW_DATA_DIRECTORY_REQUIRED
+msgid "\"Workflow Data Directory\" is required."
+msgstr "\"Workflow Data Directory\" is required."
+
+# TRANSLATION
+# LABEL/ID_WORKING_DAYS
+#: LABEL/ID_WORKING_DAYS
+msgid "Working days"
+msgstr "Working days"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACE
+#: LABEL/ID_WORKSPACE
+msgid "Workspace"
+msgstr "Workspace"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACES
+#: LABEL/ID_WORKSPACES
+msgid "WORKSPACES"
+msgstr "WORKSPACES"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACE_ADMINISTRATOR
+#: LABEL/ID_WORKSPACE_ADMINISTRATOR
+msgid "Workspace Administrator"
+msgstr "Workspace Administrator"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACE_CONFIGURATION
+#: LABEL/ID_WORKSPACE_CONFIGURATION
+msgid "Workspace Configuration"
+msgstr "Workspace Configuration"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACE_NAME
+#: LABEL/ID_WORKSPACE_NAME
+msgid "Workspace Name"
+msgstr "Workspace Name"
+
+# TRANSLATION
+# LABEL/ID_WORKSPACE_USING
+#: LABEL/ID_WORKSPACE_USING
+msgid "Using workspace"
+msgstr "Using workspace"
+
+# TRANSLATION
+# LABEL/ID_WORK_DAYS
+#: LABEL/ID_WORK_DAYS
+msgid "Work days"
+msgstr "Work days"
+
+# TRANSLATION
+# LABEL/ID_WORK_HOURS
+#: LABEL/ID_WORK_HOURS
+msgid "Work hours"
+msgstr "Work hours"
+
+# TRANSLATION
+# LABEL/ID_WRITEABLE
+#: LABEL/ID_WRITEABLE
+msgid "Writeable"
+msgstr "Writeable"
+
+# TRANSLATION
+# LABEL/ID_WRONG_PASS
+#: LABEL/ID_WRONG_PASS
+msgid "Wrong password"
+msgstr "Wrong password"
+
+# TRANSLATION
+# LABEL/ID_WSDL
+#: LABEL/ID_WSDL
+msgid "The Server Host or Workspace is blank"
+msgstr "The Server Host or Workspace is blank"
+
+# TRANSLATION
+# LABEL/ID_XML
+#: LABEL/ID_XML
+msgid "XML"
+msgstr "XML"
+
+# TRANSLATION
+# LABEL/ID_XMLFROM_DIRECTORY
+#: LABEL/ID_XMLFROM_DIRECTORY
+msgid "Xmlform Directory"
+msgstr "Xmlform Directory"
+
+# TRANSLATION
+# LABEL/ID_XPDL_FILENAME
+#: LABEL/ID_XPDL_FILENAME
+msgid "Download XPDL File:"
+msgstr "Download XPDL File:"
+
+# TRANSLATION
+# LABEL/ID_XPDL_IMPORT
+#: LABEL/ID_XPDL_IMPORT
+msgid "Import XPDL"
+msgstr "Import XPDL"
+
+# TRANSLATION
+# LABEL/ID_YELLOW_ENDS_IN
+#: LABEL/ID_YELLOW_ENDS_IN
+msgid "Yellow Ends In"
+msgstr "Yellow Ends In"
+
+# TRANSLATION
+# LABEL/ID_YELLOW_STARTS_IN
+#: LABEL/ID_YELLOW_STARTS_IN
+msgid "Yellow Starts In"
+msgstr "Yellow Starts In"
+
+# TRANSLATION
+# LABEL/ID_YES
+#: LABEL/ID_YES
+msgid "Yes"
+msgstr "Yes"
+
+# TRANSLATION
+# LABEL/ID_YESTERDAY
+#: LABEL/ID_YESTERDAY
+msgid "Yesterday"
+msgstr "Yesterday"
+
+# TRANSLATION
+# LABEL/ID_YES_VALUE
+#: LABEL/ID_YES_VALUE
+msgid "[LABEL/ID_YES_VALUE] Yes"
+msgstr "Yes"
+
+# TRANSLATION
+# LABEL/ID_YOUR_IMAGE_HAS_BEEN_SUCCESSFULLY
+#: LABEL/ID_YOUR_IMAGE_HAS_BEEN_SUCCESSFULLY
+msgid "Your image has been successfully uploaded"
+msgstr "Your image has been successfully uploaded"
+
+# TRANSLATION
+# LABEL/ID_YOUR_PASSWORD_IS
+#: LABEL/ID_YOUR_PASSWORD_IS
+msgid "Your password is"
+msgstr "Your password is"
+
+# TRANSLATION
+# LABEL/ID_YOUR_USERMANE_IS
+#: LABEL/ID_YOUR_USERMANE_IS
+msgid "Your username is"
+msgstr "Your username is"
+
+# TRANSLATION
+# LABEL/ID_YOU_ARE_FIRST_STEP
+#: LABEL/ID_YOU_ARE_FIRST_STEP
+msgid "You are in the first step!"
+msgstr "You are in the first step!"
+
+# TRANSLATION
+# LABEL/ID_YOU_ARE_NOT_CAN_SELECT_PHOTO
+#: LABEL/ID_YOU_ARE_NOT_CAN_SELECT_PHOTO
+msgid "You are not can select more than one photo"
+msgstr "You are not can select more than one photo"
+
+# TRANSLATION
+# LABEL/ID_YOU_HAVE_ERROR
+#: LABEL/ID_YOU_HAVE_ERROR
+msgid "you have an error"
+msgstr "you have an error"
+

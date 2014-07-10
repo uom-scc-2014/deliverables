@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_DIRECTORY
+#: LABEL/ID_DIRECTORY
+msgid "Directory"
+msgstr "Directory"
+
+# TRANSLATION
+# LABEL/ID_DIRECTORY_FILE_PERMISSION
+#: LABEL/ID_DIRECTORY_FILE_PERMISSION
+msgid "Directory File Permission"
+msgstr "Directory File Permission"
+
+# TRANSLATION
+# LABEL/ID_DIRECTORY_NAME_EXISTS_ENTER_ANOTHER
+#: LABEL/ID_DIRECTORY_NAME_EXISTS_ENTER_ANOTHER
+msgid "The name \"{0}\" already exists, please enter another."
+msgstr "The name \"{0}\" already exists, please enter another."
+
+# TRANSLATION
+# LABEL/ID_DISABLE
+#: LABEL/ID_DISABLE
+msgid "Disable"
+msgstr "Disable"
+
+# TRANSLATION
+# LABEL/ID_DISABLED
+#: LABEL/ID_DISABLED
+msgid "Disabled"
+msgstr "Disabled"
+
+# TRANSLATION
+# LABEL/ID_DISABLE_ACTION
+#: LABEL/ID_DISABLE_ACTION
+msgid "Disable Action"
+msgstr "Disable Action"
+
+# TRANSLATION
+# LABEL/ID_DISABLE_DEBUG
+#: LABEL/ID_DISABLE_DEBUG
+msgid "Disable Debug Mode"
+msgstr "Disable Debug Mode"
+
+# TRANSLATION
+# LABEL/ID_DISABLE_FORGOT_PASSWORD
+#: LABEL/ID_DISABLE_FORGOT_PASSWORD
+msgid "Forgot password was disabled"
+msgstr "Forgot password was disabled"
+
+# TRANSLATION
+# LABEL/ID_DISABLE_WORKSPACE
+#: LABEL/ID_DISABLE_WORKSPACE
+msgid "Disable Workspace"
+msgstr "Disable Workspace"
+
+# TRANSLATION
+# LABEL/ID_DISB_WORKSPACE
+#: LABEL/ID_DISB_WORKSPACE
+msgid "This site is disabled"
+msgstr "This site is disabled"
+
+# TRANSLATION
+# LABEL/ID_DISCARD_CHANGES
+#: LABEL/ID_DISCARD_CHANGES
+msgid "Discard Changes"
+msgstr "Discard Changes"
+
+# TRANSLATION
+# LABEL/ID_DISPLAYING_DB_CONNECTION
+#: LABEL/ID_DISPLAYING_DB_CONNECTION
+msgid "Displaying DB Connection {0} - {1} of {2}"
+msgstr "Displaying DB Connection {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_DISPLAY_EMPTY
+#: LABEL/ID_DISPLAY_EMPTY
+msgid "Displaying Empty"
+msgstr "Displaying Empty"
+
+# TRANSLATION
+# LABEL/ID_DISPLAY_ITEMS
+#: LABEL/ID_DISPLAY_ITEMS
+msgid "Display Items {0} - {1} of {2}"
+msgstr "Display Items {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_DISPLAY_OF
+#: LABEL/ID_DISPLAY_OF
+msgid "of"
+msgstr "of"
+
+# TRANSLATION
+# LABEL/ID_DISPLAY_PROCESSES
+#: LABEL/ID_DISPLAY_PROCESSES
+msgid "Displaying Processes {0} - {1} of {2}"
+msgstr "Displaying Processes {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_DISPLAY_TOTAL
+#: LABEL/ID_DISPLAY_TOTAL
+msgid "Total {2}"
+msgstr "Total {2}"
+
+# TRANSLATION
+# LABEL/ID_DOCLICK
+#: LABEL/ID_DOCLICK
+msgid "Double click to insert"
+msgstr "Double click to insert"
+
+# TRANSLATION
+# LABEL/ID_DOCUMENT_TYPE
+#: LABEL/ID_DOCUMENT_TYPE
+msgid "PM Type"
+msgstr "PM Type"
+
+# TRANSLATION
+# LABEL/ID_DOES_NOT_EXIST
+#: LABEL/ID_DOES_NOT_EXIST
+msgid "does not exist"
+msgstr "does not exist"
+
+# TRANSLATION
+# LABEL/ID_DOES_NOT_EXIST_AVAILABLE_CONNECTION
+#: LABEL/ID_DOES_NOT_EXIST_AVAILABLE_CONNECTION
+msgid "Does not exist an available connection"
+msgstr "Does not exist an available connection"
+
+# TRANSLATION
+# LABEL/ID_DONE
+#: LABEL/ID_DONE
+msgid "Done"
+msgstr "Done"
+
+# TRANSLATION
+# LABEL/ID_DONT_MODIFY_PK_VALUE
+#: LABEL/ID_DONT_MODIFY_PK_VALUE
+msgid "You can not modify the primary key value for \"{0}\" field."
+msgstr "You can not modify the primary key value for \"{0}\" field."
+
+# TRANSLATION
+# LABEL/ID_DOWN
+#: LABEL/ID_DOWN
+msgid "Down"
+msgstr "Down"
+
+# TRANSLATION
+# LABEL/ID_DOWNLOAD
+#: LABEL/ID_DOWNLOAD
+msgid "Download"
+msgstr "Download"
+
+# TRANSLATION
+# LABEL/ID_DOWNLOADING_FILE
+#: LABEL/ID_DOWNLOADING_FILE
+msgid "Downloading file"
+msgstr "Downloading file"
+
+# TRANSLATION
+# LABEL/ID_DRAFT
+#: LABEL/ID_DRAFT
+msgid "[LABEL/ID_DRAFT] Draft"
+msgstr "Draft"
+
+# TRANSLATION
+# LABEL/ID_DROP_DATABASE_EXISTS
+#: LABEL/ID_DROP_DATABASE_EXISTS
+msgid "Drop database if exists"
+msgstr "Drop database if exists"
+
+# TRANSLATION
+# LABEL/ID_DUE_DATE
+#: LABEL/ID_DUE_DATE
+msgid "[LABEL/ID_DUE_DATE] Due Date"
+msgstr "Due Date"
+
+# TRANSLATION
+# LABEL/ID_DUPLICATE_CASE_SCHEDULER_NAME
+#: LABEL/ID_DUPLICATE_CASE_SCHEDULER_NAME
+msgid "Duplicate Case Scheduler name."
+msgstr "Duplicate Case Scheduler name."
+
+# TRANSLATION
+# LABEL/ID_DUPLICATE_CATEGORY_NAME
+#: LABEL/ID_DUPLICATE_CATEGORY_NAME
+msgid "[LABEL/ID_DUPLICATE_CATEGORY_NAME] Duplicate category name."
+msgstr "Duplicate category name."
+
+# TRANSLATION
+# LABEL/ID_DUPLICATE_ENTRY_PRIMARY_KEY
+#: LABEL/ID_DUPLICATE_ENTRY_PRIMARY_KEY
+msgid "Duplicate entry for primary key"
+msgstr "Duplicate entry for primary key"
+
+# TRANSLATION
+# LABEL/ID_DYANFORM_CREATED
+#: LABEL/ID_DYANFORM_CREATED
+msgid "Dynaform has been created successfully"
+msgstr "Dynaform has been created successfully"
+
+# TRANSLATION
+# LABEL/ID_DYANFORM_REMOVE
+#: LABEL/ID_DYANFORM_REMOVE
+msgid "Dynaform has been removed successfully from Process"
+msgstr "Dynaform has been removed successfully from Process"
+
+# TRANSLATION
+# LABEL/ID_DYNADOC
+#: LABEL/ID_DYNADOC
+msgid "My Case Forms and Documents"
+msgstr "My Case Forms and Documents"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM
+#: LABEL/ID_DYNAFORM
+msgid "DynaForm"
+msgstr "DynaForm"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORMS
+#: LABEL/ID_DYNAFORMS
+msgid "[LABEL/ID_DYNAFORMS] DynaForms"
+msgstr "DynaForms"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_ASSIGN
+#: LABEL/ID_DYNAFORM_ASSIGN
+msgid "Dynaform has been successfully assigned to a Process"
+msgstr "Dynaform has been successfully assigned to a Process"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_ASSIGN_FAILED
+#: LABEL/ID_DYNAFORM_ASSIGN_FAILED
+msgid "Failed saving Dynaform Assigned to process"
+msgstr "Failed saving Dynaform Assigned to process"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_COPY
+#: LABEL/ID_DYNAFORM_COPY
+msgid "Copy/Import Dynaform"
+msgstr "Copy/Import Dynaform"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_COPY_REQUIRED
+#: LABEL/ID_DYNAFORM_COPY_REQUIRED
+msgid "Select the dynaform you want to copy/import."
+msgstr "Select the dynaform you want to copy/import."
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_EDITOR
+#: LABEL/ID_DYNAFORM_EDITOR
+msgid "DynaForm Editor"
+msgstr "DynaForm Editor"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_EDITOR_LOGIN_AGAIN
+#: LABEL/ID_DYNAFORM_EDITOR_LOGIN_AGAIN
+msgid "You have lost your session and you have to login to continue. Please enter your password."
+msgstr "You have lost your session and you have to login to continue. Please enter your password."
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_EDITOR_SAVE_CHANGES
+#: LABEL/ID_DYNAFORM_EDITOR_SAVE_CHANGES
+msgid "Do you want to save changes?"
+msgstr "Do you want to save changes?"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_FIELD
+#: LABEL/ID_DYNAFORM_FIELD
+msgid "Dynaform Field"
+msgstr "Dynaform Field"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_FIELDS
+#: LABEL/ID_DYNAFORM_FIELDS
+msgid "Dynaform Fields"
+msgstr "Dynaform Fields"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_HASNOSUBMITBTN
+#: LABEL/ID_DYNAFORM_HASNOSUBMITBTN
+msgid "Warning: This DynaForm does not include a [Submit] or [Button] field to save any entered data."
+msgstr "Warning: This DynaForm does not include a [Submit] or [Button] field to save any entered data."
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_HISTORY
+#: LABEL/ID_DYNAFORM_HISTORY
+msgid "Change Log"
+msgstr "Change Log"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_INFORMATION
+#: LABEL/ID_DYNAFORM_INFORMATION
+msgid "Dynaform Information"
+msgstr "Dynaform Information"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_REMOVED
+#: LABEL/ID_DYNAFORM_REMOVED
+msgid "Dynaform has been removed successfully"
+msgstr "Dynaform has been removed successfully"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_SAVE_CHANGES
+#: LABEL/ID_DYNAFORM_SAVE_CHANGES
+msgid "[LABEL/ID_DYNAFORM_SAVE_CHANGES] Do you want to save changes?"
+msgstr "Do you want to save changes?"
+
+# TRANSLATION
+# LABEL/ID_DYNAFORM_TITLE_REQUIRED
+#: LABEL/ID_DYNAFORM_TITLE_REQUIRED
+msgid "Dynaform Title Required"
+msgstr "Dynaform Title Required"
+
+# TRANSLATION
+# LABEL/ID_EASTPANEL
+#: LABEL/ID_EASTPANEL
+msgid "eastPanel"
+msgstr "eastPanel"
+
+# TRANSLATION
+# LABEL/ID_EDIT
+#: LABEL/ID_EDIT
+msgid "[LABEL/ID_EDIT] Edit"
+msgstr "Edit"
+
+# TRANSLATION
+# LABEL/ID_EDITING_DYNAFORM
+#: LABEL/ID_EDITING_DYNAFORM
+msgid "Editing the dynaform"
+msgstr "Editing the dynaform"
+
+# TRANSLATION
+# LABEL/ID_EDIT_ACTION
+#: LABEL/ID_EDIT_ACTION
+msgid "Edit Action"
+msgstr "Edit Action"
+
+# TRANSLATION
+# LABEL/ID_EDIT_BPMN
+#: LABEL/ID_EDIT_BPMN
+msgid "Edit BPMN"
+msgstr "Edit BPMN"
+
+# TRANSLATION
+# LABEL/ID_EDIT_CATEGORY
+#: LABEL/ID_EDIT_CATEGORY
+msgid "Edit Process Category"
+msgstr "Edit Process Category"
+
+# TRANSLATION
+# LABEL/ID_EDIT_CONDITIONS_OF_STEP
+#: LABEL/ID_EDIT_CONDITIONS_OF_STEP
+msgid "Edit step conditions"
+msgstr "Edit step conditions"
+
+# TRANSLATION
+# LABEL/ID_EDIT_DBC
+#: LABEL/ID_EDIT_DBC
+msgid "Edit Database Connection"
+msgstr "Edit Database Connection"
+
+# TRANSLATION
+# LABEL/ID_EDIT_DEPARTMENT
+#: LABEL/ID_EDIT_DEPARTMENT
+msgid "Edit Department"
+msgstr "Edit Department"
+
+# TRANSLATION
+# LABEL/ID_EDIT_DYNAFORM
+#: LABEL/ID_EDIT_DYNAFORM
+msgid "Edit DynaForm"
+msgstr "Edit DynaForm"
+
+# TRANSLATION
+# LABEL/ID_EDIT_EVENT
+#: LABEL/ID_EDIT_EVENT
+msgid "Edit Event"
+msgstr "Edit Event"
+
+# TRANSLATION
+# LABEL/ID_EDIT_FIELD
+#: LABEL/ID_EDIT_FIELD
+msgid "Edit Field"
+msgstr "Edit Field"
+
+# TRANSLATION
+# LABEL/ID_EDIT_GROUP_TITLE
+#: LABEL/ID_EDIT_GROUP_TITLE
+msgid "Edit Group"
+msgstr "Edit Group"
+
+# TRANSLATION
+# LABEL/ID_EDIT_INPUTDOCS
+#: LABEL/ID_EDIT_INPUTDOCS
+msgid "Edit Input Document"
+msgstr "Edit Input Document"
+
+# TRANSLATION
+# LABEL/ID_EDIT_MEMBEROF
+#: LABEL/ID_EDIT_MEMBEROF
+msgid "Edit Member Of"
+msgstr "Edit Member Of"
+
+# TRANSLATION
+# LABEL/ID_EDIT_MEMBERS
+#: LABEL/ID_EDIT_MEMBERS
+msgid "Edit Members"
+msgstr "Edit Members"
+
+# TRANSLATION
+# LABEL/ID_EDIT_PERMISSIONS
+#: LABEL/ID_EDIT_PERMISSIONS
+msgid "Edit Permissions"
+msgstr "Edit Permissions"
+
+# TRANSLATION
+# LABEL/ID_EDIT_REPORT_TABLE
+#: LABEL/ID_EDIT_REPORT_TABLE
+msgid "Edit Report Table"
+msgstr "Edit Report Table"
+
+# TRANSLATION
+# LABEL/ID_EDIT_ROLE_TITLE
+#: LABEL/ID_EDIT_ROLE_TITLE
+msgid "Edit Role"
+msgstr "Edit Role"
+
+# TRANSLATION
+# LABEL/ID_EDIT_TRIGGERS
+#: LABEL/ID_EDIT_TRIGGERS
+msgid "Edit Trigger"
+msgstr "Edit Trigger"
+
+# TRANSLATION
+# LABEL/ID_EDIT_USERS
+#: LABEL/ID_EDIT_USERS
+msgid "Edit Users"
+msgstr "Edit Users"
+
+# TRANSLATION
+# LABEL/ID_EDIT_VIEW_USER_GROUP
+#: LABEL/ID_EDIT_VIEW_USER_GROUP
+msgid "View user groups"
+msgstr "View user groups"
+
+# TRANSLATION
+# LABEL/ID_EDIT_WEB_ENTRY
+#: LABEL/ID_EDIT_WEB_ENTRY
+msgid "Edit Web Entry"
+msgstr "Edit Web Entry"
+
+# TRANSLATION
+# LABEL/ID_EMAIL
+#: LABEL/ID_EMAIL
+msgid "Email"
+msgstr "Email"
+
+# TRANSLATION
+# LABEL/ID_EMAILS
+#: LABEL/ID_EMAILS
+msgid "EMAILS"
+msgstr "EMAILS"
+
+# TRANSLATION
+# LABEL/ID_EMAIL_DOES_NOT_MATCH_FOR_USER
+#: LABEL/ID_EMAIL_DOES_NOT_MATCH_FOR_USER
+msgid "The email doesn't match for user:"
+msgstr "The email doesn't match for user:"
+
+# TRANSLATION
+# LABEL/ID_EMAIL_ENGINE_IS_NOT_ENABLED
+#: LABEL/ID_EMAIL_ENGINE_IS_NOT_ENABLED
+msgid "The \"Email Notifications\" is not enabled, please contact to your System Administrator."
+msgstr "The \"Email Notifications\" is not enabled, please contact to your System Administrator."
+
+# TRANSLATION
+# LABEL/ID_EMAIL_ENTER_VALID
+#: LABEL/ID_EMAIL_ENTER_VALID
+msgid "Please enter a valid email address."
+msgstr "Please enter a valid email address."
+
+# TRANSLATION
+# LABEL/ID_EMPLOYEE
+#: LABEL/ID_EMPLOYEE
+msgid "Employee"
+msgstr "Employee"
+
+# TRANSLATION
+# LABEL/ID_EMPTY
+#: LABEL/ID_EMPTY
+msgid "empty"
+msgstr "empty"
+
+# TRANSLATION
+# LABEL/ID_EMPTY_CASE
+#: LABEL/ID_EMPTY_CASE
+msgid "Search Case..."
+msgstr "Search Case..."
+
+# TRANSLATION
+# LABEL/ID_EMPTY_LANGUAGE
+#: LABEL/ID_EMPTY_LANGUAGE
+msgid "Select a Language"
+msgstr "Select a Language"
+
+# TRANSLATION
+# LABEL/ID_EMPTY_NODENAME
+#: LABEL/ID_EMPTY_NODENAME
+msgid "[LABEL/ID_EMPTY_NODENAME] The name field is empty"
+msgstr "The name field is empty"
+
+# TRANSLATION
+# LABEL/ID_EMPTY_PMTABLE
+#: LABEL/ID_EMPTY_PMTABLE
+msgid "Select a PM Table..."
+msgstr "Select a PM Table..."
+
+# TRANSLATION
+# LABEL/ID_EMPTY_PROCESSES
+#: LABEL/ID_EMPTY_PROCESSES
+msgid "Select a Process..."
+msgstr "Select a Process..."
+
+# TRANSLATION
+# LABEL/ID_EMPTY_ROW
+#: LABEL/ID_EMPTY_ROW
+msgid "You can't leave an empty row."
+msgstr "You can't leave an empty row."
+
+# TRANSLATION
+# LABEL/ID_EMPTY_SEARCH
+#: LABEL/ID_EMPTY_SEARCH
+msgid "Search ..."
+msgstr "Search ..."
+
+# TRANSLATION
+# LABEL/ID_EMPTY_TYPE
+#: LABEL/ID_EMPTY_TYPE
+msgid "Select a Type"
+msgstr "Select a Type"
+
+# TRANSLATION
+# LABEL/ID_EMPTY_USERS
+#: LABEL/ID_EMPTY_USERS
+msgid "Select a User..."
+msgstr "Select a User..."
+
+# TRANSLATION
+# LABEL/ID_ENABLE
+#: LABEL/ID_ENABLE
+msgid "Enable"
+msgstr "Enable"
+
+# TRANSLATION
+# LABEL/ID_ENABLED
+#: LABEL/ID_ENABLED
+msgid "Enabled"
+msgstr "Enabled"
+
+# TRANSLATION
+# LABEL/ID_ENABLED_TLS
+#: LABEL/ID_ENABLED_TLS
+msgid "Enabled TLS"
+msgstr "Enabled TLS"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_ACTION
+#: LABEL/ID_ENABLE_ACTION
+msgid "Enable Action"
+msgstr "Enable Action"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_DEBUG
+#: LABEL/ID_ENABLE_DEBUG
+msgid "Enable Debug Mode"
+msgstr "Enable Debug Mode"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_EMAIL_NOTIFICATION
+#: LABEL/ID_ENABLE_EMAIL_NOTIFICATION
+msgid "Enable Email Notifications"
+msgstr "Enable Email Notifications"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_FORGOT_PASSWORD
+#: LABEL/ID_ENABLE_FORGOT_PASSWORD
+msgid "Forgot password was enabled"
+msgstr "Forgot password was enabled"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_FOTGOT_PASSWORD
+#: LABEL/ID_ENABLE_FOTGOT_PASSWORD
+msgid "Enable Forgot password"
+msgstr "Enable Forgot password"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_HEART_BEAT
+#: LABEL/ID_ENABLE_HEART_BEAT
+msgid "Contribute to the ProcessMaker project enabling heart beat anonymous usage data"
+msgstr "Contribute to the ProcessMaker project enabling heart beat anonymous usage data"
+

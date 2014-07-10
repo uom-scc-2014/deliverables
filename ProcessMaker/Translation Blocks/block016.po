@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_NO_STARTING_TASK
+#: LABEL/ID_NO_STARTING_TASK
+msgid "No starting task defined"
+msgstr "No starting task defined"
+
+# TRANSLATION
+# LABEL/ID_NO_USERS
+#: LABEL/ID_NO_USERS
+msgid "The task doesn't have any users."
+msgstr "The task doesn't have any users."
+
+# TRANSLATION
+# LABEL/ID_NO_VALUE
+#: LABEL/ID_NO_VALUE
+msgid "[LABEL/ID_NO_VALUE] No"
+msgstr "No"
+
+# TRANSLATION
+# LABEL/ID_NULL
+#: LABEL/ID_NULL
+msgid "Null"
+msgstr "Null"
+
+# TRANSLATION
+# LABEL/ID_OBJECT
+#: LABEL/ID_OBJECT
+msgid "Object"
+msgstr "Object"
+
+# TRANSLATION
+# LABEL/ID_OBJECTS_UNAVAILABLE
+#: LABEL/ID_OBJECTS_UNAVAILABLE
+msgid "No objects are available. All objects have been already assigned."
+msgstr "No objects are available. All objects have been already assigned."
+
+# TRANSLATION
+# LABEL/ID_OBJECT_ASSIGNED
+#: LABEL/ID_OBJECT_ASSIGNED
+msgid "Objects has been successfully assigned"
+msgstr "Objects has been successfully assigned"
+
+# TRANSLATION
+# LABEL/ID_OBJECT_CLASS
+#: LABEL/ID_OBJECT_CLASS
+msgid "Object Classes"
+msgstr "Object Classes"
+
+# TRANSLATION
+# LABEL/ID_OBJECT_FAILED
+#: LABEL/ID_OBJECT_FAILED
+msgid "Failed to assign Objects"
+msgstr "Failed to assign Objects"
+
+# TRANSLATION
+# LABEL/ID_OBJECT_REMOVE
+#: LABEL/ID_OBJECT_REMOVE
+msgid "Object has been removed successfully"
+msgstr "Object has been removed successfully"
+
+# TRANSLATION
+# LABEL/ID_OBJECT_UPDATE
+#: LABEL/ID_OBJECT_UPDATE
+msgid "User has been updated successfully"
+msgstr "User has been updated successfully"
+
+# TRANSLATION
+# LABEL/ID_OFF
+#: LABEL/ID_OFF
+msgid "Off"
+msgstr "Off"
+
+# TRANSLATION
+# LABEL/ID_OF_THE_MONTH
+#: LABEL/ID_OF_THE_MONTH
+msgid "of the month(s)"
+msgstr "of the month(s)"
+
+# TRANSLATION
+# LABEL/ID_OLD_VERSION
+#: LABEL/ID_OLD_VERSION
+msgid "old version"
+msgstr "old version"
+
+# TRANSLATION
+# LABEL/ID_ON
+#: LABEL/ID_ON
+msgid "On"
+msgstr "On"
+
+# TRANSLATION
+# LABEL/ID_ON_TIME
+#: LABEL/ID_ON_TIME
+msgid "On Time"
+msgstr "On Time"
+
+# TRANSLATION
+# LABEL/ID_OPEN
+#: LABEL/ID_OPEN
+msgid "Open"
+msgstr "Open"
+
+# TRANSLATION
+# LABEL/ID_OPENSSL_OPTIONAL
+#: LABEL/ID_OPENSSL_OPTIONAL
+msgid "OpenSSL is optional."
+msgstr "OpenSSL is optional."
+
+# TRANSLATION
+# LABEL/ID_OPEN_CASE
+#: LABEL/ID_OPEN_CASE
+msgid "Open Case"
+msgstr "Open Case"
+
+# TRANSLATION
+# LABEL/ID_OPEN_DB
+#: LABEL/ID_OPEN_DB
+msgid "Trying to open database"
+msgstr "Trying to open database"
+
+# TRANSLATION
+# LABEL/ID_OPEN_IN_:POPUP
+#: LABEL/ID_OPEN_IN_:POPUP
+msgid "Open in a popup"
+msgstr "Open in a popup"
+
+# TRANSLATION
+# LABEL/ID_OPEN_IN_A_NEW_WINDOW
+#: LABEL/ID_OPEN_IN_A_NEW_WINDOW
+msgid "Open in a new window"
+msgstr "Open in a new window"
+
+# TRANSLATION
+# LABEL/ID_OPEN_IN_POPUP
+#: LABEL/ID_OPEN_IN_POPUP
+msgid "[LABEL/ID_OPEN_IN_POPUP] Open in a popup"
+msgstr "Open in a popup"
+
+# TRANSLATION
+# LABEL/ID_OPEN_WITH
+#: LABEL/ID_OPEN_WITH
+msgid "Open With"
+msgstr "Open With"
+
+# TRANSLATION
+# LABEL/ID_OPERATING_SYSTEM
+#: LABEL/ID_OPERATING_SYSTEM
+msgid "Operating System"
+msgstr "Operating System"
+
+# TRANSLATION
+# LABEL/ID_OPTION
+#: LABEL/ID_OPTION
+msgid "Option"
+msgstr "Option"
+
+# TRANSLATION
+# LABEL/ID_OPTIONS
+#: LABEL/ID_OPTIONS
+msgid "Options"
+msgstr "Options"
+
+# TRANSLATION
+# LABEL/ID_OPT_ALL
+#: LABEL/ID_OPT_ALL
+msgid "[LABEL/ID_OPT_ALL] All"
+msgstr "All"
+
+# TRANSLATION
+# LABEL/ID_OPT_COMPLETED
+#: LABEL/ID_OPT_COMPLETED
+msgid "Completed by Me"
+msgstr "Completed by Me"
+
+# TRANSLATION
+# LABEL/ID_OPT_JUMP
+#: LABEL/ID_OPT_JUMP
+msgid "Jump To"
+msgstr "Jump To"
+
+# TRANSLATION
+# LABEL/ID_OPT_READ
+#: LABEL/ID_OPT_READ
+msgid "Read"
+msgstr "Read"
+
+# TRANSLATION
+# LABEL/ID_OPT_STARTED
+#: LABEL/ID_OPT_STARTED
+msgid "Started by Me"
+msgstr "Started by Me"
+
+# TRANSLATION
+# LABEL/ID_OPT_UNREAD
+#: LABEL/ID_OPT_UNREAD
+msgid "Unread"
+msgstr "Unread"
+
+# TRANSLATION
+# LABEL/ID_ORIENTATION
+#: LABEL/ID_ORIENTATION
+msgid "Orientation"
+msgstr "Orientation"
+
+# TRANSLATION
+# LABEL/ID_ORIGIN
+#: LABEL/ID_ORIGIN
+msgid "Origin"
+msgstr "Origin"
+
+# TRANSLATION
+# LABEL/ID_ORIGIN_TASK
+#: LABEL/ID_ORIGIN_TASK
+msgid "Origin Task"
+msgstr "Origin Task"
+
+# TRANSLATION
+# LABEL/ID_OTHER
+#: LABEL/ID_OTHER
+msgid "Other"
+msgstr "Other"
+
+# TRANSLATION
+# LABEL/ID_OUTBOX
+#: LABEL/ID_OUTBOX
+msgid "Outbox"
+msgstr "Outbox"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_DOCUMENT
+#: LABEL/ID_OUTPUT_DOCUMENT
+msgid "Output Document"
+msgstr "Output Document"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_DOCUMENTS
+#: LABEL/ID_OUTPUT_DOCUMENTS
+msgid "[LABEL/ID_OUTPUT_DOCUMENTS] Output Documents"
+msgstr "Output Documents"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_DOCUMENT_TEMPLATE
+#: LABEL/ID_OUTPUT_DOCUMENT_TEMPLATE
+msgid "Output Document Template"
+msgstr "Output Document Template"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_GENERATE
+#: LABEL/ID_OUTPUT_GENERATE
+msgid "Output Document to Generate"
+msgstr "Output Document to Generate"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_INFO
+#: LABEL/ID_OUTPUT_INFO
+msgid "Output Document Information"
+msgstr "Output Document Information"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_NOT_SAVE
+#: LABEL/ID_OUTPUT_NOT_SAVE
+msgid "There is an Output Document with the same name in this process. It is not saving."
+msgstr "There is an Output Document with the same name in this process. It is not saving."
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_REMOVE
+#: LABEL/ID_OUTPUT_REMOVE
+msgid "Output document has been removed successfully"
+msgstr "Output document has been removed successfully"
+
+# TRANSLATION
+# LABEL/ID_OUTPUT_UPDATE
+#: LABEL/ID_OUTPUT_UPDATE
+msgid "Output document has been updated successfully."
+msgstr "Output document has been updated successfully."
+
+# TRANSLATION
+# LABEL/ID_OUT_PUT_DOC_UPLOAD_TITLE
+#: LABEL/ID_OUT_PUT_DOC_UPLOAD_TITLE
+msgid "Upload Output Document Template File"
+msgstr "Upload Output Document Template File"
+
+# TRANSLATION
+# LABEL/ID_OVERDUE
+#: LABEL/ID_OVERDUE
+msgid "Overdue"
+msgstr "Overdue"
+
+# TRANSLATION
+# LABEL/ID_OVERWRITE
+#: LABEL/ID_OVERWRITE
+msgid "Overwrite"
+msgstr "Overwrite"
+
+# TRANSLATION
+# LABEL/ID_OVERWRITE_EXIST
+#: LABEL/ID_OVERWRITE_EXIST
+msgid "Overwrite if exists?"
+msgstr "Overwrite if exists?"
+
+# TRANSLATION
+# LABEL/ID_OWNER
+#: LABEL/ID_OWNER
+msgid "Owner"
+msgstr "Owner"
+
+# TRANSLATION
+# LABEL/ID_PAGE
+#: LABEL/ID_PAGE
+msgid "Page"
+msgstr "Page"
+
+# TRANSLATION
+# LABEL/ID_PAGE_SIZE
+#: LABEL/ID_PAGE_SIZE
+msgid "Page Size"
+msgstr "Page Size"
+
+# TRANSLATION
+# LABEL/ID_PARALLEL_TASK
+#: LABEL/ID_PARALLEL_TASK
+msgid "Parallel Task"
+msgstr "Parallel Task"
+
+# TRANSLATION
+# LABEL/ID_PARAMETERS
+#: LABEL/ID_PARAMETERS
+msgid "Parameters"
+msgstr "Parameters"
+
+# TRANSLATION
+# LABEL/ID_PARENT_DEPARTMENT_NOT_EXIST
+#: LABEL/ID_PARENT_DEPARTMENT_NOT_EXIST
+msgid "Parent department doesn't exist"
+msgstr "Parent department doesn't exist"
+
+# TRANSLATION
+# LABEL/ID_PARTICIPATION
+#: LABEL/ID_PARTICIPATION
+msgid "Participation"
+msgstr "Participation"
+
+# TRANSLATION
+# LABEL/ID_PARTICIPATION_REQUIRED
+#: LABEL/ID_PARTICIPATION_REQUIRED
+msgid "Participation Required?"
+msgstr "Participation Required?"
+
+# TRANSLATION
+# LABEL/ID_PASSWD_REQUIRED
+#: LABEL/ID_PASSWD_REQUIRED
+msgid "Password is required"
+msgstr "Password is required"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD
+#: LABEL/ID_PASSWORD
+msgid "[LABEL/ID_PASSWORD] Password"
+msgstr "Password"
+
+# TRANSLATION
+# LABEL/ID_PASSWORDS_DONT_MATCH
+#: LABEL/ID_PASSWORDS_DONT_MATCH
+msgid "The password fields don't match."
+msgstr "The password fields don't match."
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_ADMIN
+#: LABEL/ID_PASSWORD_ADMIN
+msgid "Password (admin)(Max. length 20)"
+msgstr "Password (admin)(Max. length 20)"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_ADMIN_RETYPE
+#: LABEL/ID_PASSWORD_ADMIN_RETYPE
+msgid "Re-type Password"
+msgstr "Re-type Password"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_CHANGED_SUCCESSFULLY
+#: LABEL/ID_PASSWORD_CHANGED_SUCCESSFULLY
+msgid "Your password has been successfully changed to"
+msgstr "Your password has been successfully changed to"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_COMPLIES_POLICIES
+#: LABEL/ID_PASSWORD_COMPLIES_POLICIES
+msgid "The password complies with the security policies."
+msgstr "The password complies with the security policies."
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_CONFIRMATION_INCORRECT
+#: LABEL/ID_PASSWORD_CONFIRMATION_INCORRECT
+msgid "The password confirmation is incorrect."
+msgstr "The password confirmation is incorrect."
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_CURRENT
+#: LABEL/ID_PASSWORD_CURRENT
+msgid "Current Password"
+msgstr "Current Password"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_CURRENT_ENTER
+#: LABEL/ID_PASSWORD_CURRENT_ENTER
+msgid "Enter the current password"
+msgstr "Enter the current password"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_CURRENT_INCORRECT
+#: LABEL/ID_PASSWORD_CURRENT_INCORRECT
+msgid "The current password is incorrect"
+msgstr "The current password is incorrect"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_SURPRASES
+#: LABEL/ID_PASSWORD_SURPRASES
+msgid "Password surprases the maximun length allowed"
+msgstr "Password surprases the maximun length allowed"
+
+# TRANSLATION
+# LABEL/ID_PASSWORD_TESTING
+#: LABEL/ID_PASSWORD_TESTING
+msgid "Testing password"
+msgstr "Testing password"
+
+# TRANSLATION
+# LABEL/ID_PATH
+#: LABEL/ID_PATH
+msgid "Path"
+msgstr "Path"
+
+# TRANSLATION
+# LABEL/ID_PAUSE
+#: LABEL/ID_PAUSE
+msgid "Pause"
+msgstr "Pause"
+
+# TRANSLATION
+# LABEL/ID_PAUSED
+#: LABEL/ID_PAUSED
+msgid "[LABEL/ID_PAUSED] Paused"
+msgstr "Paused"
+
+# TRANSLATION
+# LABEL/ID_PAUSED_CASE
+#: LABEL/ID_PAUSED_CASE
+msgid "[LABEL/ID_PAUSED_CASE] Pause"
+msgstr "Pause"
+
+# TRANSLATION
+# LABEL/ID_PAUSE_CASE
+#: LABEL/ID_PAUSE_CASE
+msgid "Pause Case"
+msgstr "Pause Case"
+
+# TRANSLATION
+# LABEL/ID_PAUSE_CASE_TO_DATE
+#: LABEL/ID_PAUSE_CASE_TO_DATE
+msgid "Do you want to pause the case until"
+msgstr "Do you want to pause the case until"
+
+# TRANSLATION
+# LABEL/ID_PAUSE_DATE
+#: LABEL/ID_PAUSE_DATE
+msgid "Pause Date"
+msgstr "Pause Date"
+
+# TRANSLATION
+# LABEL/ID_PAUSING_CASE
+#: LABEL/ID_PAUSING_CASE
+msgid "Pausing Case"
+msgstr "Pausing Case"
+
+# TRANSLATION
+# LABEL/ID_PENDING
+#: LABEL/ID_PENDING
+msgid "Pending"
+msgstr "Pending"
+
+# TRANSLATION
+# LABEL/ID_PENDING_TASK
+#: LABEL/ID_PENDING_TASK
+msgid "Pending Task / Not Executed"
+msgstr "Pending Task / Not Executed"
+
+# TRANSLATION
+# LABEL/ID_PERFORM_TASK
+#: LABEL/ID_PERFORM_TASK
+msgid "Perform this Task"
+msgstr "Perform this Task"
+
+# TRANSLATION
+# LABEL/ID_PERIOD
+#: LABEL/ID_PERIOD
+msgid "Period"
+msgstr "Period"
+
+# TRANSLATION
+# LABEL/ID_PERMISSIONS
+#: LABEL/ID_PERMISSIONS
+msgid "[LABEL/ID_PERMISSIONS] Permissions"
+msgstr "Permissions"
+
+# TRANSLATION
+# LABEL/ID_PERMISSIONS_FOR_THE_ROL
+#: LABEL/ID_PERMISSIONS_FOR_THE_ROL
+msgid "Permissions for the role"
+msgstr "Permissions for the role"
+
+# TRANSLATION
+# LABEL/ID_PERMISSION_ALREADY_EXIST
+#: LABEL/ID_PERMISSION_ALREADY_EXIST
+msgid "The Permission already exists!"
+msgstr "The Permission already exists!"
+
+# TRANSLATION
+# LABEL/ID_PERMISSION_CODE
+#: LABEL/ID_PERMISSION_CODE
+msgid "Permission Code"
+msgstr "Permission Code"
+
+# TRANSLATION
+# LABEL/ID_PERMISSION_NAME
+#: LABEL/ID_PERMISSION_NAME
+msgid "Permission Name"
+msgstr "Permission Name"
+
+# TRANSLATION
+# LABEL/ID_PERMISSION_NEW
+#: LABEL/ID_PERMISSION_NEW
+msgid "New specific Permission"
+msgstr "New specific Permission"
+
+# TRANSLATION
+# LABEL/ID_PERMITIONS
+#: LABEL/ID_PERMITIONS
+msgid "[LABEL/ID_PERMITIONS] Permissions"
+msgstr "Permissions"
+
+# TRANSLATION
+# LABEL/ID_PERSONAL_INFORMATION
+#: LABEL/ID_PERSONAL_INFORMATION
+msgid "Personal information"
+msgstr "Personal information"
+
+# TRANSLATION
+# LABEL/ID_PHONE
+#: LABEL/ID_PHONE
+msgid "Phone"
+msgstr "Phone"
+
+# TRANSLATION
+# LABEL/ID_PHONE_NUMBER
+#: LABEL/ID_PHONE_NUMBER
+msgid "Phone Number"
+msgstr "Phone Number"
+
+# TRANSLATION
+# LABEL/ID_PHOTO
+#: LABEL/ID_PHOTO
+msgid "Photo"
+msgstr "Photo"
+
+# TRANSLATION
+# LABEL/ID_PHP_INFO
+#: LABEL/ID_PHP_INFO
+msgid "PHP Information"
+msgstr "PHP Information"
+
+# TRANSLATION
+# LABEL/ID_PHP_MSSQL_NOT_INSTALLED
+#: LABEL/ID_PHP_MSSQL_NOT_INSTALLED
+msgid "php-mssql is Not Installed"
+msgstr "php-mssql is Not Installed"
+
+# TRANSLATION
+# LABEL/ID_PHP_MYSQL_NOT _INSTALL
+#: LABEL/ID_PHP_MYSQL_NOT _INSTALL
+msgid "php-mysql is Not Installed"
+msgstr "php-mysql is Not Installed"
+
+# TRANSLATION
+# LABEL/ID_PHP_VERSION
+#: LABEL/ID_PHP_VERSION
+msgid "PHP Version"
+msgstr "PHP Version"
+
+# TRANSLATION
+# LABEL/ID_PHP_WEB_SERVICE
+#: LABEL/ID_PHP_WEB_SERVICE
+msgid "PHP & Web Service options"
+msgstr "PHP & Web Service options"
+
+# TRANSLATION
+# LABEL/ID_PIN_INVALID
+#: LABEL/ID_PIN_INVALID
+msgid "The PIN is invalid"
+msgstr "The PIN is invalid"
+

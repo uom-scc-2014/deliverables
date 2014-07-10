@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# dbConnections/dbConnections.xml?SEARCH
+# dbConnections/dbConnections.xml
+#: button - SEARCH
+msgid "[dbConnections/dbConnections.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dbConnections/dbConnections_Edit.xml?DBS_UID
+# dbConnections/dbConnections_Edit.xml
+#: text - DBS_UID
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_UID] UID"
+msgstr "UID"
+
+# dbConnections/dbConnections_Edit.xml?DBS_TYPE
+# dbConnections/dbConnections_Edit.xml
+#: dropdown - DBS_TYPE
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_TYPE] Engine"
+msgstr "Engine"
+
+# dbConnections/dbConnections_Edit.xml?DBS_TYPE-
+# dbConnections/dbConnections_Edit.xml
+#: dropdown - DBS_TYPE -
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_TYPE-]"
+msgstr "..."
+
+# dbConnections/dbConnections_Edit.xml?DBS_ENCODE
+# dbConnections/dbConnections_Edit.xml
+#: dropdown - DBS_ENCODE
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_ENCODE] Encode"
+msgstr "Encode"
+
+# dbConnections/dbConnections_Edit.xml?DBS_ENCODE-
+# dbConnections/dbConnections_Edit.xml
+#: dropdown - DBS_ENCODE -
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_ENCODE-]"
+msgstr "..."
+
+# dbConnections/dbConnections_Edit.xml?DBS_SERVER
+# dbConnections/dbConnections_Edit.xml
+#: text - DBS_SERVER
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_SERVER] Server"
+msgstr "Server"
+
+# dbConnections/dbConnections_Edit.xml?DBS_DATABASE_NAME
+# dbConnections/dbConnections_Edit.xml
+#: text - DBS_DATABASE_NAME
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_DATABASE_NAME] Database Name"
+msgstr "Database Name"
+
+# dbConnections/dbConnections_Edit.xml?DBS_USERNAME
+# dbConnections/dbConnections_Edit.xml
+#: text - DBS_USERNAME
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_USERNAME] Username"
+msgstr "Username"
+
+# dbConnections/dbConnections_Edit.xml?DBS_PASSWORD
+# dbConnections/dbConnections_Edit.xml
+#: password - DBS_PASSWORD
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_PASSWORD] Password"
+msgstr "Password"
+
+# dbConnections/dbConnections_Edit.xml?DBS_PORT
+# dbConnections/dbConnections_Edit.xml
+#: text - DBS_PORT
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_PORT] Port"
+msgstr "Port"
+
+# dbConnections/dbConnections_Edit.xml?DBS_DESCRIPTION
+# dbConnections/dbConnections_Edit.xml
+#: textarea - DBS_DESCRIPTION
+msgid "[dbConnections/dbConnections_Edit.xml?DBS_DESCRIPTION] Description"
+msgstr "Description"
+
+# dbConnections/dbConnections_Edit.xml?TEST
+# dbConnections/dbConnections_Edit.xml
+#: button - TEST
+msgid "[dbConnections/dbConnections_Edit.xml?TEST] Test Connection"
+msgstr "Test Connection"
+
+# dbConnections/dbConnections_Edit.xml?CREATE
+# dbConnections/dbConnections_Edit.xml
+#: button - CREATE
+msgid "[dbConnections/dbConnections_Edit.xml?CREATE] Save"
+msgstr "Save"
+
+# dbConnections/dbConnections_Edit.xml?BTN_CANCEL
+# dbConnections/dbConnections_Edit.xml
+#: button - BTN_CANCEL
+msgid "[dbConnections/dbConnections_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dbConnections/dbConnections_New.xml?DBS_TYPE
+# dbConnections/dbConnections_New.xml
+#: dropdown - DBS_TYPE
+msgid "[dbConnections/dbConnections_New.xml?DBS_TYPE] Engine"
+msgstr "Engine"
+
+# dbConnections/dbConnections_New.xml?DBS_TYPE-
+# dbConnections/dbConnections_New.xml
+#: dropdown - DBS_TYPE -
+msgid "[dbConnections/dbConnections_New.xml?DBS_TYPE-]"
+msgstr "Select..."
+
+# dbConnections/dbConnections_New.xml?DBS_ENCODE
+# dbConnections/dbConnections_New.xml
+#: dropdown - DBS_ENCODE
+msgid "[dbConnections/dbConnections_New.xml?DBS_ENCODE] Encode"
+msgstr "Encode"
+
+# dbConnections/dbConnections_New.xml?DBS_ENCODE-
+# dbConnections/dbConnections_New.xml
+#: dropdown - DBS_ENCODE -
+msgid "[dbConnections/dbConnections_New.xml?DBS_ENCODE-]"
+msgstr "..."
+
+# dbConnections/dbConnections_New.xml?DBS_SERVER
+# dbConnections/dbConnections_New.xml
+#: text - DBS_SERVER
+msgid "[dbConnections/dbConnections_New.xml?DBS_SERVER] Server"
+msgstr "Server"
+
+# dbConnections/dbConnections_New.xml?DBS_DATABASE_NAME
+# dbConnections/dbConnections_New.xml
+#: text - DBS_DATABASE_NAME
+msgid "[dbConnections/dbConnections_New.xml?DBS_DATABASE_NAME] Database Name"
+msgstr "Database Name"
+
+# dbConnections/dbConnections_New.xml?DBS_USERNAME
+# dbConnections/dbConnections_New.xml
+#: text - DBS_USERNAME
+msgid "[dbConnections/dbConnections_New.xml?DBS_USERNAME] Username"
+msgstr "Username"
+
+# dbConnections/dbConnections_New.xml?DBS_PASSWORD
+# dbConnections/dbConnections_New.xml
+#: password - DBS_PASSWORD
+msgid "[dbConnections/dbConnections_New.xml?DBS_PASSWORD] Password"
+msgstr "Password"
+
+# dbConnections/dbConnections_New.xml?DBS_PORT
+# dbConnections/dbConnections_New.xml
+#: text - DBS_PORT
+msgid "[dbConnections/dbConnections_New.xml?DBS_PORT] Port"
+msgstr "Port"
+
+# dbConnections/dbConnections_New.xml?DBS_DESCRIPTION
+# dbConnections/dbConnections_New.xml
+#: textarea - DBS_DESCRIPTION
+msgid "[dbConnections/dbConnections_New.xml?DBS_DESCRIPTION] Description"
+msgstr "Description"
+
+# dbConnections/dbConnections_New.xml?TEST
+# dbConnections/dbConnections_New.xml
+#: button - TEST
+msgid "[dbConnections/dbConnections_New.xml?TEST] Test Connection"
+msgstr "Test Connection"
+
+# dbConnections/dbConnections_New.xml?CREATE
+# dbConnections/dbConnections_New.xml
+#: button - CREATE
+msgid "[dbConnections/dbConnections_New.xml?CREATE] Create"
+msgstr "Create"
+
+# dbConnections/dbConnections_New.xml?BTN_CANCEL
+# dbConnections/dbConnections_New.xml
+#: button - BTN_CANCEL
+msgid "[dbConnections/dbConnections_New.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dbConnections/dbConnections_Options.xml?MNU_ADD
+# dbConnections/dbConnections_Options.xml
+#: link - MNU_ADD
+msgid "[dbConnections/dbConnections_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# departments/departments_AddUnAssignedUsers.xml?USR_FIRSTNAME
+# departments/departments_AddUnAssignedUsers.xml
+#: text - USR_FIRSTNAME
+msgid "Firstname"
+msgstr "Firstname"
+
+# departments/departments_AddUnAssignedUsers.xml?USR_LASTNAME
+# departments/departments_AddUnAssignedUsers.xml
+#: text - USR_LASTNAME
+msgid "Lastname"
+msgstr "Lastname"
+
+# departments/departments_AvailableUsers.xml?USR_FIRSTNAME
+# departments/departments_AvailableUsers.xml
+#: text - USR_FIRSTNAME
+msgid "[departments/departments_AvailableUsers.xml?USR_FIRSTNAME] Firstname"
+msgstr "Firstname"
+
+# departments/departments_AvailableUsers.xml?USR_LASTNAME
+# departments/departments_AvailableUsers.xml
+#: text - USR_LASTNAME
+msgid "[departments/departments_AvailableUsers.xml?USR_LASTNAME] Lastname"
+msgstr "Lastname"
+
+# departments/departments_Edit.xml?title
+# departments/departments_Edit.xml
+#: title - title
+msgid "Department Information"
+msgstr "Department Information"
+
+# departments/departments_Edit.xml?DEPO_TITLE
+# departments/departments_Edit.xml
+#: text - DEPO_TITLE
+msgid "[departments/departments_Edit.xml?DEPO_TITLE] Name"
+msgstr "Name"
+
+# departments/departments_Edit.xml?DEP_STATUS
+# departments/departments_Edit.xml
+#: dropdown - DEP_STATUS
+msgid "[departments/departments_Edit.xml?DEP_STATUS] Status"
+msgstr "Status"
+
+# departments/departments_Edit.xml?DEP_STATUS-ACTIVE
+# departments/departments_Edit.xml
+#: dropdown - DEP_STATUS - ACTIVE
+msgid "[departments/departments_Edit.xml?DEP_STATUS-ACTIVE]"
+msgstr "Active"
+
+# departments/departments_Edit.xml?DEP_STATUS-INACTIVE
+# departments/departments_Edit.xml
+#: dropdown - DEP_STATUS - INACTIVE
+msgid "[departments/departments_Edit.xml?DEP_STATUS-INACTIVE]"
+msgstr "Inactive"
+
+# departments/departments_Edit.xml?DEP_MANAGER
+# departments/departments_Edit.xml
+#: dropdown - DEP_MANAGER
+msgid "Manager/Supervisor"
+msgstr "Manager/Supervisor"
+
+# departments/departments_Edit.xml?button
+# departments/departments_Edit.xml
+#: button - button
+msgid "[departments/departments_Edit.xml?button] Save"
+msgstr "Save"
+
+# departments/departments_New.xml?title
+# departments/departments_New.xml
+#: title - title
+msgid "[departments/departments_New.xml?title] Department Information"
+msgstr "Department Information"
+
+# departments/departments_New.xml?DEP_TITLE
+# departments/departments_New.xml
+#: text - DEP_TITLE
+msgid "[departments/departments_New.xml?DEP_TITLE] Department Name"
+msgstr "Department Name"
+
+# departments/departments_New.xml?BTN_CANCEL
+# departments/departments_New.xml
+#: button - BTN_CANCEL
+msgid "[departments/departments_New.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# departments/departments_New.xml?button
+# departments/departments_New.xml
+#: button - button
+msgid "[departments/departments_New.xml?button] Save"
+msgstr "Save"
+
+# departments/departments_Options.xml?MNU_ADD_EMPLOYE
+# departments/departments_Options.xml
+#: link - MNU_ADD_EMPLOYE
+msgid "[departments/departments_Options.xml?MNU_ADD_EMPLOYE] Assign user"
+msgstr "Assign user"
+
+# departments/departments_SubNew.xml?title
+# departments/departments_SubNew.xml
+#: title - title
+msgid "[departments/departments_SubNew.xml?title] Department Information"
+msgstr "Department Information"
+
+# departments/departments_SubNew.xml?DEP_PARENT_NAME
+# departments/departments_SubNew.xml
+#: text - DEP_PARENT_NAME
+msgid "Parent Department"
+msgstr "Parent Department"
+
+# departments/departments_SubNew.xml?DEP_TITLE
+# departments/departments_SubNew.xml
+#: text - DEP_TITLE
+msgid "[departments/departments_SubNew.xml?DEP_TITLE] Department Name"
+msgstr "Department Name"
+
+# departments/departments_SubNew.xml?BTN_CANCEL
+# departments/departments_SubNew.xml
+#: button - BTN_CANCEL
+msgid "[departments/departments_SubNew.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# departments/departments_SubNew.xml?button
+# departments/departments_SubNew.xml
+#: button - button
+msgid "[departments/departments_SubNew.xml?button] Save"
+msgstr "Save"
+
+# departments/departments_UsersList.xml?USR_USERNAME
+# departments/departments_UsersList.xml
+#: text - USR_USERNAME
+msgid "[departments/departments_UsersList.xml?USR_USERNAME] Username"
+msgstr "Username"
+
+# departments/departments_UsersList.xml?USR_FULLNAME
+# departments/departments_UsersList.xml
+#: text - USR_FULLNAME
+msgid "[departments/departments_UsersList.xml?USR_FULLNAME] User"
+msgstr "User"
+
+# departments/departments_UsersList.xml?USR_MANAGER
+# departments/departments_UsersList.xml
+#: text - USR_MANAGER
+msgid "[departments/departments_UsersList.xml?USR_MANAGER] Manager"
+msgstr "Manager"
+
+# departments/departments_UsersList.xml?USR_REPORTS_NAME
+# departments/departments_UsersList.xml
+#: text - USR_REPORTS_NAME
+msgid "Reports To"
+msgstr "Reports To"
+
+# dynaforms/datemask.xml?mask
+# dynaforms/datemask.xml
+#: title - mask
+msgid "Options Mask"
+msgstr "Options Mask"
+
+# dynaforms/datemask.xml?option1
+# dynaforms/datemask.xml
+#: subtitle - option1
+msgid "%a — abbreviated weekday name\n"
+"<br> %A — full weekday name\n"
+"<br> %b — abbreviated month name\n"
+"<br> %B — full month name\n"
+"<br> %C — the century number\n"
+"<br> %d — the day of the month (range 01 to 31)\n"
+"<br> %e — the day of the month (range 1 to 31)\n"
+"<br> %H — hour, range 00 to 23 (24h format)\n"
+"<br> %I — hour, range 01 to 12 (12h format)\n"
+"<br> %j — day of the year (range 001 to 366)\n"
+"<br> %k — hour, range 0 to 23 (24h format)\n"
+"<br> %l — hour, range 1 to 12 (12h format)\n"
+"<br> %m — month, range 01 to 12\n"
+"<br> %o — month, range 1 to 12\n"
+"<br> %M — minute, range 00 to 59\n"
+"<br> %n — a newline character\n"
+"<br> %p — PM or AM\n"
+"<br> %P — pm or am\n"
+"<br> %s — UNIX time (number of seconds since 1970-01-01)\n"
+"<br> %S — seconds, range 00 to 59\n"
+"<br> %t — a tab character\n"
+"<br> %W — week number\n"
+"<br> %u — the day of the week (range 1 to 7, 1 = MON)\n"
+"<br> %w — the day of the week (range 0 to 6, 0 = SUN)\n"
+"<br> %y — year without the century (range 00 to 99)\n"
+"<br> %Y — year with the century\n"
+"<br> %% — a literal '%' character"
+msgstr "%a — abbreviated weekday name\n"
+"<br> %A — full weekday name\n"
+"<br> %b — abbreviated month name\n"
+"<br> %B — full month name\n"
+"<br> %C — the century number\n"
+"<br> %d — the day of the month (range 01 to 31)\n"
+"<br> %e — the day of the month (range 1 to 31)\n"
+"<br> %H — hour, range 00 to 23 (24h format)\n"
+"<br> %I — hour, range 01 to 12 (12h format)\n"
+"<br> %j — day of the year (range 001 to 366)\n"
+"<br> %k — hour, range 0 to 23 (24h format)\n"
+"<br> %l — hour, range 1 to 12 (12h format)\n"
+"<br> %m — month, range 01 to 12\n"
+"<br> %o — month, range 1 to 12\n"
+"<br> %M — minute, range 00 to 59\n"
+"<br> %n — a newline character\n"
+"<br> %p — PM or AM\n"
+"<br> %P — pm or am\n"
+"<br> %s — UNIX time (number of seconds since 1970-01-01)\n"
+"<br> %S — seconds, range 00 to 59\n"
+"<br> %t — a tab character\n"
+"<br> %W — week number\n"
+"<br> %u — the day of the week (range 1 to 7, 1 = MON)\n"
+"<br> %w — the day of the week (range 0 to 6, 0 = SUN)\n"
+"<br> %y — year without the century (range 00 to 99)\n"
+"<br> %Y — year with the century\n"
+"<br> %% — a literal '%' character"
+
+# dynaforms/dynaform_Fields.xml?XMLNODE_NAME
+# dynaforms/dynaform_Fields.xml
+#: text - XMLNODE_NAME
+msgid "Field"
+msgstr "Field"
+
+# dynaforms/dynaform_Fields.xml?TYPE
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE
+msgid "[dynaforms/dynaform_Fields.xml?TYPE] Type"
+msgstr "Type"
+
+# dynaforms/dynaform_Fields.xml?TYPE-title
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - title
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-title]"
+msgstr "Title"
+
+# dynaforms/dynaform_Fields.xml?TYPE-subtitle
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - subtitle
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-subtitle]"
+msgstr "Subtitle"
+
+# dynaforms/dynaform_Fields.xml?TYPE-text
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - text
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-text]"
+msgstr "text"
+
+# dynaforms/dynaform_Fields.xml?TYPE-password
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - password
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-password]"
+msgstr "Password"
+
+# dynaforms/dynaform_Fields.xml?TYPE-textarea
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - textarea
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-textarea]"
+msgstr "Text Area"
+
+# dynaforms/dynaform_Fields.xml?TYPE-currency
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - currency
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-currency]"
+msgstr "Currency"
+
+# dynaforms/dynaform_Fields.xml?TYPE-percentage
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - percentage
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-percentage]"
+msgstr "Percentage"
+
+# dynaforms/dynaform_Fields.xml?TYPE-date
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - date
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-date]"
+msgstr "date"
+
+# dynaforms/dynaform_Fields.xml?TYPE-yesno
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - yesno
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-yesno]"
+msgstr "Yes/No"
+
+# dynaforms/dynaform_Fields.xml?TYPE-link
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - link
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-link]"
+msgstr "link"
+
+# dynaforms/dynaform_Fields.xml?TYPE-file
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - file
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-file]"
+msgstr "file"
+
+# dynaforms/dynaform_Fields.xml?TYPE-checkbox
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - checkbox
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-checkbox]"
+msgstr "Check Box"
+
+# dynaforms/dynaform_Fields.xml?TYPE-button
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - button
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-button]"
+msgstr "Button"
+
+# dynaforms/dynaform_Fields.xml?TYPE-reset
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - reset
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-reset]"
+msgstr "Reset"
+
+# dynaforms/dynaform_Fields.xml?TYPE-submit
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - submit
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-submit]"
+msgstr "Submit"
+
+# dynaforms/dynaform_Fields.xml?TYPE-hidden
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - hidden
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-hidden]"
+msgstr "Hidden"
+
+# dynaforms/dynaform_Fields.xml?TYPE-dropdown
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - dropdown
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-dropdown]"
+msgstr "Dropdown"
+
+# dynaforms/dynaform_Fields.xml?TYPE-listbox
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - listbox
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-listbox]"
+msgstr "List Box"
+
+# dynaforms/dynaform_Fields.xml?TYPE-radiogroup
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - radiogroup
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-radiogroup]"
+msgstr "Radio Group"
+
+# dynaforms/dynaform_Fields.xml?TYPE-checkgroup
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - checkgroup
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-checkgroup]"
+msgstr "Check Group"
+
+# dynaforms/dynaform_Fields.xml?TYPE-grid
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - grid
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-grid]"
+msgstr "grid"
+
+# dynaforms/dynaform_Fields.xml?TYPE-javascript
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - javascript
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-javascript]"
+msgstr "Java Script"
+
+# dynaforms/dynaform_Fields.xml?TYPE-private
+# dynaforms/dynaform_Fields.xml
+#: dropdown - TYPE - private
+msgid "[dynaforms/dynaform_Fields.xml?TYPE-private]"
+msgstr "Private"
+
+# dynaforms/dynaform_Fields.xml?SEARCH
+# dynaforms/dynaform_Fields.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaform_Fields.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/dynaforms_AssignVariables.xml?SAVE_FROM_PMTABLE
+# dynaforms/dynaforms_AssignVariables.xml
+#: button - SAVE_FROM_PMTABLE
+msgid "[dynaforms/dynaforms_AssignVariables.xml?SAVE_FROM_PMTABLE] Save"
+msgstr "Save"
+
+# dynaforms/dynaforms_AssignVariables.xml?SAVE_AND_OPEN_FROM_PMTABLE
+# dynaforms/dynaforms_AssignVariables.xml
+#: button - SAVE_AND_OPEN_FROM_PMTABLE
+msgid "Save & Open"
+msgstr "Save & Open"
+
+# dynaforms/dynaforms_AssignVariablesGrid.xml?FLD_NAME
+# dynaforms/dynaforms_AssignVariablesGrid.xml
+#: text - FLD_NAME
+msgid "[dynaforms/dynaforms_AssignVariablesGrid.xml?FLD_NAME] Primary Key"
+msgstr "Primary Key"
+
+# dynaforms/dynaforms_AssignVariablesGrid.xml?PRO_VARIABLE
+# dynaforms/dynaforms_AssignVariablesGrid.xml
+#: textpm - PRO_VARIABLE
+msgid "[dynaforms/dynaforms_AssignVariablesGrid.xml?PRO_VARIABLE] Variables"
+msgstr "Variables"
+
+# dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?DYN_TITLE
+# dynaforms/dynaforms_AvailableSupervisorDynaforms.xml
+#: text - DYN_TITLE
+msgid "[dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?DYN_TITLE] Title"
+msgstr "Title"
+
+# dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?SEARCH
+# dynaforms/dynaforms_AvailableSupervisorDynaforms.xml
+#: button - SEARCH
+msgid "[dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# dynaforms/dynaforms_ChoseType.xml?TITLE
+# dynaforms/dynaforms_ChoseType.xml
+#: title - TITLE
+msgid "[dynaforms/dynaforms_ChoseType.xml?TITLE] Please select the Dynaform Type"
+msgstr "Please select the Dynaform Type"
+
+# dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE
+# dynaforms/dynaforms_ChoseType.xml
+#: radiogroup - DYN_SOURCE
+msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE] Type"
+msgstr "Type"
+
+# dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-normal
+# dynaforms/dynaforms_ChoseType.xml
+#: radiogroup - DYN_SOURCE - normal
+msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-normal]"
+msgstr "Blank Dynaform"
+
+# dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-pmtable
+# dynaforms/dynaforms_ChoseType.xml
+#: radiogroup - DYN_SOURCE - pmtable
+msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-pmtable]"
+msgstr "PM Table Dynaform"
+
+# dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-copy
+# dynaforms/dynaforms_ChoseType.xml
+#: radiogroup - DYN_SOURCE - copy
+msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-copy]"
+msgstr "Copy/Import Dynaform"
+
+# dynaforms/dynaforms_ChoseType.xml?BTN_CANCEL
+# dynaforms/dynaforms_ChoseType.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/dynaforms_ChoseType.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/dynaforms_ChoseType.xml?ACCEPT
+# dynaforms/dynaforms_ChoseType.xml
+#: button - ACCEPT
+msgid "[dynaforms/dynaforms_ChoseType.xml?ACCEPT] Select"
+msgstr "Select"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?tit1
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: title - tit1
+msgid "Conditions Editor"
+msgstr "Conditions Editor"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION
+msgid "Function"
+msgstr "Function"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-show
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - show
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-show]"
+msgstr "Show"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showOnly
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - showOnly
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showOnly]"
+msgstr "Show only"
+
+# dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showAll
+# dynaforms/dynaforms_ConditionalShowHide.xml
+#: dropdown - FCD_FUNCTION - showAll
+msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showAll]"
+msgstr "Show all"
+

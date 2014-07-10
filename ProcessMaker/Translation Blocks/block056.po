@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# users/myInfo.xml?USR_STATUS-VACATION
+# users/myInfo.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/myInfo.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/myInfo.xml?USR_ROLE
+# users/myInfo.xml
+#: dropdown - USR_ROLE
+msgid "[users/myInfo.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/myInfo.xml?USR_REPORTS_TO
+# users/myInfo.xml
+#: caption - USR_REPORTS_TO
+msgid "[users/myInfo.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/myInfo.xml?USR_DEPARTMENT
+# users/myInfo.xml
+#: caption - USR_DEPARTMENT
+msgid "[users/myInfo.xml?USR_DEPARTMENT] Department"
+msgstr "Department"
+
+# users/myInfo.xml?TITLECHP
+# users/myInfo.xml
+#: title - TITLECHP
+msgid "[users/myInfo.xml?TITLECHP] Change Password"
+msgstr "Change Password"
+
+# users/myInfo.xml?USR_NEW_PASS
+# users/myInfo.xml
+#: password - USR_NEW_PASS
+msgid "[users/myInfo.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/myInfo.xml?USR_CNF_PASS
+# users/myInfo.xml
+#: password - USR_CNF_PASS
+msgid "[users/myInfo.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/myInfo.xml?TITLEPREF
+# users/myInfo.xml
+#: title - TITLEPREF
+msgid "[users/myInfo.xml?TITLEPREF] Preferences"
+msgstr "Preferences"
+
+# users/myInfo.xml?PREF_DEFAULT_MENUSELECTED
+# users/myInfo.xml
+#: dropdown - PREF_DEFAULT_MENUSELECTED
+msgid "[users/myInfo.xml?PREF_DEFAULT_MENUSELECTED] Default Main Menu Option"
+msgstr "Default Main Menu Option"
+
+# users/myInfo.xml?PREF_DEFAULT_CASES_MENUSELECTED
+# users/myInfo.xml
+#: dropdown - PREF_DEFAULT_CASES_MENUSELECTED
+msgid "Default Cases Menu Option"
+msgstr "Default Cases Menu Option"
+
+# users/myInfo.xml?SUBMIT3
+# users/myInfo.xml
+#: button - SUBMIT3
+msgid "[users/myInfo.xml?SUBMIT3] Save"
+msgstr "Save"
+
+# users/myInfo2.xml?TITLEADD
+# users/myInfo2.xml
+#: title - TITLEADD
+msgid "[users/myInfo2.xml?TITLEADD] Profile"
+msgstr "Profile"
+
+# users/myInfo2.xml?USR_PHOTO
+# users/myInfo2.xml
+#: image - USR_PHOTO
+msgid "[users/myInfo2.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/myInfo2.xml?USR_RESUME
+# users/myInfo2.xml
+#: link - USR_RESUME
+msgid "[users/myInfo2.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/myInfo2.xml?TITLE9689
+# users/myInfo2.xml
+#: title - TITLE9689
+msgid "[users/myInfo2.xml?TITLE9689] Personal Information"
+msgstr "Personal Information"
+
+# users/myInfo2.xml?USR_FIRSTNAME
+# users/myInfo2.xml
+#: text - USR_FIRSTNAME
+msgid "[users/myInfo2.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/myInfo2.xml?USR_LASTNAME
+# users/myInfo2.xml
+#: text - USR_LASTNAME
+msgid "[users/myInfo2.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/myInfo2.xml?USR_USERNAME
+# users/myInfo2.xml
+#: text - USR_USERNAME
+msgid "[users/myInfo2.xml?USR_USERNAME] User ID"
+msgstr "User ID"
+
+# users/myInfo2.xml?USR_EMAIL
+# users/myInfo2.xml
+#: text - USR_EMAIL
+msgid "[users/myInfo2.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/myInfo2.xml?USR_ADDRESS
+# users/myInfo2.xml
+#: textarea - USR_ADDRESS
+msgid "[users/myInfo2.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/myInfo2.xml?USR_ZIP_CODE
+# users/myInfo2.xml
+#: text - USR_ZIP_CODE
+msgid "[users/myInfo2.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/myInfo2.xml?USR_COUNTRY
+# users/myInfo2.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/myInfo2.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/myInfo2.xml?USR_COUNTRY-
+# users/myInfo2.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/myInfo2.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/myInfo2.xml?USR_CITY
+# users/myInfo2.xml
+#: dropdown - USR_CITY
+msgid "[users/myInfo2.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/myInfo2.xml?USR_LOCATION
+# users/myInfo2.xml
+#: dropdown - USR_LOCATION
+msgid "[users/myInfo2.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/myInfo2.xml?USR_PHONE
+# users/myInfo2.xml
+#: text - USR_PHONE
+msgid "[users/myInfo2.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/myInfo2.xml?USR_POSITION
+# users/myInfo2.xml
+#: text - USR_POSITION
+msgid "[users/myInfo2.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/myInfo2.xml?USR_DUE_DATE
+# users/myInfo2.xml
+#: text - USR_DUE_DATE
+msgid "[users/myInfo2.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/myInfo2.xml?USR_STATUS
+# users/myInfo2.xml
+#: dropdown - USR_STATUS
+msgid "[users/myInfo2.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/myInfo2.xml?USR_STATUS-ACTIVE
+# users/myInfo2.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/myInfo2.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/myInfo2.xml?USR_STATUS-INACTIVE
+# users/myInfo2.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/myInfo2.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/myInfo2.xml?USR_STATUS-VACATION
+# users/myInfo2.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/myInfo2.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/myInfo2.xml?USR_ROLE
+# users/myInfo2.xml
+#: dropdown - USR_ROLE
+msgid "[users/myInfo2.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/myInfo2.xml?USR_REPORTS_TO
+# users/myInfo2.xml
+#: caption - USR_REPORTS_TO
+msgid "[users/myInfo2.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/myInfo2.xml?USR_DEPARTMENT
+# users/myInfo2.xml
+#: caption - USR_DEPARTMENT
+msgid "[users/myInfo2.xml?USR_DEPARTMENT] Department"
+msgstr "Department"
+
+# users/myInfo2.xml?TITLECHP
+# users/myInfo2.xml
+#: title - TITLECHP
+msgid "[users/myInfo2.xml?TITLECHP] Change Password"
+msgstr "Change Password"
+
+# users/myInfo2.xml?USR_NEW_PASS
+# users/myInfo2.xml
+#: password - USR_NEW_PASS
+msgid "[users/myInfo2.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/myInfo2.xml?USR_CNF_PASS
+# users/myInfo2.xml
+#: password - USR_CNF_PASS
+msgid "[users/myInfo2.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/myInfo2.xml?TITLEPREF
+# users/myInfo2.xml
+#: title - TITLEPREF
+msgid "[users/myInfo2.xml?TITLEPREF] Preferences"
+msgstr "Preferences"
+
+# users/myInfo2.xml?PREF_DEFAULT_LANG
+# users/myInfo2.xml
+#: dropdown - PREF_DEFAULT_LANG
+msgid "Default languaje"
+msgstr "Default languaje"
+
+# users/myInfo2.xml?PREF_DEFAULT_MENUSELECTED
+# users/myInfo2.xml
+#: dropdown - PREF_DEFAULT_MENUSELECTED
+msgid "Default menu option"
+msgstr "Default menu option"
+
+# users/myInfo2.xml?SUBMIT3
+# users/myInfo2.xml
+#: button - SUBMIT3
+msgid "[users/myInfo2.xml?SUBMIT3] Save"
+msgstr "Save"
+
+# users/myInfoOptions.xml?MNU_EDIT
+# users/myInfoOptions.xml
+#: link - MNU_EDIT
+msgid "[users/myInfoOptions.xml?MNU_EDIT] Edit"
+msgstr "Edit"
+
+# users/myInfoOptionsView.xml?MNU_EDIT
+# users/myInfoOptionsView.xml
+#: link - MNU_EDIT
+msgid "[users/myInfoOptionsView.xml?MNU_EDIT] Cancel"
+msgstr "Cancel"
+
+# users/myInfoView.xml?TITLEADD
+# users/myInfoView.xml
+#: title - TITLEADD
+msgid "[users/myInfoView.xml?TITLEADD] Profile"
+msgstr "Profile"
+
+# users/myInfoView.xml?USR_PHOTO
+# users/myInfoView.xml
+#: image - USR_PHOTO
+msgid "[users/myInfoView.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/myInfoView.xml?USR_RESUME
+# users/myInfoView.xml
+#: link - USR_RESUME
+msgid "[users/myInfoView.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/myInfoView.xml?TITLE9689
+# users/myInfoView.xml
+#: title - TITLE9689
+msgid "[users/myInfoView.xml?TITLE9689] Personal Information"
+msgstr "Personal Information"
+
+# users/myInfoView.xml?USR_FIRSTNAME
+# users/myInfoView.xml
+#: text - USR_FIRSTNAME
+msgid "[users/myInfoView.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/myInfoView.xml?USR_LASTNAME
+# users/myInfoView.xml
+#: text - USR_LASTNAME
+msgid "[users/myInfoView.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/myInfoView.xml?USR_USERNAME
+# users/myInfoView.xml
+#: text - USR_USERNAME
+msgid "[users/myInfoView.xml?USR_USERNAME] User ID"
+msgstr "User ID"
+
+# users/myInfoView.xml?USR_EMAIL
+# users/myInfoView.xml
+#: text - USR_EMAIL
+msgid "[users/myInfoView.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/myInfoView.xml?USR_ADDRESS
+# users/myInfoView.xml
+#: textarea - USR_ADDRESS
+msgid "[users/myInfoView.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/myInfoView.xml?USR_ZIP_CODE
+# users/myInfoView.xml
+#: text - USR_ZIP_CODE
+msgid "[users/myInfoView.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/myInfoView.xml?USR_COUNTRY
+# users/myInfoView.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/myInfoView.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/myInfoView.xml?USR_COUNTRY-
+# users/myInfoView.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/myInfoView.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/myInfoView.xml?USR_CITY
+# users/myInfoView.xml
+#: dropdown - USR_CITY
+msgid "[users/myInfoView.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/myInfoView.xml?USR_LOCATION
+# users/myInfoView.xml
+#: dropdown - USR_LOCATION
+msgid "[users/myInfoView.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/myInfoView.xml?USR_PHONE
+# users/myInfoView.xml
+#: text - USR_PHONE
+msgid "[users/myInfoView.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/myInfoView.xml?USR_POSITION
+# users/myInfoView.xml
+#: text - USR_POSITION
+msgid "[users/myInfoView.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/myInfoView.xml?USR_DUE_DATE
+# users/myInfoView.xml
+#: date - USR_DUE_DATE
+msgid "[users/myInfoView.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/myInfoView.xml?USR_STATUS
+# users/myInfoView.xml
+#: dropdown - USR_STATUS
+msgid "[users/myInfoView.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/myInfoView.xml?USR_STATUS-ACTIVE
+# users/myInfoView.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/myInfoView.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/myInfoView.xml?USR_STATUS-INACTIVE
+# users/myInfoView.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/myInfoView.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/myInfoView.xml?USR_STATUS-VACATION
+# users/myInfoView.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/myInfoView.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/myInfoView.xml?USR_ROLE
+# users/myInfoView.xml
+#: dropdown - USR_ROLE
+msgid "[users/myInfoView.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/myInfoView.xml?USR_REPORTS_TO
+# users/myInfoView.xml
+#: caption - USR_REPORTS_TO
+msgid "[users/myInfoView.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/myInfoView.xml?USR_DEPARTMENT
+# users/myInfoView.xml
+#: caption - USR_DEPARTMENT
+msgid "[users/myInfoView.xml?USR_DEPARTMENT] Department"
+msgstr "Department"
+
+# users/myInfoView.xml?TITLECHP
+# users/myInfoView.xml
+#: title - TITLECHP
+msgid "[users/myInfoView.xml?TITLECHP] Change Password"
+msgstr "Change Password"
+
+# users/myInfoView.xml?USR_NEW_PASS
+# users/myInfoView.xml
+#: password - USR_NEW_PASS
+msgid "[users/myInfoView.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/myInfoView.xml?USR_CNF_PASS
+# users/myInfoView.xml
+#: password - USR_CNF_PASS
+msgid "[users/myInfoView.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/myInfoView.xml?TITLEPREF
+# users/myInfoView.xml
+#: title - TITLEPREF
+msgid "[users/myInfoView.xml?TITLEPREF] Preferences"
+msgstr "Preferences"
+
+# users/myInfoView.xml?PREF_DEFAULT_MENUSELECTED
+# users/myInfoView.xml
+#: dropdown - PREF_DEFAULT_MENUSELECTED
+msgid "[users/myInfoView.xml?PREF_DEFAULT_MENUSELECTED] Default Main Menu Option"
+msgstr "Default Main Menu Option"
+
+# users/myInfoView.xml?PREF_DEFAULT_CASES_MENUSELECTED
+# users/myInfoView.xml
+#: dropdown - PREF_DEFAULT_CASES_MENUSELECTED
+msgid "[users/myInfoView.xml?PREF_DEFAULT_CASES_MENUSELECTED] Default Cases Menu Option"
+msgstr "Default Cases Menu Option"
+
+# users/myInfoView.xml?SUBMIT3
+# users/myInfoView.xml
+#: button - SUBMIT3
+msgid "[users/myInfoView.xml?SUBMIT3] Save"
+msgstr "Save"
+
+# users/myInfoView2.xml?TITLEADD
+# users/myInfoView2.xml
+#: title - TITLEADD
+msgid "[users/myInfoView2.xml?TITLEADD] Profile"
+msgstr "Profile"
+
+# users/myInfoView2.xml?USR_PHOTO
+# users/myInfoView2.xml
+#: image - USR_PHOTO
+msgid "[users/myInfoView2.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/myInfoView2.xml?USR_RESUME
+# users/myInfoView2.xml
+#: link - USR_RESUME
+msgid "[users/myInfoView2.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/myInfoView2.xml?TITLE9689
+# users/myInfoView2.xml
+#: title - TITLE9689
+msgid "[users/myInfoView2.xml?TITLE9689] Personal Information"
+msgstr "Personal Information"
+
+# users/myInfoView2.xml?USR_FIRSTNAME
+# users/myInfoView2.xml
+#: text - USR_FIRSTNAME
+msgid "[users/myInfoView2.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/myInfoView2.xml?USR_LASTNAME
+# users/myInfoView2.xml
+#: text - USR_LASTNAME
+msgid "[users/myInfoView2.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/myInfoView2.xml?USR_USERNAME
+# users/myInfoView2.xml
+#: text - USR_USERNAME
+msgid "[users/myInfoView2.xml?USR_USERNAME] User ID"
+msgstr "User ID"
+
+# users/myInfoView2.xml?USR_EMAIL
+# users/myInfoView2.xml
+#: text - USR_EMAIL
+msgid "[users/myInfoView2.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/myInfoView2.xml?USR_ADDRESS
+# users/myInfoView2.xml
+#: textarea - USR_ADDRESS
+msgid "[users/myInfoView2.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/myInfoView2.xml?USR_ZIP_CODE
+# users/myInfoView2.xml
+#: text - USR_ZIP_CODE
+msgid "[users/myInfoView2.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/myInfoView2.xml?USR_COUNTRY
+# users/myInfoView2.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/myInfoView2.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/myInfoView2.xml?USR_COUNTRY-
+# users/myInfoView2.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/myInfoView2.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/myInfoView2.xml?USR_CITY
+# users/myInfoView2.xml
+#: dropdown - USR_CITY
+msgid "[users/myInfoView2.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/myInfoView2.xml?USR_LOCATION
+# users/myInfoView2.xml
+#: dropdown - USR_LOCATION
+msgid "[users/myInfoView2.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/myInfoView2.xml?USR_PHONE
+# users/myInfoView2.xml
+#: text - USR_PHONE
+msgid "[users/myInfoView2.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/myInfoView2.xml?USR_POSITION
+# users/myInfoView2.xml
+#: text - USR_POSITION
+msgid "[users/myInfoView2.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/myInfoView2.xml?USR_DUE_DATE
+# users/myInfoView2.xml
+#: date - USR_DUE_DATE
+msgid "[users/myInfoView2.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/myInfoView2.xml?USR_STATUS
+# users/myInfoView2.xml
+#: dropdown - USR_STATUS
+msgid "[users/myInfoView2.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/myInfoView2.xml?USR_STATUS-ACTIVE
+# users/myInfoView2.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/myInfoView2.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/myInfoView2.xml?USR_STATUS-INACTIVE
+# users/myInfoView2.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/myInfoView2.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/myInfoView2.xml?USR_STATUS-VACATION
+# users/myInfoView2.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/myInfoView2.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/myInfoView2.xml?USR_ROLE
+# users/myInfoView2.xml
+#: dropdown - USR_ROLE
+msgid "[users/myInfoView2.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/myInfoView2.xml?USR_REPORTS_TO
+# users/myInfoView2.xml
+#: caption - USR_REPORTS_TO
+msgid "[users/myInfoView2.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/myInfoView2.xml?USR_DEPARTMENT
+# users/myInfoView2.xml
+#: caption - USR_DEPARTMENT
+msgid "[users/myInfoView2.xml?USR_DEPARTMENT] Department"
+msgstr "Department"
+
+# users/myInfoView2.xml?TITLECHP
+# users/myInfoView2.xml
+#: title - TITLECHP
+msgid "[users/myInfoView2.xml?TITLECHP] Change Password"
+msgstr "Change Password"
+

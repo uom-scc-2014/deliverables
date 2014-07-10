@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# users/users_New.xml?MAX_FILES_SIZE
+# users/users_New.xml
+#: edit - MAX_FILES_SIZE
+msgid "[users/users_New.xml?MAX_FILES_SIZE] Max upload file size"
+msgstr "Max upload file size"
+
+# users/users_New.xml?BTN_CANCEL
+# users/users_New.xml
+#: button - BTN_CANCEL
+msgid "[users/users_New.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# users/users_NewOptions.xml?MNU
+# users/users_NewOptions.xml
+#: link - MNU
+msgid "[users/users_NewOptions.xml?MNU] Back to list"
+msgstr "Back to list"
+
+# users/users_Options.xml?MNU_ADD
+# users/users_Options.xml
+#: link - MNU_ADD
+msgid "[users/users_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# users/users_ReassignCases.xml?PROCESS
+# users/users_ReassignCases.xml
+#: text - PROCESS
+msgid "[users/users_ReassignCases.xml?PROCESS] Process"
+msgstr "Process"
+
+# users/users_ReassignCases.xml?CANTITY
+# users/users_ReassignCases.xml
+#: text - CANTITY
+msgid "No. of cases"
+msgstr "No. of cases"
+
+# users/users_ReassignCases.xml?USERS
+# users/users_ReassignCases.xml
+#: text - USERS
+msgid "[users/users_ReassignCases.xml?USERS] Reassign to"
+msgstr "Reassign to"
+
+# users/users_ReassignSelectSubType.xml?TITLE1
+# users/users_ReassignSelectSubType.xml
+#: title - TITLE1
+msgid "Select the type grouping of the cases"
+msgstr "Select the type grouping of the cases"
+
+# users/users_ReassignSelectSubType.xml?TYPE
+# users/users_ReassignSelectSubType.xml
+#: dropdown - TYPE
+msgid "Reassign Type"
+msgstr "Reassign Type"
+
+# users/users_ReassignSelectSubType.xml?TYPE-ANY_USER
+# users/users_ReassignSelectSubType.xml
+#: dropdown - TYPE - ANY_USER
+msgid "[users/users_ReassignSelectSubType.xml?TYPE-ANY_USER]"
+msgstr "Any user"
+
+# users/users_ReassignSelectSubType.xml?SUB_TYPE
+# users/users_ReassignSelectSubType.xml
+#: dropdown - SUB_TYPE
+msgid "Group Cases By"
+msgstr "Group Cases By"
+
+# users/users_ReassignSelectSubType.xml?SUB_TYPE-PROCESS
+# users/users_ReassignSelectSubType.xml
+#: dropdown - SUB_TYPE - PROCESS
+msgid "[users/users_ReassignSelectSubType.xml?SUB_TYPE-PROCESS]"
+msgstr "Process"
+
+# users/users_ReassignSelectSubType.xml?BTN_CANCEL
+# users/users_ReassignSelectSubType.xml
+#: button - BTN_CANCEL
+msgid "[users/users_ReassignSelectSubType.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# users/users_ReassignSelectSubType.xml?CONTINUE
+# users/users_ReassignSelectSubType.xml
+#: button - CONTINUE
+msgid "[users/users_ReassignSelectSubType.xml?CONTINUE] Continue"
+msgstr "Continue"
+
+# users/users_ReassignSelectType.xml?TITLE1
+# users/users_ReassignSelectType.xml
+#: title - TITLE1
+msgid "Select the reassign type"
+msgstr "Select the reassign type"
+
+# users/users_ReassignSelectType.xml?TYPE
+# users/users_ReassignSelectType.xml
+#: dropdown - TYPE
+msgid "[users/users_ReassignSelectType.xml?TYPE] Type"
+msgstr "Type"
+
+# users/users_ReassignSelectType.xml?TYPE-ANY_USER
+# users/users_ReassignSelectType.xml
+#: dropdown - TYPE - ANY_USER
+msgid "[users/users_ReassignSelectType.xml?TYPE-ANY_USER]"
+msgstr "Any user"
+
+# users/users_ReassignSelectType.xml?BTN_CANCEL
+# users/users_ReassignSelectType.xml
+#: button - BTN_CANCEL
+msgid "[users/users_ReassignSelectType.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# users/users_ReassignSelectType.xml?CONTINUE
+# users/users_ReassignSelectType.xml
+#: button - CONTINUE
+msgid "[users/users_ReassignSelectType.xml?CONTINUE] Continue"
+msgstr "Continue"
+
+# users/users_ReassignShowInfo.xml?TITLE
+# users/users_ReassignShowInfo.xml
+#: title - TITLE
+msgid "[users/users_ReassignShowInfo.xml?TITLE] Information"
+msgstr "Information"
+
+# users/users_ReassignShowInfo.xml?EVA
+# users/users_ReassignShowInfo.xml
+#: text - EVA
+msgid "[users/users_ReassignShowInfo.xml?EVA] "
+msgstr ""
+
+# users/users_ReassignShowInfo.xml?MESSAGE
+# users/users_ReassignShowInfo.xml
+#: text - MESSAGE
+msgid "[users/users_ReassignShowInfo.xml?MESSAGE] "
+msgstr ""
+
+# users/users_ReassignShowInfo.xml?DELETE
+# users/users_ReassignShowInfo.xml
+#: button - DELETE
+msgid "[users/users_ReassignShowInfo.xml?DELETE] Delete"
+msgstr "Delete"
+
+# users/users_Search.xml?USR_COMPLETENAME
+# users/users_Search.xml
+#: text - USR_COMPLETENAME
+msgid "Full name"
+msgstr "Full name"
+
+# users/users_Search.xml?search
+# users/users_Search.xml
+#: button - search
+msgid "[users/users_Search.xml?search] Apply Filter"
+msgstr "Apply Filter"
+
+# users/users_ShortList.xml?LABEL
+# users/users_ShortList.xml
+#: text - LABEL
+msgid "[users/users_ShortList.xml?LABEL] Group or User"
+msgstr "Group or User"
+
+# users/users_ShortList.xml?OF_TO_ASSIGN
+# users/users_ShortList.xml
+#: link - OF_TO_ASSIGN
+msgid "[users/users_ShortList.xml?OF_TO_ASSIGN] "
+msgstr ""
+
+# users/users_ShortList2.xml?LABEL
+# users/users_ShortList2.xml
+#: text - LABEL
+msgid "[users/users_ShortList2.xml?LABEL] Group or User"
+msgstr "Group or User"
+
+# users/users_ShortList2.xml?OF_TO_ASSIGN
+# users/users_ShortList2.xml
+#: link - OF_TO_ASSIGN
+msgid "[users/users_ShortList2.xml?OF_TO_ASSIGN] "
+msgstr ""
+
+# users/users_ShortListAdhoc.xml?LABEL
+# users/users_ShortListAdhoc.xml
+#: text - LABEL
+msgid "[users/users_ShortListAdhoc.xml?LABEL] Group or User"
+msgstr "Group or User"
+
+# users/users_ShortListAdhoc.xml?OF_TO_ASSIGN
+# users/users_ShortListAdhoc.xml
+#: link - OF_TO_ASSIGN
+msgid "[users/users_ShortListAdhoc.xml?OF_TO_ASSIGN] "
+msgstr ""
+
+# users/users_ShortOptions.xml?MNU_ASSIGN
+# users/users_ShortOptions.xml
+#: link - MNU_ASSIGN
+msgid "[users/users_ShortOptions.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# users/users_ShortOptions.xml?MNU_CHANGE
+# users/users_ShortOptions.xml
+#: link - MNU_CHANGE
+msgid "View Users for \"Adhoc\""
+msgstr "View Users for \"Adhoc\""
+
+# users/users_ShortOptions2.xml?MNU_ASSIGN
+# users/users_ShortOptions2.xml
+#: link - MNU_ASSIGN
+msgid "[users/users_ShortOptions2.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# users/users_ShortOptionsAdhoc.xml?MNU_ASSIGN
+# users/users_ShortOptionsAdhoc.xml
+#: link - MNU_ASSIGN
+msgid "[users/users_ShortOptionsAdhoc.xml?MNU_ASSIGN] Assign"
+msgstr "Assign"
+
+# users/users_View.xml?TITLEADD
+# users/users_View.xml
+#: title - TITLEADD
+msgid "[users/users_View.xml?TITLEADD] Profile"
+msgstr "Profile"
+
+# users/users_View.xml?USR_PHOTO
+# users/users_View.xml
+#: image - USR_PHOTO
+msgid "[users/users_View.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/users_View.xml?USR_RESUME
+# users/users_View.xml
+#: link - USR_RESUME
+msgid "[users/users_View.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/users_View.xml?TITLE9689
+# users/users_View.xml
+#: title - TITLE9689
+msgid "[users/users_View.xml?TITLE9689] Personal Information"
+msgstr "Personal Information"
+
+# users/users_View.xml?USR_FIRSTNAME
+# users/users_View.xml
+#: text - USR_FIRSTNAME
+msgid "[users/users_View.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/users_View.xml?USR_LASTNAME
+# users/users_View.xml
+#: text - USR_LASTNAME
+msgid "[users/users_View.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/users_View.xml?USR_USERNAME
+# users/users_View.xml
+#: text - USR_USERNAME
+msgid "[users/users_View.xml?USR_USERNAME] User ID"
+msgstr "User ID"
+
+# users/users_View.xml?USR_EMAIL
+# users/users_View.xml
+#: text - USR_EMAIL
+msgid "[users/users_View.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/users_View.xml?USR_ADDRESS
+# users/users_View.xml
+#: text - USR_ADDRESS
+msgid "[users/users_View.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/users_View.xml?USR_ZIP_CODE
+# users/users_View.xml
+#: text - USR_ZIP_CODE
+msgid "[users/users_View.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/users_View.xml?USR_COUNTRY
+# users/users_View.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/users_View.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/users_View.xml?USR_COUNTRY-
+# users/users_View.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/users_View.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/users_View.xml?USR_CITY
+# users/users_View.xml
+#: dropdown - USR_CITY
+msgid "[users/users_View.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/users_View.xml?USR_LOCATION
+# users/users_View.xml
+#: dropdown - USR_LOCATION
+msgid "[users/users_View.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/users_View.xml?USR_PHONE
+# users/users_View.xml
+#: text - USR_PHONE
+msgid "[users/users_View.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/users_View.xml?USR_POSITION
+# users/users_View.xml
+#: text - USR_POSITION
+msgid "[users/users_View.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/users_View.xml?USR_REPORTS_TO
+# users/users_View.xml
+#: dropdown - USR_REPORTS_TO
+msgid "[users/users_View.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/users_View.xml?USR_REPORTS_TO-
+# users/users_View.xml
+#: dropdown - USR_REPORTS_TO -
+msgid "[users/users_View.xml?USR_REPORTS_TO-]"
+msgstr ""
+
+# users/users_View.xml?USR_REPLACED_BY
+# users/users_View.xml
+#: dropdown - USR_REPLACED_BY
+msgid "[users/users_View.xml?USR_REPLACED_BY] Replaced by"
+msgstr "Replaced by"
+
+# users/users_View.xml?USR_REPLACED_BY-
+# users/users_View.xml
+#: dropdown - USR_REPLACED_BY -
+msgid "[users/users_View.xml?USR_REPLACED_BY-]"
+msgstr ""
+
+# users/users_View.xml?USR_DUE_DATE
+# users/users_View.xml
+#: date - USR_DUE_DATE
+msgid "[users/users_View.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/users_View.xml?USR_STATUS
+# users/users_View.xml
+#: dropdown - USR_STATUS
+msgid "[users/users_View.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/users_View.xml?USR_STATUS-ACTIVE
+# users/users_View.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/users_View.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/users_View.xml?USR_STATUS-INACTIVE
+# users/users_View.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/users_View.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/users_View.xml?USR_STATUS-VACATION
+# users/users_View.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/users_View.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/users_View.xml?USR_ROLE
+# users/users_View.xml
+#: dropdown - USR_ROLE
+msgid "[users/users_View.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/users_View.xml?TITLECHP
+# users/users_View.xml
+#: title - TITLECHP
+msgid "[users/users_View.xml?TITLECHP] Change Password"
+msgstr "Change Password"
+
+# users/users_View.xml?USR_NEW_PASS
+# users/users_View.xml
+#: password - USR_NEW_PASS
+msgid "[users/users_View.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/users_View.xml?USR_CNF_PASS
+# users/users_View.xml
+#: password - USR_CNF_PASS
+msgid "[users/users_View.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/users_ViewOptions.xml?MNU1
+# users/users_ViewOptions.xml
+#: link - MNU1
+msgid "[users/users_ViewOptions.xml?MNU1] Back to list"
+msgstr "Back to list"
+
+# users/users_ViewOptions.xml?MNU2
+# users/users_ViewOptions.xml
+#: link - MNU2
+msgid "[users/users_ViewOptions.xml?MNU2] Edit"
+msgstr "Edit"
+
+# dynaforms/fields/_options.xml?NAME
+# dynaforms/fields/_options.xml
+#: text - NAME
+msgid "[dynaforms/fields/_options.xml?NAME] Value"
+msgstr "Value"
+
+# dynaforms/fields/_options.xml?LABEL
+# dynaforms/fields/_options.xml
+#: text - LABEL
+msgid "[dynaforms/fields/_options.xml?LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/_optionsOptGroup.xml?NAME
+# dynaforms/fields/_optionsOptGroup.xml
+#: text - NAME
+msgid "[dynaforms/fields/_optionsOptGroup.xml?NAME] Value"
+msgstr "Value"
+
+# dynaforms/fields/_optionsOptGroup.xml?LABEL
+# dynaforms/fields/_optionsOptGroup.xml
+#: text - LABEL
+msgid "[dynaforms/fields/_optionsOptGroup.xml?LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/_optionsOptGroup.xml?OPTGROUP
+# dynaforms/fields/_optionsOptGroup.xml
+#: checkbox - OPTGROUP
+msgid "Option Group"
+msgstr "Option Group"
+
+# dynaforms/fields/button.xml?PME_TITLE
+# dynaforms/fields/button.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/button.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/button.xml?PME_XMLNODE_NAME
+# dynaforms/fields/button.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/button.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/button.xml?PME_LABEL
+# dynaforms/fields/button.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/button.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/button.xml?PME_ONCLICK
+# dynaforms/fields/button.xml
+#: text - PME_ONCLICK
+msgid "JavaScript to Execute"
+msgstr "JavaScript to Execute"
+
+# dynaforms/fields/button.xml?BTN_CANCEL
+# dynaforms/fields/button.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/button.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/button.xml?PME_ACCEPT
+# dynaforms/fields/button.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/button.xml?PME_ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields/checkbox.xml?PME_TITLE
+# dynaforms/fields/checkbox.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/checkbox.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/checkbox.xml?PME_XMLNODE_NAME
+# dynaforms/fields/checkbox.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/checkbox.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/checkbox.xml?PME_LABEL
+# dynaforms/fields/checkbox.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/checkbox.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/checkbox.xml?PME_SUBTITLE3
+# dynaforms/fields/checkbox.xml
+#: title - PME_SUBTITLE3
+msgid "[dynaforms/fields/checkbox.xml?PME_SUBTITLE3] Behaviour"
+msgstr "Behaviour"
+
+# dynaforms/fields/checkbox.xml?PME_VALUE
+# dynaforms/fields/checkbox.xml
+#: text - PME_VALUE
+msgid "[dynaforms/fields/checkbox.xml?PME_VALUE] Value"
+msgstr "Value"
+
+# dynaforms/fields/checkbox.xml?PME_FALSEVALUE
+# dynaforms/fields/checkbox.xml
+#: text - PME_FALSEVALUE
+msgid "Value if not checked"
+msgstr "Value if not checked"
+
+# dynaforms/fields/checkbox.xml?PME_DEFAULTVALUE
+# dynaforms/fields/checkbox.xml
+#: checkbox - PME_DEFAULTVALUE
+msgid "Default Value"
+msgstr "Default Value"
+
+# dynaforms/fields/checkbox.xml?PME_READONLY
+# dynaforms/fields/checkbox.xml
+#: checkbox - PME_READONLY
+msgid "Read Only"
+msgstr "Read Only"
+
+# dynaforms/fields/checkbox.xml?PME_HINT
+# dynaforms/fields/checkbox.xml
+#: textarea - PME_HINT
+msgid "Hint"
+msgstr "Hint"
+
+# dynaforms/fields/checkbox.xml?PME_SUBTITLE
+# dynaforms/fields/checkbox.xml
+#: title - PME_SUBTITLE
+msgid "Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/checkbox.xml?PME_LABELONRIGHT
+# dynaforms/fields/checkbox.xml
+#: checkbox - PME_LABELONRIGHT
+msgid "Label on the right side"
+msgstr "Label on the right side"
+
+# dynaforms/fields/checkbox.xml?PME_ENABLEHTML
+# dynaforms/fields/checkbox.xml
+#: checkbox - PME_ENABLEHTML
+msgid "Enable Html"
+msgstr "Enable Html"
+
+# dynaforms/fields/checkbox.xml?BTN_CANCEL
+# dynaforms/fields/checkbox.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/checkbox.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/checkbox.xml?PME_ACCEPT
+# dynaforms/fields/checkbox.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/checkbox.xml?PME_ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields/checkgroup.xml?PME_TITLE
+# dynaforms/fields/checkgroup.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/checkgroup.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/checkgroup.xml?PME_XMLNODE_NAME
+# dynaforms/fields/checkgroup.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/checkgroup.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/checkgroup.xml?PME_LABEL
+# dynaforms/fields/checkgroup.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/checkgroup.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/checkgroup.xml?PME_SUBTITLE3
+# dynaforms/fields/checkgroup.xml
+#: title - PME_SUBTITLE3
+msgid "[dynaforms/fields/checkgroup.xml?PME_SUBTITLE3] Behaviour"
+msgstr "Behaviour"
+
+# dynaforms/fields/checkgroup.xml?PME_DEFAULTVALUE
+# dynaforms/fields/checkgroup.xml
+#: text - PME_DEFAULTVALUE
+msgid "[dynaforms/fields/checkgroup.xml?PME_DEFAULTVALUE] Default Value"
+msgstr "Default Value"
+
+# dynaforms/fields/checkgroup.xml?PME_HINT
+# dynaforms/fields/checkgroup.xml
+#: textarea - PME_HINT
+msgid "[dynaforms/fields/checkgroup.xml?PME_HINT] Hint"
+msgstr "Hint"
+
+# dynaforms/fields/checkgroup.xml?PME_SUBTITLE
+# dynaforms/fields/checkgroup.xml
+#: title - PME_SUBTITLE
+msgid "[dynaforms/fields/checkgroup.xml?PME_SUBTITLE] Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/checkgroup.xml?PME_MODE
+# dynaforms/fields/checkgroup.xml
+#: dropdown - PME_MODE
+msgid "[dynaforms/fields/checkgroup.xml?PME_MODE] Mode"
+msgstr "Mode"
+
+# dynaforms/fields/checkgroup.xml?PME_MODE-edit
+# dynaforms/fields/checkgroup.xml
+#: dropdown - PME_MODE - edit
+msgid "[dynaforms/fields/checkgroup.xml?PME_MODE-edit]"
+msgstr "Edit"
+

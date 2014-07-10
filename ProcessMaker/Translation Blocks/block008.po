@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_10
+#: LABEL/ID_DATE_FORMAT_10
+msgid "D d M, Y"
+msgstr "D d M, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_11
+#: LABEL/ID_DATE_FORMAT_11
+msgid "D M, Y"
+msgstr "D M, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_12
+#: LABEL/ID_DATE_FORMAT_12
+msgid "d M, Y"
+msgstr "d M, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_13
+#: LABEL/ID_DATE_FORMAT_13
+msgid "d m, Y"
+msgstr "d m, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_14
+#: LABEL/ID_DATE_FORMAT_14
+msgid "d.m.Y"
+msgstr "d.m.Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_15
+#: LABEL/ID_DATE_FORMAT_15
+msgid "M d, Y"
+msgstr "M d, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_16
+#: LABEL/ID_DATE_FORMAT_16
+msgid "m D, Y"
+msgstr "m D, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_17
+#: LABEL/ID_DATE_FORMAT_17
+msgid "dd de M de Y"
+msgstr "dd de M de Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_2
+#: LABEL/ID_DATE_FORMAT_2
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_3
+#: LABEL/ID_DATE_FORMAT_3
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_4
+#: LABEL/ID_DATE_FORMAT_4
+msgid "Y/d/m"
+msgstr "Y/d/m"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_5
+#: LABEL/ID_DATE_FORMAT_5
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_6
+#: LABEL/ID_DATE_FORMAT_6
+msgid "F j, Y, g:i a"
+msgstr "F j, Y, g:i a"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_7
+#: LABEL/ID_DATE_FORMAT_7
+msgid "m.d.y"
+msgstr "m.d.y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_8
+#: LABEL/ID_DATE_FORMAT_8
+msgid "j, n, Y"
+msgstr "j, n, Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_FORMAT_9
+#: LABEL/ID_DATE_FORMAT_9
+msgid "D M j G:i:s T Y"
+msgstr "D M j G:i:s T Y"
+
+# TRANSLATION
+# LABEL/ID_DATE_LABEL
+#: LABEL/ID_DATE_LABEL
+msgid "[LABEL/ID_DATE_LABEL] Date"
+msgstr "Date"
+
+# TRANSLATION
+# LABEL/ID_DAY
+#: LABEL/ID_DAY
+msgid "Day"
+msgstr "Day"
+
+# TRANSLATION
+# LABEL/ID_DAYS
+#: LABEL/ID_DAYS
+msgid "Days"
+msgstr "Days"
+
+# TRANSLATION
+# LABEL/ID_DBCNN_TITLE
+#: LABEL/ID_DBCNN_TITLE
+msgid "Checking server configuration"
+msgstr "Checking server configuration"
+
+# TRANSLATION
+# LABEL/ID_DBC_CHECK
+#: LABEL/ID_DBC_CHECK
+msgid "Checking server parameters"
+msgstr "Checking server parameters"
+
+# TRANSLATION
+# LABEL/ID_DBS_CONNECTION_EDIT
+#: LABEL/ID_DBS_CONNECTION_EDIT
+msgid "Connection Edited Successfully"
+msgstr "Connection Edited Successfully"
+
+# TRANSLATION
+# LABEL/ID_DBS_CONNECTION_SAVE
+#: LABEL/ID_DBS_CONNECTION_SAVE
+msgid "Connection Saved Successfully"
+msgstr "Connection Saved Successfully"
+
+# TRANSLATION
+# LABEL/ID_DBS_CONNECTION_TEST
+#: LABEL/ID_DBS_CONNECTION_TEST
+msgid "Connection Tested Successfully"
+msgstr "Connection Tested Successfully"
+
+# TRANSLATION
+# LABEL/ID_DBS_EDIT
+#: LABEL/ID_DBS_EDIT
+msgid "[LABEL/ID_DBS_EDIT] Edit the current Database Source"
+msgstr "Edit the current Database Source"
+
+# TRANSLATION
+# LABEL/ID_DBS_LIST
+#: LABEL/ID_DBS_LIST
+msgid "Database Source List"
+msgstr "Database Source List"
+
+# TRANSLATION
+# LABEL/ID_DBS_SOURCE
+#: LABEL/ID_DBS_SOURCE
+msgid "Add New Database Source"
+msgstr "Add New Database Source"
+
+# TRANSLATION
+# LABEL/ID_DB_CONNECTION
+#: LABEL/ID_DB_CONNECTION
+msgid "DB Connection"
+msgstr "DB Connection"
+
+# TRANSLATION
+# LABEL/ID_DB_CONNECTIONS
+#: LABEL/ID_DB_CONNECTIONS
+msgid "Database Connections"
+msgstr "Database Connections"
+
+# TRANSLATION
+# LABEL/ID_DB_CONNECTION_NO_EXIST
+#: LABEL/ID_DB_CONNECTION_NO_EXIST
+msgid "DB Connection doesn't exist!"
+msgstr "DB Connection doesn't exist!"
+
+# TRANSLATION
+# LABEL/ID_DEACTIVATE
+#: LABEL/ID_DEACTIVATE
+msgid "Deactivate"
+msgstr "Deactivate"
+
+# TRANSLATION
+# LABEL/ID_DEATACH
+#: LABEL/ID_DEATACH
+msgid "Detach"
+msgstr "Detach"
+
+# TRANSLATION
+# LABEL/ID_DEBUG
+#: LABEL/ID_DEBUG
+msgid "Debugger"
+msgstr "Debugger"
+
+# TRANSLATION
+# LABEL/ID_DEBUG_MESSAGE
+#: LABEL/ID_DEBUG_MESSAGE
+msgid "Debug Messages"
+msgstr "Debug Messages"
+
+# TRANSLATION
+# LABEL/ID_DEBUG_MODE
+#: LABEL/ID_DEBUG_MODE
+msgid "Debug Mode"
+msgstr "Debug Mode"
+
+# TRANSLATION
+# LABEL/ID_DEBUG_PANEL_TITLE
+#: LABEL/ID_DEBUG_PANEL_TITLE
+msgid "ProcessMaker Debugger"
+msgstr "ProcessMaker Debugger"
+
+# TRANSLATION
+# LABEL/ID_DEFAULT_CALENDAR
+#: LABEL/ID_DEFAULT_CALENDAR
+msgid "Default Calendar"
+msgstr "Default Calendar"
+
+# TRANSLATION
+# LABEL/ID_DEFAULT_CASES_MENU_OPTION
+#: LABEL/ID_DEFAULT_CASES_MENU_OPTION
+msgid "Default Cases Menu option"
+msgstr "Default Cases Menu option"
+
+# TRANSLATION
+# LABEL/ID_DEFAULT_LANGUAGE
+#: LABEL/ID_DEFAULT_LANGUAGE
+msgid "Default Language"
+msgstr "Default Language"
+
+# TRANSLATION
+# LABEL/ID_DEFAULT_MAIN_MENU_OPTION
+#: LABEL/ID_DEFAULT_MAIN_MENU_OPTION
+msgid "Default Main Menu Option"
+msgstr "Default Main Menu Option"
+
+# TRANSLATION
+# LABEL/ID_DEFAULT_SKIN
+#: LABEL/ID_DEFAULT_SKIN
+msgid "Default Skin"
+msgstr "Default Skin"
+
+# TRANSLATION
+# LABEL/ID_DEFINITION
+#: LABEL/ID_DEFINITION
+msgid "[LABEL/ID_DEFINITION] Definition"
+msgstr "Definition"
+
+# TRANSLATION
+# LABEL/ID_DELAY_FIELD
+#: LABEL/ID_DELAY_FIELD
+msgid "Delay Field"
+msgstr "Delay Field"
+
+# TRANSLATION
+# LABEL/ID_DELEGATE_DATE_FROM
+#: LABEL/ID_DELEGATE_DATE_FROM
+msgid "Delegated date from"
+msgstr "Delegated date from"
+
+# TRANSLATION
+# LABEL/ID_DELEGATE_DATE_TO
+#: LABEL/ID_DELEGATE_DATE_TO
+msgid "to"
+msgstr "to"
+
+# TRANSLATION
+# LABEL/ID_DELEGATE_USER
+#: LABEL/ID_DELEGATE_USER
+msgid "Delegated User"
+msgstr "Delegated User"
+
+# TRANSLATION
+# LABEL/ID_DELEGATION_DATE
+#: LABEL/ID_DELEGATION_DATE
+msgid "Delegation Date"
+msgstr "Delegation Date"
+
+# TRANSLATION
+# LABEL/ID_DELETE
+#: LABEL/ID_DELETE
+msgid "Delete"
+msgstr "Delete"
+
+# TRANSLATION
+# LABEL/ID_DELETED
+#: LABEL/ID_DELETED
+msgid "Deleted"
+msgstr "Deleted"
+
+# TRANSLATION
+# LABEL/ID_DELETED_SUCCESSFULLY
+#: LABEL/ID_DELETED_SUCCESSFULLY
+msgid "Deleted Successfully"
+msgstr "Deleted Successfully"
+
+# TRANSLATION
+# LABEL/ID_DELETE_ALL_FIELDS
+#: LABEL/ID_DELETE_ALL_FIELDS
+msgid "Do you want to delete all fields?"
+msgstr "Do you want to delete all fields?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_ALL_REPORT_TABLE
+#: LABEL/ID_DELETE_ALL_REPORT_TABLE
+msgid "Do you want to delete all report tables?"
+msgstr "Do you want to delete all report tables?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_CONNECTION
+#: LABEL/ID_DELETE_CONNECTION
+msgid "Delete the connection?"
+msgstr "Delete the connection?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_DATABASES
+#: LABEL/ID_DELETE_DATABASES
+msgid "Delete Databases if exists"
+msgstr "Delete Databases if exists"
+
+# TRANSLATION
+# LABEL/ID_DELETE_DOCUMENT
+#: LABEL/ID_DELETE_DOCUMENT
+msgid "Do you want to delete selected document?"
+msgstr "Do you want to delete selected document?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_FIELDS
+#: LABEL/ID_DELETE_FIELDS
+msgid "Do you want to delete the selected fields?"
+msgstr "Do you want to delete the selected fields?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_FIELD_SURE
+#: LABEL/ID_DELETE_FIELD_SURE
+msgid "Are you sure you want to delete this field?"
+msgstr "Are you sure you want to delete this field?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_INPUTDOCUMENT_CONFIRM
+#: LABEL/ID_DELETE_INPUTDOCUMENT_CONFIRM
+msgid "To the deselecting the item will be deleted the Day of the Work hours list. Do you want continue?"
+msgstr "To the deselecting the item will be deleted the Day of the Work hours list. Do you want continue?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_LANGUAGE
+#: LABEL/ID_DELETE_LANGUAGE
+msgid "[LABEL/ID_DELETE_LANGUAGE] Remove"
+msgstr "Remove"
+
+# TRANSLATION
+# LABEL/ID_DELETE_LANGUAGE_CONFIRM
+#: LABEL/ID_DELETE_LANGUAGE_CONFIRM
+msgid "Do you want remove the language \"{0}\" ?"
+msgstr "Do you want remove the language \"{0}\" ?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_LANGUAGE_WARNING
+#: LABEL/ID_DELETE_LANGUAGE_WARNING
+msgid "To delete a language you should select a item from the list first."
+msgstr "To delete a language you should select a item from the list first."
+
+# TRANSLATION
+# LABEL/ID_DELETE_LINES
+#: LABEL/ID_DELETE_LINES
+msgid "Delete All Lines"
+msgstr "Delete All Lines"
+
+# TRANSLATION
+# LABEL/ID_DELETE_PERMISSION
+#: LABEL/ID_DELETE_PERMISSION
+msgid "Do you want to deleted the permission of {0}?"
+msgstr "Do you want to deleted the permission of {0}?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_REPORT_TABLE
+#: LABEL/ID_DELETE_REPORT_TABLE
+msgid "Do you want to delete the selected report tables?"
+msgstr "Do you want to delete the selected report tables?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_SELECTED_ITEMS
+#: LABEL/ID_DELETE_SELECTED_ITEMS
+msgid "Do you want to deleted selected({0}) items?"
+msgstr "Do you want to deleted selected({0}) items?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_SELECTED_LOGO
+#: LABEL/ID_DELETE_SELECTED_LOGO
+msgid "Do you want to delete the selected logo?"
+msgstr "Do you want to delete the selected logo?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_SUPERVISOR
+#: LABEL/ID_DELETE_SUPERVISOR
+msgid "You cannot unassign the supervisor"
+msgstr "You cannot unassign the supervisor"
+
+# TRANSLATION
+# LABEL/ID_DELETE_TABLE_COLLECTION
+#: LABEL/ID_DELETE_TABLE_COLLECTION
+msgid "Do you want to delete this collection?"
+msgstr "Do you want to delete this collection?"
+
+# TRANSLATION
+# LABEL/ID_DELETE_TRANSLATIONS
+#: LABEL/ID_DELETE_TRANSLATIONS
+msgid "Delete the selected translations?"
+msgstr "Delete the selected translations?"
+
+# TRANSLATION
+# LABEL/ID_DELETING_CASE
+#: LABEL/ID_DELETING_CASE
+msgid "Deleting case..."
+msgstr "Deleting case..."
+
+# TRANSLATION
+# LABEL/ID_DELETING_ELEMENTS
+#: LABEL/ID_DELETING_ELEMENTS
+msgid "Deleting elements, please wait..."
+msgstr "Deleting elements, please wait..."
+
+# TRANSLATION
+# LABEL/ID_DELETION_SUCCESSFULLY
+#: LABEL/ID_DELETION_SUCCESSFULLY
+msgid "DELETION SUCCESSFULLY"
+msgstr "DELETION SUCCESSFULLY"
+
+# TRANSLATION
+# LABEL/ID_DELIMITED_BY
+#: LABEL/ID_DELIMITED_BY
+msgid "Delimited by"
+msgstr "Delimited by"
+
+# TRANSLATION
+# LABEL/ID_DEL_INDEX
+#: LABEL/ID_DEL_INDEX
+msgid "[LABEL/ID_DEL_INDEX] Del Index"
+msgstr "Del Index"
+
+# TRANSLATION
+# LABEL/ID_DEPARTAMENT_USERS
+#: LABEL/ID_DEPARTAMENT_USERS
+msgid "Departments"
+msgstr "Departments"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT
+#: LABEL/ID_DEPARTMENT
+msgid "[LABEL/ID_DEPARTMENT] Department"
+msgstr "Department"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENTS
+#: LABEL/ID_DEPARTMENTS
+msgid "[LABEL/ID_DEPARTMENTS] Departments"
+msgstr "Departments"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENTS_SYNCHRONIZE
+#: LABEL/ID_DEPARTMENTS_SYNCHRONIZE
+msgid "Synchronize Departments"
+msgstr "Synchronize Departments"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENTS_USERS
+#: LABEL/ID_DEPARTMENTS_USERS
+msgid "[LABEL/ID_DEPARTMENTS_USERS] Departments"
+msgstr "Departments"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_CREATED_SUCCESSFULLY
+#: LABEL/ID_DEPARTMENT_CREATED_SUCCESSFULLY
+msgid "{DEPARTMENT_NAME}, {PARENT_UID} Department {DEPARTMENT_NAME} created successfully"
+msgstr "{DEPARTMENT_NAME}, {PARENT_UID} Department {DEPARTMENT_NAME} created successfully"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_EXISTS
+#: LABEL/ID_DEPARTMENT_EXISTS
+msgid "Department name already exists."
+msgstr "Department name already exists."
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_NAME
+#: LABEL/ID_DEPARTMENT_NAME
+msgid "Department Name"
+msgstr "Department Name"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_NAME_REQUIRED
+#: LABEL/ID_DEPARTMENT_NAME_REQUIRED
+msgid "Department name is required"
+msgstr "Department name is required"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_NOT_REGISTERED_SYSTEM
+#: LABEL/ID_DEPARTMENT_NOT_REGISTERED_SYSTEM
+msgid "Department {DEP_ID} is not registered in the system"
+msgstr "Department {DEP_ID} is not registered in the system"
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_SUCCESS_DELETE
+#: LABEL/ID_DEPARTMENT_SUCCESS_DELETE
+msgid "Department has been deleted correctly."
+msgstr "Department has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_SUCCESS_NEW
+#: LABEL/ID_DEPARTMENT_SUCCESS_NEW
+msgid "Department has been created correctly."
+msgstr "Department has been created correctly."
+
+# TRANSLATION
+# LABEL/ID_DEPARTMENT_SUCCESS_UPDATE
+#: LABEL/ID_DEPARTMENT_SUCCESS_UPDATE
+msgid "Department has been updated correctly."
+msgstr "Department has been updated correctly."
+
+# TRANSLATION
+# LABEL/ID_DERIVATED
+#: LABEL/ID_DERIVATED
+msgid "Routed"
+msgstr "Routed"
+
+# TRANSLATION
+# LABEL/ID_DERIVATION_HISTORY
+#: LABEL/ID_DERIVATION_HISTORY
+msgid "Routing History"
+msgstr "Routing History"
+
+# TRANSLATION
+# LABEL/ID_DERIVED
+#: LABEL/ID_DERIVED
+msgid "Sent"
+msgstr "Sent"
+
+# TRANSLATION
+# LABEL/ID_DESCRIPTION
+#: LABEL/ID_DESCRIPTION
+msgid "Description"
+msgstr "Description"
+
+# TRANSLATION
+# LABEL/ID_DESIGNER
+#: LABEL/ID_DESIGNER
+msgid "Designer"
+msgstr "Designer"
+
+# TRANSLATION
+# LABEL/ID_DESTINATION
+#: LABEL/ID_DESTINATION
+msgid "Destination"
+msgstr "Destination"
+
+# TRANSLATION
+# LABEL/ID_DESTINATION_PATH
+#: LABEL/ID_DESTINATION_PATH
+msgid "Destination Path"
+msgstr "Destination Path"
+
+# TRANSLATION
+# LABEL/ID_DETAIL
+#: LABEL/ID_DETAIL
+msgid "Detail"
+msgstr "Detail"
+
+# TRANSLATION
+# LABEL/ID_DETAILS
+#: LABEL/ID_DETAILS
+msgid "Details"
+msgstr "Details"
+
+# TRANSLATION
+# LABEL/ID_DETAILS_WEBSERVICES
+#: LABEL/ID_DETAILS_WEBSERVICES
+msgid "[LABEL/ID_DETAILS_WEBSERVICES] Details"
+msgstr "Details"
+
+# TRANSLATION
+# LABEL/ID_DE_ASSIGN
+#: LABEL/ID_DE_ASSIGN
+msgid "[LABEL/ID_DE_ASSIGN] Remove"
+msgstr "Remove"
+
+# TRANSLATION
+# LABEL/ID_DIAGRAM_VALIDATED_CORRECTLY
+#: LABEL/ID_DIAGRAM_VALIDATED_CORRECTLY
+msgid "Diagram has been validated correctly."
+msgstr "Diagram has been validated correctly."
+
+# TRANSLATION
+# LABEL/ID_DIRECTORIES_NOT_WRITABLE
+#: LABEL/ID_DIRECTORIES_NOT_WRITABLE
+msgid "Some directories and/or files inside it are not writable"
+msgstr "Some directories and/or files inside it are not writable"
+

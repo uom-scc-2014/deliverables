@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_TYPE
+#: LABEL/ID_TYPE
+msgid "Type"
+msgstr "Type"
+
+# TRANSLATION
+# LABEL/ID_UID
+#: LABEL/ID_UID
+msgid "UID"
+msgstr "UID"
+
+# TRANSLATION
+# LABEL/ID_UNABLE_GET_DASHBOARDS
+#: LABEL/ID_UNABLE_GET_DASHBOARDS
+msgid "Unable to get Dashboards"
+msgstr "Unable to get Dashboards"
+
+# TRANSLATION
+# LABEL/ID_UNABLE_START_CASE
+#: LABEL/ID_UNABLE_START_CASE
+msgid "Unable to start a case"
+msgstr "Unable to start a case"
+
+# TRANSLATION
+# LABEL/ID_UNASSIGNED
+#: LABEL/ID_UNASSIGNED
+msgid "[LABEL/ID_UNASSIGNED] Unassigned"
+msgstr "Unassigned"
+
+# TRANSLATION
+# LABEL/ID_UNASSIGNED_INBOX
+#: LABEL/ID_UNASSIGNED_INBOX
+msgid "Unassigned Inbox"
+msgstr "Unassigned Inbox"
+
+# TRANSLATION
+# LABEL/ID_UNASSIGNED_MESSAGE
+#: LABEL/ID_UNASSIGNED_MESSAGE
+msgid "unassignedMessage.html"
+msgstr "unassignedMessage.html"
+
+# TRANSLATION
+# LABEL/ID_UNASSIGNED_USERS
+#: LABEL/ID_UNASSIGNED_USERS
+msgid "Unassigned Users"
+msgstr "Unassigned Users"
+
+# TRANSLATION
+# LABEL/ID_UNKNOW_USER
+#: LABEL/ID_UNKNOW_USER
+msgid "Unknow user"
+msgstr "Unknow user"
+
+# TRANSLATION
+# LABEL/ID_UNPAUSE
+#: LABEL/ID_UNPAUSE
+msgid "Unpause"
+msgstr "Unpause"
+
+# TRANSLATION
+# LABEL/ID_UNPAUSE_CASE
+#: LABEL/ID_UNPAUSE_CASE
+msgid "[LABEL/ID_UNPAUSE_CASE] Unpause"
+msgstr "Unpause"
+
+# TRANSLATION
+# LABEL/ID_UNPAUSE_DATE
+#: LABEL/ID_UNPAUSE_DATE
+msgid "Unpause Date"
+msgstr "Unpause Date"
+
+# TRANSLATION
+# LABEL/ID_UNPAUSE_TIME
+#: LABEL/ID_UNPAUSE_TIME
+msgid "Unpause Time"
+msgstr "Unpause Time"
+
+# TRANSLATION
+# LABEL/ID_UNPAUSING_CASE
+#: LABEL/ID_UNPAUSING_CASE
+msgid "Unpausing case..."
+msgstr "Unpausing case..."
+
+# TRANSLATION
+# LABEL/ID_UN_CHECK_ALL
+#: LABEL/ID_UN_CHECK_ALL
+msgid "Un-Check All"
+msgstr "Un-Check All"
+
+# TRANSLATION
+# LABEL/ID_UP
+#: LABEL/ID_UP
+msgid "Up"
+msgstr "Up"
+
+# TRANSLATION
+# LABEL/ID_UPDATE
+#: LABEL/ID_UPDATE
+msgid "Update"
+msgstr "Update"
+
+# TRANSLATION
+# LABEL/ID_UPDATED_SUCCESSFULLY
+#: LABEL/ID_UPDATED_SUCCESSFULLY
+msgid "Updated Successfully"
+msgstr "Updated Successfully"
+
+# TRANSLATION
+# LABEL/ID_UPDATE_DATE
+#: LABEL/ID_UPDATE_DATE
+msgid "[LABEL/ID_UPDATE_DATE] Update"
+msgstr "Update"
+
+# TRANSLATION
+# LABEL/ID_UPDATE_FAILED
+#: LABEL/ID_UPDATE_FAILED
+msgid "Updated Failed"
+msgstr "Updated Failed"
+
+# TRANSLATION
+# LABEL/ID_UPDATING_TABLE
+#: LABEL/ID_UPDATING_TABLE
+msgid "Updating table, please wait..."
+msgstr "Updating table, please wait..."
+
+# TRANSLATION
+# LABEL/ID_UPGRADE
+#: LABEL/ID_UPGRADE
+msgid "Upgrade System"
+msgstr "Upgrade System"
+
+# TRANSLATION
+# LABEL/ID_UPGRADES_PATCHES
+#: LABEL/ID_UPGRADES_PATCHES
+msgid "Upgrades/Patches"
+msgstr "Upgrades/Patches"
+
+# TRANSLATION
+# LABEL/ID_UPGRADE_NEVER_UPGRADE
+#: LABEL/ID_UPGRADE_NEVER_UPGRADE
+msgid "Never upgraded"
+msgstr "Never upgraded"
+
+# TRANSLATION
+# LABEL/ID_UPGRADE_READY
+#: LABEL/ID_UPGRADE_READY
+msgid "System upgraded from revision"
+msgstr "System upgraded from revision"
+
+# TRANSLATION
+# LABEL/ID_UPGRADE_SYSTEM
+#: LABEL/ID_UPGRADE_SYSTEM
+msgid "[LABEL/ID_UPGRADE_SYSTEM] Upgrade System"
+msgstr "Upgrade System"
+
+# TRANSLATION
+# LABEL/ID_UPGRADE_VIEW_LOG
+#: LABEL/ID_UPGRADE_VIEW_LOG
+msgid "View log"
+msgstr "View log"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD
+#: LABEL/ID_UPLOAD
+msgid "Upload"
+msgstr "Upload"
+
+# TRANSLATION
+# LABEL/ID_UPLOADED_DOCUMENTS
+#: LABEL/ID_UPLOADED_DOCUMENTS
+msgid "[LABEL/ID_UPLOADED_DOCUMENTS] Uploaded Documents"
+msgstr "Uploaded Documents"
+
+# TRANSLATION
+# LABEL/ID_UPLOADING_FILE
+#: LABEL/ID_UPLOADING_FILE
+msgid "Uploading file..."
+msgstr "Uploading file..."
+
+# TRANSLATION
+# LABEL/ID_UPLOADING_IMAGE_WRONG_SIZE
+#: LABEL/ID_UPLOADING_IMAGE_WRONG_SIZE
+msgid "Error uploading image, wrong file size"
+msgstr "Error uploading image, wrong file size"
+
+# TRANSLATION
+# LABEL/ID_UPLOADING_PROCESS_FILE
+#: LABEL/ID_UPLOADING_PROCESS_FILE
+msgid "Uploading the process file..."
+msgstr "Uploading the process file..."
+
+# TRANSLATION
+# LABEL/ID_UPLOADING_TRANSLATION_FILE
+#: LABEL/ID_UPLOADING_TRANSLATION_FILE
+msgid "Uploading the translation file..."
+msgstr "Uploading the translation file..."
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_COMPLETE
+#: LABEL/ID_UPLOAD_COMPLETE
+msgid "Upload complete"
+msgstr "Upload complete"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_CANT_WRITE
+#: LABEL/ID_UPLOAD_ERR_CANT_WRITE
+msgid "Failed to write file to disk"
+msgstr "Failed to write file to disk"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_EXTENSION
+#: LABEL/ID_UPLOAD_ERR_EXTENSION
+msgid "File upload stopped by extension"
+msgstr "File upload stopped by extension"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_FORM_SIZE
+#: LABEL/ID_UPLOAD_ERR_FORM_SIZE
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_INI_SIZE
+#: LABEL/ID_UPLOAD_ERR_INI_SIZE
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_NO_FILE
+#: LABEL/ID_UPLOAD_ERR_NO_FILE
+msgid "No file was uploaded"
+msgstr "No file was uploaded"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_NO_TMP_DIR
+#: LABEL/ID_UPLOAD_ERR_NO_TMP_DIR
+msgid "Missing a temporary folder"
+msgstr "Missing a temporary folder"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_PARTIAL
+#: LABEL/ID_UPLOAD_ERR_PARTIAL
+msgid "The uploaded file was only partially uploaded"
+msgstr "The uploaded file was only partially uploaded"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_ERR_UNKNOWN
+#: LABEL/ID_UPLOAD_ERR_UNKNOWN
+msgid "Unknown upload error"
+msgstr "Unknown upload error"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_FILE
+#: LABEL/ID_UPLOAD_FILE
+msgid "Upload File"
+msgstr "Upload File"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_FROM_FILE
+#: LABEL/ID_UPLOAD_FROM_FILE
+msgid "Upload from file"
+msgstr "Upload from file"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_IMAGE
+#: LABEL/ID_UPLOAD_IMAGE
+msgid "Upload image"
+msgstr "Upload image"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_LEAST_FILE
+#: LABEL/ID_UPLOAD_LEAST_FILE
+msgid "You may upload at least one file"
+msgstr "You may upload at least one file"
+
+# TRANSLATION
+# LABEL/ID_UPLOAD_VALID_CSV_FILE
+#: LABEL/ID_UPLOAD_VALID_CSV_FILE
+msgid "Please upload a valid CSV file"
+msgstr "Please upload a valid CSV file"
+
+# TRANSLATION
+# LABEL/ID_USER
+#: LABEL/ID_USER
+msgid "[LABEL/ID_USER] User"
+msgstr "User"
+
+# TRANSLATION
+# LABEL/ID_USERNAME
+#: LABEL/ID_USERNAME
+msgid "[LABEL/ID_USERNAME] Username"
+msgstr "Username"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_ALREADY_EXISTS
+#: LABEL/ID_USERNAME_ALREADY_EXISTS
+msgid "Username '{USER_ID}' already exists"
+msgstr "Username '{USER_ID}' already exists"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_CORRECT
+#: LABEL/ID_USERNAME_CORRECT
+msgid "Available Username"
+msgstr "Available Username"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_1
+#: LABEL/ID_USERNAME_FORMAT_1
+msgid "@firstName @lastName"
+msgstr "@firstName @lastName"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_2
+#: LABEL/ID_USERNAME_FORMAT_2
+msgid "@firstName @lastName (@userName)"
+msgstr "@firstName @lastName (@userName)"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_3
+#: LABEL/ID_USERNAME_FORMAT_3
+msgid "@userName"
+msgstr "@userName"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_4
+#: LABEL/ID_USERNAME_FORMAT_4
+msgid "@userName (@firstName @lastName)"
+msgstr "@userName (@firstName @lastName)"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_5
+#: LABEL/ID_USERNAME_FORMAT_5
+msgid "@lastName @firstName"
+msgstr "@lastName @firstName"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_6
+#: LABEL/ID_USERNAME_FORMAT_6
+msgid "@lastName, @firstName"
+msgstr "@lastName, @firstName"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_FORMAT_7
+#: LABEL/ID_USERNAME_FORMAT_7
+msgid "@lastName, @firstName (@userName)"
+msgstr "@lastName, @firstName (@userName)"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_OR_WORKSPACE
+#: LABEL/ID_USERNAME_OR_WORKSPACE
+msgid "Username (or Live Workspace)"
+msgstr "Username (or Live Workspace)"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_REQUIRED
+#: LABEL/ID_USERNAME_REQUIRED
+msgid "Username is required"
+msgstr "Username is required"
+
+# TRANSLATION
+# LABEL/ID_USERNAME_TESTING
+#: LABEL/ID_USERNAME_TESTING
+msgid "Verifying username availability"
+msgstr "Verifying username availability"
+
+# TRANSLATION
+# LABEL/ID_USERS
+#: LABEL/ID_USERS
+msgid "Users"
+msgstr "Users"
+
+# TRANSLATION
+# LABEL/ID_USERS_ACTORS
+#: LABEL/ID_USERS_ACTORS
+msgid "Users Actors"
+msgstr "Users Actors"
+
+# TRANSLATION
+# LABEL/ID_USERS_DELETE_WITH_HISTORY
+#: LABEL/ID_USERS_DELETE_WITH_HISTORY
+msgid "[LABEL/ID_USERS_DELETE_WITH_HISTORY] The user has some completed or canceled tasks (which may be useful for historical records). Do you want to delete this user anyway?"
+msgstr "The user has some completed or canceled tasks (which may be useful for historical records). Do you want to delete this user anyway?"
+
+# TRANSLATION
+# LABEL/ID_USERS_GROUPS
+#: LABEL/ID_USERS_GROUPS
+msgid "Users and User Groups"
+msgstr "Users and User Groups"
+
+# TRANSLATION
+# LABEL/ID_USERS_HAS_ASSIGNED_CASES
+#: LABEL/ID_USERS_HAS_ASSIGNED_CASES
+msgid "The user has assigned cases, Do you like to continue anyway?"
+msgstr "The user has assigned cases, Do you like to continue anyway?"
+
+# TRANSLATION
+# LABEL/ID_USERS_LIST
+#: LABEL/ID_USERS_LIST
+msgid "[LABEL/ID_USERS_LIST] Users"
+msgstr "Users"
+
+# TRANSLATION
+# LABEL/ID_USERS_REMOVED
+#: LABEL/ID_USERS_REMOVED
+msgid "User has been removed successfully"
+msgstr "User has been removed successfully"
+
+# TRANSLATION
+# LABEL/ID_USERS_SUCCESS_DELETE
+#: LABEL/ID_USERS_SUCCESS_DELETE
+msgid "User has been deleted correctly."
+msgstr "User has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_USERS_UNAVAILABLE
+#: LABEL/ID_USERS_UNAVAILABLE
+msgid "No users are available. All users have been already assigned"
+msgstr "No users are available. All users have been already assigned"
+
+# TRANSLATION
+# LABEL/ID_USER_ALREADY_EXISTS_GROUP
+#: LABEL/ID_USER_ALREADY_EXISTS_GROUP
+msgid "User already exists in the group"
+msgstr "User already exists in the group"
+
+# TRANSLATION
+# LABEL/ID_USER_ASSIGNED
+#: LABEL/ID_USER_ASSIGNED
+msgid "User has been successfully assigned"
+msgstr "User has been successfully assigned"
+
+# TRANSLATION
+# LABEL/ID_USER_BROWSER
+#: LABEL/ID_USER_BROWSER
+msgid "User's Browser"
+msgstr "User's Browser"
+
+# TRANSLATION
+# LABEL/ID_USER_CASES_NOT_START
+#: LABEL/ID_USER_CASES_NOT_START
+msgid "User can't start a case because doesn't have a starting task assigned"
+msgstr "User can't start a case because doesn't have a starting task assigned"
+
+# TRANSLATION
+# LABEL/ID_USER_CREATED_SUCCESSFULLY
+#: LABEL/ID_USER_CREATED_SUCCESSFULLY
+msgid "User {FIRSTNAME} {LASTNAME} [{USER_ID}] created successfully"
+msgstr "User {FIRSTNAME} {LASTNAME} [{USER_ID}] created successfully"
+
+# TRANSLATION
+# LABEL/ID_USER_CREDENTIALS_REQUIRED
+#: LABEL/ID_USER_CREDENTIALS_REQUIRED
+msgid "User credentials are required."
+msgstr "User credentials are required."
+
+# TRANSLATION
+# LABEL/ID_USER_DEFINED_TIMING_CONTROL
+#: LABEL/ID_USER_DEFINED_TIMING_CONTROL
+msgid "Allow user defined timing control"
+msgstr "Allow user defined timing control"
+
+# TRANSLATION
+# LABEL/ID_USER_EXPERIENCE
+#: LABEL/ID_USER_EXPERIENCE
+msgid "User Experience"
+msgstr "User Experience"
+
+# TRANSLATION
+# LABEL/ID_USER_GROUPS
+#: LABEL/ID_USER_GROUPS
+msgid "Groups for"
+msgstr "Groups for"
+
+# TRANSLATION
+# LABEL/ID_USER_GROUPS_ADHOC
+#: LABEL/ID_USER_GROUPS_ADHOC
+msgid "Users and User Groups(Ad Hoc)"
+msgstr "Users and User Groups(Ad Hoc)"
+
+# TRANSLATION
+# LABEL/ID_USER_HAVENT_RIGHTS_PAGE
+#: LABEL/ID_USER_HAVENT_RIGHTS_PAGE
+msgid "User does not have rights on this page."
+msgstr "User does not have rights on this page."
+
+# TRANSLATION
+# LABEL/ID_USER_HAVENT_RIGHTS_SYSTEM
+#: LABEL/ID_USER_HAVENT_RIGHTS_SYSTEM
+msgid "User does not have access to the system"
+msgstr "User does not have access to the system"
+
+# TRANSLATION
+# LABEL/ID_USER_ID
+#: LABEL/ID_USER_ID
+msgid "User ID (*)"
+msgstr "User ID (*)"
+
+# TRANSLATION
+# LABEL/ID_USER_INACTIVE
+#: LABEL/ID_USER_INACTIVE
+msgid "User inactive!"
+msgstr "User inactive!"
+
+# TRANSLATION
+# LABEL/ID_USER_INACTIVE_BY_DATE
+#: LABEL/ID_USER_INACTIVE_BY_DATE
+msgid "User not allowed access past due date"
+msgstr "User not allowed access past due date"
+
+# TRANSLATION
+# LABEL/ID_USER_INFORMATION
+#: LABEL/ID_USER_INFORMATION
+msgid "User Information"
+msgstr "User Information"
+
+# TRANSLATION
+# LABEL/ID_USER_LIST
+#: LABEL/ID_USER_LIST
+msgid "User List"
+msgstr "User List"
+
+# TRANSLATION
+# LABEL/ID_USER_NAME
+#: LABEL/ID_USER_NAME
+msgid "User Name"
+msgstr "User Name"
+
+# TRANSLATION
+# LABEL/ID_USER_NOT_ASSIGNED_TASK
+#: LABEL/ID_USER_NOT_ASSIGNED_TASK
+msgid "The user is not assigned to the task"
+msgstr "The user is not assigned to the task"
+
+# TRANSLATION
+# LABEL/ID_USER_NOT_REGISTER
+#: LABEL/ID_USER_NOT_REGISTER
+msgid "the user is not register"
+msgstr "the user is not register"
+
+# TRANSLATION
+# LABEL/ID_USER_NOT_REGISTERED
+#: LABEL/ID_USER_NOT_REGISTERED
+msgid "User not registered!"
+msgstr "User not registered!"
+
+# TRANSLATION
+# LABEL/ID_USER_NOT_REGISTERED_GROUP
+#: LABEL/ID_USER_NOT_REGISTERED_GROUP
+msgid "User not registered in the group"
+msgstr "User not registered in the group"
+
+# TRANSLATION
+# LABEL/ID_USER_NOT_REGISTERED_SYSTEM
+#: LABEL/ID_USER_NOT_REGISTERED_SYSTEM
+msgid "User not registered in the system"
+msgstr "User not registered in the system"
+
+# TRANSLATION
+# LABEL/ID_USER_ONVACATION
+#: LABEL/ID_USER_ONVACATION
+msgid "User on vacation! Contact to your System Administrator if you want to login. please"
+msgstr "User on vacation! Contact to your System Administrator if you want to login. please"
+
+# TRANSLATION
+# LABEL/ID_USER_ON_VACATIONS
+#: LABEL/ID_USER_ON_VACATIONS
+msgid "User on vacation was replaced"
+msgstr "User on vacation was replaced"
+
+# TRANSLATION
+# LABEL/ID_USER_PROCESS_NOT_START
+#: LABEL/ID_USER_PROCESS_NOT_START
+msgid "User can not start process"
+msgstr "User can not start process"
+
+# TRANSLATION
+# LABEL/ID_USER_REGISTERED
+#: LABEL/ID_USER_REGISTERED
+msgid "User name already exists"
+msgstr "User name already exists"
+
+# TRANSLATION
+# LABEL/ID_USER_ROLE_CANT_CHANGED_TO_ADMINISTRATOR
+#: LABEL/ID_USER_ROLE_CANT_CHANGED_TO_ADMINISTRATOR
+msgid "cant changed or create to administrator role."
+msgstr "cant changed or create to administrator role."
+
+# TRANSLATION
+# LABEL/ID_USER_SAVE_FAIL
+#: LABEL/ID_USER_SAVE_FAIL
+msgid "Failed saving User Assigned to Task"
+msgstr "Failed saving User Assigned to Task"
+
+# TRANSLATION
+# LABEL/ID_USER_TO_REASSIGN
+#: LABEL/ID_USER_TO_REASSIGN
+msgid "Reassign to:"
+msgstr "Reassign to:"
+

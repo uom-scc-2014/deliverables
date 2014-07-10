@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# setup/wsDerivateCase.xml?DEL_INDEX-
+# setup/wsDerivateCase.xml
+#: dropdown - DEL_INDEX -
+msgid "[setup/wsDerivateCase.xml?DEL_INDEX-]"
+msgstr "Default"
+
+# setup/wsDerivateCase.xml?ACTIONB
+# setup/wsDerivateCase.xml
+#: button - ACTIONB
+msgid "DerivateCase"
+msgstr "DerivateCase"
+
+# setup/wsGroupList.xml?SESSION_ID
+# setup/wsGroupList.xml
+#: text - SESSION_ID
+msgid "[setup/wsGroupList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsGroupList.xml?ACTIONB
+# setup/wsGroupList.xml
+#: button - ACTIONB
+msgid "GroupList"
+msgstr "GroupList"
+
+# setup/wsInputDocumentList.xml?SESSION_ID
+# setup/wsInputDocumentList.xml
+#: text - SESSION_ID
+msgid "[setup/wsInputDocumentList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsInputDocumentList.xml?CASE_ID
+# setup/wsInputDocumentList.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsInputDocumentList.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsInputDocumentList.xml?ACTIONB
+# setup/wsInputDocumentList.xml
+#: button - ACTIONB
+msgid "InputDocumentList"
+msgstr "InputDocumentList"
+
+# setup/wsInputDocumentProcessList.xml?SESSION_ID
+# setup/wsInputDocumentProcessList.xml
+#: text - SESSION_ID
+msgid "[setup/wsInputDocumentProcessList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsInputDocumentProcessList.xml?PROCESS_ID
+# setup/wsInputDocumentProcessList.xml
+#: dropdown - PROCESS_ID
+msgid "[setup/wsInputDocumentProcessList.xml?PROCESS_ID] Process ID"
+msgstr "Process ID"
+
+# setup/wsInputDocumentProcessList.xml?ACTIONB
+# setup/wsInputDocumentProcessList.xml
+#: button - ACTIONB
+msgid "InputDocumentProcessList"
+msgstr "InputDocumentProcessList"
+
+# setup/wsLogin.xml?title
+# setup/wsLogin.xml
+#: title - title
+msgid "Login to WSDL Server"
+msgstr "Login to WSDL Server"
+
+# setup/wsLogin.xml?USER_ID
+# setup/wsLogin.xml
+#: text - USER_ID
+msgid "[setup/wsLogin.xml?USER_ID] User ID"
+msgstr "User ID"
+
+# setup/wsLogin.xml?PASSWORD
+# setup/wsLogin.xml
+#: password - PASSWORD
+msgid "[setup/wsLogin.xml?PASSWORD] Password"
+msgstr "Password"
+
+# setup/wsLogin.xml?ACTIONB
+# setup/wsLogin.xml
+#: button - ACTIONB
+msgid "[setup/wsLogin.xml?ACTIONB] Login"
+msgstr "Login"
+
+# setup/wsMessage.xml?MESSAGE
+# setup/wsMessage.xml
+#: title - MESSAGE
+msgid "You do not have enabled the SOAP extension"
+msgstr "You do not have enabled the SOAP extension"
+
+# setup/wsNewCase.xml?SESSION_ID
+# setup/wsNewCase.xml
+#: text - SESSION_ID
+msgid "[setup/wsNewCase.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsNewCase.xml?PROCESS_ID
+# setup/wsNewCase.xml
+#: dropdown - PROCESS_ID
+msgid "[setup/wsNewCase.xml?PROCESS_ID] Process ID"
+msgstr "Process ID"
+
+# setup/wsNewCase.xml?TASK_ID
+# setup/wsNewCase.xml
+#: dropdown - TASK_ID
+msgid "[setup/wsNewCase.xml?TASK_ID] Task ID"
+msgstr "Task ID"
+
+# setup/wsNewCase.xml?TASK_ID-
+# setup/wsNewCase.xml
+#: dropdown - TASK_ID -
+msgid "[setup/wsNewCase.xml?TASK_ID-]"
+msgstr "Default"
+
+# setup/wsNewCase.xml?ACTIONB
+# setup/wsNewCase.xml
+#: button - ACTIONB
+msgid "NewCase"
+msgstr "NewCase"
+
+# setup/wsNewCaseImpersonate.xml?SESSION_ID
+# setup/wsNewCaseImpersonate.xml
+#: text - SESSION_ID
+msgid "[setup/wsNewCaseImpersonate.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsNewCaseImpersonate.xml?PROCESS_ID
+# setup/wsNewCaseImpersonate.xml
+#: dropdown - PROCESS_ID
+msgid "[setup/wsNewCaseImpersonate.xml?PROCESS_ID] Process ID"
+msgstr "Process ID"
+
+# setup/wsNewCaseImpersonate.xml?USER_ID
+# setup/wsNewCaseImpersonate.xml
+#: dropdown - USER_ID
+msgid "[setup/wsNewCaseImpersonate.xml?USER_ID] User ID"
+msgstr "User ID"
+
+# setup/wsNewCaseImpersonate.xml?ACTIONB
+# setup/wsNewCaseImpersonate.xml
+#: button - ACTIONB
+msgid "NewCaseImpersonate"
+msgstr "NewCaseImpersonate"
+
+# setup/wsOutputDocumentList.xml?SESSION_ID
+# setup/wsOutputDocumentList.xml
+#: text - SESSION_ID
+msgid "[setup/wsOutputDocumentList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsOutputDocumentList.xml?CASE_ID
+# setup/wsOutputDocumentList.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsOutputDocumentList.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsOutputDocumentList.xml?ACTIONB
+# setup/wsOutputDocumentList.xml
+#: button - ACTIONB
+msgid "OutputDocumentList"
+msgstr "OutputDocumentList"
+
+# setup/wsProcessList.xml?SESSION_ID
+# setup/wsProcessList.xml
+#: text - SESSION_ID
+msgid "[setup/wsProcessList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsProcessList.xml?ACTIONB
+# setup/wsProcessList.xml
+#: button - ACTIONB
+msgid "ProcessList"
+msgstr "ProcessList"
+
+# setup/wsReassignCase.xml?SESSION_ID
+# setup/wsReassignCase.xml
+#: text - SESSION_ID
+msgid "[setup/wsReassignCase.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsReassignCase.xml?CASE_ID
+# setup/wsReassignCase.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsReassignCase.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsReassignCase.xml?DEL_INDEX
+# setup/wsReassignCase.xml
+#: dropdown - DEL_INDEX
+msgid "Delindex"
+msgstr "Delindex"
+
+# setup/wsReassignCase.xml?DEL_INDEX-
+# setup/wsReassignCase.xml
+#: dropdown - DEL_INDEX -
+msgid "[setup/wsReassignCase.xml?DEL_INDEX-]"
+msgstr "Default"
+
+# setup/wsReassignCase.xml?USERIDSOURCE
+# setup/wsReassignCase.xml
+#: dropdown - USERIDSOURCE
+msgid "User Source"
+msgstr "User Source"
+
+# setup/wsReassignCase.xml?USERIDTARGET
+# setup/wsReassignCase.xml
+#: dropdown - USERIDTARGET
+msgid "User Target"
+msgstr "User Target"
+
+# setup/wsReassignCase.xml?ACTIONB
+# setup/wsReassignCase.xml
+#: button - ACTIONB
+msgid "ReassignCase"
+msgstr "ReassignCase"
+
+# setup/wsRemoveDocument.xml?SESSION_ID
+# setup/wsRemoveDocument.xml
+#: text - SESSION_ID
+msgid "[setup/wsRemoveDocument.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsRemoveDocument.xml?APP_DOC_UID
+# setup/wsRemoveDocument.xml
+#: dropdown - APP_DOC_UID
+msgid "Document ID"
+msgstr "Document ID"
+
+# setup/wsRemoveDocument.xml?ACTIONB
+# setup/wsRemoveDocument.xml
+#: button - ACTIONB
+msgid "RemoveDocument"
+msgstr "RemoveDocument"
+
+# setup/wsRoleList.xml?SESSION_ID
+# setup/wsRoleList.xml
+#: text - SESSION_ID
+msgid "[setup/wsRoleList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsRoleList.xml?ACTIONB
+# setup/wsRoleList.xml
+#: button - ACTIONB
+msgid "RoleList"
+msgstr "RoleList"
+
+# setup/wsSendFiles.xml?SESSION_ID
+# setup/wsSendFiles.xml
+#: text - SESSION_ID
+msgid "[setup/wsSendFiles.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsSendFiles.xml?UPLOAD_FILE
+# setup/wsSendFiles.xml
+#: title - UPLOAD_FILE
+msgid "Send your file to the server"
+msgstr "Send your file to the server"
+
+# setup/wsSendFiles.xml?UPLOAD_OPTION
+# setup/wsSendFiles.xml
+#: dropdown - UPLOAD_OPTION
+msgid "Upload Option"
+msgstr "Upload Option"
+
+# setup/wsSendFiles.xml?UPLOAD_OPTION-
+# setup/wsSendFiles.xml
+#: dropdown - UPLOAD_OPTION -
+msgid "[setup/wsSendFiles.xml?UPLOAD_OPTION-]"
+msgstr "Attached File"
+
+# setup/wsSendFiles.xml?UPLOAD_OPTION-1
+# setup/wsSendFiles.xml
+#: dropdown - UPLOAD_OPTION - 1
+msgid "[setup/wsSendFiles.xml?UPLOAD_OPTION-1]"
+msgstr "Input Document"
+
+# setup/wsSendFiles.xml?INPUT_DOCUMENT
+# setup/wsSendFiles.xml
+#: dropdown - INPUT_DOCUMENT
+msgid "[setup/wsSendFiles.xml?INPUT_DOCUMENT] Input Document"
+msgstr "Input Document"
+
+# setup/wsSendFiles.xml?FILE_TO_UPLOAD
+# setup/wsSendFiles.xml
+#: file - FILE_TO_UPLOAD
+msgid "File to Send"
+msgstr "File to Send"
+
+# setup/wsSendFiles.xml?SEND_FILE
+# setup/wsSendFiles.xml
+#: submit - SEND_FILE
+msgid "Sending"
+msgstr "Sending"
+
+# setup/wsSendMessage.xml?SESSION_ID
+# setup/wsSendMessage.xml
+#: text - SESSION_ID
+msgid "[setup/wsSendMessage.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsSendMessage.xml?CASE_ID
+# setup/wsSendMessage.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsSendMessage.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsSendMessage.xml?FROM
+# setup/wsSendMessage.xml
+#: text - FROM
+msgid "[setup/wsSendMessage.xml?FROM] From"
+msgstr "From"
+
+# setup/wsSendMessage.xml?TO_EMAIL
+# setup/wsSendMessage.xml
+#: text - TO_EMAIL
+msgid "[setup/wsSendMessage.xml?TO_EMAIL] TO"
+msgstr "TO"
+
+# setup/wsSendMessage.xml?CC_EMAIL
+# setup/wsSendMessage.xml
+#: text - CC_EMAIL
+msgid "[setup/wsSendMessage.xml?CC_EMAIL] CC"
+msgstr "CC"
+
+# setup/wsSendMessage.xml?BCC_MAIL
+# setup/wsSendMessage.xml
+#: text - BCC_MAIL
+msgid "[setup/wsSendMessage.xml?BCC_MAIL] BCC"
+msgstr "BCC"
+
+# setup/wsSendMessage.xml?SUBJECT
+# setup/wsSendMessage.xml
+#: text - SUBJECT
+msgid "[setup/wsSendMessage.xml?SUBJECT] Subject"
+msgstr "Subject"
+
+# setup/wsSendMessage.xml?MESSAGE
+# setup/wsSendMessage.xml
+#: textarea - MESSAGE
+msgid "[setup/wsSendMessage.xml?MESSAGE] Message"
+msgstr "Message"
+
+# setup/wsSendMessage.xml?ACTIONB
+# setup/wsSendMessage.xml
+#: button - ACTIONB
+msgid "SendMessage"
+msgstr "SendMessage"
+
+# setup/wsSendVariables.xml?SESSION_ID
+# setup/wsSendVariables.xml
+#: text - SESSION_ID
+msgid "[setup/wsSendVariables.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsSendVariables.xml?CASE_ID
+# setup/wsSendVariables.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsSendVariables.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsSendVariables.xml?NAME1
+# setup/wsSendVariables.xml
+#: text - NAME1
+msgid "Name 1"
+msgstr "Name 1"
+
+# setup/wsSendVariables.xml?VALUE1
+# setup/wsSendVariables.xml
+#: text - VALUE1
+msgid "Value 1"
+msgstr "Value 1"
+
+# setup/wsSendVariables.xml?NAME2
+# setup/wsSendVariables.xml
+#: text - NAME2
+msgid "Name 2"
+msgstr "Name 2"
+
+# setup/wsSendVariables.xml?VALUE2
+# setup/wsSendVariables.xml
+#: text - VALUE2
+msgid "Value 2"
+msgstr "Value 2"
+
+# setup/wsSendVariables.xml?ACTIONB
+# setup/wsSendVariables.xml
+#: button - ACTIONB
+msgid "SendVariables"
+msgstr "SendVariables"
+
+# setup/wsShowResult.xml?status_code
+# setup/wsShowResult.xml
+#: text - status_code
+msgid "Status Code"
+msgstr "Status Code"
+
+# setup/wsShowResult.xml?message
+# setup/wsShowResult.xml
+#: textarea - message
+msgid "[setup/wsShowResult.xml?message] Message"
+msgstr "Message"
+
+# setup/wsShowResult.xml?time_stamp
+# setup/wsShowResult.xml
+#: text - time_stamp
+msgid "Time Stamp"
+msgstr "Time Stamp"
+
+# setup/wsTaskCase.xml?SESSION_ID
+# setup/wsTaskCase.xml
+#: text - SESSION_ID
+msgid "[setup/wsTaskCase.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsTaskCase.xml?CASE_ID
+# setup/wsTaskCase.xml
+#: dropdown - CASE_ID
+msgid "[setup/wsTaskCase.xml?CASE_ID] Case ID"
+msgstr "Case ID"
+
+# setup/wsTaskCase.xml?ACTIONB
+# setup/wsTaskCase.xml
+#: button - ACTIONB
+msgid "TaskCase"
+msgstr "TaskCase"
+
+# setup/wsTaskList.xml?SESSION_ID
+# setup/wsTaskList.xml
+#: text - SESSION_ID
+msgid "[setup/wsTaskList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsTaskList.xml?ACTIONB
+# setup/wsTaskList.xml
+#: button - ACTIONB
+msgid "TaskList"
+msgstr "TaskList"
+
+# setup/wsTriggerList.xml?SESSION_ID
+# setup/wsTriggerList.xml
+#: text - SESSION_ID
+msgid "[setup/wsTriggerList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsTriggerList.xml?ACTIONB
+# setup/wsTriggerList.xml
+#: button - ACTIONB
+msgid "TriggerList"
+msgstr "TriggerList"
+
+# setup/wsUnassignedCaseList.xml?SESSION_ID
+# setup/wsUnassignedCaseList.xml
+#: text - SESSION_ID
+msgid "[setup/wsUnassignedCaseList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsUnassignedCaseList.xml?ACTIONB
+# setup/wsUnassignedCaseList.xml
+#: button - ACTIONB
+msgid "UnassignedCaseList"
+msgstr "UnassignedCaseList"
+
+# setup/wsUserList.xml?SESSION_ID
+# setup/wsUserList.xml
+#: text - SESSION_ID
+msgid "[setup/wsUserList.xml?SESSION_ID] Session Id"
+msgstr "Session Id"
+
+# setup/wsUserList.xml?ACTIONB
+# setup/wsUserList.xml
+#: button - ACTIONB
+msgid "UserList"
+msgstr "UserList"
+
+# setup/wsVariablesGrid.xml?NAME
+# setup/wsVariablesGrid.xml
+#: text - NAME
+msgid "[setup/wsVariablesGrid.xml?NAME] Name"
+msgstr "Name"
+
+# setup/wsVariablesGrid.xml?VALUE
+# setup/wsVariablesGrid.xml
+#: text - VALUE
+msgid "[setup/wsVariablesGrid.xml?VALUE] Value"
+msgstr "Value"
+
+# setup/wsrCaseList.xml?guid
+# setup/wsrCaseList.xml
+#: text - guid
+msgid "GUID"
+msgstr "GUID"
+
+# setup/wsrCaseList.xml?name
+# setup/wsrCaseList.xml
+#: text - name
+msgid "[setup/wsrCaseList.xml?name] Case Title"
+msgstr "Case Title"
+
+# setup/wsrCaseList.xml?status
+# setup/wsrCaseList.xml
+#: text - status
+msgid "[setup/wsrCaseList.xml?status] Status"
+msgstr "Status"
+
+# setup/wsrCaseList.xml?delIndex
+# setup/wsrCaseList.xml
+#: text - delIndex
+msgid "[setup/wsrCaseList.xml?delIndex] Del Index"
+msgstr "Del Index"
+
+# setup/wsrGroupList.xml?guid
+# setup/wsrGroupList.xml
+#: text - guid
+msgid "[setup/wsrGroupList.xml?guid] GUID"
+msgstr "GUID"
+
+# setup/wsrGroupList.xml?name
+# setup/wsrGroupList.xml
+#: text - name
+msgid "Group Title"
+msgstr "Group Title"
+
+# setup/wsrInputDocumentList.xml?filename
+# setup/wsrInputDocumentList.xml
+#: text - filename
+msgid "[setup/wsrInputDocumentList.xml?filename] Filename"
+msgstr "Filename"
+
+# setup/wsrInputDocumentList.xml?docId
+# setup/wsrInputDocumentList.xml
+#: text - docId
+msgid "Document GUID"
+msgstr "Document GUID"
+
+# setup/wsrInputDocumentList.xml?version
+# setup/wsrInputDocumentList.xml
+#: text - version
+msgid "version"
+msgstr "version"
+
+# setup/wsrInputDocumentList.xml?createDate
+# setup/wsrInputDocumentList.xml
+#: text - createDate
+msgid "create Date"
+msgstr "create Date"
+
+# setup/wsrInputDocumentList.xml?createBy
+# setup/wsrInputDocumentList.xml
+#: text - createBy
+msgid "created by"
+msgstr "created by"
+
+# setup/wsrInputDocumentList.xml?type
+# setup/wsrInputDocumentList.xml
+#: text - type
+msgid "type"
+msgstr "type"
+
+# setup/wsrInputDocumentProcessList.xml?guid
+# setup/wsrInputDocumentProcessList.xml
+#: text - guid
+msgid "InputDocument GUID"
+msgstr "InputDocument GUID"
+
+# setup/wsrInputDocumentProcessList.xml?name
+# setup/wsrInputDocumentProcessList.xml
+#: text - name
+msgid "[setup/wsrInputDocumentProcessList.xml?name] Name"
+msgstr "Name"
+
+# setup/wsrInputDocumentProcessList.xml?description
+# setup/wsrInputDocumentProcessList.xml
+#: text - description
+msgid "description"
+msgstr "description"
+
+# setup/wsrOutputDocumentList.xml?filename
+# setup/wsrOutputDocumentList.xml
+#: text - filename
+msgid "[setup/wsrOutputDocumentList.xml?filename] Filename"
+msgstr "Filename"
+
+# setup/wsrOutputDocumentList.xml?docId
+# setup/wsrOutputDocumentList.xml
+#: text - docId
+msgid "[setup/wsrOutputDocumentList.xml?docId] Document GUID"
+msgstr "Document GUID"
+
+# setup/wsrOutputDocumentList.xml?version
+# setup/wsrOutputDocumentList.xml
+#: text - version
+msgid "[setup/wsrOutputDocumentList.xml?version] version"
+msgstr "version"
+
+# setup/wsrOutputDocumentList.xml?createDate
+# setup/wsrOutputDocumentList.xml
+#: text - createDate
+msgid "[setup/wsrOutputDocumentList.xml?createDate] create Date"
+msgstr "create Date"
+

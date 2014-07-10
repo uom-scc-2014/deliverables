@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_INSTALLING_WORKSPACE
+#: LABEL/ID_INSTALLING_WORKSPACE
+msgid "Installing workspace..."
+msgstr "Installing workspace..."
+
+# TRANSLATION
+# LABEL/ID_INSTALL_BUT_ERROR
+#: LABEL/ID_INSTALL_BUT_ERROR
+msgid "Installed but with error, couldn't update {0}"
+msgstr "Installed but with error, couldn't update {0}"
+
+# TRANSLATION
+# LABEL/ID_INSTALL_MESSAGE
+#: LABEL/ID_INSTALL_MESSAGE
+msgid "Please follow these instructions to complete installation"
+msgstr "Please follow these instructions to complete installation"
+
+# TRANSLATION
+# LABEL/ID_INSTALL_STEPS
+#: LABEL/ID_INSTALL_STEPS
+msgid "Install Steps"
+msgstr "Install Steps"
+
+# TRANSLATION
+# LABEL/ID_INSTALL_SUCESS
+#: LABEL/ID_INSTALL_SUCESS
+msgid "Install completed Succesfully"
+msgstr "Install completed Succesfully"
+
+# TRANSLATION
+# LABEL/ID_INSTRUCTIONS
+#: LABEL/ID_INSTRUCTIONS
+msgid "Instructions"
+msgstr "Instructions"
+
+# TRANSLATION
+# LABEL/ID_INSTRUCTIONS_TEXT
+#: LABEL/ID_INSTRUCTIONS_TEXT
+msgid "To assign a case it should be selected from the grid and then on the Search enter a name to do the user search to whom the case will be reasigned and then select one from the list."
+msgstr "To assign a case it should be selected from the grid and then on the Search enter a name to do the user search to whom the case will be reasigned and then select one from the list."
+
+# TRANSLATION
+# LABEL/ID_INSUFFICIENT_PRIVILEGES_FUNCTION
+#: LABEL/ID_INSUFFICIENT_PRIVILEGES_FUNCTION
+msgid "Insufficient privileges to execute this function"
+msgstr "Insufficient privileges to execute this function"
+
+# TRANSLATION
+# LABEL/ID_INT
+#: LABEL/ID_INT
+msgid "INT"
+msgstr "INT"
+
+# TRANSLATION
+# LABEL/ID_INTERMEDIATE_MESSAGE_EVENT
+#: LABEL/ID_INTERMEDIATE_MESSAGE_EVENT
+msgid "Intermediate Message Events (Task Notifications)"
+msgstr "Intermediate Message Events (Task Notifications)"
+
+# TRANSLATION
+# LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS
+#: LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS
+msgid "[LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS] Intermediate Message Events (Task Notifications)"
+msgstr "Intermediate Message Events (Task Notifications)"
+
+# TRANSLATION
+# LABEL/ID_INTERMEDIATE_TIMER_EVENT
+#: LABEL/ID_INTERMEDIATE_TIMER_EVENT
+msgid "Intermediate Timer Event (Multiple Event)"
+msgstr "Intermediate Timer Event (Multiple Event)"
+
+# TRANSLATION
+# LABEL/ID_INTERMEDIATE_TIMER_EVENTS
+#: LABEL/ID_INTERMEDIATE_TIMER_EVENTS
+msgid "[LABEL/ID_INTERMEDIATE_TIMER_EVENTS] Intermediate Timer Event (Multiple Event)"
+msgstr "Intermediate Timer Event (Multiple Event)"
+
+# TRANSLATION
+# LABEL/ID_INTERNATIONAL
+#: LABEL/ID_INTERNATIONAL
+msgid "International"
+msgstr "International"
+
+# TRANSLATION
+# LABEL/ID_INVALID_APPLICATION_ID_MSG
+#: LABEL/ID_INVALID_APPLICATION_ID_MSG
+msgid "Invalid application id stored on session,<br/>This can happens when you have opened another case on a new tab or window.<br/>Please {0} the case."
+msgstr "Invalid application id stored on session,<br/>This can happens when you have opened another case on a new tab or window.<br/>Please {0} the case."
+
+# TRANSLATION
+# LABEL/ID_INVALID_APPLICATION_NUMBER
+#: LABEL/ID_INVALID_APPLICATION_NUMBER
+msgid "You have set a invalid Application Number"
+msgstr "You have set a invalid Application Number"
+
+# TRANSLATION
+# LABEL/ID_INVALID_CASE_DELEGATION_INDEX
+#: LABEL/ID_INVALID_CASE_DELEGATION_INDEX
+msgid "Invalid Case Delegation index for this user"
+msgstr "Invalid Case Delegation index for this user"
+
+# TRANSLATION
+# LABEL/ID_INVALID_DATA
+#: LABEL/ID_INVALID_DATA
+msgid "Invalid data"
+msgstr "Invalid data"
+
+# TRANSLATION
+# LABEL/ID_INVALID_END_HOURS
+#: LABEL/ID_INVALID_END_HOURS
+msgid "The following end hours rows are invalid:"
+msgstr "The following end hours rows are invalid:"
+
+# TRANSLATION
+# LABEL/ID_INVALID_EXTENSION
+#: LABEL/ID_INVALID_EXTENSION
+msgid "Invalid file extension!"
+msgstr "Invalid file extension!"
+
+# TRANSLATION
+# LABEL/ID_INVALID_FILE
+#: LABEL/ID_INVALID_FILE
+msgid "Invalid FIle"
+msgstr "Invalid FIle"
+
+# TRANSLATION
+# LABEL/ID_INVALID_NAME
+#: LABEL/ID_INVALID_NAME
+msgid "Invalid name!"
+msgstr "Invalid name!"
+
+# TRANSLATION
+# LABEL/ID_INVALID_ORIGIN_USER
+#: LABEL/ID_INVALID_ORIGIN_USER
+msgid "Invalid origin user"
+msgstr "Invalid origin user"
+
+# TRANSLATION
+# LABEL/ID_INVALID_PROCESS
+#: LABEL/ID_INVALID_PROCESS
+msgid "Invalid process"
+msgstr "Invalid process"
+
+# TRANSLATION
+# LABEL/ID_INVALID_PROCESS_NAME
+#: LABEL/ID_INVALID_PROCESS_NAME
+msgid "Invalid process name, please just use alphanumeric characters."
+msgstr "Invalid process name, please just use alphanumeric characters."
+
+# TRANSLATION
+# LABEL/ID_INVALID_PROCESS_NAME2
+#: LABEL/ID_INVALID_PROCESS_NAME2
+msgid "[LABEL/ID_INVALID_PROCESS_NAME2] Invalid process name, please just use alphanumeric characters."
+msgstr "Invalid process name, please just use alphanumeric characters."
+
+# TRANSLATION
+# LABEL/ID_INVALID_ROLE
+#: LABEL/ID_INVALID_ROLE
+msgid "Invalid role '{ROLE}'"
+msgstr "Invalid role '{ROLE}'"
+
+# TRANSLATION
+# LABEL/ID_INVALID_START_HOURS
+#: LABEL/ID_INVALID_START_HOURS
+msgid "The following start hours rows are invalid:"
+msgstr "The following start hours rows are invalid:"
+
+# TRANSLATION
+# LABEL/ID_INVALID_TRIGGER
+#: LABEL/ID_INVALID_TRIGGER
+msgid "Invalid trigger '{TRIGGER_INDEX}'"
+msgstr "Invalid trigger '{TRIGGER_INDEX}'"
+
+# TRANSLATION
+# LABEL/ID_IN_PROGRESS
+#: LABEL/ID_IN_PROGRESS
+msgid "In Progress"
+msgstr "In Progress"
+
+# TRANSLATION
+# LABEL/ID_ISNT_LICENSE
+#: LABEL/ID_ISNT_LICENSE
+msgid "This isn't the correct license."
+msgstr "This isn't the correct license."
+
+# TRANSLATION
+# LABEL/ID_IS_NOT_REGISTERED
+#: LABEL/ID_IS_NOT_REGISTERED
+msgid "is not registered!"
+msgstr "is not registered!"
+
+# TRANSLATION
+# LABEL/ID_IS_REQUIRED
+#: LABEL/ID_IS_REQUIRED
+msgid "is required"
+msgstr "is required"
+
+# TRANSLATION
+# LABEL/ID_IUD
+#: LABEL/ID_IUD
+msgid "[LABEL/ID_IUD] #"
+msgstr "#"
+
+# TRANSLATION
+# LABEL/ID_JAVASCRIPTS
+#: LABEL/ID_JAVASCRIPTS
+msgid "JavaScripts"
+msgstr "JavaScripts"
+
+# TRANSLATION
+# LABEL/ID_JAVASCRIPT_CACHE
+#: LABEL/ID_JAVASCRIPT_CACHE
+msgid "Javascript cache"
+msgstr "Javascript cache"
+
+# TRANSLATION
+# LABEL/ID_JUMP
+#: LABEL/ID_JUMP
+msgid "Jump"
+msgstr "Jump"
+
+# TRANSLATION
+# LABEL/ID_LABEL
+#: LABEL/ID_LABEL
+msgid "[LABEL/ID_LABEL] Label"
+msgstr "Label"
+
+# TRANSLATION
+# LABEL/ID_LANGUAGES
+#: LABEL/ID_LANGUAGES
+msgid "[LABEL/ID_LANGUAGES] Language"
+msgstr "Language"
+
+# TRANSLATION
+# LABEL/ID_LANGUAGE_CANT_DELETE
+#: LABEL/ID_LANGUAGE_CANT_DELETE
+msgid "There is {0} cases started with this language, delete action canceled!"
+msgstr "There is {0} cases started with this language, delete action canceled!"
+
+# TRANSLATION
+# LABEL/ID_LANGUAGE_DELETED_SUCCESSFULLY
+#: LABEL/ID_LANGUAGE_DELETED_SUCCESSFULLY
+msgid "Language deleted successfully!"
+msgstr "Language deleted successfully!"
+
+# TRANSLATION
+# LABEL/ID_LANGUAJE_DIRECTORY
+#: LABEL/ID_LANGUAJE_DIRECTORY
+msgid "Language Directory"
+msgstr "Language Directory"
+
+# TRANSLATION
+# LABEL/ID_LANG_INSTALL_UPDATE
+#: LABEL/ID_LANG_INSTALL_UPDATE
+msgid "Install / Update"
+msgstr "Install / Update"
+
+# TRANSLATION
+# LABEL/ID_LAN_COUNTRY
+#: LABEL/ID_LAN_COUNTRY
+msgid "[LABEL/ID_LAN_COUNTRY] Country"
+msgstr "Country"
+
+# TRANSLATION
+# LABEL/ID_LAN_FILE
+#: LABEL/ID_LAN_FILE
+msgid "[LABEL/ID_LAN_FILE] File"
+msgstr "File"
+
+# TRANSLATION
+# LABEL/ID_LAN_FILE_WATER_LABEL
+#: LABEL/ID_LAN_FILE_WATER_LABEL
+msgid "Select a translation file"
+msgstr "Select a translation file"
+
+# TRANSLATION
+# LABEL/ID_LAN_LANGUAGE
+#: LABEL/ID_LAN_LANGUAGE
+msgid "[LABEL/ID_LAN_LANGUAGE] Language"
+msgstr "Language"
+
+# TRANSLATION
+# LABEL/ID_LAN_LOCALE
+#: LABEL/ID_LAN_LOCALE
+msgid "Locale"
+msgstr "Locale"
+
+# TRANSLATION
+# LABEL/ID_LAN_NUM_RECORDS
+#: LABEL/ID_LAN_NUM_RECORDS
+msgid "# Records"
+msgstr "# Records"
+
+# TRANSLATION
+# LABEL/ID_LAN_REV_DATE
+#: LABEL/ID_LAN_REV_DATE
+msgid "Revision Date"
+msgstr "Revision Date"
+
+# TRANSLATION
+# LABEL/ID_LAN_TRANSLATOR
+#: LABEL/ID_LAN_TRANSLATOR
+msgid "Translator"
+msgstr "Translator"
+
+# TRANSLATION
+# LABEL/ID_LAN_UPDATE_DATE
+#: LABEL/ID_LAN_UPDATE_DATE
+msgid "Update Date"
+msgstr "Update Date"
+
+# TRANSLATION
+# LABEL/ID_LAN_UPLOAD_TITLE
+#: LABEL/ID_LAN_UPLOAD_TITLE
+msgid "Upload translation file"
+msgstr "Upload translation file"
+
+# TRANSLATION
+# LABEL/ID_LAN_VERSION
+#: LABEL/ID_LAN_VERSION
+msgid "Version"
+msgstr "Version"
+
+# TRANSLATION
+# LABEL/ID_LAST
+#: LABEL/ID_LAST
+msgid "Last"
+msgstr "Last"
+
+# TRANSLATION
+# LABEL/ID_LASTNAME
+#: LABEL/ID_LASTNAME
+msgid "Last Name"
+msgstr "Last Name"
+
+# TRANSLATION
+# LABEL/ID_LAST_EMPLOYEE
+#: LABEL/ID_LAST_EMPLOYEE
+msgid "Last Employee"
+msgstr "Last Employee"
+
+# TRANSLATION
+# LABEL/ID_LAST_LOGIN
+#: LABEL/ID_LAST_LOGIN
+msgid "Last Login"
+msgstr "Last Login"
+
+# TRANSLATION
+# LABEL/ID_LAST_MODIFY
+#: LABEL/ID_LAST_MODIFY
+msgid "[LABEL/ID_LAST_MODIFY] Last Modify"
+msgstr "Last Modify"
+
+# TRANSLATION
+# LABEL/ID_LAST_NAME
+#: LABEL/ID_LAST_NAME
+msgid "[LABEL/ID_LAST_NAME] Last Name"
+msgstr "Last Name"
+
+# TRANSLATION
+# LABEL/ID_LAST_RUN_TIME
+#: LABEL/ID_LAST_RUN_TIME
+msgid "Last Run Time"
+msgstr "Last Run Time"
+
+# TRANSLATION
+# LABEL/ID_LDAP_OPTIONAL
+#: LABEL/ID_LDAP_OPTIONAL
+msgid "LDAP is optional."
+msgstr "LDAP is optional."
+
+# TRANSLATION
+# LABEL/ID_LEFT_MARGIN
+#: LABEL/ID_LEFT_MARGIN
+msgid "Left Margin"
+msgstr "Left Margin"
+
+# TRANSLATION
+# LABEL/ID_LICENSE_EMPTY
+#: LABEL/ID_LICENSE_EMPTY
+msgid "Can not find any license"
+msgstr "Can not find any license"
+
+# TRANSLATION
+# LABEL/ID_LINE
+#: LABEL/ID_LINE
+msgid "Line"
+msgstr "Line"
+
+# TRANSLATION
+# LABEL/ID_LOADING
+#: LABEL/ID_LOADING
+msgid "Loading, please wait..."
+msgstr "Loading, please wait..."
+
+# TRANSLATION
+# LABEL/ID_LOADING_GRID
+#: LABEL/ID_LOADING_GRID
+msgid "Loading..."
+msgstr "Loading..."
+
+# TRANSLATION
+# LABEL/ID_LOAD_FAILED
+#: LABEL/ID_LOAD_FAILED
+msgid "Load Failed"
+msgstr "Load Failed"
+
+# TRANSLATION
+# LABEL/ID_LOAD_FROM_FILE
+#: LABEL/ID_LOAD_FROM_FILE
+msgid "Load from file"
+msgstr "Load from file"
+
+# TRANSLATION
+# LABEL/ID_LOAD_MORE
+#: LABEL/ID_LOAD_MORE
+msgid "Load More"
+msgstr "Load More"
+
+# TRANSLATION
+# LABEL/ID_LOCALE
+#: LABEL/ID_LOCALE
+msgid "[LABEL/ID_LOCALE] Locale"
+msgstr "Locale"
+
+# TRANSLATION
+# LABEL/ID_LOCATION
+#: LABEL/ID_LOCATION
+msgid "Location"
+msgstr "Location"
+
+# TRANSLATION
+# LABEL/ID_LOGGED
+#: LABEL/ID_LOGGED
+msgid "Logged on"
+msgstr "Logged on"
+
+# TRANSLATION
+# LABEL/ID_LOGIN
+#: LABEL/ID_LOGIN
+msgid "Login"
+msgstr "Login"
+
+# TRANSLATION
+# LABEL/ID_LOGIN_AGAIN
+#: LABEL/ID_LOGIN_AGAIN
+msgid "You have lost your session and you have to login again."
+msgstr "You have lost your session and you have to login again."
+
+# TRANSLATION
+# LABEL/ID_LOGIN_LIBRARY
+#: LABEL/ID_LOGIN_LIBRARY
+msgid "Login into ProcessMaker Library"
+msgstr "Login into ProcessMaker Library"
+
+# TRANSLATION
+# LABEL/ID_LOGIN_SETTINGS
+#: LABEL/ID_LOGIN_SETTINGS
+msgid "Login Settings"
+msgstr "Login Settings"
+
+# TRANSLATION
+# LABEL/ID_LOGIN_WITH_FACEBOOK
+#: LABEL/ID_LOGIN_WITH_FACEBOOK
+msgid "Login with Facebook!!"
+msgstr "Login with Facebook!!"
+
+# TRANSLATION
+# LABEL/ID_LOGO
+#: LABEL/ID_LOGO
+msgid "Logo"
+msgstr "Logo"
+
+# TRANSLATION
+# LABEL/ID_LOGOUT
+#: LABEL/ID_LOGOUT
+msgid "Logout"
+msgstr "Logout"
+
+# TRANSLATION
+# LABEL/ID_LOGS
+#: LABEL/ID_LOGS
+msgid "Logs"
+msgstr "Logs"
+
+# TRANSLATION
+# LABEL/ID_LOG_AGAIN
+#: LABEL/ID_LOG_AGAIN
+msgid "Please login again to apply the changes."
+msgstr "Please login again to apply the changes."
+
+# TRANSLATION
+# LABEL/ID_LOG_CASE_SCHEDULER
+#: LABEL/ID_LOG_CASE_SCHEDULER
+msgid "Case Scheduler Log"
+msgstr "Case Scheduler Log"
+
+# TRANSLATION
+# LABEL/ID_LOG_INFO
+#: LABEL/ID_LOG_INFO
+msgid "Log Information"
+msgstr "Log Information"
+
+# TRANSLATION
+# LABEL/ID_MAIL_SENT_SUCCESSFULLY
+#: LABEL/ID_MAIL_SENT_SUCCESSFULLY
+msgid "Your message has been sent successfully"
+msgstr "Your message has been sent successfully"
+
+# TRANSLATION
+# LABEL/ID_MAIL_TEST_SUCCESS
+#: LABEL/ID_MAIL_TEST_SUCCESS
+msgid "[LABEL/ID_MAIL_TEST_SUCCESS] Test message sent successfully"
+msgstr "Test message sent successfully"
+
+# TRANSLATION
+# LABEL/ID_MAIL_TO_NOT_VALID_ADDRESS
+#: LABEL/ID_MAIL_TO_NOT_VALID_ADDRESS
+msgid "\"Mail to\" does not contain a valid email address format"
+msgstr "\"Mail to\" does not contain a valid email address format"
+
+# TRANSLATION
+# LABEL/ID_MAINTENANCE
+#: LABEL/ID_MAINTENANCE
+msgid "Maintenance"
+msgstr "Maintenance"
+
+# TRANSLATION
+# LABEL/ID_MANAGER
+#: LABEL/ID_MANAGER
+msgid "Manager"
+msgstr "Manager"
+
+# TRANSLATION
+# LABEL/ID_MANUAL_ASSIGNMENT
+#: LABEL/ID_MANUAL_ASSIGNMENT
+msgid "Manual Assignment"
+msgstr "Manual Assignment"
+
+# TRANSLATION
+# LABEL/ID_MAP
+#: LABEL/ID_MAP
+msgid "Where is my Case?"
+msgstr "Where is my Case?"
+
+# TRANSLATION
+# LABEL/ID_MAP_TYPE
+#: LABEL/ID_MAP_TYPE
+msgid "Map Type"
+msgstr "Map Type"
+
+# TRANSLATION
+# LABEL/ID_MASKS_LIST
+#: LABEL/ID_MASKS_LIST
+msgid "Masks List"
+msgstr "Masks List"
+
+# TRANSLATION
+# LABEL/ID_MAX_FILE_SIZE
+#: LABEL/ID_MAX_FILE_SIZE
+msgid "Max upload file size"
+msgstr "Max upload file size"
+
+# TRANSLATION
+# LABEL/ID_MAX_LIFETIME
+#: LABEL/ID_MAX_LIFETIME
+msgid "Maximum lifetime cleaned up (ms)"
+msgstr "Maximum lifetime cleaned up (ms)"
+
+# TRANSLATION
+# LABEL/ID_MAX_LIMIT_COLUMNS_FOR_DATABASE
+#: LABEL/ID_MAX_LIMIT_COLUMNS_FOR_DATABASE
+msgid "The maximun limit of columns for a database table is 255, you already have them defined!"
+msgstr "The maximun limit of columns for a database table is 255, you already have them defined!"
+
+# TRANSLATION
+# LABEL/ID_MEDIA
+#: LABEL/ID_MEDIA
+msgid "Media"
+msgstr "Media"
+
+# TRANSLATION
+# LABEL/ID_MEMBER
+#: LABEL/ID_MEMBER
+msgid "Member"
+msgstr "Member"
+
+# TRANSLATION
+# LABEL/ID_MEMBERS
+#: LABEL/ID_MEMBERS
+msgid "Members"
+msgstr "Members"
+
+# TRANSLATION
+# LABEL/ID_MEMBER_OF
+#: LABEL/ID_MEMBER_OF
+msgid "MEMBER OF"
+msgstr "MEMBER OF"
+

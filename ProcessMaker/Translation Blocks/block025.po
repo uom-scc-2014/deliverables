@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_ZIP_CODE
+#: LABEL/ID_ZIP_CODE
+msgid "Zip Code"
+msgstr "Zip Code"
+
+# TRANSLATION
+# LABEL/IMAGE_DETAIL
+#: LABEL/IMAGE_DETAIL
+msgid "Image detail"
+msgstr "Image detail"
+
+# TRANSLATION
+# LABEL/IMPORT_LANGUAGE_ERR_NO_WRITABLE
+#: LABEL/IMPORT_LANGUAGE_ERR_NO_WRITABLE
+msgid "The XML forms directory is not writable"
+msgstr "The XML forms directory is not writable"
+
+# TRANSLATION
+# LABEL/IMPORT_LANGUAGE_ERR_NO_WRITABLE2
+#: LABEL/IMPORT_LANGUAGE_ERR_NO_WRITABLE2
+msgid "Some files within XMLFORM directory are not writable, to install or update the translations the system requires that all files are writable. Contact your system administrator please."
+msgstr "Some files within XMLFORM directory are not writable, to install or update the translations the system requires that all files are writable. Contact your system administrator please."
+
+# TRANSLATION
+# LABEL/IMPORT_LANGUAGE_SUCCESS
+#: LABEL/IMPORT_LANGUAGE_SUCCESS
+msgid "The translation file was successfully imported."
+msgstr "The translation file was successfully imported."
+
+# TRANSLATION
+# LABEL/IMPORT_PROCESS_DISABLE
+#: LABEL/IMPORT_PROCESS_DISABLE
+msgid "Disable the current process and create a new version of the process"
+msgstr "Disable the current process and create a new version of the process"
+
+# TRANSLATION
+# LABEL/IMPORT_PROCESS_NEW
+#: LABEL/IMPORT_PROCESS_NEW
+msgid "Create a completely new process without changing the current process"
+msgstr "Create a completely new process without changing the current process"
+
+# TRANSLATION
+# LABEL/IMPORT_PROCESS_OVERWRITING
+#: LABEL/IMPORT_PROCESS_OVERWRITING
+msgid "Update the current process, overwriting all tasks and steps"
+msgstr "Update the current process, overwriting all tasks and steps"
+
+# TRANSLATION
+# LABEL/INVALID_FILE
+#: LABEL/INVALID_FILE
+msgid "Invalid file!"
+msgstr "Invalid file!"
+
+# TRANSLATION
+# LABEL/IS_USER_NAME_DISPLAY_FORMAT
+#: LABEL/IS_USER_NAME_DISPLAY_FORMAT
+msgid "User Name Display Format"
+msgstr "User Name Display Format"
+
+# TRANSLATION
+# LABEL/LOGIN
+#: LABEL/LOGIN
+msgid "[LABEL/LOGIN] Login"
+msgstr "Login"
+
+# TRANSLATION
+# LABEL/LOGIN_AS
+#: LABEL/LOGIN_AS
+msgid "Login as"
+msgstr "Login as"
+
+# TRANSLATION
+# LABEL/LOGIN_VERIFY_MSG
+#: LABEL/LOGIN_VERIFY_MSG
+msgid "Verifying..."
+msgstr "Verifying..."
+
+# TRANSLATION
+# LABEL/MAIL_TO
+#: LABEL/MAIL_TO
+msgid "Mail to"
+msgstr "Mail to"
+
+# TRANSLATION
+# LABEL/MIME_DES_AVI
+#: LABEL/MIME_DES_AVI
+msgid "AVI Video File"
+msgstr "AVI Video File"
+
+# TRANSLATION
+# LABEL/MIME_DES_BMP
+#: LABEL/MIME_DES_BMP
+msgid "BMP Picture"
+msgstr "BMP Picture"
+
+# TRANSLATION
+# LABEL/MIME_DES_BZIP2
+#: LABEL/MIME_DES_BZIP2
+msgid "BZIP2 Archive"
+msgstr "BZIP2 Archive"
+
+# TRANSLATION
+# LABEL/MIME_DES_CGI
+#: LABEL/MIME_DES_CGI
+msgid "CGI Script"
+msgstr "CGI Script"
+
+# TRANSLATION
+# LABEL/MIME_DES_CPPH
+#: LABEL/MIME_DES_CPPH
+msgid "C++ Header File"
+msgstr "C++ Header File"
+
+# TRANSLATION
+# LABEL/MIME_DES_CPPS
+#: LABEL/MIME_DES_CPPS
+msgid "C++ Source File"
+msgstr "C++ Source File"
+
+# TRANSLATION
+# LABEL/MIME_DES_CSS
+#: LABEL/MIME_DES_CSS
+msgid "CSS File"
+msgstr "CSS File"
+
+# TRANSLATION
+# LABEL/MIME_DES_DIR
+#: LABEL/MIME_DES_DIR
+msgid "[LABEL/MIME_DES_DIR] Directory"
+msgstr "Directory"
+
+# TRANSLATION
+# LABEL/MIME_DES_DOC
+#: LABEL/MIME_DES_DOC
+msgid "Word Document"
+msgstr "Word Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_DOCX
+#: LABEL/MIME_DES_DOCX
+msgid "[LABEL/MIME_DES_DOCX] Word Document"
+msgstr "Word Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_EXCEL
+#: LABEL/MIME_DES_EXCEL
+msgid "Excel Document"
+msgstr "Excel Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_EXE
+#: LABEL/MIME_DES_EXE
+msgid "Executable File"
+msgstr "Executable File"
+
+# TRANSLATION
+# LABEL/MIME_DES_FILE
+#: LABEL/MIME_DES_FILE
+msgid "[LABEL/MIME_DES_FILE] File"
+msgstr "File"
+
+# TRANSLATION
+# LABEL/MIME_DES_FLASH
+#: LABEL/MIME_DES_FLASH
+msgid "Flash Movie File"
+msgstr "Flash Movie File"
+
+# TRANSLATION
+# LABEL/MIME_DES_GIF
+#: LABEL/MIME_DES_GIF
+msgid "GIF Picture"
+msgstr "GIF Picture"
+
+# TRANSLATION
+# LABEL/MIME_DES_GZIP
+#: LABEL/MIME_DES_GZIP
+msgid "GZIP Archive"
+msgstr "GZIP Archive"
+
+# TRANSLATION
+# LABEL/MIME_DES_HTML
+#: LABEL/MIME_DES_HTML
+msgid "HTML Page"
+msgstr "HTML Page"
+
+# TRANSLATION
+# LABEL/MIME_DES_JAVAC
+#: LABEL/MIME_DES_JAVAC
+msgid "Java Class File"
+msgstr "Java Class File"
+
+# TRANSLATION
+# LABEL/MIME_DES_JAVAS
+#: LABEL/MIME_DES_JAVAS
+msgid "Java Source File"
+msgstr "Java Source File"
+
+# TRANSLATION
+# LABEL/MIME_DES_JPG
+#: LABEL/MIME_DES_JPG
+msgid "JPG Picture"
+msgstr "JPG Picture"
+
+# TRANSLATION
+# LABEL/MIME_DES_JS
+#: LABEL/MIME_DES_JS
+msgid "Javascript File"
+msgstr "Javascript File"
+
+# TRANSLATION
+# LABEL/MIME_DES_MIDI
+#: LABEL/MIME_DES_MIDI
+msgid "MIDI Audio File"
+msgstr "MIDI Audio File"
+
+# TRANSLATION
+# LABEL/MIME_DES_MOV
+#: LABEL/MIME_DES_MOV
+msgid "Movie File"
+msgstr "Movie File"
+
+# TRANSLATION
+# LABEL/MIME_DES_MP3
+#: LABEL/MIME_DES_MP3
+msgid "MP3 Audio File"
+msgstr "MP3 Audio File"
+
+# TRANSLATION
+# LABEL/MIME_DES_MPG
+#: LABEL/MIME_DES_MPG
+msgid "MPG Video File"
+msgstr "MPG Video File"
+
+# TRANSLATION
+# LABEL/MIME_DES_PAS
+#: LABEL/MIME_DES_PAS
+msgid "Pascal File"
+msgstr "Pascal File"
+
+# TRANSLATION
+# LABEL/MIME_DES_PDF
+#: LABEL/MIME_DES_PDF
+msgid "PDF File"
+msgstr "PDF File"
+
+# TRANSLATION
+# LABEL/MIME_DES_PERL
+#: LABEL/MIME_DES_PERL
+msgid "PERL Script"
+msgstr "PERL Script"
+
+# TRANSLATION
+# LABEL/MIME_DES_PHP
+#: LABEL/MIME_DES_PHP
+msgid "PHP Script"
+msgstr "PHP Script"
+
+# TRANSLATION
+# LABEL/MIME_DES_PM
+#: LABEL/MIME_DES_PM
+msgid "PM Process File"
+msgstr "PM Process File"
+
+# TRANSLATION
+# LABEL/MIME_DES_PNG
+#: LABEL/MIME_DES_PNG
+msgid "PNG Picture"
+msgstr "PNG Picture"
+
+# TRANSLATION
+# LABEL/MIME_DES_PPT
+#: LABEL/MIME_DES_PPT
+msgid "PowerPoint File"
+msgstr "PowerPoint File"
+
+# TRANSLATION
+# LABEL/MIME_DES_PPTX
+#: LABEL/MIME_DES_PPTX
+msgid "[LABEL/MIME_DES_PPTX] PowerPoint File"
+msgstr "PowerPoint File"
+
+# TRANSLATION
+# LABEL/MIME_DES_RAR
+#: LABEL/MIME_DES_RAR
+msgid "RAR Archive"
+msgstr "RAR Archive"
+
+# TRANSLATION
+# LABEL/MIME_DES_REAL
+#: LABEL/MIME_DES_REAL
+msgid "RealAudio File"
+msgstr "RealAudio File"
+
+# TRANSLATION
+# LABEL/MIME_DES_RTF
+#: LABEL/MIME_DES_RTF
+msgid "Rich Text File"
+msgstr "Rich Text File"
+
+# TRANSLATION
+# LABEL/MIME_DES_SQL
+#: LABEL/MIME_DES_SQL
+msgid "SQL File"
+msgstr "SQL File"
+
+# TRANSLATION
+# LABEL/MIME_DES_SYMLINK
+#: LABEL/MIME_DES_SYMLINK
+msgid "Symbolic Link"
+msgstr "Symbolic Link"
+
+# TRANSLATION
+# LABEL/MIME_DES_TAR
+#: LABEL/MIME_DES_TAR
+msgid "TAR Archive"
+msgstr "TAR Archive"
+
+# TRANSLATION
+# LABEL/MIME_DES_TEXT
+#: LABEL/MIME_DES_TEXT
+msgid "Text File"
+msgstr "Text File"
+
+# TRANSLATION
+# LABEL/MIME_DES_TXT
+#: LABEL/MIME_DES_TXT
+msgid "[LABEL/MIME_DES_TXT] Text File"
+msgstr "Text File"
+
+# TRANSLATION
+# LABEL/MIME_DES_WAV
+#: LABEL/MIME_DES_WAV
+msgid "WAV Audio File"
+msgstr "WAV Audio File"
+
+# TRANSLATION
+# LABEL/MIME_DES_WORD
+#: LABEL/MIME_DES_WORD
+msgid "[LABEL/MIME_DES_WORD] Word Document"
+msgstr "Word Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_XLS
+#: LABEL/MIME_DES_XLS
+msgid "[LABEL/MIME_DES_XLS] Excel Document"
+msgstr "Excel Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_XLSX
+#: LABEL/MIME_DES_XLSX
+msgid "[LABEL/MIME_DES_XLSX] Excel Document"
+msgstr "Excel Document"
+
+# TRANSLATION
+# LABEL/MIME_DES_ZIP
+#: LABEL/MIME_DES_ZIP
+msgid "ZIP Archive"
+msgstr "ZIP Archive"
+
+# TRANSLATION
+# LABEL/MISSING_OR_NOT_CONFIGURED_SMTP
+#: LABEL/MISSING_OR_NOT_CONFIGURED_SMTP
+msgid "Missing or it's not configured SMTP mail. Check the configuration."
+msgstr "Missing or it's not configured SMTP mail. Check the configuration."
+
+# TRANSLATION
+# LABEL/MSGS_HISTORY
+#: LABEL/MSGS_HISTORY
+msgid "[LABEL/MSGS_HISTORY] Messages History"
+msgstr "Messages History"
+
+# TRANSLATION
+# LABEL/MSG_CONDITION_NOT_DEFINED
+#: LABEL/MSG_CONDITION_NOT_DEFINED
+msgid "Condition variable not defined"
+msgstr "Condition variable not defined"
+
+# TRANSLATION
+# LABEL/MSG_PO_FILE_BAD_FORMAT
+#: LABEL/MSG_PO_FILE_BAD_FORMAT
+msgid "The .po file has a bad format!"
+msgstr "The .po file has a bad format!"
+
+# TRANSLATION
+# LABEL/MSG_PO_FILE_INVALID_LANGUAJE
+#: LABEL/MSG_PO_FILE_INVALID_LANGUAJE
+msgid "The .po file has an invalid language!"
+msgstr "The .po file has an invalid language!"
+
+# TRANSLATION
+# LABEL/MSG_REQ_AUTH
+#: LABEL/MSG_REQ_AUTH
+msgid "First you have to check the Require Authentication box"
+msgstr "First you have to check the Require Authentication box"
+
+# TRANSLATION
+# LABEL/NaN
+#: LABEL/NaN
+msgid "a"
+msgstr "a"
+
+# TRANSLATION
+# LABEL/NEW_SITE_CONFIRM_TO_CREATE
+#: LABEL/NEW_SITE_CONFIRM_TO_CREATE
+msgid "Are you sure to create this site?"
+msgstr "Are you sure to create this site?"
+
+# TRANSLATION
+# LABEL/NEW_SITE_NOT_AVAILABLE
+#: LABEL/NEW_SITE_NOT_AVAILABLE
+msgid "This site is not available"
+msgstr "This site is not available"
+
+# TRANSLATION
+# LABEL/NEW_SITE_SUCCESS
+#: LABEL/NEW_SITE_SUCCESS
+msgid "[LABEL/NEW_SITE_SUCCESS] Your new site was successfully created with name:"
+msgstr "Your new site was successfully created with name:"
+
+# TRANSLATION
+# LABEL/NEW_SITE_SUCCESS_CONFIRM
+#: LABEL/NEW_SITE_SUCCESS_CONFIRM
+msgid "[LABEL/NEW_SITE_SUCCESS_CONFIRM] Do you want open the new site?"
+msgstr "Do you want open the new site?"
+
+# TRANSLATION
+# LABEL/NEW_SITE_SUCCESS_CONFIRMNOTE
+#: LABEL/NEW_SITE_SUCCESS_CONFIRMNOTE
+msgid "[LABEL/NEW_SITE_SUCCESS_CONFIRMNOTE] Note.- If you open the new site your current session will be closed."
+msgstr "Note.- If you open the new site your current session will be closed."
+
+# TRANSLATION
+# LABEL/OPEN_NEW_WS
+#: LABEL/OPEN_NEW_WS
+msgid "Open new site"
+msgstr "Open new site"
+
+# TRANSLATION
+# LABEL/OUTPUT_CREATE
+#: LABEL/OUTPUT_CREATE
+msgid "Output document has been created successfully"
+msgstr "Output document has been created successfully"
+
+# TRANSLATION
+# LABEL/PASSWORD_HISTORY
+#: LABEL/PASSWORD_HISTORY
+msgid "Password history"
+msgstr "Password history"
+
+# TRANSLATION
+# LABEL/PAUSED
+#: LABEL/PAUSED
+msgid "[LABEL/PAUSED] Pause"
+msgstr "Pause"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_CONFIGURATION
+#: LABEL/PENTAHO_LABEL_CONFIGURATION
+msgid "[LABEL/PENTAHO_LABEL_CONFIGURATION] Configuration"
+msgstr "Configuration"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_DATASOURCE
+#: LABEL/PENTAHO_LABEL_DATASOURCE
+msgid "Datasource Name"
+msgstr "Datasource Name"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_DB_EXISTS
+#: LABEL/PENTAHO_LABEL_DB_EXISTS
+msgid "Datasource already exist"
+msgstr "Datasource already exist"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_DB_SUCCESS
+#: LABEL/PENTAHO_LABEL_DB_SUCCESS
+msgid "Datasource created successfully"
+msgstr "Datasource created successfully"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_DRIVER_CLASS
+#: LABEL/PENTAHO_LABEL_DRIVER_CLASS
+msgid "Driver Class"
+msgstr "Driver Class"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_JNDI_CONNECTION
+#: LABEL/PENTAHO_LABEL_JNDI_CONNECTION
+msgid "JNDI Connection"
+msgstr "JNDI Connection"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_JNDI_INFORMATION
+#: LABEL/PENTAHO_LABEL_JNDI_INFORMATION
+msgid "JNDI Information"
+msgstr "JNDI Information"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_PASSWORD
+#: LABEL/PENTAHO_LABEL_PASSWORD
+msgid "[LABEL/PENTAHO_LABEL_PASSWORD] Password"
+msgstr "Password"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_REBUILD
+#: LABEL/PENTAHO_LABEL_REBUILD
+msgid "Rebuild"
+msgstr "Rebuild"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_ROLES_MANAGER
+#: LABEL/PENTAHO_LABEL_ROLES_MANAGER
+msgid "Roles Manager"
+msgstr "Roles Manager"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_SERVER
+#: LABEL/PENTAHO_LABEL_SERVER
+msgid "Pentaho Server (URL)"
+msgstr "Pentaho Server (URL)"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_SHOW_JNDI_INFORMATION
+#: LABEL/PENTAHO_LABEL_SHOW_JNDI_INFORMATION
+msgid "Show JNDI Info"
+msgstr "Show JNDI Info"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_SYNC
+#: LABEL/PENTAHO_LABEL_SYNC
+msgid "Sync to Pentaho Solution"
+msgstr "Sync to Pentaho Solution"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_TABLE_ALREADY_SYNCH
+#: LABEL/PENTAHO_LABEL_TABLE_ALREADY_SYNCH
+msgid "Workspace already synchronized with Pentaho Solution"
+msgstr "Workspace already synchronized with Pentaho Solution"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_TABLE_SUCCESS
+#: LABEL/PENTAHO_LABEL_TABLE_SUCCESS
+msgid "Table APP_CACHE_VIEW and triggers are installed successfully"
+msgstr "Table APP_CACHE_VIEW and triggers are installed successfully"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_TABLE_SYNCHED
+#: LABEL/PENTAHO_LABEL_TABLE_SYNCHED
+msgid "Workspace synchronized with Pentaho Solution"
+msgstr "Workspace synchronized with Pentaho Solution"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_TABLE_TRIGGERS
+#: LABEL/PENTAHO_LABEL_TABLE_TRIGGERS
+msgid "Database tables and triggers"
+msgstr "Database tables and triggers"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_URL
+#: LABEL/PENTAHO_LABEL_URL
+msgid "URL"
+msgstr "URL"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_USER_CONSOLE
+#: LABEL/PENTAHO_LABEL_USER_CONSOLE
+msgid "Pentaho User Console"
+msgstr "Pentaho User Console"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_USER_CREATE
+#: LABEL/PENTAHO_LABEL_USER_CREATE
+msgid "Create user in Pentaho"
+msgstr "Create user in Pentaho"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_USER_CREATED
+#: LABEL/PENTAHO_LABEL_USER_CREATED
+msgid "User created successfully"
+msgstr "User created successfully"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_USER_EXIST
+#: LABEL/PENTAHO_LABEL_USER_EXIST
+msgid "User already exists"
+msgstr "User already exists"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_USER_NAME
+#: LABEL/PENTAHO_LABEL_USER_NAME
+msgid "[LABEL/PENTAHO_LABEL_USER_NAME] User Name"
+msgstr "User Name"
+
+# TRANSLATION
+# LABEL/PENTAHO_LABEL_WS_SYNCHED
+#: LABEL/PENTAHO_LABEL_WS_SYNCHED
+msgid "[LABEL/PENTAHO_LABEL_WS_SYNCHED] Workspace synchronized with Pentaho Solution"
+msgstr "Workspace synchronized with Pentaho Solution"
+

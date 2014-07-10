@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_PLEASE
+#: LABEL/ID_PLEASE
+msgid "please"
+msgstr "please"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_CHANGE_PASSWORD_POLICY
+#: LABEL/ID_PLEASE_CHANGE_PASSWORD_POLICY
+msgid "Please change your password to one that complies with these policies."
+msgstr "Please change your password to one that complies with these policies."
+
+# TRANSLATION
+# LABEL/ID_PLEASE_ENTER_COMMENTS
+#: LABEL/ID_PLEASE_ENTER_COMMENTS
+msgid "Please enter comments!"
+msgstr "Please enter comments!"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_ENTER_REQUIRED_FIELDS
+#: LABEL/ID_PLEASE_ENTER_REQUIRED_FIELDS
+msgid "Please enter the required fields"
+msgstr "Please enter the required fields"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_FILE
+#: LABEL/ID_PLEASE_SELECT_FILE
+msgid "Please select the file to attach!"
+msgstr "Please select the file to attach!"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_FILES_TO_UPLOAD
+#: LABEL/ID_PLEASE_SELECT_FILES_TO_UPLOAD
+msgid "Please select the files to upload"
+msgstr "Please select the files to upload"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_LOGO
+#: LABEL/ID_PLEASE_SELECT_LOGO
+msgid "Please Select Logo"
+msgstr "Please Select Logo"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_MAX_X_FIELDS
+#: LABEL/ID_PLEASE_SELECT_MAX_X_FIELDS
+msgid "Please select 80 fields at most"
+msgstr "Please select 80 fields at most"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_PHOTO
+#: LABEL/ID_PLEASE_SELECT_PHOTO
+msgid "Please select a photo"
+msgstr "Please select a photo"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_PLUGIN
+#: LABEL/ID_PLEASE_SELECT_PLUGIN
+msgid "Please select the plugin"
+msgstr "Please select the plugin"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_PO_FILE
+#: LABEL/ID_PLEASE_SELECT_PO_FILE
+msgid "Please select a .po file"
+msgstr "Please select a .po file"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_SELECT_UPGRADE_FILE
+#: LABEL/ID_PLEASE_SELECT_UPGRADE_FILE
+msgid "Please select the upgrade file"
+msgstr "Please select the upgrade file"
+
+# TRANSLATION
+# LABEL/ID_PLEASE_WAIT
+#: LABEL/ID_PLEASE_WAIT
+msgid "Please wait..."
+msgstr "Please wait..."
+
+# TRANSLATION
+# LABEL/ID_PLUGINS
+#: LABEL/ID_PLUGINS
+msgid "Plugins"
+msgstr "Plugins"
+
+# TRANSLATION
+# LABEL/ID_PLUGINS_DIRECTORY
+#: LABEL/ID_PLUGINS_DIRECTORY
+msgid "Plugins Directory"
+msgstr "Plugins Directory"
+
+# TRANSLATION
+# LABEL/ID_PLUGINS_MANAGER
+#: LABEL/ID_PLUGINS_MANAGER
+msgid "Plugins Manager"
+msgstr "Plugins Manager"
+
+# TRANSLATION
+# LABEL/ID_PLUGIN_CANT_DELETE
+#: LABEL/ID_PLUGIN_CANT_DELETE
+msgid "The plugin is activated, please deactivate first to remove it."
+msgstr "The plugin is activated, please deactivate first to remove it."
+
+# TRANSLATION
+# LABEL/ID_PLUGIN_DEPENDENCE_PLUGIN
+#: LABEL/ID_PLUGIN_DEPENDENCE_PLUGIN
+msgid "This plugin needs \"{Dependence}\" plugin"
+msgstr "This plugin needs \"{Dependence}\" plugin"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE
+#: LABEL/ID_PMTABLE
+msgid "PM Table"
+msgstr "PM Table"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES
+#: LABEL/ID_PMTABLES
+msgid "[LABEL/ID_PMTABLES] PM Tables"
+msgstr "PM Tables"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT1
+#: LABEL/ID_PMTABLES_ALERT1
+msgid "You can't repeat a column name, please rename:"
+msgstr "You can't repeat a column name, please rename:"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT2
+#: LABEL/ID_PMTABLES_ALERT2
+msgid "Field Name for all columns is required."
+msgstr "Field Name for all columns is required."
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT3
+#: LABEL/ID_PMTABLES_ALERT3
+msgid "Field Label for all columns is required."
+msgstr "Field Label for all columns is required."
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT4
+#: LABEL/ID_PMTABLES_ALERT4
+msgid "Please set a field type for"
+msgstr "Please set a field type for"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT5
+#: LABEL/ID_PMTABLES_ALERT5
+msgid "Please set a field size for:"
+msgstr "Please set a field size for:"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT6
+#: LABEL/ID_PMTABLES_ALERT6
+msgid "You need set one column at least as Primary Key."
+msgstr "You need set one column at least as Primary Key."
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT7
+#: LABEL/ID_PMTABLES_ALERT7
+msgid "Set columns for this Report Table please."
+msgstr "Set columns for this Report Table please."
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_ALERT8
+#: LABEL/ID_PMTABLES_ALERT8
+msgid "Set a Phisical Field Name for:"
+msgstr "Set a Phisical Field Name for:"
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_NOTICE_EXPORT
+#: LABEL/ID_PMTABLES_NOTICE_EXPORT
+msgid "From each table you should select Schema/Data to export at least one."
+msgstr "From each table you should select Schema/Data to export at least one."
+
+# TRANSLATION
+# LABEL/ID_PMTABLES_RESERVED_FIELDNAME_WARNING
+#: LABEL/ID_PMTABLES_RESERVED_FIELDNAME_WARNING
+msgid "The word {0} is reserved by the database engine please set another one."
+msgstr "The word {0} is reserved by the database engine please set another one."
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_ALREADY_EXISTS
+#: LABEL/ID_PMTABLE_ALREADY_EXISTS
+msgid "The table \"{0}\" already exits!"
+msgstr "The table \"{0}\" already exits!"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_CLASS_DOESNT_EXIST
+#: LABEL/ID_PMTABLE_CLASS_DOESNT_EXIST
+msgid "ERROR: The class fie \"{0}\" doesn't exist!"
+msgstr "ERROR: The class fie \"{0}\" doesn't exist!"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_DATA_EXISTS_WARNINIG
+#: LABEL/ID_PMTABLE_DATA_EXISTS_WARNINIG
+msgid "record(s) was/were found on this table, if you edit its structure all data will lost."
+msgstr "record(s) was/were found on this table, if you edit its structure all data will lost."
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_DATA_KEEP
+#: LABEL/ID_PMTABLE_DATA_KEEP
+msgid "Keep the records of the table"
+msgstr "Keep the records of the table"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_IMPORT_SUCCESS
+#: LABEL/ID_PMTABLE_IMPORT_SUCCESS
+msgid "[LABEL/ID_PMTABLE_IMPORT_SUCCESS] File \"{0}\" imported successfully."
+msgstr "File \"{0}\" imported successfully."
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_IMPORT_WITH_ERRORS
+#: LABEL/ID_PMTABLE_IMPORT_WITH_ERRORS
+msgid "File \"{0}\" imported but with errors."
+msgstr "File \"{0}\" imported but with errors."
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_INVALID_FIELD_NAME
+#: LABEL/ID_PMTABLE_INVALID_FIELD_NAME
+msgid "The following fields cannot have these names because the are reserved words \"{0}\""
+msgstr "The following fields cannot have these names because the are reserved words \"{0}\""
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_INVALID_FILE
+#: LABEL/ID_PMTABLE_INVALID_FILE
+msgid "Invalid PM table(s) file, import aborted!"
+msgstr "Invalid PM table(s) file, import aborted!"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_INVALID_NAME
+#: LABEL/ID_PMTABLE_INVALID_NAME
+msgid "Could not create the table with the name \"{0}\" because it is a reserved word."
+msgstr "Could not create the table with the name \"{0}\" because it is a reserved word."
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_SAVE_AND_DATA_LOST
+#: LABEL/ID_PMTABLE_SAVE_AND_DATA_LOST
+msgid "Save the changes accepting the data lost?"
+msgstr "Save the changes accepting the data lost?"
+
+# TRANSLATION
+# LABEL/ID_PMTABLE_UPLOADING_FILE_PROBLEM
+#: LABEL/ID_PMTABLE_UPLOADING_FILE_PROBLEM
+msgid "A problem occurred while uploading file."
+msgstr "A problem occurred while uploading file."
+
+# TRANSLATION
+# LABEL/ID_PM_DYNAFORM
+#: LABEL/ID_PM_DYNAFORM
+msgid "PM Table Dynaform"
+msgstr "PM Table Dynaform"
+
+# TRANSLATION
+# LABEL/ID_PM_ENV_HOME_SETTINGS_TITLE
+#: LABEL/ID_PM_ENV_HOME_SETTINGS_TITLE
+msgid "[LABEL/ID_PM_ENV_HOME_SETTINGS_TITLE] Home Settings"
+msgstr "Home Settings"
+
+# TRANSLATION
+# LABEL/ID_PM_ENV_SETTINGS_CASESLIST_TITLE
+#: LABEL/ID_PM_ENV_SETTINGS_CASESLIST_TITLE
+msgid "Cases Lists Settings"
+msgstr "Cases Lists Settings"
+
+# TRANSLATION
+# LABEL/ID_PM_ENV_SETTINGS_REGIONFIELDSET_TITLE
+#: LABEL/ID_PM_ENV_SETTINGS_REGIONFIELDSET_TITLE
+msgid "Regional Settings"
+msgstr "Regional Settings"
+
+# TRANSLATION
+# LABEL/ID_PM_ENV_SETTINGS_TITLE
+#: LABEL/ID_PM_ENV_SETTINGS_TITLE
+msgid "Processmaker Environment Settings"
+msgstr "Processmaker Environment Settings"
+
+# TRANSLATION
+# LABEL/ID_PM_ENV_SETTINGS_USERFIELDSET_TITLE
+#: LABEL/ID_PM_ENV_SETTINGS_USERFIELDSET_TITLE
+msgid "Display Information Settings"
+msgstr "Display Information Settings"
+
+# TRANSLATION
+# LABEL/ID_PM_FILENAME
+#: LABEL/ID_PM_FILENAME
+msgid "Download PM File:"
+msgstr "Download PM File:"
+
+# TRANSLATION
+# LABEL/ID_PM_FOLDER
+#: LABEL/ID_PM_FOLDER
+msgid "ProcessMaker Folder"
+msgstr "ProcessMaker Folder"
+
+# TRANSLATION
+# LABEL/ID_PM_FUNCTION_CHANGE_CASE
+#: LABEL/ID_PM_FUNCTION_CHANGE_CASE
+msgid "The \"{0}\" function has {1} the current case, the script has stopped to avoid conflicts."
+msgstr "The \"{0}\" function has {1} the current case, the script has stopped to avoid conflicts."
+
+# TRANSLATION
+# LABEL/ID_PM_GRID
+#: LABEL/ID_PM_GRID
+msgid "pmGrid"
+msgstr "pmGrid"
+
+# TRANSLATION
+# LABEL/ID_PM_HEARTBEAT_SETTINGS_TITLE
+#: LABEL/ID_PM_HEARTBEAT_SETTINGS_TITLE
+msgid "Heart Beat Configuration"
+msgstr "Heart Beat Configuration"
+
+# TRANSLATION
+# LABEL/ID_PM_TABLE
+#: LABEL/ID_PM_TABLE
+msgid "[LABEL/ID_PM_TABLE] PM Table"
+msgstr "PM Table"
+
+# TRANSLATION
+# LABEL/ID_POLICY_ALERT
+#: LABEL/ID_POLICY_ALERT
+msgid "Your password does not meet the following password policies"
+msgstr "Your password does not meet the following password policies"
+
+# TRANSLATION
+# LABEL/ID_PORT
+#: LABEL/ID_PORT
+msgid "Port"
+msgstr "Port"
+
+# TRANSLATION
+# LABEL/ID_POSITION
+#: LABEL/ID_POSITION
+msgid "Position"
+msgstr "Position"
+
+# TRANSLATION
+# LABEL/ID_POSTED_AT
+#: LABEL/ID_POSTED_AT
+msgid "Posted at"
+msgstr "Posted at"
+
+# TRANSLATION
+# LABEL/ID_POSTED_DATA_EMPTY
+#: LABEL/ID_POSTED_DATA_EMPTY
+msgid "Posted data is empty!"
+msgstr "Posted data is empty!"
+
+# TRANSLATION
+# LABEL/ID_PPP_CHANGE_PASSWORD_AFTER_NEXT_LOGIN
+#: LABEL/ID_PPP_CHANGE_PASSWORD_AFTER_NEXT_LOGIN
+msgid "User must change his password after next login"
+msgstr "User must change his password after next login"
+
+# TRANSLATION
+# LABEL/ID_PPP_EXPIRATION_IN
+#: LABEL/ID_PPP_EXPIRATION_IN
+msgid "Password Expiration in"
+msgstr "Password Expiration in"
+
+# TRANSLATION
+# LABEL/ID_PPP_MAXIMUM_LENGTH
+#: LABEL/ID_PPP_MAXIMUM_LENGTH
+msgid "Maximum length"
+msgstr "Maximum length"
+
+# TRANSLATION
+# LABEL/ID_PPP_MAXIMUN_LENGTH
+#: LABEL/ID_PPP_MAXIMUN_LENGTH
+msgid "[LABEL/ID_PPP_MAXIMUN_LENGTH] Maximum length"
+msgstr "Maximum length"
+
+# TRANSLATION
+# LABEL/ID_PPP_MINIMUM_LENGTH
+#: LABEL/ID_PPP_MINIMUM_LENGTH
+msgid "Minimum length"
+msgstr "Minimum length"
+
+# TRANSLATION
+# LABEL/ID_PPP_MINIMUN_LENGTH
+#: LABEL/ID_PPP_MINIMUN_LENGTH
+msgid "[LABEL/ID_PPP_MINIMUN_LENGTH] Minimum length"
+msgstr "Minimum length"
+
+# TRANSLATION
+# LABEL/ID_PPP_NUMERICAL_CHARACTER_REQUIRED
+#: LABEL/ID_PPP_NUMERICAL_CHARACTER_REQUIRED
+msgid "Numerical Character is required"
+msgstr "Numerical Character is required"
+
+# TRANSLATION
+# LABEL/ID_PPP_SPECIAL_CHARACTER_REQUIRED
+#: LABEL/ID_PPP_SPECIAL_CHARACTER_REQUIRED
+msgid "Special Character is required"
+msgstr "Special Character is required"
+
+# TRANSLATION
+# LABEL/ID_PPP_UPPERCASE_CHARACTER_REQUIRED
+#: LABEL/ID_PPP_UPPERCASE_CHARACTER_REQUIRED
+msgid "Uppercase Character is required"
+msgstr "Uppercase Character is required"
+
+# TRANSLATION
+# LABEL/ID_PREFERENCES
+#: LABEL/ID_PREFERENCES
+msgid "Preferences"
+msgstr "Preferences"
+
+# TRANSLATION
+# LABEL/ID_PREFIX
+#: LABEL/ID_PREFIX
+msgid "Prefix"
+msgstr "Prefix"
+
+# TRANSLATION
+# LABEL/ID_PREINSTALLATION
+#: LABEL/ID_PREINSTALLATION
+msgid "Pre-installation check"
+msgstr "Pre-installation check"
+
+# TRANSLATION
+# LABEL/ID_PREVIEW
+#: LABEL/ID_PREVIEW
+msgid "Preview"
+msgstr "Preview"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS
+#: LABEL/ID_PREVIOUS
+msgid "Previous"
+msgstr "Previous"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS_MONTH
+#: LABEL/ID_PREVIOUS_MONTH
+msgid "Previous Month"
+msgstr "Previous Month"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS_QUARTER
+#: LABEL/ID_PREVIOUS_QUARTER
+msgid "Previous quarter"
+msgstr "Previous quarter"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS_STEP
+#: LABEL/ID_PREVIOUS_STEP
+msgid "Previous Step"
+msgstr "Previous Step"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS_WEEK
+#: LABEL/ID_PREVIOUS_WEEK
+msgid "Previous Week"
+msgstr "Previous Week"
+
+# TRANSLATION
+# LABEL/ID_PREVIOUS_YEAR
+#: LABEL/ID_PREVIOUS_YEAR
+msgid "Previous Year"
+msgstr "Previous Year"
+
+# TRANSLATION
+# LABEL/ID_PREVIUS
+#: LABEL/ID_PREVIUS
+msgid "[LABEL/ID_PREVIUS] Previous"
+msgstr "Previous"
+
+# TRANSLATION
+# LABEL/ID_PREV_VALUES
+#: LABEL/ID_PREV_VALUES
+msgid "Previous Values"
+msgstr "Previous Values"
+
+# TRANSLATION
+# LABEL/ID_PRIMARY_KEY
+#: LABEL/ID_PRIMARY_KEY
+msgid "Primary Key"
+msgstr "Primary Key"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY
+#: LABEL/ID_PRIORITY
+msgid "[LABEL/ID_PRIORITY] Priority"
+msgstr "Priority"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY_H
+#: LABEL/ID_PRIORITY_H
+msgid "HIGH"
+msgstr "HIGH"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY_L
+#: LABEL/ID_PRIORITY_L
+msgid "LOW"
+msgstr "LOW"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY_N
+#: LABEL/ID_PRIORITY_N
+msgid "NORMAL"
+msgstr "NORMAL"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY_VH
+#: LABEL/ID_PRIORITY_VH
+msgid "VERY HIGH"
+msgstr "VERY HIGH"
+
+# TRANSLATION
+# LABEL/ID_PRIORITY_VL
+#: LABEL/ID_PRIORITY_VL
+msgid "VERY LOW"
+msgstr "VERY LOW"
+
+# TRANSLATION
+# LABEL/ID_PRIVACY
+#: LABEL/ID_PRIVACY
+msgid "Privacy"
+msgstr "Privacy"
+
+# TRANSLATION
+# LABEL/ID_PROCESING
+#: LABEL/ID_PROCESING
+msgid "Procesing :  {0}"
+msgstr "Procesing :  {0}"
+
+# TRANSLATION
+# LABEL/ID_PROCESS
+#: LABEL/ID_PROCESS
+msgid "[LABEL/ID_PROCESS] Process"
+msgstr "Process"
+
+# TRANSLATION
+# LABEL/ID_PROCESSED
+#: LABEL/ID_PROCESSED
+msgid "Processed"
+msgstr "Processed"
+
+# TRANSLATION
+# LABEL/ID_PROCESSES
+#: LABEL/ID_PROCESSES
+msgid "Processes"
+msgstr "Processes"
+
+# TRANSLATION
+# LABEL/ID_PROCESSING
+#: LABEL/ID_PROCESSING
+msgid "Processing ..."
+msgstr "Processing ..."
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER
+#: LABEL/ID_PROCESSMAKER
+msgid "ProcessMaker"
+msgstr "ProcessMaker"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_FORGOT_PASSWORD_SERVICE
+#: LABEL/ID_PROCESSMAKER_FORGOT_PASSWORD_SERVICE
+msgid "ProcessMaker Forgot Password Service"
+msgstr "ProcessMaker Forgot Password Service"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_INSTALLATION
+#: LABEL/ID_PROCESSMAKER_INSTALLATION
+msgid "ProcessMaker Installation"
+msgstr "ProcessMaker Installation"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_LICENSE
+#: LABEL/ID_PROCESSMAKER_LICENSE
+msgid "ProcessMaker Open Source License"
+msgstr "ProcessMaker Open Source License"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_REQUIREMENTS_CHECK
+#: LABEL/ID_PROCESSMAKER_REQUIREMENTS_CHECK
+msgid "Check PM requirements"
+msgstr "Check PM requirements"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_REQUIREMENTS_CURL
+#: LABEL/ID_PROCESSMAKER_REQUIREMENTS_CURL
+msgid "cURL Version"
+msgstr "cURL Version"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION
+#: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION
+msgid "If any of these items is not supported (marked as No) then please take actions to correct them.<br />"
+msgstr "If any of these items is not supported (marked as No) then please take actions to correct them.<br />"
+
+# TRANSLATION
+# LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION2
+#: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION2
+msgid "Failure to do so could lead to your ProcessMaker installation not functioning correctly!<br />"
+msgstr "Failure to do so could lead to your ProcessMaker installation not functioning correctly!<br />"
+

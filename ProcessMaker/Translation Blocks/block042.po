@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# login/sysLogin.xml?BSUBMIT
+# login/sysLogin.xml
+#: submit - BSUBMIT
+msgid "[login/sysLogin.xml?BSUBMIT] Login"
+msgstr "Login"
+
+# login/sysLoginNoWS.xml?TITLE
+# login/sysLoginNoWS.xml
+#: title - TITLE
+msgid "[login/sysLoginNoWS.xml?TITLE] Login"
+msgstr "Login"
+
+# login/sysLoginNoWS.xml?USR_USERNAME
+# login/sysLoginNoWS.xml
+#: text - USR_USERNAME
+msgid "[login/sysLoginNoWS.xml?USR_USERNAME] User"
+msgstr "User"
+
+# login/sysLoginNoWS.xml?USR_PASSWORD
+# login/sysLoginNoWS.xml
+#: password - USR_PASSWORD
+msgid "[login/sysLoginNoWS.xml?USR_PASSWORD] Password"
+msgstr "Password"
+
+# login/sysLoginNoWS.xml?USER_ENV
+# login/sysLoginNoWS.xml
+#: text - USER_ENV
+msgid "[login/sysLoginNoWS.xml?USER_ENV] Workspace"
+msgstr "Workspace"
+
+# login/sysLoginNoWS.xml?USER_LANG
+# login/sysLoginNoWS.xml
+#: dropdown - USER_LANG
+msgid "[login/sysLoginNoWS.xml?USER_LANG] Language"
+msgstr "Language"
+
+# login/sysLoginNoWS.xml?BSUBMIT
+# login/sysLoginNoWS.xml
+#: submit - BSUBMIT
+msgid "[login/sysLoginNoWS.xml?BSUBMIT] Login"
+msgstr "Login"
+
+# messages/messages_Edit.xml?MESS_TITLE
+# messages/messages_Edit.xml
+#: text - MESS_TITLE
+msgid "Message Title"
+msgstr "Message Title"
+
+# messages/messages_Edit.xml?MESS_TYPE
+# messages/messages_Edit.xml
+#: dropdown - MESS_TYPE
+msgid "Send as"
+msgstr "Send as"
+
+# messages/messages_Edit.xml?MESS_TYPE-HTML
+# messages/messages_Edit.xml
+#: dropdown - MESS_TYPE - HTML
+msgid "[messages/messages_Edit.xml?MESS_TYPE-HTML]"
+msgstr "HTML"
+
+# messages/messages_Edit.xml?MESS_TYPE-TEXT
+# messages/messages_Edit.xml
+#: dropdown - MESS_TYPE - TEXT
+msgid "[messages/messages_Edit.xml?MESS_TYPE-TEXT]"
+msgstr "Plain text"
+
+# messages/messages_Edit.xml?MESS_TYPE-SMS
+# messages/messages_Edit.xml
+#: dropdown - MESS_TYPE - SMS
+msgid "[messages/messages_Edit.xml?MESS_TYPE-SMS]"
+msgstr "SMS"
+
+# messages/messages_Edit.xml?MESS_DESCRIPTION
+# messages/messages_Edit.xml
+#: textarea - MESS_DESCRIPTION
+msgid "Content"
+msgstr "Content"
+
+# messages/messages_Edit.xml?ACCEPT
+# messages/messages_Edit.xml
+#: button - ACCEPT
+msgid "[messages/messages_Edit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# messages/messages_List.xml?fMESS_TITLE
+# messages/messages_List.xml
+#: text - fMESS_TITLE
+msgid "[messages/messages_List.xml?fMESS_TITLE] Output document"
+msgstr "Output document"
+
+# messages/messages_List.xml?MESS_TYPE
+# messages/messages_List.xml
+#: dropdown - MESS_TYPE
+msgid "[messages/messages_List.xml?MESS_TYPE] Type"
+msgstr "Type"
+
+# messages/messages_List.xml?MESS_TYPE-HTML
+# messages/messages_List.xml
+#: dropdown - MESS_TYPE - HTML
+msgid "[messages/messages_List.xml?MESS_TYPE-HTML]"
+msgstr "HTML"
+
+# messages/messages_List.xml?MESS_TYPE-TEXT
+# messages/messages_List.xml
+#: dropdown - MESS_TYPE - TEXT
+msgid "[messages/messages_List.xml?MESS_TYPE-TEXT]"
+msgstr "Plain text"
+
+# messages/messages_List.xml?MESS_TYPE-SMS
+# messages/messages_List.xml
+#: dropdown - MESS_TYPE - SMS
+msgid "[messages/messages_List.xml?MESS_TYPE-SMS]"
+msgstr "SMS"
+
+# messages/messages_List.xml?fMESS_DESCRIPTION
+# messages/messages_List.xml
+#: textarea - fMESS_DESCRIPTION
+msgid "[messages/messages_List.xml?fMESS_DESCRIPTION] Content"
+msgstr "Content"
+
+# messages/messages_List.xml?EDIT
+# messages/messages_List.xml
+#: link - EDIT
+msgid "[messages/messages_List.xml?EDIT] "
+msgstr ""
+
+# messages/messages_List.xml?DELETE
+# messages/messages_List.xml
+#: link - DELETE
+msgid "[messages/messages_List.xml?DELETE] "
+msgstr ""
+
+# messages/messages_List.xml?SEARCH
+# messages/messages_List.xml
+#: button - SEARCH
+msgid "[messages/messages_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# messages/messages_Options.xml?MNU_ADD
+# messages/messages_Options.xml
+#: link - MNU_ADD
+msgid "[messages/messages_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# messages/messages_ShortList.xml?MESS_TITLE
+# messages/messages_ShortList.xml
+#: text - MESS_TITLE
+msgid "[messages/messages_ShortList.xml?MESS_TITLE] Output document"
+msgstr "Output document"
+
+# messages/messages_ShortList.xml?EDIT
+# messages/messages_ShortList.xml
+#: link - EDIT
+msgid "[messages/messages_ShortList.xml?EDIT] "
+msgstr ""
+
+# messages/messages_ShortList.xml?DELETE
+# messages/messages_ShortList.xml
+#: link - DELETE
+msgid "[messages/messages_ShortList.xml?DELETE] "
+msgstr ""
+
+# messages/messages_ShortList.xml?SEARCH
+# messages/messages_ShortList.xml
+#: button - SEARCH
+msgid "[messages/messages_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# outputdocs/outputdocsDynaformList.xml?DYN_UID
+# outputdocs/outputdocsDynaformList.xml
+#: dropdown - DYN_UID
+msgid "[outputdocs/outputdocsDynaformList.xml?DYN_UID] Dynaform"
+msgstr "Dynaform"
+
+# outputdocs/outputdocsDynaformList.xml?DYN_TYPE
+# outputdocs/outputdocsDynaformList.xml
+#: dropdown - DYN_TYPE
+msgid "Template"
+msgstr "Template"
+
+# outputdocs/outputdocsDynaformList.xml?DYN_TYPE-1
+# outputdocs/outputdocsDynaformList.xml
+#: dropdown - DYN_TYPE - 1
+msgid "[outputdocs/outputdocsDynaformList.xml?DYN_TYPE-1]"
+msgstr "Classic Template"
+
+# outputdocs/outputdocsDynaformList.xml?DYN_TYPE-2
+# outputdocs/outputdocsDynaformList.xml
+#: dropdown - DYN_TYPE - 2
+msgid "[outputdocs/outputdocsDynaformList.xml?DYN_TYPE-2]"
+msgstr "Tabular Template"
+
+# outputdocs/outputdocsDynaformList.xml?ACCEPT
+# outputdocs/outputdocsDynaformList.xml
+#: button - ACCEPT
+msgid "[outputdocs/outputdocsDynaformList.xml?ACCEPT] Save"
+msgstr "Save"
+
+# outputdocs/outputdocsUploadFile.xml?TITLE1
+# outputdocs/outputdocsUploadFile.xml
+#: title - TITLE1
+msgid "[outputdocs/outputdocsUploadFile.xml?TITLE1] Download"
+msgstr "Download"
+
+# outputdocs/outputdocsUploadFile.xml?OUT_DOC_LINK
+# outputdocs/outputdocsUploadFile.xml
+#: link - OUT_DOC_LINK
+msgid "Click in the link to download current file"
+msgstr "Click in the link to download current file"
+
+# outputdocs/outputdocsUploadFile.xml?TITLE2
+# outputdocs/outputdocsUploadFile.xml
+#: title - TITLE2
+msgid "[outputdocs/outputdocsUploadFile.xml?TITLE2] Upload"
+msgstr "Upload"
+
+# outputdocs/outputdocsUploadFile.xml?OUT_DOC_FILE
+# outputdocs/outputdocsUploadFile.xml
+#: file - OUT_DOC_FILE
+msgid "Upload a modified file"
+msgstr "Upload a modified file"
+
+# outputdocs/outputdocsUploadFile.xml?BTN
+# outputdocs/outputdocsUploadFile.xml
+#: submit - BTN
+msgid "upload"
+msgstr "upload"
+
+# outputdocs/outputdocs_Edit.xml?ACCEPT
+# outputdocs/outputdocs_Edit.xml
+#: button - ACCEPT
+msgid "[outputdocs/outputdocs_Edit.xml?ACCEPT] Save"
+msgstr "Save"
+
+# outputdocs/outputdocs_Edit.xml?BTN_CANCEL
+# outputdocs/outputdocs_Edit.xml
+#: button - BTN_CANCEL
+msgid "[outputdocs/outputdocs_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# outputdocs/outputdocs_List.xml?OUT_DOC_TITLE
+# outputdocs/outputdocs_List.xml
+#: text - OUT_DOC_TITLE
+msgid "[outputdocs/outputdocs_List.xml?OUT_DOC_TITLE] Output document"
+msgstr "Output document"
+
+# outputdocs/outputdocs_List.xml?OUT_DOC_FILENAME
+# outputdocs/outputdocs_List.xml
+#: text - OUT_DOC_FILENAME
+msgid "[outputdocs/outputdocs_List.xml?OUT_DOC_FILENAME] Filename"
+msgstr "Filename"
+
+# outputdocs/outputdocs_List.xml?OUT_DOC_DESCRIPTION
+# outputdocs/outputdocs_List.xml
+#: textarea - OUT_DOC_DESCRIPTION
+msgid "[outputdocs/outputdocs_List.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# outputdocs/outputdocs_List.xml?EDIT
+# outputdocs/outputdocs_List.xml
+#: link - EDIT
+msgid "[outputdocs/outputdocs_List.xml?EDIT] "
+msgstr ""
+
+# outputdocs/outputdocs_List.xml?DELETE
+# outputdocs/outputdocs_List.xml
+#: link - DELETE
+msgid "[outputdocs/outputdocs_List.xml?DELETE] "
+msgstr ""
+
+# outputdocs/outputdocs_List.xml?SEARCH
+# outputdocs/outputdocs_List.xml
+#: button - SEARCH
+msgid "[outputdocs/outputdocs_List.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# outputdocs/outputdocs_New.xml?TITLE
+# outputdocs/outputdocs_New.xml
+#: title - TITLE
+msgid "[outputdocs/outputdocs_New.xml?TITLE] Output Document Information"
+msgstr "Output Document Information"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_TYPE
+# outputdocs/outputdocs_New.xml
+#: radiogroup - OUT_DOC_TYPE
+msgid "Type of Output Document"
+msgstr "Type of Output Document"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-HTML
+# outputdocs/outputdocs_New.xml
+#: radiogroup - OUT_DOC_TYPE - HTML
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-HTML]"
+msgstr "HTML"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-JRXML
+# outputdocs/outputdocs_New.xml
+#: radiogroup - OUT_DOC_TYPE - JRXML
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-JRXML]"
+msgstr "Dynaform to PDF"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-ACROFORM
+# outputdocs/outputdocs_New.xml
+#: radiogroup - OUT_DOC_TYPE - ACROFORM
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_TYPE-ACROFORM]"
+msgstr "Fill Adobe Acroform"
+
+# outputdocs/outputdocs_New.xml?DYN_UID
+# outputdocs/outputdocs_New.xml
+#: dropdown - DYN_UID
+msgid "[outputdocs/outputdocs_New.xml?DYN_UID] Dynaform"
+msgstr "Dynaform"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_TITLE
+# outputdocs/outputdocs_New.xml
+#: text - OUT_DOC_TITLE
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_TITLE] Title"
+msgstr "Title"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_FILENAME
+# outputdocs/outputdocs_New.xml
+#: textpm - OUT_DOC_FILENAME
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_FILENAME] Filename generated"
+msgstr "Filename generated"
+
+# outputdocs/outputdocs_New.xml?OUT_DOC_DESCRIPTION
+# outputdocs/outputdocs_New.xml
+#: textarea - OUT_DOC_DESCRIPTION
+msgid "[outputdocs/outputdocs_New.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# outputdocs/outputdocs_New.xml?DYN_TYPE
+# outputdocs/outputdocs_New.xml
+#: dropdown - DYN_TYPE
+msgid "[outputdocs/outputdocs_New.xml?DYN_TYPE] Template"
+msgstr "Template"
+
+# outputdocs/outputdocs_New.xml?DYN_TYPE-1
+# outputdocs/outputdocs_New.xml
+#: dropdown - DYN_TYPE - 1
+msgid "[outputdocs/outputdocs_New.xml?DYN_TYPE-1]"
+msgstr "Classic Template"
+
+# outputdocs/outputdocs_New.xml?DYN_TYPE-2
+# outputdocs/outputdocs_New.xml
+#: dropdown - DYN_TYPE - 2
+msgid "[outputdocs/outputdocs_New.xml?DYN_TYPE-2]"
+msgstr "Tabular Template"
+
+# outputdocs/outputdocs_New.xml?ACCEPT
+# outputdocs/outputdocs_New.xml
+#: button - ACCEPT
+msgid "[outputdocs/outputdocs_New.xml?ACCEPT] Save"
+msgstr "Save"
+
+# outputdocs/outputdocs_New.xml?ACCEPT2
+# outputdocs/outputdocs_New.xml
+#: submit - ACCEPT2
+msgid "Save submit"
+msgstr "Save submit"
+
+# outputdocs/outputdocs_Options.xml?MNU_ADD
+# outputdocs/outputdocs_Options.xml
+#: link - MNU_ADD
+msgid "[outputdocs/outputdocs_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# outputdocs/outputdocs_Properties.xml?TITLE
+# outputdocs/outputdocs_Properties.xml
+#: title - TITLE
+msgid "[outputdocs/outputdocs_Properties.xml?TITLE] Output Document Information"
+msgstr "Output Document Information"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_TITLE
+# outputdocs/outputdocs_Properties.xml
+#: text - OUT_DOC_TITLE
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_TITLE] Title"
+msgstr "Title"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_FILENAME
+# outputdocs/outputdocs_Properties.xml
+#: textpm - OUT_DOC_FILENAME
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_FILENAME] Filename generated"
+msgstr "Filename generated"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_DESCRIPTION
+# outputdocs/outputdocs_Properties.xml
+#: textarea - OUT_DOC_DESCRIPTION
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_REPORT_GENERATOR
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_REPORT_GENERATOR
+msgid "Report Generator"
+msgstr "Report Generator"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_REPORT_GENERATOR-HTML2PDF
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_REPORT_GENERATOR - HTML2PDF
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_REPORT_GENERATOR-HTML2PDF]"
+msgstr "HTML2PDF (Old Version)"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_REPORT_GENERATOR-TCPDF
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_REPORT_GENERATOR - TCPDF
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_REPORT_GENERATOR-TCPDF]"
+msgstr "TCPDF"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_LANDSCAPE
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE] Orientation"
+msgstr "Orientation"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE-
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_LANDSCAPE -
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE-]"
+msgstr "Portrait"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE-1
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_LANDSCAPE - 1
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_LANDSCAPE-1]"
+msgstr "Landscape"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_GENERATE
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE] Output Document to Generate"
+msgstr "Output Document to Generate"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-BOTH
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_GENERATE - BOTH
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-BOTH]"
+msgstr "BOTH"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-DOC
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_GENERATE - DOC
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-DOC]"
+msgstr "DOC"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-PDF
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_GENERATE - PDF
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_GENERATE-PDF]"
+msgstr "PDF"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_VERSIONING
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING] Enable Versioning"
+msgstr "Enable Versioning"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING-
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_VERSIONING -
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING-]"
+msgstr "NO"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING-1
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_VERSIONING - 1
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_VERSIONING-1]"
+msgstr "YES"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA] Media"
+msgstr "Media"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Letter
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Letter
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Letter]"
+msgstr "Letter"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Legal
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Legal
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Legal]"
+msgstr "Legal"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Executive
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Executive
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Executive]"
+msgstr "Executive"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-B5
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - B5
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-B5]"
+msgstr "B5"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Folio
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Folio
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Folio]"
+msgstr "Folio"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A0Oversize
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A0Oversize
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A0Oversize]"
+msgstr "A0Oversize"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A0
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A0
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A0]"
+msgstr "A0"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A1
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A1
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A1]"
+msgstr "A1"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A2
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A2
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A2]"
+msgstr "A2"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A3
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A3
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A3]"
+msgstr "A3"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A4
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A4
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A4]"
+msgstr "A4"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A5
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A5
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A5]"
+msgstr "A5"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A6
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A6
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A6]"
+msgstr "A6"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A7
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A7
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A7]"
+msgstr "A7"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A8
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A8
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A8]"
+msgstr "A8"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A9
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A9
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A9]"
+msgstr "A9"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A10
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - A10
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-A10]"
+msgstr "A10"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot640
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Screenshot640
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot640]"
+msgstr "Screenshot640"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot800
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Screenshot800
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot800]"
+msgstr "Screenshot800"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot1024
+# outputdocs/outputdocs_Properties.xml
+#: dropdown - OUT_DOC_MEDIA - Screenshot1024
+msgid "[outputdocs/outputdocs_Properties.xml?OUT_DOC_MEDIA-Screenshot1024]"
+msgstr "Screenshot1024"
+
+# outputdocs/outputdocs_Properties.xml?OUT_DOC_LEFT_MARGIN
+# outputdocs/outputdocs_Properties.xml
+#: text - OUT_DOC_LEFT_MARGIN
+msgid "Left"
+msgstr "Left"
+

@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# dynaforms/fields/text.xml?PME_VALIDATE-Email
+# dynaforms/fields/text.xml
+#: dropdown - PME_VALIDATE - Email
+msgid "[dynaforms/fields/text.xml?PME_VALIDATE-Email]"
+msgstr "Email"
+
+# dynaforms/fields/text.xml?PME_VALIDATE-Login
+# dynaforms/fields/text.xml
+#: dropdown - PME_VALIDATE - Login
+msgid "[dynaforms/fields/text.xml?PME_VALIDATE-Login]"
+msgstr "Login"
+
+# dynaforms/fields/text.xml?PME_MASK
+# dynaforms/fields/text.xml
+#: text - PME_MASK
+msgid "[dynaforms/fields/text.xml?PME_MASK] Mask"
+msgstr "Mask"
+
+# dynaforms/fields/text.xml?PME_STRTO
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO
+msgid "Text transform to"
+msgstr "Text transform to"
+
+# dynaforms/fields/text.xml?PME_STRTO-
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO -
+msgid "[dynaforms/fields/text.xml?PME_STRTO-]"
+msgstr ""
+
+# dynaforms/fields/text.xml?PME_STRTO-UPPER
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO - UPPER
+msgid "[dynaforms/fields/text.xml?PME_STRTO-UPPER]"
+msgstr "UPPER"
+
+# dynaforms/fields/text.xml?PME_STRTO-LOWER
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO - LOWER
+msgid "[dynaforms/fields/text.xml?PME_STRTO-LOWER]"
+msgstr "LOWER"
+
+# dynaforms/fields/text.xml?PME_STRTO-PHRASE
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO - PHRASE
+msgid "[dynaforms/fields/text.xml?PME_STRTO-PHRASE]"
+msgstr "CAPITALIZE PHRASE"
+
+# dynaforms/fields/text.xml?PME_STRTO-TITLE
+# dynaforms/fields/text.xml
+#: dropdown - PME_STRTO - TITLE
+msgid "[dynaforms/fields/text.xml?PME_STRTO-TITLE]"
+msgstr "TITLE CASE"
+
+# dynaforms/fields/text.xml?PME_REQUIRED
+# dynaforms/fields/text.xml
+#: checkbox - PME_REQUIRED
+msgid "[dynaforms/fields/text.xml?PME_REQUIRED] Required"
+msgstr "Required"
+
+# dynaforms/fields/text.xml?PME_READONLY
+# dynaforms/fields/text.xml
+#: checkbox - PME_READONLY
+msgid "[dynaforms/fields/text.xml?PME_READONLY] Read Only"
+msgstr "Read Only"
+
+# dynaforms/fields/text.xml?PME_DEPENDENTFIELDS
+# dynaforms/fields/text.xml
+#: listbox - PME_DEPENDENTFIELDS
+msgid "[dynaforms/fields/text.xml?PME_DEPENDENTFIELDS] Dependent Fields"
+msgstr "Dependent Fields"
+
+# dynaforms/fields/text.xml?PME_DEPENDENTFIELDS-
+# dynaforms/fields/text.xml
+#: listbox - PME_DEPENDENTFIELDS -
+msgid "[dynaforms/fields/text.xml?PME_DEPENDENTFIELDS-]"
+msgstr "(none)"
+
+# dynaforms/fields/text.xml?PME_DEFAULTVALUE
+# dynaforms/fields/text.xml
+#: text - PME_DEFAULTVALUE
+msgid "[dynaforms/fields/text.xml?PME_DEFAULTVALUE] Default Value"
+msgstr "Default Value"
+
+# dynaforms/fields/text.xml?PME_HINT
+# dynaforms/fields/text.xml
+#: textarea - PME_HINT
+msgid "[dynaforms/fields/text.xml?PME_HINT] Hint"
+msgstr "Hint"
+
+# dynaforms/fields/text.xml?PME_SUBTITLE
+# dynaforms/fields/text.xml
+#: title - PME_SUBTITLE
+msgid "[dynaforms/fields/text.xml?PME_SUBTITLE] Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/text.xml?PME_SIZE
+# dynaforms/fields/text.xml
+#: text - PME_SIZE
+msgid "[dynaforms/fields/text.xml?PME_SIZE] Size"
+msgstr "Size"
+
+# dynaforms/fields/text.xml?PME_MODE
+# dynaforms/fields/text.xml
+#: dropdown - PME_MODE
+msgid "[dynaforms/fields/text.xml?PME_MODE] Mode"
+msgstr "Mode"
+
+# dynaforms/fields/text.xml?PME_MODE-edit
+# dynaforms/fields/text.xml
+#: dropdown - PME_MODE - edit
+msgid "[dynaforms/fields/text.xml?PME_MODE-edit]"
+msgstr "Edit"
+
+# dynaforms/fields/text.xml?PME_MODE-view
+# dynaforms/fields/text.xml
+#: dropdown - PME_MODE - view
+msgid "[dynaforms/fields/text.xml?PME_MODE-view]"
+msgstr "View"
+
+# dynaforms/fields/text.xml?PME_SUBTITLE_OP
+# dynaforms/fields/text.xml
+#: title - PME_SUBTITLE_OP
+msgid "[dynaforms/fields/text.xml?PME_SUBTITLE_OP] Operations"
+msgstr "Operations"
+
+# dynaforms/fields/text.xml?PME_FORMULA
+# dynaforms/fields/text.xml
+#: text - PME_FORMULA
+msgid "[dynaforms/fields/text.xml?PME_FORMULA] Formula"
+msgstr "Formula"
+
+# dynaforms/fields/text.xml?PME_FUNCTION
+# dynaforms/fields/text.xml
+#: dropdown - PME_FUNCTION
+msgid "[dynaforms/fields/text.xml?PME_FUNCTION] Function"
+msgstr "Function"
+
+# dynaforms/fields/text.xml?PME_FUNCTION-
+# dynaforms/fields/text.xml
+#: dropdown - PME_FUNCTION -
+msgid "[dynaforms/fields/text.xml?PME_FUNCTION-]"
+msgstr "None"
+
+# dynaforms/fields/text.xml?PME_FUNCTION-sum
+# dynaforms/fields/text.xml
+#: dropdown - PME_FUNCTION - sum
+msgid "[dynaforms/fields/text.xml?PME_FUNCTION-sum]"
+msgstr "SUM"
+
+# dynaforms/fields/text.xml?PME_FUNCTION-avg
+# dynaforms/fields/text.xml
+#: dropdown - PME_FUNCTION - avg
+msgid "[dynaforms/fields/text.xml?PME_FUNCTION-avg]"
+msgstr "AVG"
+
+# dynaforms/fields/text.xml?PME_SUBTITLE2
+# dynaforms/fields/text.xml
+#: title - PME_SUBTITLE2
+msgid "[dynaforms/fields/text.xml?PME_SUBTITLE2] Data"
+msgstr "Data"
+
+# dynaforms/fields/text.xml?PME_SQLCONNECTION
+# dynaforms/fields/text.xml
+#: dropdown - PME_SQLCONNECTION
+msgid "[dynaforms/fields/text.xml?PME_SQLCONNECTION] Sql Connection"
+msgstr "Sql Connection"
+
+# dynaforms/fields/text.xml?PME_SQLCONNECTION-
+# dynaforms/fields/text.xml
+#: dropdown - PME_SQLCONNECTION -
+msgid "[dynaforms/fields/text.xml?PME_SQLCONNECTION-]"
+msgstr "(none)"
+
+# dynaforms/fields/text.xml?PME_XMLNODE_VALUE
+# dynaforms/fields/text.xml
+#: textarea - PME_XMLNODE_VALUE
+msgid "[dynaforms/fields/text.xml?PME_XMLNODE_VALUE] Sql"
+msgstr "Sql"
+
+# dynaforms/fields/text.xml?BTN_CANCEL
+# dynaforms/fields/text.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/text.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/text.xml?PME_ACCEPT
+# dynaforms/fields/text.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/text.xml?PME_ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields/textarea.xml?PME_TITLE
+# dynaforms/fields/textarea.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/textarea.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/textarea.xml?PME_XMLNODE_NAME
+# dynaforms/fields/textarea.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/textarea.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/textarea.xml?PME_LABEL
+# dynaforms/fields/textarea.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/textarea.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/textarea.xml?PME_SUBTITLE3
+# dynaforms/fields/textarea.xml
+#: title - PME_SUBTITLE3
+msgid "[dynaforms/fields/textarea.xml?PME_SUBTITLE3] Behaviour"
+msgstr "Behaviour"
+
+# dynaforms/fields/textarea.xml?PME_REQUIRED
+# dynaforms/fields/textarea.xml
+#: checkbox - PME_REQUIRED
+msgid "[dynaforms/fields/textarea.xml?PME_REQUIRED] Required"
+msgstr "Required"
+
+# dynaforms/fields/textarea.xml?PME_READONLY
+# dynaforms/fields/textarea.xml
+#: checkbox - PME_READONLY
+msgid "[dynaforms/fields/textarea.xml?PME_READONLY] Read Only"
+msgstr "Read Only"
+
+# dynaforms/fields/textarea.xml?PME_DEFAULTVALUE
+# dynaforms/fields/textarea.xml
+#: textarea - PME_DEFAULTVALUE
+msgid "[dynaforms/fields/textarea.xml?PME_DEFAULTVALUE] Default Value"
+msgstr "Default Value"
+
+# dynaforms/fields/textarea.xml?PME_HINT
+# dynaforms/fields/textarea.xml
+#: textarea - PME_HINT
+msgid "[dynaforms/fields/textarea.xml?PME_HINT] Hint"
+msgstr "Hint"
+
+# dynaforms/fields/textarea.xml?PME_SUBTITLE
+# dynaforms/fields/textarea.xml
+#: title - PME_SUBTITLE
+msgid "[dynaforms/fields/textarea.xml?PME_SUBTITLE] Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/textarea.xml?PME_ROWS
+# dynaforms/fields/textarea.xml
+#: text - PME_ROWS
+msgid "[dynaforms/fields/textarea.xml?PME_ROWS] Rows"
+msgstr "Rows"
+
+# dynaforms/fields/textarea.xml?PME_COLS
+# dynaforms/fields/textarea.xml
+#: text - PME_COLS
+msgid "Columns"
+msgstr "Columns"
+
+# dynaforms/fields/textarea.xml?PME_MODE
+# dynaforms/fields/textarea.xml
+#: dropdown - PME_MODE
+msgid "[dynaforms/fields/textarea.xml?PME_MODE] Mode"
+msgstr "Mode"
+
+# dynaforms/fields/textarea.xml?PME_MODE-edit
+# dynaforms/fields/textarea.xml
+#: dropdown - PME_MODE - edit
+msgid "[dynaforms/fields/textarea.xml?PME_MODE-edit]"
+msgstr "Edit"
+
+# dynaforms/fields/textarea.xml?PME_MODE-view
+# dynaforms/fields/textarea.xml
+#: dropdown - PME_MODE - view
+msgid "[dynaforms/fields/textarea.xml?PME_MODE-view]"
+msgstr "View"
+
+# dynaforms/fields/textarea.xml?PME_SUBTITLE2
+# dynaforms/fields/textarea.xml
+#: title - PME_SUBTITLE2
+msgid "[dynaforms/fields/textarea.xml?PME_SUBTITLE2] Data"
+msgstr "Data"
+
+# dynaforms/fields/textarea.xml?PME_SQLCONNECTION
+# dynaforms/fields/textarea.xml
+#: dropdown - PME_SQLCONNECTION
+msgid "[dynaforms/fields/textarea.xml?PME_SQLCONNECTION] Sql Connection"
+msgstr "Sql Connection"
+
+# dynaforms/fields/textarea.xml?PME_SQLCONNECTION-
+# dynaforms/fields/textarea.xml
+#: dropdown - PME_SQLCONNECTION -
+msgid "[dynaforms/fields/textarea.xml?PME_SQLCONNECTION-]"
+msgstr "(none)"
+
+# dynaforms/fields/textarea.xml?PME_XMLNODE_VALUE
+# dynaforms/fields/textarea.xml
+#: textarea - PME_XMLNODE_VALUE
+msgid "[dynaforms/fields/textarea.xml?PME_XMLNODE_VALUE] Sql"
+msgstr "Sql"
+
+# dynaforms/fields/textarea.xml?BTN_CANCEL
+# dynaforms/fields/textarea.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/textarea.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/textarea.xml?PME_ACCEPT
+# dynaforms/fields/textarea.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/textarea.xml?PME_ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields/title.xml?PME_TITLE
+# dynaforms/fields/title.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/title.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/title.xml?PME_XMLNODE_NAME
+# dynaforms/fields/title.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/title.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/title.xml?PME_LABEL
+# dynaforms/fields/title.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/title.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/title.xml?PME_SUBTITLE
+# dynaforms/fields/title.xml
+#: title - PME_SUBTITLE
+msgid "[dynaforms/fields/title.xml?PME_SUBTITLE] Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/title.xml?PME_ENABLEHTML
+# dynaforms/fields/title.xml
+#: checkbox - PME_ENABLEHTML
+msgid "[dynaforms/fields/title.xml?PME_ENABLEHTML] Enable Html"
+msgstr "Enable Html"
+
+# dynaforms/fields/title.xml?BTN_CANCEL
+# dynaforms/fields/title.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/title.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/title.xml?PME_ACCEPT
+# dynaforms/fields/title.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/title.xml?PME_ACCEPT] Save"
+msgstr "Save"
+
+# dynaforms/fields/yesno.xml?PME_TITLE
+# dynaforms/fields/yesno.xml
+#: title - PME_TITLE
+msgid "[dynaforms/fields/yesno.xml?PME_TITLE] Properties"
+msgstr "Properties"
+
+# dynaforms/fields/yesno.xml?PME_XMLNODE_NAME
+# dynaforms/fields/yesno.xml
+#: text - PME_XMLNODE_NAME
+msgid "[dynaforms/fields/yesno.xml?PME_XMLNODE_NAME] Field Name"
+msgstr "Field Name"
+
+# dynaforms/fields/yesno.xml?PME_LABEL
+# dynaforms/fields/yesno.xml
+#: text - PME_LABEL
+msgid "[dynaforms/fields/yesno.xml?PME_LABEL] Label"
+msgstr "Label"
+
+# dynaforms/fields/yesno.xml?PME_SUBTITLE3
+# dynaforms/fields/yesno.xml
+#: title - PME_SUBTITLE3
+msgid "[dynaforms/fields/yesno.xml?PME_SUBTITLE3] Behaviour"
+msgstr "Behaviour"
+
+# dynaforms/fields/yesno.xml?PME_READONLY
+# dynaforms/fields/yesno.xml
+#: checkbox - PME_READONLY
+msgid "[dynaforms/fields/yesno.xml?PME_READONLY] Read Only"
+msgstr "Read Only"
+
+# dynaforms/fields/yesno.xml?PME_DEFAULTVALUE
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_DEFAULTVALUE
+msgid "[dynaforms/fields/yesno.xml?PME_DEFAULTVALUE] Default Value"
+msgstr "Default Value"
+
+# dynaforms/fields/yesno.xml?PME_DEFAULTVALUE-1
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_DEFAULTVALUE - 1
+msgid "[dynaforms/fields/yesno.xml?PME_DEFAULTVALUE-1]"
+msgstr "Yes"
+
+# dynaforms/fields/yesno.xml?PME_DEFAULTVALUE-
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_DEFAULTVALUE -
+msgid "[dynaforms/fields/yesno.xml?PME_DEFAULTVALUE-]"
+msgstr "No"
+
+# dynaforms/fields/yesno.xml?PME_HINT
+# dynaforms/fields/yesno.xml
+#: textarea - PME_HINT
+msgid "[dynaforms/fields/yesno.xml?PME_HINT] Hint"
+msgstr "Hint"
+
+# dynaforms/fields/yesno.xml?PME_SUBTITLE
+# dynaforms/fields/yesno.xml
+#: title - PME_SUBTITLE
+msgid "[dynaforms/fields/yesno.xml?PME_SUBTITLE] Appearance"
+msgstr "Appearance"
+
+# dynaforms/fields/yesno.xml?PME_MODE
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_MODE
+msgid "[dynaforms/fields/yesno.xml?PME_MODE] Mode"
+msgstr "Mode"
+
+# dynaforms/fields/yesno.xml?PME_MODE-edit
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_MODE - edit
+msgid "[dynaforms/fields/yesno.xml?PME_MODE-edit]"
+msgstr "Edit"
+
+# dynaforms/fields/yesno.xml?PME_MODE-view
+# dynaforms/fields/yesno.xml
+#: dropdown - PME_MODE - view
+msgid "[dynaforms/fields/yesno.xml?PME_MODE-view]"
+msgstr "View"
+
+# dynaforms/fields/yesno.xml?BTN_CANCEL
+# dynaforms/fields/yesno.xml
+#: button - BTN_CANCEL
+msgid "[dynaforms/fields/yesno.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# dynaforms/fields/yesno.xml?PME_ACCEPT
+# dynaforms/fields/yesno.xml
+#: button - PME_ACCEPT
+msgid "[dynaforms/fields/yesno.xml?PME_ACCEPT] Save"
+msgstr "Save"
+

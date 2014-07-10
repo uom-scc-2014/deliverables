@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_ADD_LICENSE
+#: LABEL/ID_ADD_LICENSE
+msgid "Please add a new license"
+msgstr "Please add a new license"
+
+# TRANSLATION
+# LABEL/ID_ADD_MESSAGE
+#: LABEL/ID_ADD_MESSAGE
+msgid "Add message"
+msgstr "Add message"
+
+# TRANSLATION
+# LABEL/ID_ADD_NOTE
+#: LABEL/ID_ADD_NOTE
+msgid "Add Note"
+msgstr "Add Note"
+
+# TRANSLATION
+# LABEL/ID_ADD_ROW
+#: LABEL/ID_ADD_ROW
+msgid "Add Row"
+msgstr "Add Row"
+
+# TRANSLATION
+# LABEL/ID_ADD_USER_OF_TASK
+#: LABEL/ID_ADD_USER_OF_TASK
+msgid "Last executor of the task"
+msgstr "Last executor of the task"
+
+# TRANSLATION
+# LABEL/ID_ADHOC_ASSIGNMENT
+#: LABEL/ID_ADHOC_ASSIGNMENT
+msgid "Adhoc Assignment"
+msgstr "Adhoc Assignment"
+
+# TRANSLATION
+# LABEL/ID_ADHOC_GROUPS_ACTORS
+#: LABEL/ID_ADHOC_GROUPS_ACTORS
+msgid "Ad Hoc Groups Actors"
+msgstr "Ad Hoc Groups Actors"
+
+# TRANSLATION
+# LABEL/ID_ADHOC_USERS_ACTORS
+#: LABEL/ID_ADHOC_USERS_ACTORS
+msgid "Ad hoc Users Actors"
+msgstr "Ad hoc Users Actors"
+
+# TRANSLATION
+# LABEL/ID_ADMINISTRATOR_ROLE_CANT_CHANGED
+#: LABEL/ID_ADMINISTRATOR_ROLE_CANT_CHANGED
+msgid "The administrator's role can't be changed!"
+msgstr "The administrator's role can't be changed!"
+
+# TRANSLATION
+# LABEL/ID_ADMINS_CANT_USE_UXS
+#: LABEL/ID_ADMINS_CANT_USE_UXS
+msgid "Administrators users cannot use this User Experience."
+msgstr "Administrators users cannot use this User Experience."
+
+# TRANSLATION
+# LABEL/ID_ADMIN_PASSWORD
+#: LABEL/ID_ADMIN_PASSWORD
+msgid "Confirm Admin Password"
+msgstr "Confirm Admin Password"
+
+# TRANSLATION
+# LABEL/ID_ADMIN_PASSWORD_LABEL
+#: LABEL/ID_ADMIN_PASSWORD_LABEL
+msgid "Admin Password"
+msgstr "Admin Password"
+
+# TRANSLATION
+# LABEL/ID_ADMIN_USERNAME
+#: LABEL/ID_ADMIN_USERNAME
+msgid "Admin Username"
+msgstr "Admin Username"
+
+# TRANSLATION
+# LABEL/ID_ADVANCEDSEARCH
+#: LABEL/ID_ADVANCEDSEARCH
+msgid "[LABEL/ID_ADVANCEDSEARCH] Advanced Search"
+msgstr "Advanced Search"
+
+# TRANSLATION
+# LABEL/ID_AD_HOC_ACTORS
+#: LABEL/ID_AD_HOC_ACTORS
+msgid "Ad Hoc Actors"
+msgstr "Ad Hoc Actors"
+
+# TRANSLATION
+# LABEL/ID_AFTER
+#: LABEL/ID_AFTER
+msgid "After"
+msgstr "After"
+
+# TRANSLATION
+# LABEL/ID_AFTER_DERIVATION
+#: LABEL/ID_AFTER_DERIVATION
+msgid "After Routing"
+msgstr "After Routing"
+
+# TRANSLATION
+# LABEL/ID_AFTER_ROUTING_NOTIFY
+#: LABEL/ID_AFTER_ROUTING_NOTIFY
+msgid "After routing notify the next assigned user(s)."
+msgstr "After routing notify the next assigned user(s)."
+
+# TRANSLATION
+# LABEL/ID_AGREE
+#: LABEL/ID_AGREE
+msgid "I agree"
+msgstr "I agree"
+
+# TRANSLATION
+# LABEL/ID_AJAX_COMMUNICATION_FAILED
+#: LABEL/ID_AJAX_COMMUNICATION_FAILED
+msgid "Ajax communication failed"
+msgstr "Ajax communication failed"
+
+# TRANSLATION
+# LABEL/ID_ALERT
+#: LABEL/ID_ALERT
+msgid "Alert"
+msgstr "Alert"
+
+# TRANSLATION
+# LABEL/ID_ALERT_MESSAGE
+#: LABEL/ID_ALERT_MESSAGE
+msgid "Alert Message"
+msgstr "Alert Message"
+
+# TRANSLATION
+# LABEL/ID_ALL
+#: LABEL/ID_ALL
+msgid "All"
+msgstr "All"
+
+# TRANSLATION
+# LABEL/ID_ALLOW_ARBITARY_TRANSFER
+#: LABEL/ID_ALLOW_ARBITARY_TRANSFER
+msgid "Allow arbitary transfer (Ad hoc)"
+msgstr "Allow arbitary transfer (Ad hoc)"
+
+# TRANSLATION
+# LABEL/ID_ALL_CATEGORIES
+#: LABEL/ID_ALL_CATEGORIES
+msgid "All Categories"
+msgstr "All Categories"
+
+# TRANSLATION
+# LABEL/ID_ALL_PROCESS
+#: LABEL/ID_ALL_PROCESS
+msgid "All Processes"
+msgstr "All Processes"
+
+# TRANSLATION
+# LABEL/ID_ALL_RECORDS_DELETED_SUCESSFULLY
+#: LABEL/ID_ALL_RECORDS_DELETED_SUCESSFULLY
+msgid "All records was deleted successfully!"
+msgstr "All records was deleted successfully!"
+
+# TRANSLATION
+# LABEL/ID_ALL_STATUS
+#: LABEL/ID_ALL_STATUS
+msgid "All Status"
+msgstr "All Status"
+
+# TRANSLATION
+# LABEL/ID_ALL_USERS
+#: LABEL/ID_ALL_USERS
+msgid "All Users"
+msgstr "All Users"
+
+# TRANSLATION
+# LABEL/ID_ALL_VARIABLES
+#: LABEL/ID_ALL_VARIABLES
+msgid "All Variables"
+msgstr "All Variables"
+
+# TRANSLATION
+# LABEL/ID_ALL_WORKSPACES
+#: LABEL/ID_ALL_WORKSPACES
+msgid "All Workspaces"
+msgstr "All Workspaces"
+
+# TRANSLATION
+# LABEL/ID_ANONYMOUS
+#: LABEL/ID_ANONYMOUS
+msgid "Anonymous"
+msgstr "Anonymous"
+
+# TRANSLATION
+# LABEL/ID_ANY
+#: LABEL/ID_ANY
+msgid "Any"
+msgstr "Any"
+
+# TRANSLATION
+# LABEL/ID_ANY_TASK
+#: LABEL/ID_ANY_TASK
+msgid "All Tasks"
+msgstr "All Tasks"
+
+# TRANSLATION
+# LABEL/ID_APPCACHE_SETUP
+#: LABEL/ID_APPCACHE_SETUP
+msgid "Cases List Cache Builder"
+msgstr "Cases List Cache Builder"
+
+# TRANSLATION
+# LABEL/ID_APPLICATIONS
+#: LABEL/ID_APPLICATIONS
+msgid "DESIGNER"
+msgstr "DESIGNER"
+
+# TRANSLATION
+# LABEL/ID_APPLY
+#: LABEL/ID_APPLY
+msgid "Apply"
+msgstr "Apply"
+
+# TRANSLATION
+# LABEL/ID_APPLY_AS_MAIN_LOGO
+#: LABEL/ID_APPLY_AS_MAIN_LOGO
+msgid "Apply as main logo"
+msgstr "Apply as main logo"
+
+# TRANSLATION
+# LABEL/ID_APPLY_CHANGES
+#: LABEL/ID_APPLY_CHANGES
+msgid "Apply changes"
+msgstr "Apply changes"
+
+# TRANSLATION
+# LABEL/ID_APP_MSG_BODY
+#: LABEL/ID_APP_MSG_BODY
+msgid "Body"
+msgstr "Body"
+
+# TRANSLATION
+# LABEL/ID_ARE_YOU_SURE_RESEND
+#: LABEL/ID_ARE_YOU_SURE_RESEND
+msgid "Are you sure that you want to resend this message"
+msgstr "Are you sure that you want to resend this message"
+
+# TRANSLATION
+# LABEL/ID_ARRAY_VARIABLES_EMPTY
+#: LABEL/ID_ARRAY_VARIABLES_EMPTY
+msgid "Array of variables is empty"
+msgstr "Array of variables is empty"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN
+#: LABEL/ID_ASSIGN
+msgid "Assign"
+msgstr "Assign"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_FIEDS
+#: LABEL/ID_ASSIGNED_FIEDS
+msgid "ASSIGNED FIELDS"
+msgstr "ASSIGNED FIELDS"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_GROUPS
+#: LABEL/ID_ASSIGNED_GROUPS
+msgid "ASSIGNED GROUPS"
+msgstr "ASSIGNED GROUPS"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_MEMBERS
+#: LABEL/ID_ASSIGNED_MEMBERS
+msgid "MEMBERS"
+msgstr "MEMBERS"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_PERMISSIONS
+#: LABEL/ID_ASSIGNED_PERMISSIONS
+msgid "ASSIGNED PERMISSIONS"
+msgstr "ASSIGNED PERMISSIONS"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_PERMISSIONS_FOR
+#: LABEL/ID_ASSIGNED_PERMISSIONS_FOR
+msgid "ASSIGNED PERMISSIONS FOR"
+msgstr "ASSIGNED PERMISSIONS FOR"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_TO
+#: LABEL/ID_ASSIGNED_TO
+msgid "Assigned To"
+msgstr "Assigned To"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNED_USERS
+#: LABEL/ID_ASSIGNED_USERS
+msgid "ASSIGNED USERS"
+msgstr "ASSIGNED USERS"
+
+# TRANSLATION
+# LABEL/ID_ASSIGNMENT_CASE
+#: LABEL/ID_ASSIGNMENT_CASE
+msgid "Assignment case..."
+msgstr "Assignment case..."
+
+# TRANSLATION
+# LABEL/ID_ASSIGNMENT_RULES
+#: LABEL/ID_ASSIGNMENT_RULES
+msgid "Assignment Rules"
+msgstr "Assignment Rules"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_ALL_GROUPS
+#: LABEL/ID_ASSIGN_ALL_GROUPS
+msgid "Assign All Groups"
+msgstr "Assign All Groups"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_ALL_MEMBERS
+#: LABEL/ID_ASSIGN_ALL_MEMBERS
+msgid "Assign All Members"
+msgstr "Assign All Members"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_ALL_PERMISSIONS
+#: LABEL/ID_ASSIGN_ALL_PERMISSIONS
+msgid "Assign All Permissions"
+msgstr "Assign All Permissions"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_ALL_USERS
+#: LABEL/ID_ASSIGN_ALL_USERS
+msgid "Assign All Users"
+msgstr "Assign All Users"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_GROUP
+#: LABEL/ID_ASSIGN_GROUP
+msgid "Assign group"
+msgstr "Assign group"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_GROUP_TO
+#: LABEL/ID_ASSIGN_GROUP_TO
+msgid "Assign group to"
+msgstr "Assign group to"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_ROLE
+#: LABEL/ID_ASSIGN_ROLE
+msgid "Assign user"
+msgstr "Assign user"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_RULES
+#: LABEL/ID_ASSIGN_RULES
+msgid "[LABEL/ID_ASSIGN_RULES] Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+msgstr "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_SCREEN
+#: LABEL/ID_ASSIGN_SCREEN
+msgid "Assign Screen"
+msgstr "Assign Screen"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_TASK
+#: LABEL/ID_ASSIGN_TASK
+msgid "Assign Task"
+msgstr "Assign Task"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_THE_ROLE
+#: LABEL/ID_ASSIGN_THE_ROLE
+msgid "Assign the role"
+msgstr "Assign the role"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_TO
+#: LABEL/ID_ASSIGN_TO
+msgid "Assign To"
+msgstr "Assign To"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_TRIGGERS
+#: LABEL/ID_ASSIGN_TRIGGERS
+msgid "Assign Triggers"
+msgstr "Assign Triggers"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_USERGROUPS
+#: LABEL/ID_ASSIGN_USERGROUPS
+msgid "Assign users group or user"
+msgstr "Assign users group or user"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_USERS
+#: LABEL/ID_ASSIGN_USERS
+msgid "Assign Users"
+msgstr "Assign Users"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_VARIABLES_IN
+#: LABEL/ID_ASSIGN_VARIABLES_IN
+msgid "Assign Variables In"
+msgstr "Assign Variables In"
+
+# TRANSLATION
+# LABEL/ID_ASSIGN_VARIABLES_OUT
+#: LABEL/ID_ASSIGN_VARIABLES_OUT
+msgid "Assign Variables Out"
+msgstr "Assign Variables Out"
+
+# TRANSLATION
+# LABEL/ID_ATTACH
+#: LABEL/ID_ATTACH
+msgid "Attach"
+msgstr "Attach"
+
+# TRANSLATION
+# LABEL/ID_ATTRIBUTES
+#: LABEL/ID_ATTRIBUTES
+msgid "Attributes"
+msgstr "Attributes"
+
+# TRANSLATION
+# LABEL/ID_AT_RISK
+#: LABEL/ID_AT_RISK
+msgid "At Risk"
+msgstr "At Risk"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION
+#: LABEL/ID_AUTHENTICATION
+msgid "Authentication"
+msgstr "Authentication"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_DN
+#: LABEL/ID_AUTHENTICATION_DN
+msgid "DN"
+msgstr "DN"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_FAILED
+#: LABEL/ID_AUTHENTICATION_FAILED
+msgid "Authentication Failed"
+msgstr "Authentication Failed"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_FORM_TITLE
+#: LABEL/ID_AUTHENTICATION_FORM_TITLE
+msgid "Authentication Source Assignment"
+msgstr "Authentication Source Assignment"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_SOURCE
+#: LABEL/ID_AUTHENTICATION_SOURCE
+msgid "Authentication Source"
+msgstr "Authentication Source"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_SOURCE_INFORMATION
+#: LABEL/ID_AUTHENTICATION_SOURCE_INFORMATION
+msgid "Authentication Source Information"
+msgstr "Authentication Source Information"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_SOURCE_INF_TITLE
+#: LABEL/ID_AUTHENTICATION_SOURCE_INF_TITLE
+msgid "[LABEL/ID_AUTHENTICATION_SOURCE_INF_TITLE] Authentication Source Information"
+msgstr "Authentication Source Information"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_SOURCE_INVALID
+#: LABEL/ID_AUTHENTICATION_SOURCE_INVALID
+msgid "Authentication Source for this user is invalid"
+msgstr "Authentication Source for this user is invalid"
+
+# TRANSLATION
+# LABEL/ID_AUTHENTICATION_SUCCESS_DELETE
+#: LABEL/ID_AUTHENTICATION_SUCCESS_DELETE
+msgid "Authentication source has been deleted correctly."
+msgstr "Authentication source has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_AUTHOR
+#: LABEL/ID_AUTHOR
+msgid "Author"
+msgstr "Author"
+
+# TRANSLATION
+# LABEL/ID_AUTH_SOURCES
+#: LABEL/ID_AUTH_SOURCES
+msgid "Authentication Sources"
+msgstr "Authentication Sources"
+
+# TRANSLATION
+# LABEL/ID_AUTH_SOURCE_MISSING
+#: LABEL/ID_AUTH_SOURCE_MISSING
+msgid "The plugin that is related to this authentication source was removed or disabled, please consult to your system administrator."
+msgstr "The plugin that is related to this authentication source was removed or disabled, please consult to your system administrator."
+
+# TRANSLATION
+# LABEL/ID_AUTO_INCREMENT
+#: LABEL/ID_AUTO_INCREMENT
+msgid "Auto Increment"
+msgstr "Auto Increment"
+
+# TRANSLATION
+# LABEL/ID_AUTO_PREFIX
+#: LABEL/ID_AUTO_PREFIX
+msgid "Auto Prefix"
+msgstr "Auto Prefix"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_AUTHENTICATION_SOURCES
+#: LABEL/ID_AVAILABLE_AUTHENTICATION_SOURCES
+msgid "Available Authentication Sources"
+msgstr "Available Authentication Sources"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_DB
+#: LABEL/ID_AVAILABLE_DB
+msgid "Available DB Engines"
+msgstr "Available DB Engines"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_FIELDS
+#: LABEL/ID_AVAILABLE_FIELDS
+msgid "Available Fields"
+msgstr "Available Fields"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_GROUPS
+#: LABEL/ID_AVAILABLE_GROUPS
+msgid "AVAILABLE GROUPS"
+msgstr "AVAILABLE GROUPS"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_MEMBERS
+#: LABEL/ID_AVAILABLE_MEMBERS
+msgid "AVAILABLE MEMBERS"
+msgstr "AVAILABLE MEMBERS"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_PERMISSIONS
+#: LABEL/ID_AVAILABLE_PERMISSIONS
+msgid "AVAILABLE PERMISSIONS"
+msgstr "AVAILABLE PERMISSIONS"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_TRIGGERS
+#: LABEL/ID_AVAILABLE_TRIGGERS
+msgid "Available Triggers"
+msgstr "Available Triggers"
+
+# TRANSLATION
+# LABEL/ID_AVAILABLE_USERS
+#: LABEL/ID_AVAILABLE_USERS
+msgid "AVAILABLE USERS"
+msgstr "AVAILABLE USERS"
+
+# TRANSLATION
+# LABEL/ID_BACK
+#: LABEL/ID_BACK
+msgid "Back"
+msgstr "Back"
+
+# TRANSLATION
+# LABEL/ID_BACK_PERMISSIONS_LIST
+#: LABEL/ID_BACK_PERMISSIONS_LIST
+msgid "Back to permissions list"
+msgstr "Back to permissions list"
+
+# TRANSLATION
+# LABEL/ID_BACK_TO_GROUP_LIST
+#: LABEL/ID_BACK_TO_GROUP_LIST
+msgid "Back to user groups"
+msgstr "Back to user groups"
+
+# TRANSLATION
+# LABEL/ID_BACK_TO_USERS_LIST
+#: LABEL/ID_BACK_TO_USERS_LIST
+msgid "Back to Users List"
+msgstr "Back to Users List"
+
+# TRANSLATION
+# LABEL/ID_BAD_REQUEST
+#: LABEL/ID_BAD_REQUEST
+msgid "Bad Request!"
+msgstr "Bad Request!"
+
+# TRANSLATION
+# LABEL/ID_BASE_DN
+#: LABEL/ID_BASE_DN
+msgid "Base DN"
+msgstr "Base DN"
+

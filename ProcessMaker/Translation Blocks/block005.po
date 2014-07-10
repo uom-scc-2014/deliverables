@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_BEFORE
+#: LABEL/ID_BEFORE
+msgid "Before"
+msgstr "Before"
+
+# TRANSLATION
+# LABEL/ID_BEFORE_ASSIGNMENT
+#: LABEL/ID_BEFORE_ASSIGNMENT
+msgid "Before Assignment"
+msgstr "Before Assignment"
+
+# TRANSLATION
+# LABEL/ID_BEFORE_DERIVATION
+#: LABEL/ID_BEFORE_DERIVATION
+msgid "Before Routing"
+msgstr "Before Routing"
+
+# TRANSLATION
+# LABEL/ID_BEHAVIOUR
+#: LABEL/ID_BEHAVIOUR
+msgid "Behaviour"
+msgstr "Behaviour"
+
+# TRANSLATION
+# LABEL/ID_BLANK_DYNAFORM
+#: LABEL/ID_BLANK_DYNAFORM
+msgid "Blank Dynaform"
+msgstr "Blank Dynaform"
+
+# TRANSLATION
+# LABEL/ID_BLOCK
+#: LABEL/ID_BLOCK
+msgid "[LABEL/ID_BLOCK] Block"
+msgstr "Block"
+
+# TRANSLATION
+# LABEL/ID_BOTTOM_MARGIN
+#: LABEL/ID_BOTTOM_MARGIN
+msgid "Bottom Margin"
+msgstr "Bottom Margin"
+
+# TRANSLATION
+# LABEL/ID_BPMN_EDITOR
+#: LABEL/ID_BPMN_EDITOR
+msgid "BPMN Editor (Beta)"
+msgstr "BPMN Editor (Beta)"
+
+# TRANSLATION
+# LABEL/ID_BREAK_DW_PROCESS
+#: LABEL/ID_BREAK_DW_PROCESS
+msgid "were lost by a connection problem."
+msgstr "were lost by a connection problem."
+
+# TRANSLATION
+# LABEL/ID_BROWSE
+#: LABEL/ID_BROWSE
+msgid "Browse"
+msgstr "Browse"
+
+# TRANSLATION
+# LABEL/ID_BROWSER_NOT_SUPPORTED
+#: LABEL/ID_BROWSER_NOT_SUPPORTED
+msgid "This browser is not supported."
+msgstr "This browser is not supported."
+
+# TRANSLATION
+# LABEL/ID_BROWSE_LIBRARY
+#: LABEL/ID_BROWSE_LIBRARY
+msgid "Browse Library"
+msgstr "Browse Library"
+
+# TRANSLATION
+# LABEL/ID_BUTTON
+#: LABEL/ID_BUTTON
+msgid "Button"
+msgstr "Button"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BTN_BUILD
+#: LABEL/ID_CACHE_BTN_BUILD
+msgid "Build Cache"
+msgstr "Build Cache"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BTN_SETUP_PASSWRD
+#: LABEL/ID_CACHE_BTN_SETUP_PASSWRD
+msgid "Setup Password"
+msgstr "Setup Password"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BTN_SETUP_SESSION
+#: LABEL/ID_CACHE_BTN_SETUP_SESSION
+msgid "Delete older session files"
+msgstr "Delete older session files"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_CURRENT_USER
+#: LABEL/ID_CACHE_BUILDER_CURRENT_USER
+msgid "Current User"
+msgstr "Current User"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_LANGUAGE
+#: LABEL/ID_CACHE_BUILDER_LANGUAGE
+msgid "Language"
+msgstr "Language"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_MYSQL_VERSION
+#: LABEL/ID_CACHE_BUILDER_MYSQL_VERSION
+msgid "MySQL Version"
+msgstr "MySQL Version"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_ROWS
+#: LABEL/ID_CACHE_BUILDER_ROWS
+msgid "Rows in APP_CACHE_VIEW"
+msgstr "Rows in APP_CACHE_VIEW"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TABLE
+#: LABEL/ID_CACHE_BUILDER_TABLE
+msgid "Table APP_CACHE_VIEW"
+msgstr "Table APP_CACHE_VIEW"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_DELETE
+#: LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_DELETE
+msgid "Trigger APPLICATION DELETE"
+msgstr "Trigger APPLICATION DELETE"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_UPDATE
+#: LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_UPDATE
+msgid "Trigger APPLICATION UPDATE"
+msgstr "Trigger APPLICATION UPDATE"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TRIGGER_CONTENT_UPDATE
+#: LABEL/ID_CACHE_BUILDER_TRIGGER_CONTENT_UPDATE
+msgid "Trigger CONTENT UPDATE"
+msgstr "Trigger CONTENT UPDATE"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TRIGGER_INSERT
+#: LABEL/ID_CACHE_BUILDER_TRIGGER_INSERT
+msgid "Trigger APP_DELEGATION INSERT"
+msgstr "Trigger APP_DELEGATION INSERT"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_TRIGGER_UPDATE
+#: LABEL/ID_CACHE_BUILDER_TRIGGER_UPDATE
+msgid "Trigger APP_DELEGATION UPDATE"
+msgstr "Trigger APP_DELEGATION UPDATE"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDER_USER_SUPER_PRIVILEGE
+#: LABEL/ID_CACHE_BUILDER_USER_SUPER_PRIVILEGE
+msgid "Current User has SUPER privilege"
+msgstr "Current User has SUPER privilege"
+
+# TRANSLATION
+# LABEL/ID_CACHE_BUILDING
+#: LABEL/ID_CACHE_BUILDING
+msgid "Building Workflow Application Cache..."
+msgstr "Building Workflow Application Cache..."
+
+# TRANSLATION
+# LABEL/ID_CACHE_DELETED_SUCCESS
+#: LABEL/ID_CACHE_DELETED_SUCCESS
+msgid "All cache data was deleted successfully"
+msgstr "All cache data was deleted successfully"
+
+# TRANSLATION
+# LABEL/ID_CACHE_DIR_ISNOT_WRITABLE
+#: LABEL/ID_CACHE_DIR_ISNOT_WRITABLE
+msgid "The cache directory is not writable, change permissions please!"
+msgstr "The cache directory is not writable, change permissions please!"
+
+# TRANSLATION
+# LABEL/ID_CACHE_FILE
+#: LABEL/ID_CACHE_FILE
+msgid "Cache file:"
+msgstr "Cache file:"
+
+# TRANSLATION
+# LABEL/ID_CACHE_HOST
+#: LABEL/ID_CACHE_HOST
+msgid "Host"
+msgstr "Host"
+
+# TRANSLATION
+# LABEL/ID_CACHE_LANGUAGE
+#: LABEL/ID_CACHE_LANGUAGE
+msgid "[LABEL/ID_CACHE_LANGUAGE] Language"
+msgstr "Language"
+
+# TRANSLATION
+# LABEL/ID_CACHE_PASSWORD
+#: LABEL/ID_CACHE_PASSWORD
+msgid "Password"
+msgstr "Password"
+
+# TRANSLATION
+# LABEL/ID_CACHE_SUBTITLE_REBUILD
+#: LABEL/ID_CACHE_SUBTITLE_REBUILD
+msgid "Rebuild Workflow Application Cache"
+msgstr "Rebuild Workflow Application Cache"
+
+# TRANSLATION
+# LABEL/ID_CACHE_SUBTITLE_SETUP_DB
+#: LABEL/ID_CACHE_SUBTITLE_SETUP_DB
+msgid "Setup MySql Root Password"
+msgstr "Setup MySql Root Password"
+
+# TRANSLATION
+# LABEL/ID_CACHE_SUBTITLE_SETUP_SESSION
+#: LABEL/ID_CACHE_SUBTITLE_SETUP_SESSION
+msgid "Session Maintenance"
+msgstr "Session Maintenance"
+
+# TRANSLATION
+# LABEL/ID_CACHE_TITLE_INFO
+#: LABEL/ID_CACHE_TITLE_INFO
+msgid "Workflow Applications Cache Info"
+msgstr "Workflow Applications Cache Info"
+
+# TRANSLATION
+# LABEL/ID_CACHE_USER
+#: LABEL/ID_CACHE_USER
+msgid "User"
+msgstr "User"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR
+#: LABEL/ID_CALENDAR
+msgid "Calendar"
+msgstr "Calendar"
+
+# TRANSLATION
+# LABEL/ID_CALENDARS
+#: LABEL/ID_CALENDARS
+msgid "Calendars"
+msgstr "Calendars"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_CREATED_SUCCESSFULLY
+#: LABEL/ID_CALENDAR_CREATED_SUCCESSFULLY
+msgid "Your calendar has been created successfully"
+msgstr "Your calendar has been created successfully"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_DEFINITION
+#: LABEL/ID_CALENDAR_DEFINITION
+msgid "Calendar Definition"
+msgstr "Calendar Definition"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_DESCRIPTION
+#: LABEL/ID_CALENDAR_DESCRIPTION
+msgid "Calendar Description"
+msgstr "Calendar Description"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_INVALID_NAME
+#: LABEL/ID_CALENDAR_INVALID_NAME
+msgid "The calendar name already exists!"
+msgstr "The calendar name already exists!"
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_SUCCESS_DELETE
+#: LABEL/ID_CALENDAR_SUCCESS_DELETE
+msgid "Calendar has been deleted correctly."
+msgstr "Calendar has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_CALENDAR_UPDATED_SUCCESSFULLY
+#: LABEL/ID_CALENDAR_UPDATED_SUCCESSFULLY
+msgid "Your calendar has been updated successfully"
+msgstr "Your calendar has been updated successfully"
+
+# TRANSLATION
+# LABEL/ID_CANCEL
+#: LABEL/ID_CANCEL
+msgid "[LABEL/ID_CANCEL] Cancel"
+msgstr "Cancel"
+
+# TRANSLATION
+# LABEL/ID_CANCELLED
+#: LABEL/ID_CANCELLED
+msgid "[LABEL/ID_CANCELLED] Cancelled"
+msgstr "Cancelled"
+
+# TRANSLATION
+# LABEL/ID_CANCEL_CASE
+#: LABEL/ID_CANCEL_CASE
+msgid "Cancel Case"
+msgstr "Cancel Case"
+
+# TRANSLATION
+# LABEL/ID_CANCEL_NEW_NOTE
+#: LABEL/ID_CANCEL_NEW_NOTE
+msgid "Cancel New Note"
+msgstr "Cancel New Note"
+
+# TRANSLATION
+# LABEL/ID_CANCEL_PARTIAL_JOIN_MULTIPLE_INSTANCE
+#: LABEL/ID_CANCEL_PARTIAL_JOIN_MULTIPLE_INSTANCE
+msgid "Cancelling Partial Join for Multiple Instance"
+msgstr "Cancelling Partial Join for Multiple Instance"
+
+# TRANSLATION
+# LABEL/ID_CANNOT_CHANGE_STATUS_ADMIN_USER
+#: LABEL/ID_CANNOT_CHANGE_STATUS_ADMIN_USER
+msgid "Can't change the status of administrator!"
+msgstr "Can't change the status of administrator!"
+
+# TRANSLATION
+# LABEL/ID_CANNOT_DELETE_ADMIN_USER
+#: LABEL/ID_CANNOT_DELETE_ADMIN_USER
+msgid "Can't delete the administrator!"
+msgstr "Can't delete the administrator!"
+
+# TRANSLATION
+# LABEL/ID_CANT_RESOLVE_APPLICATION
+#: LABEL/ID_CANT_RESOLVE_APPLICATION
+msgid "Can't resolve the Aplication ID for this request."
+msgstr "Can't resolve the Aplication ID for this request."
+
+# TRANSLATION
+# LABEL/ID_CAN_NOT_REMOVED
+#: LABEL/ID_CAN_NOT_REMOVED
+msgid "Can not be removed"
+msgstr "Can not be removed"
+
+# TRANSLATION
+# LABEL/ID_CAN_NOT_ROUTE_CASE_USING_WEBSERVICES
+#: LABEL/ID_CAN_NOT_ROUTE_CASE_USING_WEBSERVICES
+msgid "Can not route a case with Manual Assignment using webservices"
+msgstr "Can not route a case with Manual Assignment using webservices"
+
+# TRANSLATION
+# LABEL/ID_CAPS_LOCK_ALERT1
+#: LABEL/ID_CAPS_LOCK_ALERT1
+msgid "Having Caps Lock on may cause you to enter your password incorrectly."
+msgstr "Having Caps Lock on may cause you to enter your password incorrectly."
+
+# TRANSLATION
+# LABEL/ID_CAPS_LOCK_ALERT2
+#: LABEL/ID_CAPS_LOCK_ALERT2
+msgid "You should press Caps Lock to turn it off before entering your password."
+msgstr "You should press Caps Lock to turn it off before entering your password."
+
+# TRANSLATION
+# LABEL/ID_CAPS_LOCK_IS_ON
+#: LABEL/ID_CAPS_LOCK_IS_ON
+msgid "Caps Lock is On"
+msgstr "Caps Lock is On"
+
+# TRANSLATION
+# LABEL/ID_CASE
+#: LABEL/ID_CASE
+msgid "Case"
+msgstr "Case"
+
+# TRANSLATION
+# LABEL/ID_CASECANCEL
+#: LABEL/ID_CASECANCEL
+msgid "No actions available for this case."
+msgstr "No actions available for this case."
+
+# TRANSLATION
+# LABEL/ID_CASEDEMO
+#: LABEL/ID_CASEDEMO
+msgid "Case Demo"
+msgstr "Case Demo"
+
+# TRANSLATION
+# LABEL/ID_CASES
+#: LABEL/ID_CASES
+msgid "HOME"
+msgstr "HOME"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_CURRENT_USER
+#: LABEL/ID_CASESLIST_APP_CURRENT_USER
+msgid "[LABEL/ID_CASESLIST_APP_CURRENT_USER] Current User"
+msgstr "Current User"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_DEL_INDEX
+#: LABEL/ID_CASESLIST_APP_DEL_INDEX
+msgid "Del Index"
+msgstr "Del Index"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_DEL_PREVIOUS_USER
+#: LABEL/ID_CASESLIST_APP_DEL_PREVIOUS_USER
+msgid "Sent by"
+msgstr "Sent by"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_FINISH_DATE
+#: LABEL/ID_CASESLIST_APP_FINISH_DATE
+msgid "Finish Date"
+msgstr "Finish Date"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_NUMBER
+#: LABEL/ID_CASESLIST_APP_NUMBER
+msgid "#"
+msgstr "#"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_PRO_TITLE
+#: LABEL/ID_CASESLIST_APP_PRO_TITLE
+msgid "Process"
+msgstr "Process"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_STATUS
+#: LABEL/ID_CASESLIST_APP_STATUS
+msgid "Status"
+msgstr "Status"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_TAS_TITLE
+#: LABEL/ID_CASESLIST_APP_TAS_TITLE
+msgid "[LABEL/ID_CASESLIST_APP_TAS_TITLE] Task"
+msgstr "Task"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_THREAD_INDEX
+#: LABEL/ID_CASESLIST_APP_THREAD_INDEX
+msgid "Thread Index"
+msgstr "Thread Index"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_TITLE
+#: LABEL/ID_CASESLIST_APP_TITLE
+msgid "[LABEL/ID_CASESLIST_APP_TITLE] Case"
+msgstr "Case"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_UID
+#: LABEL/ID_CASESLIST_APP_UID
+msgid "Case Id"
+msgstr "Case Id"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_APP_UPDATE_DATE
+#: LABEL/ID_CASESLIST_APP_UPDATE_DATE
+msgid "Last Modify"
+msgstr "Last Modify"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_DEL_INDEX
+#: LABEL/ID_CASESLIST_DEL_INDEX
+msgid "Case Index"
+msgstr "Case Index"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_DEL_PRIORITY
+#: LABEL/ID_CASESLIST_DEL_PRIORITY
+msgid "Priority"
+msgstr "Priority"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_DEL_TASK_DUE_DATE
+#: LABEL/ID_CASESLIST_DEL_TASK_DUE_DATE
+msgid "Due Date"
+msgstr "Due Date"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_COMPLETE
+#: LABEL/ID_CASESLIST_FIELD_COMPLETE
+msgid "Complete all system fields"
+msgstr "Complete all system fields"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_COMPLETE_ID
+#: LABEL/ID_CASESLIST_FIELD_COMPLETE_ID
+msgid "Complete all system fields, with the label ID for its translation"
+msgstr "Complete all system fields, with the label ID for its translation"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_LABEL_RESET
+#: LABEL/ID_CASESLIST_FIELD_LABEL_RESET
+msgid "Restart labels with system fields"
+msgstr "Restart labels with system fields"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_LABEL_RESET_ID
+#: LABEL/ID_CASESLIST_FIELD_LABEL_RESET_ID
+msgid "Restart labels with system fields, with the ID for its translation"
+msgstr "Restart labels with system fields, with the ID for its translation"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_RESET
+#: LABEL/ID_CASESLIST_FIELD_RESET
+msgid "Restart everything with the system fields"
+msgstr "Restart everything with the system fields"
+
+# TRANSLATION
+# LABEL/ID_CASESLIST_FIELD_RESET_ID
+#: LABEL/ID_CASESLIST_FIELD_RESET_ID
+msgid "Restart everything with the system fields, with the ID of the label for its translation"
+msgstr "Restart everything with the system fields, with the ID of the label for its translation"
+
+# TRANSLATION
+# LABEL/ID_CASESREASSIGN
+#: LABEL/ID_CASESREASSIGN
+msgid "You still have cases to reassign."
+msgstr "You still have cases to reassign."
+
+# TRANSLATION
+# LABEL/ID_CASES_ASSIGNED_BY
+#: LABEL/ID_CASES_ASSIGNED_BY
+msgid "Cases to be Assigned by"
+msgstr "Cases to be Assigned by"
+
+# TRANSLATION
+# LABEL/ID_CASES_DATE_MASK
+#: LABEL/ID_CASES_DATE_MASK
+msgid "Date Format"
+msgstr "Date Format"
+
+# TRANSLATION
+# LABEL/ID_CASES_LIST_FIELDS
+#: LABEL/ID_CASES_LIST_FIELDS
+msgid "Cases List Fields"
+msgstr "Cases List Fields"
+
+# TRANSLATION
+# LABEL/ID_CASES_LIST_GRID_LOADING
+#: LABEL/ID_CASES_LIST_GRID_LOADING
+msgid "Loading Cases List, please wait..."
+msgstr "Loading Cases List, please wait..."
+
+# TRANSLATION
+# LABEL/ID_CASES_LIST_SETUP
+#: LABEL/ID_CASES_LIST_SETUP
+msgid "Cases Lists"
+msgstr "Cases Lists"
+
+# TRANSLATION
+# LABEL/ID_CASES_MENU_ADMIN
+#: LABEL/ID_CASES_MENU_ADMIN
+msgid "Process Supervisor"
+msgstr "Process Supervisor"
+
+# TRANSLATION
+# LABEL/ID_CASES_MENU_FOLDERS
+#: LABEL/ID_CASES_MENU_FOLDERS
+msgid "[LABEL/ID_CASES_MENU_FOLDERS] Cases"
+msgstr "Cases"
+
+# TRANSLATION
+# LABEL/ID_CASES_MENU_SEARCH
+#: LABEL/ID_CASES_MENU_SEARCH
+msgid "Search"
+msgstr "Search"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTES
+#: LABEL/ID_CASES_NOTES
+msgid "Case Notes"
+msgstr "Case Notes"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTES_ADD
+#: LABEL/ID_CASES_NOTES_ADD
+msgid "Add new note"
+msgstr "Add new note"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTES_CANCEL
+#: LABEL/ID_CASES_NOTES_CANCEL
+msgid "Cancel this note"
+msgstr "Cancel this note"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTES_NO_PERMISSIONS
+#: LABEL/ID_CASES_NOTES_NO_PERMISSIONS
+msgid "You do not have permission to cases notes"
+msgstr "You do not have permission to cases notes"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTES_POST
+#: LABEL/ID_CASES_NOTES_POST
+msgid "Post a Note"
+msgstr "Post a Note"
+
+# TRANSLATION
+# LABEL/ID_CASES_NOTE_POSTING
+#: LABEL/ID_CASES_NOTE_POSTING
+msgid "Posting a Note"
+msgstr "Posting a Note"
+

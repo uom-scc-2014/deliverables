@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# users/myInfoView2.xml?USR_NEW_PASS
+# users/myInfoView2.xml
+#: password - USR_NEW_PASS
+msgid "[users/myInfoView2.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/myInfoView2.xml?USR_CNF_PASS
+# users/myInfoView2.xml
+#: password - USR_CNF_PASS
+msgid "[users/myInfoView2.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/myInfoView2.xml?TITLEPREF
+# users/myInfoView2.xml
+#: title - TITLEPREF
+msgid "[users/myInfoView2.xml?TITLEPREF] Preferences"
+msgstr "Preferences"
+
+# users/myInfoView2.xml?PREF_DEFAULT_LANG
+# users/myInfoView2.xml
+#: dropdown - PREF_DEFAULT_LANG
+msgid "[users/myInfoView2.xml?PREF_DEFAULT_LANG] Default languaje"
+msgstr "Default languaje"
+
+# users/myInfoView2.xml?PREF_DEFAULT_MENUSELECTED
+# users/myInfoView2.xml
+#: dropdown - PREF_DEFAULT_MENUSELECTED
+msgid "[users/myInfoView2.xml?PREF_DEFAULT_MENUSELECTED] Default menu option"
+msgstr "Default menu option"
+
+# users/myInfoView2.xml?PREF_DEFAULT_CASES_MENUSELECTED
+# users/myInfoView2.xml
+#: dropdown - PREF_DEFAULT_CASES_MENUSELECTED
+msgid "Default Cases menu option"
+msgstr "Default Cases menu option"
+
+# users/myInfoView2.xml?SUBMIT3
+# users/myInfoView2.xml
+#: button - SUBMIT3
+msgid "[users/myInfoView2.xml?SUBMIT3] Save"
+msgstr "Save"
+
+# users/users_AuthSource.xml?TITLE
+# users/users_AuthSource.xml
+#: title - TITLE
+msgid "[users/users_AuthSource.xml?TITLE] Authentication Source Assignment"
+msgstr "Authentication Source Assignment"
+
+# users/users_AuthSource.xml?UID_AUTH_SOURCE
+# users/users_AuthSource.xml
+#: dropdown - UID_AUTH_SOURCE
+msgid "[users/users_AuthSource.xml?UID_AUTH_SOURCE] Authentication Source"
+msgstr "Authentication Source"
+
+# users/users_AuthSource.xml?UID_AUTH_SOURCE-MYSQL
+# users/users_AuthSource.xml
+#: dropdown - UID_AUTH_SOURCE - MYSQL
+msgid "[users/users_AuthSource.xml?UID_AUTH_SOURCE-MYSQL]"
+msgstr "ProcessMaker"
+
+# users/users_AuthSource.xml?USR_AUTH_USER_DN
+# users/users_AuthSource.xml
+#: text - USR_AUTH_USER_DN
+msgid "[users/users_AuthSource.xml?USR_AUTH_USER_DN] DN"
+msgstr "DN"
+
+# users/users_AuthSource.xml?BTN_CANCEL
+# users/users_AuthSource.xml
+#: button - BTN_CANCEL
+msgid "[users/users_AuthSource.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# users/users_AuthSource.xml?btnSave
+# users/users_AuthSource.xml
+#: submit - btnSave
+msgid "[users/users_AuthSource.xml?btnSave] Save"
+msgstr "Save"
+
+# users/users_AvailableUsers.xml?LABEL
+# users/users_AvailableUsers.xml
+#: text - LABEL
+msgid "[users/users_AvailableUsers.xml?LABEL] User or Group"
+msgstr "User or Group"
+
+# users/users_AvailableUsers.xml?ASSIGN
+# users/users_AvailableUsers.xml
+#: link - ASSIGN
+msgid "[users/users_AvailableUsers.xml?ASSIGN] "
+msgstr ""
+
+# users/users_DeleteAssign.xml?MESSAGE
+# users/users_DeleteAssign.xml
+#: title - MESSAGE
+msgid "<center>User cases summary</center>"
+msgstr "<center>User cases summary</center>"
+
+# users/users_DeleteAssign.xml?TO_DO
+# users/users_DeleteAssign.xml
+#: text - TO_DO
+msgid "[users/users_DeleteAssign.xml?TO_DO] To Do"
+msgstr "To Do"
+
+# users/users_DeleteAssign.xml?DRAFT
+# users/users_DeleteAssign.xml
+#: text - DRAFT
+msgid "[users/users_DeleteAssign.xml?DRAFT] Draft"
+msgstr "Draft"
+
+# users/users_DeleteAssign.xml?COMPLETED
+# users/users_DeleteAssign.xml
+#: text - COMPLETED
+msgid "[users/users_DeleteAssign.xml?COMPLETED] Completed"
+msgstr "Completed"
+
+# users/users_DeleteAssign.xml?CANCELLED
+# users/users_DeleteAssign.xml
+#: text - CANCELLED
+msgid "[users/users_DeleteAssign.xml?CANCELLED] Cancelled"
+msgstr "Cancelled"
+
+# users/users_Edit.xml?TITLE3
+# users/users_Edit.xml
+#: title - TITLE3
+msgid "[users/users_Edit.xml?TITLE3] Profile"
+msgstr "Profile"
+
+# users/users_Edit.xml?USR_PHOTO
+# users/users_Edit.xml
+#: file - USR_PHOTO
+msgid "[users/users_Edit.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/users_Edit.xml?USR_RESUME
+# users/users_Edit.xml
+#: file - USR_RESUME
+msgid "[users/users_Edit.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/users_Edit.xml?TITLE1
+# users/users_Edit.xml
+#: title - TITLE1
+msgid "[users/users_Edit.xml?TITLE1] Personal Information"
+msgstr "Personal Information"
+
+# users/users_Edit.xml?USR_FIRSTNAME
+# users/users_Edit.xml
+#: text - USR_FIRSTNAME
+msgid "[users/users_Edit.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/users_Edit.xml?USR_LASTNAME
+# users/users_Edit.xml
+#: text - USR_LASTNAME
+msgid "[users/users_Edit.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/users_Edit.xml?USR_USERNAME
+# users/users_Edit.xml
+#: text - USR_USERNAME
+msgid "[users/users_Edit.xml?USR_USERNAME] User ID (*)"
+msgstr "User ID (*)"
+
+# users/users_Edit.xml?USR_EMAIL
+# users/users_Edit.xml
+#: text - USR_EMAIL
+msgid "[users/users_Edit.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/users_Edit.xml?USR_ADDRESS
+# users/users_Edit.xml
+#: textarea - USR_ADDRESS
+msgid "[users/users_Edit.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/users_Edit.xml?USR_ZIP_CODE
+# users/users_Edit.xml
+#: text - USR_ZIP_CODE
+msgid "[users/users_Edit.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/users_Edit.xml?USR_COUNTRY
+# users/users_Edit.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/users_Edit.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/users_Edit.xml?USR_COUNTRY-
+# users/users_Edit.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/users_Edit.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/users_Edit.xml?USR_CITY
+# users/users_Edit.xml
+#: dropdown - USR_CITY
+msgid "[users/users_Edit.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/users_Edit.xml?USR_CITY-
+# users/users_Edit.xml
+#: dropdown - USR_CITY -
+msgid "[users/users_Edit.xml?USR_CITY-]"
+msgstr "N/D"
+
+# users/users_Edit.xml?USR_LOCATION
+# users/users_Edit.xml
+#: dropdown - USR_LOCATION
+msgid "[users/users_Edit.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/users_Edit.xml?USR_LOCATION-
+# users/users_Edit.xml
+#: dropdown - USR_LOCATION -
+msgid "[users/users_Edit.xml?USR_LOCATION-]"
+msgstr "N/D"
+
+# users/users_Edit.xml?USR_PHONE
+# users/users_Edit.xml
+#: text - USR_PHONE
+msgid "[users/users_Edit.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/users_Edit.xml?USR_POSITION
+# users/users_Edit.xml
+#: text - USR_POSITION
+msgid "[users/users_Edit.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/users_Edit.xml?USR_REPORTS_TO
+# users/users_Edit.xml
+#: dropdown - USR_REPORTS_TO
+msgid "[users/users_Edit.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/users_Edit.xml?USR_REPORTS_TO-
+# users/users_Edit.xml
+#: dropdown - USR_REPORTS_TO -
+msgid "[users/users_Edit.xml?USR_REPORTS_TO-]"
+msgstr ""
+
+# users/users_Edit.xml?USR_REPLACED_BY
+# users/users_Edit.xml
+#: dropdown - USR_REPLACED_BY
+msgid "[users/users_Edit.xml?USR_REPLACED_BY] Replaced by"
+msgstr "Replaced by"
+
+# users/users_Edit.xml?USR_REPLACED_BY-
+# users/users_Edit.xml
+#: dropdown - USR_REPLACED_BY -
+msgid "[users/users_Edit.xml?USR_REPLACED_BY-]"
+msgstr ""
+
+# users/users_Edit.xml?USR_DUE_DATE
+# users/users_Edit.xml
+#: date - USR_DUE_DATE
+msgid "[users/users_Edit.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/users_Edit.xml?USR_CALENDAR
+# users/users_Edit.xml
+#: dropdown - USR_CALENDAR
+msgid "[users/users_Edit.xml?USR_CALENDAR] Calendar"
+msgstr "Calendar"
+
+# users/users_Edit.xml?USR_CALENDAR-
+# users/users_Edit.xml
+#: dropdown - USR_CALENDAR -
+msgid "[users/users_Edit.xml?USR_CALENDAR-]"
+msgstr "- None -"
+
+# users/users_Edit.xml?USR_STATUS
+# users/users_Edit.xml
+#: dropdown - USR_STATUS
+msgid "[users/users_Edit.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/users_Edit.xml?USR_STATUS-ACTIVE
+# users/users_Edit.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/users_Edit.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/users_Edit.xml?USR_STATUS-INACTIVE
+# users/users_Edit.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/users_Edit.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/users_Edit.xml?USR_STATUS-VACATION
+# users/users_Edit.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/users_Edit.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/users_Edit.xml?USR_ROLE
+# users/users_Edit.xml
+#: dropdown - USR_ROLE
+msgid "[users/users_Edit.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/users_Edit.xml?TITLE2
+# users/users_Edit.xml
+#: title - TITLE2
+msgid "[users/users_Edit.xml?TITLE2] Change Password"
+msgstr "Change Password"
+
+# users/users_Edit.xml?USR_NEW_PASS
+# users/users_Edit.xml
+#: password - USR_NEW_PASS
+msgid "[users/users_Edit.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/users_Edit.xml?USR_CNF_PASS
+# users/users_Edit.xml
+#: password - USR_CNF_PASS
+msgid "[users/users_Edit.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/users_Edit.xml?SUBMIT
+# users/users_Edit.xml
+#: button - SUBMIT
+msgid "[users/users_Edit.xml?SUBMIT] Save"
+msgstr "Save"
+
+# users/users_EditAdmin.xml?TITLE1
+# users/users_EditAdmin.xml
+#: title - TITLE1
+msgid "[users/users_EditAdmin.xml?TITLE1] Personal Information"
+msgstr "Personal Information"
+
+# users/users_EditAdmin.xml?USR_FIRSTNAME
+# users/users_EditAdmin.xml
+#: text - USR_FIRSTNAME
+msgid "[users/users_EditAdmin.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/users_EditAdmin.xml?USR_LASTNAME
+# users/users_EditAdmin.xml
+#: text - USR_LASTNAME
+msgid "[users/users_EditAdmin.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/users_EditAdmin.xml?USR_USERNAME
+# users/users_EditAdmin.xml
+#: text - USR_USERNAME
+msgid "[users/users_EditAdmin.xml?USR_USERNAME] User ID (*)"
+msgstr "User ID (*)"
+
+# users/users_EditAdmin.xml?USR_EMAIL
+# users/users_EditAdmin.xml
+#: text - USR_EMAIL
+msgid "[users/users_EditAdmin.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/users_EditAdmin.xml?USR_ADDRESS
+# users/users_EditAdmin.xml
+#: textarea - USR_ADDRESS
+msgid "[users/users_EditAdmin.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/users_EditAdmin.xml?USR_ZIP_CODE
+# users/users_EditAdmin.xml
+#: text - USR_ZIP_CODE
+msgid "[users/users_EditAdmin.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/users_EditAdmin.xml?USR_COUNTRY
+# users/users_EditAdmin.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/users_EditAdmin.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/users_EditAdmin.xml?USR_COUNTRY-
+# users/users_EditAdmin.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/users_EditAdmin.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/users_EditAdmin.xml?USR_CITY
+# users/users_EditAdmin.xml
+#: dropdown - USR_CITY
+msgid "[users/users_EditAdmin.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/users_EditAdmin.xml?USR_LOCATION
+# users/users_EditAdmin.xml
+#: dropdown - USR_LOCATION
+msgid "[users/users_EditAdmin.xml?USR_LOCATION] Location"
+msgstr "Location"
+
+# users/users_EditAdmin.xml?USR_PHONE
+# users/users_EditAdmin.xml
+#: text - USR_PHONE
+msgid "[users/users_EditAdmin.xml?USR_PHONE] Phone"
+msgstr "Phone"
+
+# users/users_EditAdmin.xml?USR_POSITION
+# users/users_EditAdmin.xml
+#: text - USR_POSITION
+msgid "[users/users_EditAdmin.xml?USR_POSITION] Position"
+msgstr "Position"
+
+# users/users_EditAdmin.xml?USR_REPORTS_TO
+# users/users_EditAdmin.xml
+#: dropdown - USR_REPORTS_TO
+msgid "[users/users_EditAdmin.xml?USR_REPORTS_TO] Reports to"
+msgstr "Reports to"
+
+# users/users_EditAdmin.xml?USR_REPORTS_TO-
+# users/users_EditAdmin.xml
+#: dropdown - USR_REPORTS_TO -
+msgid "[users/users_EditAdmin.xml?USR_REPORTS_TO-]"
+msgstr ""
+
+# users/users_EditAdmin.xml?USR_REPLACED_BY
+# users/users_EditAdmin.xml
+#: dropdown - USR_REPLACED_BY
+msgid "[users/users_EditAdmin.xml?USR_REPLACED_BY] Replaced by"
+msgstr "Replaced by"
+
+# users/users_EditAdmin.xml?USR_REPLACED_BY-
+# users/users_EditAdmin.xml
+#: dropdown - USR_REPLACED_BY -
+msgid "[users/users_EditAdmin.xml?USR_REPLACED_BY-]"
+msgstr ""
+
+# users/users_EditAdmin.xml?USR_DUE_DATE
+# users/users_EditAdmin.xml
+#: date - USR_DUE_DATE
+msgid "[users/users_EditAdmin.xml?USR_DUE_DATE] Expiration Date"
+msgstr "Expiration Date"
+
+# users/users_EditAdmin.xml?USR_STATUS
+# users/users_EditAdmin.xml
+#: dropdown - USR_STATUS
+msgid "[users/users_EditAdmin.xml?USR_STATUS] Status"
+msgstr "Status"
+
+# users/users_EditAdmin.xml?USR_STATUS-ACTIVE
+# users/users_EditAdmin.xml
+#: dropdown - USR_STATUS - ACTIVE
+msgid "[users/users_EditAdmin.xml?USR_STATUS-ACTIVE]"
+msgstr "ACTIVE"
+
+# users/users_EditAdmin.xml?USR_STATUS-INACTIVE
+# users/users_EditAdmin.xml
+#: dropdown - USR_STATUS - INACTIVE
+msgid "[users/users_EditAdmin.xml?USR_STATUS-INACTIVE]"
+msgstr "INACTIVE"
+
+# users/users_EditAdmin.xml?USR_STATUS-VACATION
+# users/users_EditAdmin.xml
+#: dropdown - USR_STATUS - VACATION
+msgid "[users/users_EditAdmin.xml?USR_STATUS-VACATION]"
+msgstr "ON VACATION"
+
+# users/users_EditAdmin.xml?USR_ROLE
+# users/users_EditAdmin.xml
+#: dropdown - USR_ROLE
+msgid "[users/users_EditAdmin.xml?USR_ROLE] Role"
+msgstr "Role"
+
+# users/users_EditAdmin.xml?TITLE2
+# users/users_EditAdmin.xml
+#: title - TITLE2
+msgid "[users/users_EditAdmin.xml?TITLE2] Change Password"
+msgstr "Change Password"
+
+# users/users_EditAdmin.xml?USR_NEW_PASS
+# users/users_EditAdmin.xml
+#: password - USR_NEW_PASS
+msgid "[users/users_EditAdmin.xml?USR_NEW_PASS] New Password"
+msgstr "New Password"
+
+# users/users_EditAdmin.xml?USR_CNF_PASS
+# users/users_EditAdmin.xml
+#: password - USR_CNF_PASS
+msgid "[users/users_EditAdmin.xml?USR_CNF_PASS] Confirm Password"
+msgstr "Confirm Password"
+
+# users/users_EditAdmin.xml?TITLE3
+# users/users_EditAdmin.xml
+#: title - TITLE3
+msgid "Additional Information"
+msgstr "Additional Information"
+
+# users/users_EditAdmin.xml?USR_PHOTO
+# users/users_EditAdmin.xml
+#: file - USR_PHOTO
+msgid "[users/users_EditAdmin.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/users_EditAdmin.xml?USR_RESUME
+# users/users_EditAdmin.xml
+#: file - USR_RESUME
+msgid "[users/users_EditAdmin.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/users_EditAdmin.xml?SUBMIT
+# users/users_EditAdmin.xml
+#: button - SUBMIT
+msgid "[users/users_EditAdmin.xml?SUBMIT] Save"
+msgstr "Save"
+
+# users/users_EditLDAP.xml?TITLE3
+# users/users_EditLDAP.xml
+#: title - TITLE3
+msgid "[users/users_EditLDAP.xml?TITLE3] Profile"
+msgstr "Profile"
+
+# users/users_EditLDAP.xml?USR_PHOTO_SHOW
+# users/users_EditLDAP.xml
+#: image - USR_PHOTO_SHOW
+msgid "[users/users_EditLDAP.xml?USR_PHOTO_SHOW] "
+msgstr ""
+
+# users/users_EditLDAP.xml?USR_PHOTO
+# users/users_EditLDAP.xml
+#: file - USR_PHOTO
+msgid "[users/users_EditLDAP.xml?USR_PHOTO] Photo"
+msgstr "Photo"
+
+# users/users_EditLDAP.xml?USR_RESUME
+# users/users_EditLDAP.xml
+#: file - USR_RESUME
+msgid "[users/users_EditLDAP.xml?USR_RESUME] Resume"
+msgstr "Resume"
+
+# users/users_EditLDAP.xml?MAX_FILES_SIZE
+# users/users_EditLDAP.xml
+#: edit - MAX_FILES_SIZE
+msgid "Max upload files size in bytes"
+msgstr "Max upload files size in bytes"
+
+# users/users_EditLDAP.xml?TITLE1
+# users/users_EditLDAP.xml
+#: title - TITLE1
+msgid "[users/users_EditLDAP.xml?TITLE1] Personal Information"
+msgstr "Personal Information"
+
+# users/users_EditLDAP.xml?USR_FIRSTNAME
+# users/users_EditLDAP.xml
+#: text - USR_FIRSTNAME
+msgid "[users/users_EditLDAP.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# users/users_EditLDAP.xml?USR_LASTNAME
+# users/users_EditLDAP.xml
+#: text - USR_LASTNAME
+msgid "[users/users_EditLDAP.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# users/users_EditLDAP.xml?USR_USERNAME
+# users/users_EditLDAP.xml
+#: text - USR_USERNAME
+msgid "[users/users_EditLDAP.xml?USR_USERNAME] User ID (*)"
+msgstr "User ID (*)"
+
+# users/users_EditLDAP.xml?USR_EMAIL
+# users/users_EditLDAP.xml
+#: text - USR_EMAIL
+msgid "[users/users_EditLDAP.xml?USR_EMAIL] Email"
+msgstr "Email"
+
+# users/users_EditLDAP.xml?USR_ADDRESS
+# users/users_EditLDAP.xml
+#: textarea - USR_ADDRESS
+msgid "[users/users_EditLDAP.xml?USR_ADDRESS] Address"
+msgstr "Address"
+
+# users/users_EditLDAP.xml?USR_ZIP_CODE
+# users/users_EditLDAP.xml
+#: text - USR_ZIP_CODE
+msgid "[users/users_EditLDAP.xml?USR_ZIP_CODE] Zip/Postal Code"
+msgstr "Zip/Postal Code"
+
+# users/users_EditLDAP.xml?USR_COUNTRY
+# users/users_EditLDAP.xml
+#: dropdown - USR_COUNTRY
+msgid "[users/users_EditLDAP.xml?USR_COUNTRY] Country"
+msgstr "Country"
+
+# users/users_EditLDAP.xml?USR_COUNTRY-
+# users/users_EditLDAP.xml
+#: dropdown - USR_COUNTRY -
+msgid "[users/users_EditLDAP.xml?USR_COUNTRY-]"
+msgstr ""
+
+# users/users_EditLDAP.xml?USR_CITY
+# users/users_EditLDAP.xml
+#: dropdown - USR_CITY
+msgid "[users/users_EditLDAP.xml?USR_CITY] State or Region"
+msgstr "State or Region"
+
+# users/users_EditLDAP.xml?USR_CITY-
+# users/users_EditLDAP.xml
+#: dropdown - USR_CITY -
+msgid "[users/users_EditLDAP.xml?USR_CITY-]"
+msgstr "N/D"
+

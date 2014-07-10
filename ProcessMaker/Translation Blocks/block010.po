@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_VERSIONING
+#: LABEL/ID_ENABLE_VERSIONING
+msgid "Enable Versioning"
+msgstr "Enable Versioning"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_VIRTUAL_KEYBOARD
+#: LABEL/ID_ENABLE_VIRTUAL_KEYBOARD
+msgid "Enable Virtual Keyboard (Only uxmodern skin)"
+msgstr "Enable Virtual Keyboard (Only uxmodern skin)"
+
+# TRANSLATION
+# LABEL/ID_ENABLE_WORKSPACE
+#: LABEL/ID_ENABLE_WORKSPACE
+msgid "Enable Workspace"
+msgstr "Enable Workspace"
+
+# TRANSLATION
+# LABEL/ID_ENCODE
+#: LABEL/ID_ENCODE
+msgid "Encode"
+msgstr "Encode"
+
+# TRANSLATION
+# LABEL/ID_END_DATE
+#: LABEL/ID_END_DATE
+msgid "End Date"
+msgstr "End Date"
+
+# TRANSLATION
+# LABEL/ID_END_DATE_MDY
+#: LABEL/ID_END_DATE_MDY
+msgid "End Date (\"m/d/Y\")"
+msgstr "End Date (\"m/d/Y\")"
+
+# TRANSLATION
+# LABEL/ID_END_HH_MM
+#: LABEL/ID_END_HH_MM
+msgid "End(hh:mm)"
+msgstr "End(hh:mm)"
+
+# TRANSLATION
+# LABEL/ID_END_MESSAGE_EVENT
+#: LABEL/ID_END_MESSAGE_EVENT
+msgid "End Message Event (Message Event)"
+msgstr "End Message Event (Message Event)"
+
+# TRANSLATION
+# LABEL/ID_END_OF_PROCESS
+#: LABEL/ID_END_OF_PROCESS
+msgid "[LABEL/ID_END_OF_PROCESS] End of process"
+msgstr "End of process"
+
+# TRANSLATION
+# LABEL/ID_ENGINE
+#: LABEL/ID_ENGINE
+msgid "Engine"
+msgstr "Engine"
+
+# TRANSLATION
+# LABEL/ID_ENTERPRISE_INSTALLED
+#: LABEL/ID_ENTERPRISE_INSTALLED
+msgid "Enterprise Plugin has been correctly installed."
+msgstr "Enterprise Plugin has been correctly installed."
+
+# TRANSLATION
+# LABEL/ID_ENTER_SEARCH_CRITERIA
+#: LABEL/ID_ENTER_SEARCH_CRITERIA
+msgid "Enter a search criteria and press search"
+msgstr "Enter a search criteria and press search"
+
+# TRANSLATION
+# LABEL/ID_ENTER_SEARCH_TERM
+#: LABEL/ID_ENTER_SEARCH_TERM
+msgid "Enter search term"
+msgstr "Enter search term"
+
+# TRANSLATION
+# LABEL/ID_ENVIRONMENT
+#: LABEL/ID_ENVIRONMENT
+msgid "Environment"
+msgstr "Environment"
+
+# TRANSLATION
+# LABEL/ID_ENVIRONMENT_SETTINGS
+#: LABEL/ID_ENVIRONMENT_SETTINGS
+msgid "[LABEL/ID_ENVIRONMENT_SETTINGS] Environment"
+msgstr "Environment"
+
+# TRANSLATION
+# LABEL/ID_ENVIRONMENT_SETTINGS_MSG_1
+#: LABEL/ID_ENVIRONMENT_SETTINGS_MSG_1
+msgid "You should select a format from the list."
+msgstr "You should select a format from the list."
+
+# TRANSLATION
+# LABEL/ID_ERROR
+#: LABEL/ID_ERROR
+msgid "ERROR"
+msgstr "ERROR"
+
+# TRANSLATION
+# LABEL/ID_ERROR_CHANGE_SEQUENCE_NUMBER
+#: LABEL/ID_ERROR_CHANGE_SEQUENCE_NUMBER
+msgid "Unable to generate numerical sequence another user performing the same request."
+msgstr "Unable to generate numerical sequence another user performing the same request."
+
+# TRANSLATION
+# LABEL/ID_ERROR_CREATING_NEW_CASE
+#: LABEL/ID_ERROR_CREATING_NEW_CASE
+msgid "Error creating a new Case"
+msgstr "Error creating a new Case"
+
+# TRANSLATION
+# LABEL/ID_ERROR_FILE_NOT_EXIST
+#: LABEL/ID_ERROR_FILE_NOT_EXIST
+msgid "The file '{filename}' does not exist, possibly the system failed to generate the file or the file was not moved correctly if the process is migrated from another server."
+msgstr "The file '{filename}' does not exist, possibly the system failed to generate the file or the file was not moved correctly if the process is migrated from another server."
+
+# TRANSLATION
+# LABEL/ID_ERROR_INSERT_LINE
+#: LABEL/ID_ERROR_INSERT_LINE
+msgid "Error trying to insert the line"
+msgstr "Error trying to insert the line"
+
+# TRANSLATION
+# LABEL/ID_ERROR_OBJECT_NOT_EXISTS
+#: LABEL/ID_ERROR_OBJECT_NOT_EXISTS
+msgid "Error: Object does not exist."
+msgstr "Error: Object does not exist."
+
+# TRANSLATION
+# LABEL/ID_ERROR_REGISTERED
+#: LABEL/ID_ERROR_REGISTERED
+msgid "Errors registered:"
+msgstr "Errors registered:"
+
+# TRANSLATION
+# LABEL/ID_ERROR_SEND_NOTIFICATIONS
+#: LABEL/ID_ERROR_SEND_NOTIFICATIONS
+msgid "The following error has occurred when trying to send the notifications:"
+msgstr "The following error has occurred when trying to send the notifications:"
+
+# TRANSLATION
+# LABEL/ID_ERROR_STREAMING_FILE
+#: LABEL/ID_ERROR_STREAMING_FILE
+msgid "doesn't exist. It should be saved by a plugin to a different place. Please review the configuration"
+msgstr "doesn't exist. It should be saved by a plugin to a different place. Please review the configuration"
+
+# TRANSLATION
+# LABEL/ID_ERROR_TASK_SAVE
+#: LABEL/ID_ERROR_TASK_SAVE
+msgid "Error in saving Task Properties"
+msgstr "Error in saving Task Properties"
+
+# TRANSLATION
+# LABEL/ID_ERROR_TRYING_INSERT
+#: LABEL/ID_ERROR_TRYING_INSERT
+msgid "Error trying insert into"
+msgstr "Error trying insert into"
+
+# TRANSLATION
+# LABEL/ID_ERROR_UPLOADING_FILENAME
+#: LABEL/ID_ERROR_UPLOADING_FILENAME
+msgid "There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
+msgstr "There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
+
+# TRANSLATION
+# LABEL/ID_ERROR_UPLOADING_IMAGE_TYPE
+#: LABEL/ID_ERROR_UPLOADING_IMAGE_TYPE
+msgid "Error uploading image, wrong file type"
+msgstr "Error uploading image, wrong file type"
+
+# TRANSLATION
+# LABEL/ID_ERROR_UPLOADING_PLUGIN_FILENAME
+#: LABEL/ID_ERROR_UPLOADING_PLUGIN_FILENAME
+msgid "[LABEL/ID_ERROR_UPLOADING_PLUGIN_FILENAME] There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
+msgstr "There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
+
+# TRANSLATION
+# LABEL/ID_ERROR_UPLOAD_FILE_CONTACT_ADMINISTRATOR
+#: LABEL/ID_ERROR_UPLOAD_FILE_CONTACT_ADMINISTRATOR
+msgid "Error message when you upload the file, please contact your administrator."
+msgstr "Error message when you upload the file, please contact your administrator."
+
+# TRANSLATION
+# LABEL/ID_ERROR_URL_PROCESS_INVALID
+#: LABEL/ID_ERROR_URL_PROCESS_INVALID
+msgid "Error the url {DOWNLOAD_URL} is invalid or the process in {LOCAL_PATH}{NEW_FILENAME} is invalid"
+msgstr "Error the url {DOWNLOAD_URL} is invalid or the process in {LOCAL_PATH}{NEW_FILENAME} is invalid"
+
+# TRANSLATION
+# LABEL/ID_ESC
+#: LABEL/ID_ESC
+msgid "@@ Replace the value in quotes"
+msgstr "@@ Replace the value in quotes"
+
+# TRANSLATION
+# LABEL/ID_ESCJS
+#: LABEL/ID_ESCJS
+msgid "@@ It replaces the value in quotation marks to use it in JavaScript sentences"
+msgstr "@@ It replaces the value in quotation marks to use it in JavaScript sentences"
+
+# TRANSLATION
+# LABEL/ID_ESCSJS
+#: LABEL/ID_ESCSJS
+msgid "@@ It replaces the value in single quotation marks to use it in JavaScript sentences."
+msgstr "@@ It replaces the value in single quotation marks to use it in JavaScript sentences."
+
+# TRANSLATION
+# LABEL/ID_ESTIMATED_TASK_DURATION
+#: LABEL/ID_ESTIMATED_TASK_DURATION
+msgid "Estimated Task duration"
+msgstr "Estimated Task duration"
+
+# TRANSLATION
+# LABEL/ID_ESTIMATED_TASK_DURATION_DAYS
+#: LABEL/ID_ESTIMATED_TASK_DURATION_DAYS
+msgid "Estimated Task duration in Days"
+msgstr "Estimated Task duration in Days"
+
+# TRANSLATION
+# LABEL/ID_EURL
+#: LABEL/ID_EURL
+msgid "@% It replaces the value for the assignment with a GET variable in the URL"
+msgstr "@% It replaces the value for the assignment with a GET variable in the URL"
+
+# TRANSLATION
+# LABEL/ID_EVAL
+#: LABEL/ID_EVAL
+msgid "@! It evaluates the value, then replaces it"
+msgstr "@! It evaluates the value, then replaces it"
+
+# TRANSLATION
+# LABEL/ID_EVALUATION_RESULT
+#: LABEL/ID_EVALUATION_RESULT
+msgid "[Success] Evaluation result"
+msgstr "[Success] Evaluation result"
+
+# TRANSLATION
+# LABEL/ID_EVENTS
+#: LABEL/ID_EVENTS
+msgid "[LABEL/ID_EVENTS] Events"
+msgstr "Events"
+
+# TRANSLATION
+# LABEL/ID_EVENT_ACTION
+#: LABEL/ID_EVENT_ACTION
+msgid "Event Type"
+msgstr "Event Type"
+
+# TRANSLATION
+# LABEL/ID_EVENT_ACTION_DATE
+#: LABEL/ID_EVENT_ACTION_DATE
+msgid "Action Date"
+msgstr "Action Date"
+
+# TRANSLATION
+# LABEL/ID_EVENT_CONDITIONAL
+#: LABEL/ID_EVENT_CONDITIONAL
+msgid "Event Conditional"
+msgstr "Event Conditional"
+
+# TRANSLATION
+# LABEL/ID_EVENT_DESCRIPTION
+#: LABEL/ID_EVENT_DESCRIPTION
+msgid "Event Description"
+msgstr "Event Description"
+
+# TRANSLATION
+# LABEL/ID_EVENT_LAST_EXECUTION_DATE
+#: LABEL/ID_EVENT_LAST_EXECUTION_DATE
+msgid "Last Execution"
+msgstr "Last Execution"
+
+# TRANSLATION
+# LABEL/ID_EVENT_LIST
+#: LABEL/ID_EVENT_LIST
+msgid "Log of events"
+msgstr "Log of events"
+
+# TRANSLATION
+# LABEL/ID_EVENT_MESSAGE
+#: LABEL/ID_EVENT_MESSAGE
+msgid "Event Message"
+msgstr "Event Message"
+
+# TRANSLATION
+# LABEL/ID_EVENT_MULTIPLE
+#: LABEL/ID_EVENT_MULTIPLE
+msgid "Event Multiple"
+msgstr "Event Multiple"
+
+# TRANSLATION
+# LABEL/ID_EVENT_TIMER
+#: LABEL/ID_EVENT_TIMER
+msgid "Event Timer"
+msgstr "Event Timer"
+
+# TRANSLATION
+# LABEL/ID_EXCEPTION
+#: LABEL/ID_EXCEPTION
+msgid "Exception"
+msgstr "Exception"
+
+# TRANSLATION
+# LABEL/ID_EXECUTED
+#: LABEL/ID_EXECUTED
+msgid "executed"
+msgstr "executed"
+
+# TRANSLATION
+# LABEL/ID_EXECUTE_TRIGGER
+#: LABEL/ID_EXECUTE_TRIGGER
+msgid "Execute Trigger"
+msgstr "Execute Trigger"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_DATE
+#: LABEL/ID_EXECUTION_DATE
+msgid "Execution Date"
+msgstr "Execution Date"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_HOUR
+#: LABEL/ID_EXECUTION_HOUR
+msgid "Execution Hour"
+msgstr "Execution Hour"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_STATUS
+#: LABEL/ID_EXECUTION_STATUS
+msgid "Execution Status"
+msgstr "Execution Status"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_TIME
+#: LABEL/ID_EXECUTION_TIME
+msgid "Execution Time"
+msgstr "Execution Time"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_TIME_DAYS
+#: LABEL/ID_EXECUTION_TIME_DAYS
+msgid "Execution time in days"
+msgstr "Execution time in days"
+
+# TRANSLATION
+# LABEL/ID_EXECUTION_TIME_INTERVAL
+#: LABEL/ID_EXECUTION_TIME_INTERVAL
+msgid "Execution time Interval"
+msgstr "Execution time Interval"
+
+# TRANSLATION
+# LABEL/ID_EXIST
+#: LABEL/ID_EXIST
+msgid "Exist"
+msgstr "Exist"
+
+# TRANSLATION
+# LABEL/ID_EXIST_DYNAFORM
+#: LABEL/ID_EXIST_DYNAFORM
+msgid "There is a Dynaform with the same title in the current process. Please use another title for the new Dynaform."
+msgstr "There is a Dynaform with the same title in the current process. Please use another title for the new Dynaform."
+
+# TRANSLATION
+# LABEL/ID_EXIT_EDITOR
+#: LABEL/ID_EXIT_EDITOR
+msgid "Exit Editor"
+msgstr "Exit Editor"
+
+# TRANSLATION
+# LABEL/ID_EXPAND_ALL
+#: LABEL/ID_EXPAND_ALL
+msgid "Expand All"
+msgstr "Expand All"
+
+# TRANSLATION
+# LABEL/ID_EXPIRATION_DATE
+#: LABEL/ID_EXPIRATION_DATE
+msgid "Expiration Date"
+msgstr "Expiration Date"
+
+# TRANSLATION
+# LABEL/ID_EXPIRES_IN
+#: LABEL/ID_EXPIRES_IN
+msgid "Expires in"
+msgstr "Expires in"
+
+# TRANSLATION
+# LABEL/ID_EXPORT
+#: LABEL/ID_EXPORT
+msgid "[LABEL/ID_EXPORT] Export"
+msgstr "Export"
+
+# TRANSLATION
+# LABEL/ID_EXPORT_CSV
+#: LABEL/ID_EXPORT_CSV
+msgid "CSV Export"
+msgstr "CSV Export"
+
+# TRANSLATION
+# LABEL/ID_EXPORT_DATA_CSV
+#: LABEL/ID_EXPORT_DATA_CSV
+msgid "Export Data from CSV file"
+msgstr "Export Data from CSV file"
+
+# TRANSLATION
+# LABEL/ID_EXPORT_PROCESS
+#: LABEL/ID_EXPORT_PROCESS
+msgid "[LABEL/ID_EXPORT_PROCESS] Export Process"
+msgstr "Export Process"
+
+# TRANSLATION
+# LABEL/ID_EXTENDED_FEATURES
+#: LABEL/ID_EXTENDED_FEATURES
+msgid "Extended Features"
+msgstr "Extended Features"
+
+# TRANSLATION
+# LABEL/ID_EXTERNAL_FILE
+#: LABEL/ID_EXTERNAL_FILE
+msgid "External"
+msgstr "External"
+
+# TRANSLATION
+# LABEL/ID_EXTERNAL_STEP_MISSING
+#: LABEL/ID_EXTERNAL_STEP_MISSING
+msgid "The plugin that is related to the step <b> {plugin} </b> was removed or disabled, please consult to your system administrator"
+msgstr "The plugin that is related to the step <b> {plugin} </b> was removed or disabled, please consult to your system administrator"
+
+# TRANSLATION
+# LABEL/ID_FAILED
+#: LABEL/ID_FAILED
+msgid "[LABEL/ID_FAILED] Failed"
+msgstr "Failed"
+
+# TRANSLATION
+# LABEL/ID_FAILED_DASHBOARD INSTANCE
+#: LABEL/ID_FAILED_DASHBOARD INSTANCE
+msgid "Dashboard Instance registered failed"
+msgstr "Dashboard Instance registered failed"
+
+# TRANSLATION
+# LABEL/ID_FAILED_IMPORT_PLUGINS
+#: LABEL/ID_FAILED_IMPORT_PLUGINS
+msgid "Failed to import the file {filename} by doesn't a plugin or invalid file."
+msgstr "Failed to import the file {filename} by doesn't a plugin or invalid file."
+
+# TRANSLATION
+# LABEL/ID_FAILED_RECORD
+#: LABEL/ID_FAILED_RECORD
+msgid "Failed Records:"
+msgstr "Failed Records:"
+
+# TRANSLATION
+# LABEL/ID_FAILED_SAVE_PERMISSIONS
+#: LABEL/ID_FAILED_SAVE_PERMISSIONS
+msgid "Failed saving Permission of Simple Report"
+msgstr "Failed saving Permission of Simple Report"
+
+# TRANSLATION
+# LABEL/ID_FAILED_STORE_DATA
+#: LABEL/ID_FAILED_STORE_DATA
+msgid "Failed to store data"
+msgstr "Failed to store data"
+
+# TRANSLATION
+# LABEL/ID_FAILED_VALIDATIONS_IN_CLASS
+#: LABEL/ID_FAILED_VALIDATIONS_IN_CLASS
+msgid "Failed Validation in class {CLASS}."
+msgstr "Failed Validation in class {CLASS}."
+
+# TRANSLATION
+# LABEL/ID_FAILED_VALIDATION_CLASS
+#: LABEL/ID_FAILED_VALIDATION_CLASS
+msgid "Failed Validation in class"
+msgstr "Failed Validation in class"
+
+# TRANSLATION
+# LABEL/ID_FAILED_VALIDATION_IN_CLASS
+#: LABEL/ID_FAILED_VALIDATION_IN_CLASS
+msgid "[LABEL/ID_FAILED_VALIDATION_IN_CLASS] Failed Validation in class"
+msgstr "Failed Validation in class"
+
+# TRANSLATION
+# LABEL/ID_FAILED_VALIDATION_IN_CLASS1
+#: LABEL/ID_FAILED_VALIDATION_IN_CLASS1
+msgid "[LABEL/ID_FAILED_VALIDATION_IN_CLASS1] Failed Validation in class {CLASS}."
+msgstr "Failed Validation in class {CLASS}."
+
+# TRANSLATION
+# LABEL/ID_FAILURE
+#: LABEL/ID_FAILURE
+msgid "Failure"
+msgstr "Failure"
+
+# TRANSLATION
+# LABEL/ID_FALSE
+#: LABEL/ID_FALSE
+msgid "FALSE"
+msgstr "FALSE"
+
+# TRANSLATION
+# LABEL/ID_FIELDS
+#: LABEL/ID_FIELDS
+msgid "Fields"
+msgstr "Fields"
+
+# TRANSLATION
+# LABEL/ID_FIELDS_CHANGED_NUMBER
+#: LABEL/ID_FIELDS_CHANGED_NUMBER
+msgid "Fields changed"
+msgstr "Fields changed"
+
+# TRANSLATION
+# LABEL/ID_FIELDS_LIST
+#: LABEL/ID_FIELDS_LIST
+msgid "Fields handler"
+msgstr "Fields handler"
+
+# TRANSLATION
+# LABEL/ID_FIELD_CANNOT_BE_PRIMARY_KEY
+#: LABEL/ID_FIELD_CANNOT_BE_PRIMARY_KEY
+msgid "The type of field 'TEXT' can't be a primary key"
+msgstr "The type of field 'TEXT' can't be a primary key"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_BUTTON
+#: LABEL/ID_FIELD_DYNAFORM_BUTTON
+msgid "button"
+msgstr "button"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_CHECKBOX
+#: LABEL/ID_FIELD_DYNAFORM_CHECKBOX
+msgid "checkbox"
+msgstr "checkbox"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_CHECKGROUP
+#: LABEL/ID_FIELD_DYNAFORM_CHECKGROUP
+msgid "checkgroup"
+msgstr "checkgroup"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_CURRENCY
+#: LABEL/ID_FIELD_DYNAFORM_CURRENCY
+msgid "currency"
+msgstr "currency"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_DROPDOWN
+#: LABEL/ID_FIELD_DYNAFORM_DROPDOWN
+msgid "dropdown"
+msgstr "dropdown"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_FILE
+#: LABEL/ID_FIELD_DYNAFORM_FILE
+msgid "file"
+msgstr "file"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_GRID
+#: LABEL/ID_FIELD_DYNAFORM_GRID
+msgid "grid"
+msgstr "grid"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_HIDDEN
+#: LABEL/ID_FIELD_DYNAFORM_HIDDEN
+msgid "hidden"
+msgstr "hidden"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_JAVASCRIPT
+#: LABEL/ID_FIELD_DYNAFORM_JAVASCRIPT
+msgid "javascript"
+msgstr "javascript"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_LINK
+#: LABEL/ID_FIELD_DYNAFORM_LINK
+msgid "link"
+msgstr "link"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_LISTBOX
+#: LABEL/ID_FIELD_DYNAFORM_LISTBOX
+msgid "listbox"
+msgstr "listbox"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_PASSWORD
+#: LABEL/ID_FIELD_DYNAFORM_PASSWORD
+msgid "password"
+msgstr "password"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# authSources/ldapEdit.xml?AUTH_SOURCE_ATTRIBUTES
+# authSources/ldapEdit.xml
+#: textarea - AUTH_SOURCE_ATTRIBUTES
+msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ATTRIBUTES] Attributes"
+msgstr "Attributes"
+
+# authSources/ldapEdit.xml?btnSave
+# authSources/ldapEdit.xml
+#: submit - btnSave
+msgid "[authSources/ldapEdit.xml?btnSave] Save"
+msgstr "Save"
+
+# authSources/ldapEdit.xml?BTN_CANCEL
+# authSources/ldapEdit.xml
+#: button - BTN_CANCEL
+msgid "[authSources/ldapEdit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# authSources/ldapSearchResults.xml?Checkbox
+# authSources/ldapSearchResults.xml
+#: text - Checkbox
+msgid "<span id=\"spanSelectAll\"></span>"
+msgstr "<span id=\"spanSelectAll\"></span>"
+
+# authSources/ldapSearchResults.xml?FullName
+# authSources/ldapSearchResults.xml
+#: text - FullName
+msgid "[authSources/ldapSearchResults.xml?FullName] Name"
+msgstr "Name"
+
+# authSources/ldapSearchResults.xml?Email
+# authSources/ldapSearchResults.xml
+#: text - Email
+msgid "<span style=\"width:40px; display:block;\">E-Mail</span>"
+msgstr "<span style=\"width:40px; display:block;\">E-Mail</span>"
+
+# authSources/ldapSearchResults.xml?DistinguishedName
+# authSources/ldapSearchResults.xml
+#: text - DistinguishedName
+msgid "Distinguished Name"
+msgstr "Distinguished Name"
+
+# cases/casesDemo.xml?uid
+# cases/casesDemo.xml
+#: text - uid
+msgid "[cases/casesDemo.xml?uid] #"
+msgstr "#"
+
+# cases/casesDemo.xml?name
+# cases/casesDemo.xml
+#: text - name
+msgid "name"
+msgstr "name"
+
+# cases/casesDemo.xml?age
+# cases/casesDemo.xml
+#: text - age
+msgid "[cases/casesDemo.xml?age] Task"
+msgstr "Task"
+
+# cases/casesDemo.xml?balance
+# cases/casesDemo.xml
+#: text - balance
+msgid "balance"
+msgstr "balance"
+
+# cases/cases_AllDynaformsList.xml?DYN_TITLE
+# cases/cases_AllDynaformsList.xml
+#: text - DYN_TITLE
+msgid "[cases/cases_AllDynaformsList.xml?DYN_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AllInputdocsList.xml?TITLE
+# cases/cases_AllInputdocsList.xml
+#: text - TITLE
+msgid "[cases/cases_AllInputdocsList.xml?TITLE] Filename"
+msgstr "Filename"
+
+# cases/cases_AllInputdocsList.xml?APP_DOC_COMMENT
+# cases/cases_AllInputdocsList.xml
+#: text - APP_DOC_COMMENT
+msgid "[cases/cases_AllInputdocsList.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AllInputdocsList.xml?TYPE
+# cases/cases_AllInputdocsList.xml
+#: dropdown - TYPE
+msgid "[cases/cases_AllInputdocsList.xml?TYPE] Type"
+msgstr "Type"
+
+# cases/cases_AllInputdocsList.xml?TYPE-INPUT
+# cases/cases_AllInputdocsList.xml
+#: dropdown - TYPE - INPUT
+msgid "[cases/cases_AllInputdocsList.xml?TYPE-INPUT]"
+msgstr "Input Document"
+
+# cases/cases_AllInputdocsList.xml?TYPE-ATTACHED
+# cases/cases_AllInputdocsList.xml
+#: dropdown - TYPE - ATTACHED
+msgid "[cases/cases_AllInputdocsList.xml?TYPE-ATTACHED]"
+msgstr "Attached in form"
+
+# cases/cases_AllInputdocsList.xml?DOC_VERSION
+# cases/cases_AllInputdocsList.xml
+#: text - DOC_VERSION
+msgid "[cases/cases_AllInputdocsList.xml?DOC_VERSION] Version"
+msgstr "Version"
+
+# cases/cases_AllInputdocsList.xml?ORIGIN
+# cases/cases_AllInputdocsList.xml
+#: text - ORIGIN
+msgid "[cases/cases_AllInputdocsList.xml?ORIGIN] Origin Task"
+msgstr "Origin Task"
+
+# cases/cases_AllInputdocsList.xml?CREATED_BY
+# cases/cases_AllInputdocsList.xml
+#: text - CREATED_BY
+msgid "[cases/cases_AllInputdocsList.xml?CREATED_BY] Created By"
+msgstr "Created By"
+
+# cases/cases_AllInputdocsList.xml?CREATE_DATE
+# cases/cases_AllInputdocsList.xml
+#: text - CREATE_DATE
+msgid "[cases/cases_AllInputdocsList.xml?CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_AllInputdocsList.xml?DELETE
+# cases/cases_AllInputdocsList.xml
+#: link - DELETE
+msgid "[cases/cases_AllInputdocsList.xml?DELETE] "
+msgstr ""
+
+# cases/cases_AllInputdocsList_Summary.xml?TITLE
+# cases/cases_AllInputdocsList_Summary.xml
+#: text - TITLE
+msgid "[cases/cases_AllInputdocsList_Summary.xml?TITLE] Filename"
+msgstr "Filename"
+
+# cases/cases_AllInputdocsList_Summary.xml?APP_DOC_COMMENT
+# cases/cases_AllInputdocsList_Summary.xml
+#: text - APP_DOC_COMMENT
+msgid "[cases/cases_AllInputdocsList_Summary.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AllInputdocsList_Summary.xml?CREATED_BY
+# cases/cases_AllInputdocsList_Summary.xml
+#: text - CREATED_BY
+msgid "[cases/cases_AllInputdocsList_Summary.xml?CREATED_BY] Created By"
+msgstr "Created By"
+
+# cases/cases_AllInputdocsList_Summary.xml?CREATE_DATE
+# cases/cases_AllInputdocsList_Summary.xml
+#: text - CREATE_DATE
+msgid "[cases/cases_AllInputdocsList_Summary.xml?CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_AllInputdocsList_Summary.xml?DELETE
+# cases/cases_AllInputdocsList_Summary.xml
+#: link - DELETE
+msgid "[cases/cases_AllInputdocsList_Summary.xml?DELETE] "
+msgstr ""
+
+# cases/cases_AllOutputdocsList.xml?TITLE
+# cases/cases_AllOutputdocsList.xml
+#: text - TITLE
+msgid "[cases/cases_AllOutputdocsList.xml?TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AllOutputdocsList.xml?OUTDOCTITLE
+# cases/cases_AllOutputdocsList.xml
+#: text - OUTDOCTITLE
+msgid "[cases/cases_AllOutputdocsList.xml?OUTDOCTITLE] Output Document"
+msgstr "Output Document"
+
+# cases/cases_AllOutputdocsList.xml?ORIGIN
+# cases/cases_AllOutputdocsList.xml
+#: text - ORIGIN
+msgid "[cases/cases_AllOutputdocsList.xml?ORIGIN] Origin Task"
+msgstr "Origin Task"
+
+# cases/cases_AllOutputdocsList.xml?CREATED_BY
+# cases/cases_AllOutputdocsList.xml
+#: text - CREATED_BY
+msgid "[cases/cases_AllOutputdocsList.xml?CREATED_BY] Created By"
+msgstr "Created By"
+
+# cases/cases_AllOutputdocsList.xml?CREATE_DATE
+# cases/cases_AllOutputdocsList.xml
+#: text - CREATE_DATE
+msgid "[cases/cases_AllOutputdocsList.xml?CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_AllOutputdocsList.xml?DELETE
+# cases/cases_AllOutputdocsList.xml
+#: link - DELETE
+msgid "[cases/cases_AllOutputdocsList.xml?DELETE] "
+msgstr ""
+
+# cases/cases_AllOutputdocsList_Summary.xml?TITLE
+# cases/cases_AllOutputdocsList_Summary.xml
+#: text - TITLE
+msgid "[cases/cases_AllOutputdocsList_Summary.xml?TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AllOutputdocsList_Summary.xml?OUTDOCTITLE
+# cases/cases_AllOutputdocsList_Summary.xml
+#: text - OUTDOCTITLE
+msgid "[cases/cases_AllOutputdocsList_Summary.xml?OUTDOCTITLE] Output Document"
+msgstr "Output Document"
+
+# cases/cases_AllOutputdocsList_Summary.xml?CREATE_DATE
+# cases/cases_AllOutputdocsList_Summary.xml
+#: text - CREATE_DATE
+msgid "[cases/cases_AllOutputdocsList_Summary.xml?CREATE_DATE] Create Date"
+msgstr "Create Date"
+
+# cases/cases_AllOutputdocsList_Summary.xml?DELETE
+# cases/cases_AllOutputdocsList_Summary.xml
+#: link - DELETE
+msgid "[cases/cases_AllOutputdocsList_Summary.xml?DELETE] "
+msgstr ""
+
+# cases/cases_AttachInputDocument1.xml?TITLE1
+# cases/cases_AttachInputDocument1.xml
+#: title - TITLE1
+msgid "Attach Input document"
+msgstr "Attach Input document"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_TITLE
+# cases/cases_AttachInputDocument1.xml
+#: caption - INP_DOC_TITLE
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_DESCRIPTION
+# cases/cases_AttachInputDocument1.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "Document Type"
+msgstr "Document Type"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_AttachInputDocument1.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_AttachInputDocument1.xml?APP_DOC_FILENAME
+# cases/cases_AttachInputDocument1.xml
+#: file - APP_DOC_FILENAME
+msgid "[cases/cases_AttachInputDocument1.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+
+# cases/cases_AttachInputDocument1.xml?APP_DOC_COMMENT
+# cases/cases_AttachInputDocument1.xml
+#: textarea - APP_DOC_COMMENT
+msgid "[cases/cases_AttachInputDocument1.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AttachInputDocument1.xml?MORE
+# cases/cases_AttachInputDocument1.xml
+#: checkbox - MORE
+msgid "Upload Multiple Input Documents"
+msgstr "Upload Multiple Input Documents"
+
+# cases/cases_AttachInputDocument1.xml?SAVE
+# cases/cases_AttachInputDocument1.xml
+#: button - SAVE
+msgid "[cases/cases_AttachInputDocument1.xml?SAVE] Save"
+msgstr "Save"
+
+# cases/cases_AttachInputDocument2.xml?TITLE1
+# cases/cases_AttachInputDocument2.xml
+#: title - TITLE1
+msgid "New Input document"
+msgstr "New Input document"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_TITLE
+# cases/cases_AttachInputDocument2.xml
+#: caption - INP_DOC_TITLE
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_DESCRIPTION
+# cases/cases_AttachInputDocument2.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_AttachInputDocument2.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_AttachInputDocument2.xml?APP_DOC_COMMENT
+# cases/cases_AttachInputDocument2.xml
+#: textarea - APP_DOC_COMMENT
+msgid "[cases/cases_AttachInputDocument2.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AttachInputDocument2.xml?MORE
+# cases/cases_AttachInputDocument2.xml
+#: checkbox - MORE
+msgid "[cases/cases_AttachInputDocument2.xml?MORE] Upload Multiple Input Documents"
+msgstr "Upload Multiple Input Documents"
+
+# cases/cases_AttachInputDocument2.xml?SAVE
+# cases/cases_AttachInputDocument2.xml
+#: button - SAVE
+msgid "[cases/cases_AttachInputDocument2.xml?SAVE] Save"
+msgstr "Save"
+
+# cases/cases_AttachInputDocument3.xml?TITLE1
+# cases/cases_AttachInputDocument3.xml
+#: title - TITLE1
+msgid "[cases/cases_AttachInputDocument3.xml?TITLE1] Attach Input document"
+msgstr "Attach Input document"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_TITLE
+# cases/cases_AttachInputDocument3.xml
+#: caption - INP_DOC_TITLE
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_TITLE] Title"
+msgstr "Title"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_DESCRIPTION
+# cases/cases_AttachInputDocument3.xml
+#: caption - INP_DOC_DESCRIPTION
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_DESCRIPTION] Description"
+msgstr "Description"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED] Document Type"
+msgstr "Document Type"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
+msgstr "Digital"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - REAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL]"
+msgstr "Printed"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_FORM_NEEDED - VREAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL]"
+msgstr "Digital/Printed"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL] Format"
+msgstr "Format"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - ORIGINAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL]"
+msgstr "Original"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
+msgstr "Legal Copy"
+
+# cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPY
+# cases/cases_AttachInputDocument3.xml
+#: dropdown - INP_DOC_ORIGINAL - COPY
+msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPY]"
+msgstr "Copy"
+
+# cases/cases_AttachInputDocument3.xml?APP_DOC_FILENAME
+# cases/cases_AttachInputDocument3.xml
+#: file - APP_DOC_FILENAME
+msgid "[cases/cases_AttachInputDocument3.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+
+# cases/cases_AttachInputDocument3.xml?APP_DOC_COMMENT
+# cases/cases_AttachInputDocument3.xml
+#: textarea - APP_DOC_COMMENT
+msgid "[cases/cases_AttachInputDocument3.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AttachInputDocument3.xml?MORE
+# cases/cases_AttachInputDocument3.xml
+#: checkbox - MORE
+msgid "[cases/cases_AttachInputDocument3.xml?MORE] Upload Multiple Input Documents"
+msgstr "Upload Multiple Input Documents"
+
+# cases/cases_AttachInputDocument3.xml?SAVE
+# cases/cases_AttachInputDocument3.xml
+#: button - SAVE
+msgid "[cases/cases_AttachInputDocument3.xml?SAVE] Save"
+msgstr "Save"
+
+# cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_FILENAME
+# cases/cases_AttachInputDocumentGeneral.xml
+#: file - APP_DOC_FILENAME
+msgid "[cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_FILENAME] File"
+msgstr "File"
+
+# cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_COMMENT
+# cases/cases_AttachInputDocumentGeneral.xml
+#: textarea - APP_DOC_COMMENT
+msgid "[cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_COMMENT] Comments"
+msgstr "Comments"
+
+# cases/cases_AttachInputDocumentGeneral.xml?BTN_CANCEL
+# cases/cases_AttachInputDocumentGeneral.xml
+#: button - BTN_CANCEL
+msgid "[cases/cases_AttachInputDocumentGeneral.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# cases/cases_AttachInputDocumentGeneral.xml?SAVE
+# cases/cases_AttachInputDocumentGeneral.xml
+#: button - SAVE
+msgid "[cases/cases_AttachInputDocumentGeneral.xml?SAVE] Save"
+msgstr "Save"
+
+# cases/cases_CannotInitiateCase.xml?TITLE
+# cases/cases_CannotInitiateCase.xml
+#: title - TITLE
+msgid "[cases/cases_CannotInitiateCase.xml?TITLE] Start a new case"
+msgstr "Start a new case"
+
+# cases/cases_CannotInitiateCase.xml?DESCRIPTION
+# cases/cases_CannotInitiateCase.xml
+#: label - DESCRIPTION
+msgid "You cannot initiate a new case."
+msgstr "You cannot initiate a new case."
+
+# cases/cases_CatchSelfService.xml?TITLE1
+# cases/cases_CatchSelfService.xml
+#: title - TITLE1
+msgid "Claim Case"
+msgstr "Claim Case"
+
+# cases/cases_CatchSelfService.xml?PRO_TITLE
+# cases/cases_CatchSelfService.xml
+#: text - PRO_TITLE
+msgid "[cases/cases_CatchSelfService.xml?PRO_TITLE] Process"
+msgstr "Process"
+
+# cases/cases_CatchSelfService.xml?STATUS
+# cases/cases_CatchSelfService.xml
+#: text - STATUS
+msgid "Case Status"
+msgstr "Case Status"
+
+# cases/cases_CatchSelfService.xml?TITLE
+# cases/cases_CatchSelfService.xml
+#: text - TITLE
+msgid "[cases/cases_CatchSelfService.xml?TITLE] Case Title"
+msgstr "Case Title"
+
+# cases/cases_CatchSelfService.xml?APP_NUMBER
+# cases/cases_CatchSelfService.xml
+#: text - APP_NUMBER
+msgid "Case Number"
+msgstr "Case Number"
+
+# cases/cases_CatchSelfService.xml?APP_UID
+# cases/cases_CatchSelfService.xml
+#: text - APP_UID
+msgid "Case Uid"
+msgstr "Case Uid"
+
+# cases/cases_CatchSelfService.xml?TAS_TITLE
+# cases/cases_CatchSelfService.xml
+#: text - TAS_TITLE
+msgid "[cases/cases_CatchSelfService.xml?TAS_TITLE] Task"
+msgstr "Task"
+
+# cases/cases_CatchSelfService.xml?DEL_DELEGATE_DATE
+# cases/cases_CatchSelfService.xml
+#: text - DEL_DELEGATE_DATE
+msgid "Task Delegate Date"
+msgstr "Task Delegate Date"
+
+# cases/cases_CatchSelfService.xml?DEL_TASK_DUE_DATE
+# cases/cases_CatchSelfService.xml
+#: text - DEL_TASK_DUE_DATE
+msgid "Task Due Date"
+msgstr "Task Due Date"
+
+# cases/cases_CatchSelfService.xml?PREVIOUS_TASK
+# cases/cases_CatchSelfService.xml
+#: text - PREVIOUS_TASK
+msgid "Previous Task"
+msgstr "Previous Task"
+
+# cases/cases_CatchSelfService.xml?PREVIOUS_USER
+# cases/cases_CatchSelfService.xml
+#: text - PREVIOUS_USER
+msgid "Previous User"
+msgstr "Previous User"
+
+# cases/cases_CatchSelfService.xml?BTN_CATCH
+# cases/cases_CatchSelfService.xml
+#: submit - BTN_CATCH
+msgid "Claim this case"
+msgstr "Claim this case"
+
+# cases/cases_CatchSelfService.xml?BTN_CANCEL
+# cases/cases_CatchSelfService.xml
+#: button - BTN_CANCEL
+msgid "[cases/cases_CatchSelfService.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+

@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# processes/processes_ObjectsPermissionsList.xml?DELETE
+# processes/processes_ObjectsPermissionsList.xml
+#: link - DELETE
+msgid "[processes/processes_ObjectsPermissionsList.xml?DELETE] Delete"
+msgstr "Delete"
+
+# processes/processes_ObjectsPermissionsOptions.xml?MNU_ADD
+# processes/processes_ObjectsPermissionsOptions.xml
+#: link - MNU_ADD
+msgid "[processes/processes_ObjectsPermissionsOptions.xml?MNU_ADD] New"
+msgstr "New"
+
+# processes/processes_Options.xml?MNU_ADD
+# processes/processes_Options.xml
+#: link - MNU_ADD
+msgid "[processes/processes_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# processes/processes_Options.xml?MNU_IMPORT
+# processes/processes_Options.xml
+#: link - MNU_IMPORT
+msgid "[processes/processes_Options.xml?MNU_IMPORT] Import"
+msgstr "Import"
+
+# processes/processes_Options.xml?MNU_LIBRARY
+# processes/processes_Options.xml
+#: link - MNU_LIBRARY
+msgid "[processes/processes_Options.xml?MNU_LIBRARY] Browse Library"
+msgstr "Browse Library"
+
+# processes/processes_Properties.xml?TITLE1
+# processes/processes_Properties.xml
+#: title - TITLE1
+msgid "[processes/processes_Properties.xml?TITLE1] Process Information"
+msgstr "Process Information"
+
+# processes/processes_Properties.xml?PRO_TITLE
+# processes/processes_Properties.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_Properties.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_Properties.xml?PRO_DESCRIPTION
+# processes/processes_Properties.xml
+#: textarea - PRO_DESCRIPTION
+msgid "[processes/processes_Properties.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_Properties.xml?SUBMIT
+# processes/processes_Properties.xml
+#: button - SUBMIT
+msgid "[processes/processes_Properties.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_Search.xml?PRO_UID
+# processes/processes_Search.xml
+#: text - PRO_UID
+msgid "[processes/processes_Search.xml?PRO_UID] UID"
+msgstr "UID"
+
+# processes/processes_Search.xml?PRO_TITLE
+# processes/processes_Search.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_Search.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_Search.xml?PRO_DESCRIPTION
+# processes/processes_Search.xml
+#: text - PRO_DESCRIPTION
+msgid "[processes/processes_Search.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_Search.xml?search
+# processes/processes_Search.xml
+#: button - search
+msgid "[processes/processes_Search.xml?search] Apply Filter"
+msgstr "Apply Filter"
+
+# processes/processes_UploadFilesForm.xml?TITLE1
+# processes/processes_UploadFilesForm.xml
+#: title - TITLE1
+msgid "Upload Files"
+msgstr "Upload Files"
+
+# processes/processes_UploadFilesForm.xml?FILENAME1
+# processes/processes_UploadFilesForm.xml
+#: file - FILENAME1
+msgid "File 1"
+msgstr "File 1"
+
+# processes/processes_UploadFilesForm.xml?FILENAME2
+# processes/processes_UploadFilesForm.xml
+#: file - FILENAME2
+msgid "File 2"
+msgstr "File 2"
+
+# processes/processes_UploadFilesForm.xml?FILENAME3
+# processes/processes_UploadFilesForm.xml
+#: file - FILENAME3
+msgid "File 3"
+msgstr "File 3"
+
+# processes/processes_UploadFilesForm.xml?FILENAME4
+# processes/processes_UploadFilesForm.xml
+#: file - FILENAME4
+msgid "File 4"
+msgstr "File 4"
+
+# processes/processes_UploadFilesForm.xml?FILENAME5
+# processes/processes_UploadFilesForm.xml
+#: file - FILENAME5
+msgid "File 5"
+msgstr "File 5"
+
+# processes/processes_UploadFilesForm.xml?UPLOAD
+# processes/processes_UploadFilesForm.xml
+#: button - UPLOAD
+msgid "[processes/processes_UploadFilesForm.xml?UPLOAD] Upload"
+msgstr "Upload"
+
+# processes/processes_User.xml?LA_PU_NAME
+# processes/processes_User.xml
+#: text - LA_PU_NAME
+msgid "User or Group"
+msgstr "User or Group"
+
+# processes/processes_User.xml?LA_PU_TYPE_NAME
+# processes/processes_User.xml
+#: text - LA_PU_TYPE_NAME
+msgid "[processes/processes_User.xml?LA_PU_TYPE_NAME] Type"
+msgstr "Type"
+
+# processes/processes_ValidatingGroups.xml?title
+# processes/processes_ValidatingGroups.xml
+#: title - title
+msgid "<div align=\"center\">Importing Groups</div>"
+msgstr "<div align=\"center\">Importing Groups</div>"
+
+# processes/processes_ValidatingGroups.xml?TITLE1
+# processes/processes_ValidatingGroups.xml
+#: subtitle - TITLE1
+msgid "Some of the groups that are you trying to import, already exist. Please select one of the following options to continue:"
+msgstr "Some of the groups that are you trying to import, already exist. Please select one of the following options to continue:"
+
+# processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION
+# processes/processes_ValidatingGroups.xml
+#: radiogroup - GROUP_IMPORT_OPTION
+msgid "[processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION] "
+msgstr ""
+
+# processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION-rename
+# processes/processes_ValidatingGroups.xml
+#: radiogroup - GROUP_IMPORT_OPTION - rename
+msgid "[processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION-rename]"
+msgstr "Rename the imported groups"
+
+# processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION-merge
+# processes/processes_ValidatingGroups.xml
+#: radiogroup - GROUP_IMPORT_OPTION - merge
+msgid "[processes/processes_ValidatingGroups.xml?GROUP_IMPORT_OPTION-merge]"
+msgstr "Merge the imported groups, with the preexistent local groups (no changes will be made to the local groups)"
+
+# processes/processes_ValidatingGroups.xml?SUBMIT
+# processes/processes_ValidatingGroups.xml
+#: submit - SUBMIT
+msgid "[processes/processes_ValidatingGroups.xml?SUBMIT] Save"
+msgstr "Save"
+
+# processes/processes_View.xml?TITLE1
+# processes/processes_View.xml
+#: title - TITLE1
+msgid "[processes/processes_View.xml?TITLE1] Process Information"
+msgstr "Process Information"
+
+# processes/processes_View.xml?PRO_TITLE
+# processes/processes_View.xml
+#: text - PRO_TITLE
+msgid "[processes/processes_View.xml?PRO_TITLE] Title"
+msgstr "Title"
+
+# processes/processes_View.xml?PRO_DESCRIPTION
+# processes/processes_View.xml
+#: textarea - PRO_DESCRIPTION
+msgid "[processes/processes_View.xml?PRO_DESCRIPTION] Description"
+msgstr "Description"
+
+# processes/processes_ViewOptions.xml?MNU
+# processes/processes_ViewOptions.xml
+#: link - MNU
+msgid "[processes/processes_ViewOptions.xml?MNU] Back to list"
+msgstr "Back to list"
+
+# processes/processes_availableProcessesUser.xml?USER_GROUP
+# processes/processes_availableProcessesUser.xml
+#: text - USER_GROUP
+msgid "[processes/processes_availableProcessesUser.xml?USER_GROUP] User or Group"
+msgstr "User or Group"
+
+# processes/processes_availableProcessesUser.xml?TYPE_UID
+# processes/processes_availableProcessesUser.xml
+#: text - TYPE_UID
+msgid "[processes/processes_availableProcessesUser.xml?TYPE_UID] Type"
+msgstr "Type"
+
+# processes/processes_subProcess.xml?TITLE1
+# processes/processes_subProcess.xml
+#: title - TITLE1
+msgid "[processes/processes_subProcess.xml?TITLE1] Sub-Process"
+msgstr "Sub-Process"
+
+# processes/processes_subProcess.xml?SPROCESS_NAME
+# processes/processes_subProcess.xml
+#: text - SPROCESS_NAME
+msgid "[processes/processes_subProcess.xml?SPROCESS_NAME] SubProcess name"
+msgstr "SubProcess name"
+
+# processes/processes_subProcess.xml?TASKS
+# processes/processes_subProcess.xml
+#: dropdown - TASKS
+msgid "[processes/processes_subProcess.xml?TASKS] Process"
+msgstr "Process"
+
+# processes/processes_subProcess.xml?TASKS-
+# processes/processes_subProcess.xml
+#: dropdown - TASKS -
+msgid "[processes/processes_subProcess.xml?TASKS-]"
+msgstr "Select a process"
+
+# processes/processes_subProcess.xml?PROCESSES
+# processes/processes_subProcess.xml
+#: dropdown - PROCESSES
+msgid "[processes/processes_subProcess.xml?PROCESSES] "
+msgstr ""
+
+# processes/processes_subProcess.xml?PROCESSES-
+# processes/processes_subProcess.xml
+#: dropdown - PROCESSES -
+msgid "[processes/processes_subProcess.xml?PROCESSES-]"
+msgstr ""
+
+# processes/processes_subProcess.xml?SP_SYNCHRONOUS
+# processes/processes_subProcess.xml
+#: dropdown - SP_SYNCHRONOUS
+msgid "[processes/processes_subProcess.xml?SP_SYNCHRONOUS] Type"
+msgstr "Type"
+
+# processes/processes_subProcess.xml?SP_SYNCHRONOUS-0
+# processes/processes_subProcess.xml
+#: dropdown - SP_SYNCHRONOUS - 0
+msgid "[processes/processes_subProcess.xml?SP_SYNCHRONOUS-0]"
+msgstr "Asynchronous"
+
+# processes/processes_subProcess.xml?SP_SYNCHRONOUS-1
+# processes/processes_subProcess.xml
+#: dropdown - SP_SYNCHRONOUS - 1
+msgid "[processes/processes_subProcess.xml?SP_SYNCHRONOUS-1]"
+msgstr "Synchronous"
+
+# processes/processes_subProcess.xml?SUBTITLE1
+# processes/processes_subProcess.xml
+#: subtitle - SUBTITLE1
+msgid "[processes/processes_subProcess.xml?SUBTITLE1] Variables Out"
+msgstr "Variables Out"
+
+# processes/processes_subProcess.xml?SUBTITLE2
+# processes/processes_subProcess.xml
+#: subtitle - SUBTITLE2
+msgid "[processes/processes_subProcess.xml?SUBTITLE2] Variables In"
+msgstr "Variables In"
+
+# processes/processes_subProcess.xml?BTN_CANCEL
+# processes/processes_subProcess.xml
+#: button - BTN_CANCEL
+msgid "[processes/processes_subProcess.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# processes/processes_subProcess.xml?SAVE
+# processes/processes_subProcess.xml
+#: button - SAVE
+msgid "[processes/processes_subProcess.xml?SAVE] Save"
+msgstr "Save"
+
+# processes/processes_subProcess_In.xml?VAR_IN1
+# processes/processes_subProcess_In.xml
+#: textpm - VAR_IN1
+msgid "[processes/processes_subProcess_In.xml?VAR_IN1] Origin"
+msgstr "Origin"
+
+# processes/processes_subProcess_In.xml?VAR_IN2
+# processes/processes_subProcess_In.xml
+#: textpm - VAR_IN2
+msgid "[processes/processes_subProcess_In.xml?VAR_IN2] Target"
+msgstr "Target"
+
+# processes/processes_subProcess_Out.xml?VAR_OUT1
+# processes/processes_subProcess_Out.xml
+#: textpm - VAR_OUT1
+msgid "[processes/processes_subProcess_Out.xml?VAR_OUT1] Origin"
+msgstr "Origin"
+
+# processes/processes_subProcess_Out.xml?VAR_OUT2
+# processes/processes_subProcess_Out.xml
+#: textpm - VAR_OUT2
+msgid "[processes/processes_subProcess_Out.xml?VAR_OUT2] Target"
+msgstr "Target"
+
+# processes/processes_viewreassignCase.xml?USR_FIRSTNAME
+# processes/processes_viewreassignCase.xml
+#: text - USR_FIRSTNAME
+msgid "[processes/processes_viewreassignCase.xml?USR_FIRSTNAME] First Name"
+msgstr "First Name"
+
+# processes/processes_viewreassignCase.xml?USR_LASTNAME
+# processes/processes_viewreassignCase.xml
+#: text - USR_LASTNAME
+msgid "[processes/processes_viewreassignCase.xml?USR_LASTNAME] Last Name"
+msgstr "Last Name"
+
+# processes/registerPML.xml?TITLE
+# processes/registerPML.xml
+#: title - TITLE
+msgid "[processes/registerPML.xml?TITLE] Login into ProcessMaker Library"
+msgstr "Login into ProcessMaker Library"
+
+# processes/registerPML.xml?PML_USER
+# processes/registerPML.xml
+#: text - PML_USER
+msgid "[processes/registerPML.xml?PML_USER] Username (or Live Workspace)"
+msgstr "Username (or Live Workspace)"
+
+# processes/registerPML.xml?PML_PASSWORD
+# processes/registerPML.xml
+#: password - PML_PASSWORD
+msgid "[processes/registerPML.xml?PML_PASSWORD] Password"
+msgstr "Password"
+
+# processes/registerPML.xml?PML_LOGIN
+# processes/registerPML.xml
+#: button - PML_LOGIN
+msgid "[processes/registerPML.xml?PML_LOGIN] Login"
+msgstr "Login"
+
+# processes/registerPML.xml?link2
+# processes/registerPML.xml
+#: link - link2
+msgid "[processes/registerPML.xml?link2] "
+msgstr ""
+
+# reportTables/reportTables_Edit.xml?TITLE
+# reportTables/reportTables_Edit.xml
+#: title - TITLE
+msgid "Report Table Information"
+msgstr "Report Table Information"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_TITLE
+# reportTables/reportTables_Edit.xml
+#: text - REP_TAB_TITLE
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_TITLE] Title"
+msgstr "Title"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_NAME
+# reportTables/reportTables_Edit.xml
+#: text - REP_TAB_NAME
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_NAME] Table Name"
+msgstr "Table Name"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_TYPE
+# reportTables/reportTables_Edit.xml
+#: dropdown - REP_TAB_TYPE
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_TYPE] Type"
+msgstr "Type"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_TYPE-NORMAL
+# reportTables/reportTables_Edit.xml
+#: dropdown - REP_TAB_TYPE - NORMAL
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_TYPE-NORMAL]"
+msgstr "Global"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_TYPE-GRID
+# reportTables/reportTables_Edit.xml
+#: dropdown - REP_TAB_TYPE - GRID
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_TYPE-GRID]"
+msgstr "Grid"
+
+# reportTables/reportTables_Edit.xml?REP_TAB_GRID
+# reportTables/reportTables_Edit.xml
+#: dropdown - REP_TAB_GRID
+msgid "[reportTables/reportTables_Edit.xml?REP_TAB_GRID] Grid Fields"
+msgstr "Grid Fields"
+
+# reportTables/reportTables_Edit.xml?FIELDS
+# reportTables/reportTables_Edit.xml
+#: listbox - FIELDS
+msgid "[reportTables/reportTables_Edit.xml?FIELDS] Fields"
+msgstr "Fields"
+
+# reportTables/reportTables_Edit.xml?BTN_CANCEL
+# reportTables/reportTables_Edit.xml
+#: button - BTN_CANCEL
+msgid "[reportTables/reportTables_Edit.xml?BTN_CANCEL] Cancel"
+msgstr "Cancel"
+
+# reportTables/reportTables_Edit.xml?SAVE
+# reportTables/reportTables_Edit.xml
+#: button - SAVE
+msgid "[reportTables/reportTables_Edit.xml?SAVE] Save"
+msgstr "Save"
+
+# reportTables/reportTables_Options.xml?MNU_ADD
+# reportTables/reportTables_Options.xml
+#: link - MNU_ADD
+msgid "[reportTables/reportTables_Options.xml?MNU_ADD] New"
+msgstr "New"
+
+# reportTables/reportTables_ShortList.xml?REP_TAB_TITLE
+# reportTables/reportTables_ShortList.xml
+#: text - REP_TAB_TITLE
+msgid "[reportTables/reportTables_ShortList.xml?REP_TAB_TITLE] Title"
+msgstr "Title"
+
+# reportTables/reportTables_ShortList.xml?EDIT
+# reportTables/reportTables_ShortList.xml
+#: link - EDIT
+msgid "[reportTables/reportTables_ShortList.xml?EDIT] "
+msgstr ""
+
+# reportTables/reportTables_ShortList.xml?DELETE
+# reportTables/reportTables_ShortList.xml
+#: link - DELETE
+msgid "[reportTables/reportTables_ShortList.xml?DELETE] "
+msgstr ""
+
+# reportTables/reportTables_ShortList.xml?SEARCH
+# reportTables/reportTables_ShortList.xml
+#: button - SEARCH
+msgid "[reportTables/reportTables_ShortList.xml?SEARCH] Apply Filter"
+msgstr "Apply Filter"
+
+# reports/report1.xml?PRO_TITLE
+# reports/report1.xml
+#: text - PRO_TITLE
+msgid "[reports/report1.xml?PRO_TITLE] Processes"
+msgstr "Processes"
+
+# reports/report1.xml?CANTCASES
+# reports/report1.xml
+#: text - CANTCASES
+msgid "[reports/report1.xml?CANTCASES] Cases"
+msgstr "Cases"
+
+# reports/report1.xml?MIN
+# reports/report1.xml
+#: hours - MIN
+msgid "Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/report1.xml?MAX
+# reports/report1.xml
+#: hours - MAX
+msgid "Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/report1.xml?TOTALDUR
+# reports/report1.xml
+#: hours - TOTALDUR
+msgid "Total Duration (Hours)"
+msgstr "Total Duration (Hours)"
+
+# reports/report1.xml?PROMEDIO
+# reports/report1.xml
+#: text - PROMEDIO
+msgid "Average (Hours)"
+msgstr "Average (Hours)"
+
+# reports/report1.xml?RPT_VIEW
+# reports/report1.xml
+#: link - RPT_VIEW
+msgid "Detaills"
+msgstr "Detaills"
+
+# reports/report1_back.xml?backs
+# reports/report1_back.xml
+#: link - backs
+msgid "[reports/report1_back.xml?backs] Back"
+msgstr "Back"
+
+# reports/report1_dashboard.xml?PRO_TITLE
+# reports/report1_dashboard.xml
+#: text - PRO_TITLE
+msgid "[reports/report1_dashboard.xml?PRO_TITLE] Processes"
+msgstr "Processes"
+
+# reports/report1_dashboard.xml?CANTCASES
+# reports/report1_dashboard.xml
+#: text - CANTCASES
+msgid "[reports/report1_dashboard.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report1_dashboard.xml?MAX
+# reports/report1_dashboard.xml
+#: hours - MAX
+msgid "Slowest Time"
+msgstr "Slowest Time"
+
+# reports/report1_dashboard.xml?TOTALDUR
+# reports/report1_dashboard.xml
+#: hours - TOTALDUR
+msgid "Total Duration"
+msgstr "Total Duration"
+
+# reports/report1_dashboard.xml?PROMEDIO
+# reports/report1_dashboard.xml
+#: hours - PROMEDIO
+msgid "Average"
+msgstr "Average"
+
+# reports/report1_search.xml?FROM
+# reports/report1_search.xml
+#: date - FROM
+msgid "[reports/report1_search.xml?FROM] FROM"
+msgstr "FROM"
+
+# reports/report1_search.xml?TO
+# reports/report1_search.xml
+#: date - TO
+msgid "[reports/report1_search.xml?TO] TO"
+msgstr "TO"
+
+# reports/report1_search.xml?STARTEDBY
+# reports/report1_search.xml
+#: dropdown - STARTEDBY
+msgid "STARTED BY"
+msgstr "STARTED BY"
+
+# reports/report1_search.xml?STARTEDBY-
+# reports/report1_search.xml
+#: dropdown - STARTEDBY -
+msgid "[reports/report1_search.xml?STARTEDBY-]"
+msgstr "All"
+
+# reports/report1_search.xml?FILTER
+# reports/report1_search.xml
+#: submit - FILTER
+msgid "[reports/report1_search.xml?FILTER] Filter"
+msgstr "Filter"
+
+# reports/report2.xml?PRO_TITLE
+# reports/report2.xml
+#: text - PRO_TITLE
+msgid "[reports/report2.xml?PRO_TITLE] Processes"
+msgstr "Processes"
+
+# reports/report2.xml?CANTCASES
+# reports/report2.xml
+#: text - CANTCASES
+msgid "[reports/report2.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report2.xml?MIN
+# reports/report2.xml
+#: hours - MIN
+msgid "[reports/report2.xml?MIN] Best Completion Time"
+msgstr "Best Completion Time"
+
+# reports/report2.xml?MAX
+# reports/report2.xml
+#: hours - MAX
+msgid "[reports/report2.xml?MAX] Slowest Completion Time"
+msgstr "Slowest Completion Time"
+
+# reports/report2.xml?CASELASTMONTH
+# reports/report2.xml
+#: text - CASELASTMONTH
+msgid "Cases last month"
+msgstr "Cases last month"
+
+# reports/report2.xml?CASELASTDAY
+# reports/report2.xml
+#: text - CASELASTDAY
+msgid "Cases last day"
+msgstr "Cases last day"
+
+# reports/report2_dashboard.xml?PRO_TITLE
+# reports/report2_dashboard.xml
+#: text - PRO_TITLE
+msgid "[reports/report2_dashboard.xml?PRO_TITLE] Processes"
+msgstr "Processes"
+
+# reports/report2_dashboard.xml?CANTCASES
+# reports/report2_dashboard.xml
+#: text - CANTCASES
+msgid "[reports/report2_dashboard.xml?CANTCASES] Total Cases"
+msgstr "Total Cases"
+
+# reports/report2_dashboard.xml?MAX
+# reports/report2_dashboard.xml
+#: hours - MAX
+msgid "[reports/report2_dashboard.xml?MAX] Slowest Time"
+msgstr "Slowest Time"
+

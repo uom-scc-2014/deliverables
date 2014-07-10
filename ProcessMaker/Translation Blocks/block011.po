@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_PERCENTAGE
+#: LABEL/ID_FIELD_DYNAFORM_PERCENTAGE
+msgid "percentage"
+msgstr "percentage"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_RADIOGROUP
+#: LABEL/ID_FIELD_DYNAFORM_RADIOGROUP
+msgid "radiogroup"
+msgstr "radiogroup"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_RESET
+#: LABEL/ID_FIELD_DYNAFORM_RESET
+msgid "reset"
+msgstr "reset"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_SUBMIT
+#: LABEL/ID_FIELD_DYNAFORM_SUBMIT
+msgid "submit"
+msgstr "submit"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_SUBTITLE
+#: LABEL/ID_FIELD_DYNAFORM_SUBTITLE
+msgid "subtitle"
+msgstr "subtitle"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_SUGGEST
+#: LABEL/ID_FIELD_DYNAFORM_SUGGEST
+msgid "suggest"
+msgstr "suggest"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_SUGGEST_INPUT_TITLE
+#: LABEL/ID_FIELD_DYNAFORM_SUGGEST_INPUT_TITLE
+msgid "If the value entered doesn't exist, a new registry will be inserted when press Enter Key"
+msgstr "If the value entered doesn't exist, a new registry will be inserted when press Enter Key"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_SUGGEST_MESSAGE_TEMPORAL
+#: LABEL/ID_FIELD_DYNAFORM_SUGGEST_MESSAGE_TEMPORAL
+msgid "New value inserted in the table"
+msgstr "New value inserted in the table"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_TEXT
+#: LABEL/ID_FIELD_DYNAFORM_TEXT
+msgid "text"
+msgstr "text"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_TEXTAREA
+#: LABEL/ID_FIELD_DYNAFORM_TEXTAREA
+msgid "textarea"
+msgstr "textarea"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_TITLE
+#: LABEL/ID_FIELD_DYNAFORM_TITLE
+msgid "title"
+msgstr "title"
+
+# TRANSLATION
+# LABEL/ID_FIELD_DYNAFORM_YESNO
+#: LABEL/ID_FIELD_DYNAFORM_YESNO
+msgid "yesno"
+msgstr "yesno"
+
+# TRANSLATION
+# LABEL/ID_FIELD_FOREIGN_TABLE
+#: LABEL/ID_FIELD_FOREIGN_TABLE
+msgid "[LABEL/ID_FIELD_FOREIGN_TABLE] Field \"table\" is required"
+msgstr "Field \"table\" is required"
+
+# TRANSLATION
+# LABEL/ID_FIELD_HANDLER_ACTION_DELETE
+#: LABEL/ID_FIELD_HANDLER_ACTION_DELETE
+msgid "Are you sure that you want to remove this"
+msgstr "Are you sure that you want to remove this"
+
+# TRANSLATION
+# LABEL/ID_FIELD_HANDLER_HELP1
+#: LABEL/ID_FIELD_HANDLER_HELP1
+msgid "About the feature"
+msgstr "About the feature"
+
+# TRANSLATION
+# LABEL/ID_FIELD_HANDLER_HELP2
+#: LABEL/ID_FIELD_HANDLER_HELP2
+msgid "Drag & Drop to move and reorder the fields."
+msgstr "Drag & Drop to move and reorder the fields."
+
+# TRANSLATION
+# LABEL/ID_FIELD_HANDLER_HELP3
+#: LABEL/ID_FIELD_HANDLER_HELP3
+msgid "Bring the mouse pointer near tool icon and the corresponding options (Edit, Delete) will be shown."
+msgstr "Bring the mouse pointer near tool icon and the corresponding options (Edit, Delete) will be shown."
+
+# TRANSLATION
+# LABEL/ID_FIELD_INVALID
+#: LABEL/ID_FIELD_INVALID
+msgid "Field Invalid"
+msgstr "Field Invalid"
+
+# TRANSLATION
+# LABEL/ID_FIELD_KEY_TABLE
+#: LABEL/ID_FIELD_KEY_TABLE
+msgid "Please select one or more fields to be primary keys."
+msgstr "Please select one or more fields to be primary keys."
+
+# TRANSLATION
+# LABEL/ID_FIELD_LABEL
+#: LABEL/ID_FIELD_LABEL
+msgid "Field Label"
+msgstr "Field Label"
+
+# TRANSLATION
+# LABEL/ID_FIELD_NAME
+#: LABEL/ID_FIELD_NAME
+msgid "Field Name"
+msgstr "Field Name"
+
+# TRANSLATION
+# LABEL/ID_FIELD_NAME_FOR
+#: LABEL/ID_FIELD_NAME_FOR
+msgid "Field Name for"
+msgstr "Field Name for"
+
+# TRANSLATION
+# LABEL/ID_FIELD_NAME_REQUIRED
+#: LABEL/ID_FIELD_NAME_REQUIRED
+msgid "Field name is required"
+msgstr "Field name is required"
+
+# TRANSLATION
+# LABEL/ID_FIELD_REQUIRED
+#: LABEL/ID_FIELD_REQUIRED
+msgid "This field is required"
+msgstr "This field is required"
+
+# TRANSLATION
+# LABEL/ID_FIELD_SIZE_FOR
+#: LABEL/ID_FIELD_SIZE_FOR
+msgid "Field size for"
+msgstr "Field size for"
+
+# TRANSLATION
+# LABEL/ID_FIELD_SIZE_REQUIRED
+#: LABEL/ID_FIELD_SIZE_REQUIRED
+msgid "Field size is required"
+msgstr "Field size is required"
+
+# TRANSLATION
+# LABEL/ID_FILE
+#: LABEL/ID_FILE
+msgid "File"
+msgstr "File"
+
+# TRANSLATION
+# LABEL/ID_FILENAME
+#: LABEL/ID_FILENAME
+msgid "Filename"
+msgstr "Filename"
+
+# TRANSLATION
+# LABEL/ID_FILENAME_GENERATED
+#: LABEL/ID_FILENAME_GENERATED
+msgid "Filename generated"
+msgstr "Filename generated"
+
+# TRANSLATION
+# LABEL/ID_FILES_INVALID_PLUGIN_FILENAME
+#: LABEL/ID_FILES_INVALID_PLUGIN_FILENAME
+msgid "the uploaded files are invalid, expected 'application/octect-stream mime type file ({pluginFilename})"
+msgstr "the uploaded files are invalid, expected 'application/octect-stream mime type file ({pluginFilename})"
+
+# TRANSLATION
+# LABEL/ID_FILE_CONTAIN_CLASS_PLUGIN
+#: LABEL/ID_FILE_CONTAIN_CLASS_PLUGIN
+msgid "The file {filename} doesn't contain class: {className}"
+msgstr "The file {filename} doesn't contain class: {className}"
+
+# TRANSLATION
+# LABEL/ID_FILE_IMPORTED_SUCCESSFULLY
+#: LABEL/ID_FILE_IMPORTED_SUCCESSFULLY
+msgid "File \"{0}\" imported successfully."
+msgstr "File \"{0}\" imported successfully."
+
+# TRANSLATION
+# LABEL/ID_FILE_NOT_WRITEABLE
+#: LABEL/ID_FILE_NOT_WRITEABLE
+msgid "File '{0}' is not writeable. Please check permission before continue"
+msgstr "File '{0}' is not writeable. Please check permission before continue"
+
+# TRANSLATION
+# LABEL/ID_FILE_NUM_RECORD
+#: LABEL/ID_FILE_NUM_RECORD
+msgid "PO File num. records:"
+msgstr "PO File num. records:"
+
+# TRANSLATION
+# LABEL/ID_FILE_PLUGIN_NOT_EXISTS
+#: LABEL/ID_FILE_PLUGIN_NOT_EXISTS
+msgid "File '{pluginFile}' does not exist"
+msgstr "File '{pluginFile}' does not exist"
+
+# TRANSLATION
+# LABEL/ID_FILE_PROCESSED
+#: LABEL/ID_FILE_PROCESSED
+msgid "File: {0} processed in {1} seconds"
+msgstr "File: {0} processed in {1} seconds"
+
+# TRANSLATION
+# LABEL/ID_FILE_TOO_BIG
+#: LABEL/ID_FILE_TOO_BIG
+msgid "The file is too big to upload!"
+msgstr "The file is too big to upload!"
+
+# TRANSLATION
+# LABEL/ID_FILE_UPLOAD_INCORRECT_EXTENSION
+#: LABEL/ID_FILE_UPLOAD_INCORRECT_EXTENSION
+msgid "The file has an incorrect extension. Please check the file and upload again."
+msgstr "The file has an incorrect extension. Please check the file and upload again."
+
+# TRANSLATION
+# LABEL/ID_FILL_PRIMARY_KEYS
+#: LABEL/ID_FILL_PRIMARY_KEYS
+msgid "Please fill all the primary key fields"
+msgstr "Please fill all the primary key fields"
+
+# TRANSLATION
+# LABEL/ID_FILTER
+#: LABEL/ID_FILTER
+msgid "Filter"
+msgstr "Filter"
+
+# TRANSLATION
+# LABEL/ID_FILTER_BY_DELEGATED_DATE
+#: LABEL/ID_FILTER_BY_DELEGATED_DATE
+msgid "[LABEL/ID_FILTER_BY_DELEGATED_DATE] Filter"
+msgstr "Filter"
+
+# TRANSLATION
+# LABEL/ID_FILTER_CURRENT_VIEW
+#: LABEL/ID_FILTER_CURRENT_VIEW
+msgid "Filter current view"
+msgstr "Filter current view"
+
+# TRANSLATION
+# LABEL/ID_FIND_A_PROCESS
+#: LABEL/ID_FIND_A_PROCESS
+msgid "Find a Process"
+msgstr "Find a Process"
+
+# TRANSLATION
+# LABEL/ID_FINISH
+#: LABEL/ID_FINISH
+msgid "Finish"
+msgstr "Finish"
+
+# TRANSLATION
+# LABEL/ID_FINISHED
+#: LABEL/ID_FINISHED
+msgid "Finished"
+msgstr "Finished"
+
+# TRANSLATION
+# LABEL/ID_FINISHED_REFRESH_VIEW_SEE_SLOPE_WORK
+#: LABEL/ID_FINISHED_REFRESH_VIEW_SEE_SLOPE_WORK
+msgid "You are now finished. Please refresh your view to see if you have any more work pending."
+msgstr "You are now finished. Please refresh your view to see if you have any more work pending."
+
+# TRANSLATION
+# LABEL/ID_FINISHING
+#: LABEL/ID_FINISHING
+msgid "Finishing..."
+msgstr "Finishing..."
+
+# TRANSLATION
+# LABEL/ID_FINISH_DATE
+#: LABEL/ID_FINISH_DATE
+msgid "[LABEL/ID_FINISH_DATE] Finish Date"
+msgstr "Finish Date"
+
+# TRANSLATION
+# LABEL/ID_FINISH_EDITION
+#: LABEL/ID_FINISH_EDITION
+msgid "Finish Edition"
+msgstr "Finish Edition"
+
+# TRANSLATION
+# LABEL/ID_FINISH_WITH_OPTION
+#: LABEL/ID_FINISH_WITH_OPTION
+msgid "Finish with option"
+msgstr "Finish with option"
+
+# TRANSLATION
+# LABEL/ID_FIRST
+#: LABEL/ID_FIRST
+msgid "First"
+msgstr "First"
+
+# TRANSLATION
+# LABEL/ID_FIRSTNAME
+#: LABEL/ID_FIRSTNAME
+msgid "First Name"
+msgstr "First Name"
+
+# TRANSLATION
+# LABEL/ID_FIRST_NAME
+#: LABEL/ID_FIRST_NAME
+msgid "[LABEL/ID_FIRST_NAME] First Name"
+msgstr "First Name"
+
+# TRANSLATION
+# LABEL/ID_FLOAT
+#: LABEL/ID_FLOAT
+msgid "FLOAT"
+msgstr "FLOAT"
+
+# TRANSLATION
+# LABEL/ID_FOLDERS
+#: LABEL/ID_FOLDERS
+msgid "Documents"
+msgstr "Documents"
+
+# TRANSLATION
+# LABEL/ID_FORGOT_PASSWORD
+#: LABEL/ID_FORGOT_PASSWORD
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+# TRANSLATION
+# LABEL/ID_FORGOT_PASSWORD_Q
+#: LABEL/ID_FORGOT_PASSWORD_Q
+msgid "Forgot Password?"
+msgstr "Forgot Password?"
+
+# TRANSLATION
+# LABEL/ID_FORMAT
+#: LABEL/ID_FORMAT
+msgid "Format"
+msgstr "Format"
+
+# TRANSLATION
+# LABEL/ID_FORMS_HTML_CACHE
+#: LABEL/ID_FORMS_HTML_CACHE
+msgid "Forms Html templates cache"
+msgstr "Forms Html templates cache"
+
+# TRANSLATION
+# LABEL/ID_FORMS_METADATA_CACHE
+#: LABEL/ID_FORMS_METADATA_CACHE
+msgid "Forms metadata cache"
+msgstr "Forms metadata cache"
+
+# TRANSLATION
+# LABEL/ID_FRI
+#: LABEL/ID_FRI
+msgid "Fri"
+msgstr "Fri"
+
+# TRANSLATION
+# LABEL/ID_FROM
+#: LABEL/ID_FROM
+msgid "From"
+msgstr "From"
+
+# TRANSLATION
+# LABEL/ID_FROM_NAME
+#: LABEL/ID_FROM_NAME
+msgid "From name"
+msgstr "From name"
+
+# TRANSLATION
+# LABEL/ID_FTP_MONITOR_SETTINGS
+#: LABEL/ID_FTP_MONITOR_SETTINGS
+msgid "FTP Monitor Settings"
+msgstr "FTP Monitor Settings"
+
+# TRANSLATION
+# LABEL/ID_FULL_NAME
+#: LABEL/ID_FULL_NAME
+msgid "Full Name"
+msgstr "Full Name"
+
+# TRANSLATION
+# LABEL/ID_FULL_TEXT_SEARCH
+#: LABEL/ID_FULL_TEXT_SEARCH
+msgid "Full Text Search"
+msgstr "Full Text Search"
+
+# TRANSLATION
+# LABEL/ID_FUNCTION
+#: LABEL/ID_FUNCTION
+msgid "@function() It evaluates the value, then executes a PHP function"
+msgstr "@function() It evaluates the value, then executes a PHP function"
+
+# TRANSLATION
+# LABEL/ID_GENERAL
+#: LABEL/ID_GENERAL
+msgid "General"
+msgstr "General"
+
+# TRANSLATION
+# LABEL/ID_GENERAL_PROCESS_NUMBERS
+#: LABEL/ID_GENERAL_PROCESS_NUMBERS
+msgid "General Process Numbers"
+msgstr "General Process Numbers"
+
+# TRANSLATION
+# LABEL/ID_GENERATE
+#: LABEL/ID_GENERATE
+msgid "Generate"
+msgstr "Generate"
+
+# TRANSLATION
+# LABEL/ID_GENERATED_DOCUMENTS
+#: LABEL/ID_GENERATED_DOCUMENTS
+msgid "[LABEL/ID_GENERATED_DOCUMENTS] Generated Documents"
+msgstr "Generated Documents"
+
+# TRANSLATION
+# LABEL/ID_GENERATE_INFO
+#: LABEL/ID_GENERATE_INFO
+msgid "General Information"
+msgstr "General Information"
+
+# TRANSLATION
+# LABEL/ID_GENERATE_WEB_ENTRY_PAGE
+#: LABEL/ID_GENERATE_WEB_ENTRY_PAGE
+msgid "Generate Web Entry Page"
+msgstr "Generate Web Entry Page"
+
+# TRANSLATION
+# LABEL/ID_GET_EXTERNAL_FILE
+#: LABEL/ID_GET_EXTERNAL_FILE
+msgid "Get"
+msgstr "Get"
+
+# TRANSLATION
+# LABEL/ID_GLOBAL
+#: LABEL/ID_GLOBAL
+msgid "Global"
+msgstr "Global"
+
+# TRANSLATION
+# LABEL/ID_GLOBAL_DATE_FORMAT
+#: LABEL/ID_GLOBAL_DATE_FORMAT
+msgid "Global Date Format"
+msgstr "Global Date Format"
+
+# TRANSLATION
+# LABEL/ID_GLOBAL_DATE_MASK
+#: LABEL/ID_GLOBAL_DATE_MASK
+msgid "Global date mask"
+msgstr "Global date mask"
+
+# TRANSLATION
+# LABEL/ID_GREEN_ENDS_IN
+#: LABEL/ID_GREEN_ENDS_IN
+msgid "Green Ends In"
+msgstr "Green Ends In"
+
+# TRANSLATION
+# LABEL/ID_GREEN_STARTS_IN
+#: LABEL/ID_GREEN_STARTS_IN
+msgid "Green Starts In"
+msgstr "Green Starts In"
+
+# TRANSLATION
+# LABEL/ID_GRID
+#: LABEL/ID_GRID
+msgid "Grid"
+msgstr "Grid"
+
+# TRANSLATION
+# LABEL/ID_GRID_FIELDS
+#: LABEL/ID_GRID_FIELDS
+msgid "Grid Fields"
+msgstr "Grid Fields"
+
+# TRANSLATION
+# LABEL/ID_GRID_NO_EXIST
+#: LABEL/ID_GRID_NO_EXIST
+msgid "Grid doesn't exist!"
+msgstr "Grid doesn't exist!"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_AUTHENTICATION_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_AUTHENTICATION_MESSAGE
+msgid "Displaying authentication sources {0} - {1} of {2}"
+msgstr "Displaying authentication sources {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_CALENDAR_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_CALENDAR_MESSAGE
+msgid "Displaying calendars {0} - {1} of {2}"
+msgstr "Displaying calendars {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_CATEGORY_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_CATEGORY_MESSAGE
+msgid "Displaying categories {0} - {1} of {2}"
+msgstr "Displaying categories {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_DASHLET_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_DASHLET_MESSAGE
+msgid "Displaying dashlets instances {0} - {1} of {2}"
+msgstr "Displaying dashlets instances {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_EMAIL_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_EMAIL_MESSAGE
+msgid "Displaying emails {0} - {1} of {2}"
+msgstr "Displaying emails {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_EVENT_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_EVENT_MESSAGE
+msgid "Displaying events {0} - {1} of {2}"
+msgstr "Displaying events {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_GROUPS_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_GROUPS_MESSAGE
+msgid "Displaying groups {0} - {1} of {2}"
+msgstr "Displaying groups {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_ITEMS
+#: LABEL/ID_GRID_PAGE_DISPLAYING_ITEMS
+msgid "Displaying items {0} - {1} of {2}"
+msgstr "Displaying items {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_PMTABLES_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_PMTABLES_MESSAGE
+msgid "Displaying PM Tables {0} - {1} of {2}"
+msgstr "Displaying PM Tables {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_REPORTABLES_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_REPORTABLES_MESSAGE
+msgid "Displaying Report Tables {0} - {1} of {2}"
+msgstr "Displaying Report Tables {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_REPORT_PERMISSIONS_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_REPORT_PERMISSIONS_MESSAGE
+msgid "Displaying Permissions Simple Reports {0} - {1} of {2}"
+msgstr "Displaying Permissions Simple Reports {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_ROLES_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_ROLES_MESSAGE
+msgid "Displaying roles {0} - {1} of {2}"
+msgstr "Displaying roles {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_ROWS_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_ROWS_MESSAGE
+msgid "Displaying rows {0} - {1} of {2}"
+msgstr "Displaying rows {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_SKIN_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_SKIN_MESSAGE
+msgid "Displaying skins {0} - {1} of {2}"
+msgstr "Displaying skins {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_DISPLAYING_USERS_MESSAGE
+#: LABEL/ID_GRID_PAGE_DISPLAYING_USERS_MESSAGE
+msgid "Displaying users {0} - {1} of {2}"
+msgstr "Displaying users {0} - {1} of {2}"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_AUTHENTICATION_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_AUTHENTICATION_MESSAGE
+msgid "No authentication sources to display"
+msgstr "No authentication sources to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_CALENDAR_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_CALENDAR_MESSAGE
+msgid "No calendars to display"
+msgstr "No calendars to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_CATEGORY_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_CATEGORY_MESSAGE
+msgid "No categories to display"
+msgstr "No categories to display"
+

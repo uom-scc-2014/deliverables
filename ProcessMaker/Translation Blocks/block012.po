@@ -1,0 +1,615 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ProcessMaker 2.5.2\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-10 00:33:46\n"
+"Last-Translator: \n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer_Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_DASHLET_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_DASHLET_MESSAGE
+msgid "No dashlets instances to display."
+msgstr "No dashlets instances to display."
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_EMAIL_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_EMAIL_MESSAGE
+msgid "No Emails to display"
+msgstr "No Emails to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_EVENT_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_EVENT_MESSAGE
+msgid "No Events to display"
+msgstr "No Events to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_GROUPS_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_GROUPS_MESSAGE
+msgid "No groups to display"
+msgstr "No groups to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_PERMISSIONS_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_PERMISSIONS_MESSAGE
+msgid "No Permissions to display"
+msgstr "No Permissions to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_PMTABLES_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_PMTABLES_MESSAGE
+msgid "No PM Tables to display"
+msgstr "No PM Tables to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_ROLES_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_ROLES_MESSAGE
+msgid "No roles to display"
+msgstr "No roles to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_ROWS_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_ROWS_MESSAGE
+msgid "No rows to display"
+msgstr "No rows to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_SKIN_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_SKIN_MESSAGE
+msgid "No skins to display"
+msgstr "No skins to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_PAGE_NO_USERS_MESSAGE
+#: LABEL/ID_GRID_PAGE_NO_USERS_MESSAGE
+msgid "No users to display"
+msgstr "No users to display"
+
+# TRANSLATION
+# LABEL/ID_GRID_WIZARD
+#: LABEL/ID_GRID_WIZARD
+msgid "ProcessMaker Grid Wizard"
+msgstr "ProcessMaker Grid Wizard"
+
+# TRANSLATION
+# LABEL/ID_GROUP
+#: LABEL/ID_GROUP
+msgid "[LABEL/ID_GROUP] Group"
+msgstr "Group"
+
+# TRANSLATION
+# LABEL/ID_GROUPS
+#: LABEL/ID_GROUPS
+msgid "Groups"
+msgstr "Groups"
+
+# TRANSLATION
+# LABEL/ID_GROUPS_ACTORS
+#: LABEL/ID_GROUPS_ACTORS
+msgid "Groups Actors"
+msgstr "Groups Actors"
+
+# TRANSLATION
+# LABEL/ID_GROUPS_SUCCESS_DELETE
+#: LABEL/ID_GROUPS_SUCCESS_DELETE
+msgid "Your group has been deleted correctly."
+msgstr "Your group has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_GROUPS_SUCCESS_NEW
+#: LABEL/ID_GROUPS_SUCCESS_NEW
+msgid "Group has been created correctly."
+msgstr "Group has been created correctly."
+
+# TRANSLATION
+# LABEL/ID_GROUPS_SUCCESS_UPDATE
+#: LABEL/ID_GROUPS_SUCCESS_UPDATE
+msgid "Group has been updated correctly."
+msgstr "Group has been updated correctly."
+
+# TRANSLATION
+# LABEL/ID_GROUPS_SYNCHRONIZE
+#: LABEL/ID_GROUPS_SYNCHRONIZE
+msgid "Synchronize Groups"
+msgstr "Synchronize Groups"
+
+# TRANSLATION
+# LABEL/ID_GROUP_CHART
+#: LABEL/ID_GROUP_CHART
+msgid "Group Chart"
+msgstr "Group Chart"
+
+# TRANSLATION
+# LABEL/ID_GROUP_CREATED_SUCCESSFULLY
+#: LABEL/ID_GROUP_CREATED_SUCCESSFULLY
+msgid "Group {GROUP_NAME} created successfully"
+msgstr "Group {GROUP_NAME} created successfully"
+
+# TRANSLATION
+# LABEL/ID_GROUP_INACTIVE
+#: LABEL/ID_GROUP_INACTIVE
+msgid "Group inactive"
+msgstr "Group inactive"
+
+# TRANSLATION
+# LABEL/ID_GROUP_NAME
+#: LABEL/ID_GROUP_NAME
+msgid "Group Name"
+msgstr "Group Name"
+
+# TRANSLATION
+# LABEL/ID_GROUP_NAME_REQUIRED
+#: LABEL/ID_GROUP_NAME_REQUIRED
+msgid "Group name is required"
+msgstr "Group name is required"
+
+# TRANSLATION
+# LABEL/ID_GROUP_NOT_REGISTERED_SYSTEM
+#: LABEL/ID_GROUP_NOT_REGISTERED_SYSTEM
+msgid "Group not registered in the system"
+msgstr "Group not registered in the system"
+
+# TRANSLATION
+# LABEL/ID_GROUP_USERS
+#: LABEL/ID_GROUP_USERS
+msgid "Group or Users"
+msgstr "Group or Users"
+
+# TRANSLATION
+# LABEL/ID_HAS_BEEN_DELETED
+#: LABEL/ID_HAS_BEEN_DELETED
+msgid "Has been deleted"
+msgstr "Has been deleted"
+
+# TRANSLATION
+# LABEL/ID_HEADER_ALIGN
+#: LABEL/ID_HEADER_ALIGN
+msgid "Align"
+msgstr "Align"
+
+# TRANSLATION
+# LABEL/ID_HEADER_FIELD_NAME
+#: LABEL/ID_HEADER_FIELD_NAME
+msgid "[LABEL/ID_HEADER_FIELD_NAME] Field Name"
+msgstr "Field Name"
+
+# TRANSLATION
+# LABEL/ID_HEADER_FIELD_TYPE
+#: LABEL/ID_HEADER_FIELD_TYPE
+msgid "Field Type"
+msgstr "Field Type"
+
+# TRANSLATION
+# LABEL/ID_HEADER_LABEL
+#: LABEL/ID_HEADER_LABEL
+msgid "Label"
+msgstr "Label"
+
+# TRANSLATION
+# LABEL/ID_HEADER_NUMBER
+#: LABEL/ID_HEADER_NUMBER
+msgid "[LABEL/ID_HEADER_NUMBER] #"
+msgstr "#"
+
+# TRANSLATION
+# LABEL/ID_HEADER_WIDTH
+#: LABEL/ID_HEADER_WIDTH
+msgid "Width"
+msgstr "Width"
+
+# TRANSLATION
+# LABEL/ID_HEARTBEAT_CONFIG
+#: LABEL/ID_HEARTBEAT_CONFIG
+msgid "Heart Beat"
+msgstr "Heart Beat"
+
+# TRANSLATION
+# LABEL/ID_HEARTBEAT_DISPLAY
+#: LABEL/ID_HEARTBEAT_DISPLAY
+msgid "[LABEL/ID_HEARTBEAT_DISPLAY] Heart Beat"
+msgstr "Heart Beat"
+
+# TRANSLATION
+# LABEL/ID_HEART_BEAT_DETAILS_1
+#: LABEL/ID_HEART_BEAT_DETAILS_1
+msgid "The usage statistics will help the development team to better understand user requirements and prioritize improvements in future releases."
+msgstr "The usage statistics will help the development team to better understand user requirements and prioritize improvements in future releases."
+
+# TRANSLATION
+# LABEL/ID_HEART_BEAT_DETAILS_2
+#: LABEL/ID_HEART_BEAT_DETAILS_2
+msgid "We cannot and will not reverse-engineer that collected data to find specific details concerning your projects."
+msgstr "We cannot and will not reverse-engineer that collected data to find specific details concerning your projects."
+
+# TRANSLATION
+# LABEL/ID_HEART_BEAT_DISABLED
+#: LABEL/ID_HEART_BEAT_DISABLED
+msgid "Heart beat has been disabled"
+msgstr "Heart beat has been disabled"
+
+# TRANSLATION
+# LABEL/ID_HEART_BEAT_ENABLED
+#: LABEL/ID_HEART_BEAT_ENABLED
+msgid "Heart beat has been enabled"
+msgstr "Heart beat has been enabled"
+
+# TRANSLATION
+# LABEL/ID_HIDE
+#: LABEL/ID_HIDE
+msgid "Hide"
+msgstr "Hide"
+
+# TRANSLATION
+# LABEL/ID_HIDE_PROCESS_INF
+#: LABEL/ID_HIDE_PROCESS_INF
+msgid "Hide Process Information"
+msgstr "Hide Process Information"
+
+# TRANSLATION
+# LABEL/ID_HISTORY
+#: LABEL/ID_HISTORY
+msgid "My Case History"
+msgstr "My Case History"
+
+# TRANSLATION
+# LABEL/ID_HISTORY_MESSAGES
+#: LABEL/ID_HISTORY_MESSAGES
+msgid "My History Messages"
+msgstr "My History Messages"
+
+# TRANSLATION
+# LABEL/ID_HISTORY_MESSAGE_CASE
+#: LABEL/ID_HISTORY_MESSAGE_CASE
+msgid "[LABEL/ID_HISTORY_MESSAGE_CASE] Messages History"
+msgstr "Messages History"
+
+# TRANSLATION
+# LABEL/ID_HOLIDAYS
+#: LABEL/ID_HOLIDAYS
+msgid "Holidays"
+msgstr "Holidays"
+
+# TRANSLATION
+# LABEL/ID_HOME
+#: LABEL/ID_HOME
+msgid "Home"
+msgstr "Home"
+
+# TRANSLATION
+# LABEL/ID_HOME_COLLAPSE_RIGHT_PANEL
+#: LABEL/ID_HOME_COLLAPSE_RIGHT_PANEL
+msgid "Collapse right panel when a Case is open"
+msgstr "Collapse right panel when a Case is open"
+
+# TRANSLATION
+# LABEL/ID_HOME_LISTS_DATE_FORMAT
+#: LABEL/ID_HOME_LISTS_DATE_FORMAT
+msgid "Date format on Lists"
+msgstr "Date format on Lists"
+
+# TRANSLATION
+# LABEL/ID_HOME_LISTS_ROWS_PER_PAGE
+#: LABEL/ID_HOME_LISTS_ROWS_PER_PAGE
+msgid "Rows per page on Lists"
+msgstr "Rows per page on Lists"
+
+# TRANSLATION
+# LABEL/ID_HOME_SETTINGS
+#: LABEL/ID_HOME_SETTINGS
+msgid "Home Settings"
+msgstr "Home Settings"
+
+# TRANSLATION
+# LABEL/ID_HORIZONTAL_LINE
+#: LABEL/ID_HORIZONTAL_LINE
+msgid "Horizontal Line"
+msgstr "Horizontal Line"
+
+# TRANSLATION
+# LABEL/ID_HOST
+#: LABEL/ID_HOST
+msgid "[LABEL/ID_HOST] Host"
+msgstr "Host"
+
+# TRANSLATION
+# LABEL/ID_HOST_NAME
+#: LABEL/ID_HOST_NAME
+msgid "Resolving Host Name"
+msgstr "Resolving Host Name"
+
+# TRANSLATION
+# LABEL/ID_HOST_NAME_LABEL
+#: LABEL/ID_HOST_NAME_LABEL
+msgid "Host Name"
+msgstr "Host Name"
+
+# TRANSLATION
+# LABEL/ID_HOUR
+#: LABEL/ID_HOUR
+msgid "Hour"
+msgstr "Hour"
+
+# TRANSLATION
+# LABEL/ID_HOURS
+#: LABEL/ID_HOURS
+msgid "Hours"
+msgstr "Hours"
+
+# TRANSLATION
+# LABEL/ID_HTML
+#: LABEL/ID_HTML
+msgid "HTML"
+msgstr "HTML"
+
+# TRANSLATION
+# LABEL/ID_IDENTIFIER_IMPORT_USER
+#: LABEL/ID_IDENTIFIER_IMPORT_USER
+msgid "Identifier for an imported user"
+msgstr "Identifier for an imported user"
+
+# TRANSLATION
+# LABEL/ID_IMAGE
+#: LABEL/ID_IMAGE
+msgid "Image"
+msgstr "Image"
+
+# TRANSLATION
+# LABEL/ID_IMAGES_SELECTED
+#: LABEL/ID_IMAGES_SELECTED
+msgid "images selected"
+msgstr "images selected"
+
+# TRANSLATION
+# LABEL/ID_IMPORT
+#: LABEL/ID_IMPORT
+msgid "Import"
+msgstr "Import"
+
+# TRANSLATION
+# LABEL/ID_IMPORTING_ERROR
+#: LABEL/ID_IMPORTING_ERROR
+msgid "Importing Error"
+msgstr "Importing Error"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_ALREADY_EXISTS
+#: LABEL/ID_IMPORT_ALREADY_EXISTS
+msgid "The process you are trying to import already exist. Please select one of the following options to continue:"
+msgstr "The process you are trying to import already exist. Please select one of the following options to continue:"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_CSV
+#: LABEL/ID_IMPORT_CSV
+msgid "CSV Import"
+msgstr "CSV Import"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_DATA_CSV
+#: LABEL/ID_IMPORT_DATA_CSV
+msgid "Import Data from CSV file"
+msgstr "Import Data from CSV file"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_PMT
+#: LABEL/ID_IMPORT_PMT
+msgid "Import PM Table"
+msgstr "Import PM Table"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_PROCESS
+#: LABEL/ID_IMPORT_PROCESS
+msgid "Import Process"
+msgstr "Import Process"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_RESULT
+#: LABEL/ID_IMPORT_RESULT
+msgid "IMPORT RESULT"
+msgstr "IMPORT RESULT"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_RT
+#: LABEL/ID_IMPORT_RT
+msgid "Import Report Table"
+msgstr "Import Report Table"
+
+# TRANSLATION
+# LABEL/ID_IMPORT_USERS
+#: LABEL/ID_IMPORT_USERS
+msgid "Import Users"
+msgstr "Import Users"
+
+# TRANSLATION
+# LABEL/ID_IN
+#: LABEL/ID_IN
+msgid "in"
+msgstr "in"
+
+# TRANSLATION
+# LABEL/ID_INACTIVE
+#: LABEL/ID_INACTIVE
+msgid "[LABEL/ID_INACTIVE] Inactive"
+msgstr "Inactive"
+
+# TRANSLATION
+# LABEL/ID_INBOX
+#: LABEL/ID_INBOX
+msgid "Inbox"
+msgstr "Inbox"
+
+# TRANSLATION
+# LABEL/ID_INCORRECT_EMAIL
+#: LABEL/ID_INCORRECT_EMAIL
+msgid "Your E-mail address is not valid."
+msgstr "Your E-mail address is not valid."
+
+# TRANSLATION
+# LABEL/ID_INCORRECT_USERNAME_PASSWORD
+#: LABEL/ID_INCORRECT_USERNAME_PASSWORD
+msgid "[LABEL/ID_INCORRECT_USERNAME_PASSWORD] Incorrect username or password"
+msgstr "Incorrect username or password"
+
+# TRANSLATION
+# LABEL/ID_INDEX_FILE_UPDATED
+#: LABEL/ID_INDEX_FILE_UPDATED
+msgid "Index File updated {0} with lang: {{1}}, skin: {{2}}"
+msgstr "Index File updated {0} with lang: {{1}}, skin: {{2}}"
+
+# TRANSLATION
+# LABEL/ID_INDEX_NOT_WRITEABLE
+#: LABEL/ID_INDEX_NOT_WRITEABLE
+msgid "The index file is not writable. <br/>Please give write permission to file:"
+msgstr "The index file is not writable. <br/>Please give write permission to file:"
+
+# TRANSLATION
+# LABEL/ID_INFO
+#: LABEL/ID_INFO
+msgid "Info"
+msgstr "Info"
+
+# TRANSLATION
+# LABEL/ID_INFORMATION
+#: LABEL/ID_INFORMATION
+msgid "[LABEL/ID_INFORMATION] Information"
+msgstr "Information"
+
+# TRANSLATION
+# LABEL/ID_INFORMATION_WAS_STORED_SUCCESSFULLY
+#: LABEL/ID_INFORMATION_WAS_STORED_SUCCESSFULLY
+msgid "information was stored successfully"
+msgstr "information was stored successfully"
+
+# TRANSLATION
+# LABEL/ID_INITIAL_DYNAFORM
+#: LABEL/ID_INITIAL_DYNAFORM
+msgid "Initial Dynaform"
+msgstr "Initial Dynaform"
+
+# TRANSLATION
+# LABEL/ID_INITIAL_TASK
+#: LABEL/ID_INITIAL_TASK
+msgid "Initial Task"
+msgstr "Initial Task"
+
+# TRANSLATION
+# LABEL/ID_INIT_DATE
+#: LABEL/ID_INIT_DATE
+msgid "Init Date"
+msgstr "Init Date"
+
+# TRANSLATION
+# LABEL/ID_INPUT_ASSIGN
+#: LABEL/ID_INPUT_ASSIGN
+msgid "Input Document has been successfully assigned to a Process"
+msgstr "Input Document has been successfully assigned to a Process"
+
+# TRANSLATION
+# LABEL/ID_INPUT_CREATE
+#: LABEL/ID_INPUT_CREATE
+msgid "Input document has been created successfully"
+msgstr "Input document has been created successfully"
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOCUMENT
+#: LABEL/ID_INPUT_DOCUMENT
+msgid "Input Document"
+msgstr "Input Document"
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_ACCESS
+#: LABEL/ID_INPUT_DOC_ACCESS
+msgid "Input Document Access"
+msgstr "Input Document Access"
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_DOESNT_EXIST
+#: LABEL/ID_INPUT_DOC_DOESNT_EXIST
+msgid "Input Document does not exist!"
+msgstr "Input Document does not exist!"
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_SUCCESS_DELETE
+#: LABEL/ID_INPUT_DOC_SUCCESS_DELETE
+msgid "Input Document has been deleted correctly."
+msgstr "Input Document has been deleted correctly."
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_SUCCESS_NEW
+#: LABEL/ID_INPUT_DOC_SUCCESS_NEW
+msgid "Input Document has been created correctly."
+msgstr "Input Document has been created correctly."
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_SUCCESS_UPDATE
+#: LABEL/ID_INPUT_DOC_SUCCESS_UPDATE
+msgid "Input Document has been updated correctly."
+msgstr "Input Document has been updated correctly."
+
+# TRANSLATION
+# LABEL/ID_INPUT_DOC_TITLE_REQUIRED
+#: LABEL/ID_INPUT_DOC_TITLE_REQUIRED
+msgid "Input Document Title is required."
+msgstr "Input Document Title is required."
+
+# TRANSLATION
+# LABEL/ID_INPUT_ERROR
+#: LABEL/ID_INPUT_ERROR
+msgid "Input Error"
+msgstr "Input Error"
+
+# TRANSLATION
+# LABEL/ID_INPUT_FAILED
+#: LABEL/ID_INPUT_FAILED
+msgid "Failed saving Input Document Assigned to process"
+msgstr "Failed saving Input Document Assigned to process"
+
+# TRANSLATION
+# LABEL/ID_INPUT_INFO
+#: LABEL/ID_INPUT_INFO
+msgid "Input Document Information"
+msgstr "Input Document Information"
+
+# TRANSLATION
+# LABEL/ID_INPUT_NOT_SAVE
+#: LABEL/ID_INPUT_NOT_SAVE
+msgid "[LABEL/ID_INPUT_NOT_SAVE] There is an Input Document with the same name in this process. It is not saving"
+msgstr "There is an Input Document with the same name in this process. It is not saving"
+
+# TRANSLATION
+# LABEL/ID_INPUT_REMOVE
+#: LABEL/ID_INPUT_REMOVE
+msgid "Input Document has been removed successfully from Process"
+msgstr "Input Document has been removed successfully from Process"
+
+# TRANSLATION
+# LABEL/ID_INPUT_UNAVAILABLE
+#: LABEL/ID_INPUT_UNAVAILABLE
+msgid "No Input Document are available. All Input Document have been already assigned."
+msgstr "No Input Document are available. All Input Document have been already assigned."
+
+# TRANSLATION
+# LABEL/ID_INPUT_UPDATE
+#: LABEL/ID_INPUT_UPDATE
+msgid "Input document has been updated successfully"
+msgstr "Input document has been updated successfully"
+
+# TRANSLATION
+# LABEL/ID_INPUT_WARNING
+#: LABEL/ID_INPUT_WARNING
+msgid "Input document assigned to a process supervisors cannot be deleted"
+msgstr "Input document assigned to a process supervisors cannot be deleted"
+
+# TRANSLATION
+# LABEL/ID_INSTALLATION_LOG
+#: LABEL/ID_INSTALLATION_LOG
+msgid "Installation log file"
+msgstr "Installation log file"
+
