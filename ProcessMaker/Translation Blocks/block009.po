@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:19+0200\n"
+"Last-Translator: Χριστίνα Τράντζα <kristi.trantza@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,211 +16,211 @@ msgstr ""
 # LABEL/ID_DIRECTORY
 #: LABEL/ID_DIRECTORY
 msgid "Directory"
-msgstr "Directory"
+msgstr "Κατάλογος"
 
 # TRANSLATION
 # LABEL/ID_DIRECTORY_FILE_PERMISSION
 #: LABEL/ID_DIRECTORY_FILE_PERMISSION
 msgid "Directory File Permission"
-msgstr "Directory File Permission"
+msgstr "Άδεια Αρχείων Καταλόγου"
 
 # TRANSLATION
 # LABEL/ID_DIRECTORY_NAME_EXISTS_ENTER_ANOTHER
 #: LABEL/ID_DIRECTORY_NAME_EXISTS_ENTER_ANOTHER
 msgid "The name \"{0}\" already exists, please enter another."
-msgstr "The name \"{0}\" already exists, please enter another."
+msgstr "Το όνομα \"{0}\" υπάρχει ήδη, παρακαλώ εισήγαγε άλλο."
 
 # TRANSLATION
 # LABEL/ID_DISABLE
 #: LABEL/ID_DISABLE
 msgid "Disable"
-msgstr "Disable"
+msgstr "Απενεργοποίηση"
 
 # TRANSLATION
 # LABEL/ID_DISABLED
 #: LABEL/ID_DISABLED
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "Απενεργοποιημένο"
 
 # TRANSLATION
 # LABEL/ID_DISABLE_ACTION
 #: LABEL/ID_DISABLE_ACTION
 msgid "Disable Action"
-msgstr "Disable Action"
+msgstr "Εντολή Απενεργοποίησης"
 
 # TRANSLATION
 # LABEL/ID_DISABLE_DEBUG
 #: LABEL/ID_DISABLE_DEBUG
 msgid "Disable Debug Mode"
-msgstr "Disable Debug Mode"
+msgstr "Απενεργοποίηση Λειτουργίας Εντοπισμού Σφαλμάτων "
 
 # TRANSLATION
 # LABEL/ID_DISABLE_FORGOT_PASSWORD
 #: LABEL/ID_DISABLE_FORGOT_PASSWORD
 msgid "Forgot password was disabled"
-msgstr "Forgot password was disabled"
+msgstr "Ο κωδικός πρόσβασης ήταν απενεργοποιημένος"
 
 # TRANSLATION
 # LABEL/ID_DISABLE_WORKSPACE
 #: LABEL/ID_DISABLE_WORKSPACE
 msgid "Disable Workspace"
-msgstr "Disable Workspace"
+msgstr "Απενεργοποιημένος Χώρος Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_DISB_WORKSPACE
 #: LABEL/ID_DISB_WORKSPACE
 msgid "This site is disabled"
-msgstr "This site is disabled"
+msgstr "Ο ιστότοπος είναι απενεργοποιημένος"
 
 # TRANSLATION
 # LABEL/ID_DISCARD_CHANGES
 #: LABEL/ID_DISCARD_CHANGES
 msgid "Discard Changes"
-msgstr "Discard Changes"
+msgstr "Απόρριψη αλλαγών"
 
 # TRANSLATION
 # LABEL/ID_DISPLAYING_DB_CONNECTION
 #: LABEL/ID_DISPLAYING_DB_CONNECTION
 msgid "Displaying DB Connection {0} - {1} of {2}"
-msgstr "Displaying DB Connection {0} - {1} of {2}"
+msgstr "Εμφάνιση DB Σύνδεσης {0} - {1} από {2}"
 
 # TRANSLATION
 # LABEL/ID_DISPLAY_EMPTY
 #: LABEL/ID_DISPLAY_EMPTY
 msgid "Displaying Empty"
-msgstr "Displaying Empty"
+msgstr "Κενή Εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_DISPLAY_ITEMS
 #: LABEL/ID_DISPLAY_ITEMS
 msgid "Display Items {0} - {1} of {2}"
-msgstr "Display Items {0} - {1} of {2}"
+msgstr "Εμφάνιση Αντικειμένου {0} - {1} από {2}"
 
 # TRANSLATION
 # LABEL/ID_DISPLAY_OF
 #: LABEL/ID_DISPLAY_OF
 msgid "of"
-msgstr "of"
+msgstr "από"
 
 # TRANSLATION
 # LABEL/ID_DISPLAY_PROCESSES
 #: LABEL/ID_DISPLAY_PROCESSES
 msgid "Displaying Processes {0} - {1} of {2}"
-msgstr "Displaying Processes {0} - {1} of {2}"
+msgstr "Διαδικασία Εμφάνισης {0} - {1} από {2}"
 
 # TRANSLATION
 # LABEL/ID_DISPLAY_TOTAL
 #: LABEL/ID_DISPLAY_TOTAL
 msgid "Total {2}"
-msgstr "Total {2}"
+msgstr "Σύνολο {2}"
 
 # TRANSLATION
 # LABEL/ID_DOCLICK
 #: LABEL/ID_DOCLICK
 msgid "Double click to insert"
-msgstr "Double click to insert"
+msgstr "Διπλό κλικ για εισαγωγή"
 
 # TRANSLATION
 # LABEL/ID_DOCUMENT_TYPE
 #: LABEL/ID_DOCUMENT_TYPE
 msgid "PM Type"
-msgstr "PM Type"
+msgstr "PM Τύπος"
 
 # TRANSLATION
 # LABEL/ID_DOES_NOT_EXIST
 #: LABEL/ID_DOES_NOT_EXIST
 msgid "does not exist"
-msgstr "does not exist"
+msgstr "δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_DOES_NOT_EXIST_AVAILABLE_CONNECTION
 #: LABEL/ID_DOES_NOT_EXIST_AVAILABLE_CONNECTION
 msgid "Does not exist an available connection"
-msgstr "Does not exist an available connection"
+msgstr "Δεν υπάρχει διαθέσιμη σύνδεση "
 
 # TRANSLATION
 # LABEL/ID_DONE
 #: LABEL/ID_DONE
 msgid "Done"
-msgstr "Done"
+msgstr "Έγινε"
 
 # TRANSLATION
 # LABEL/ID_DONT_MODIFY_PK_VALUE
 #: LABEL/ID_DONT_MODIFY_PK_VALUE
 msgid "You can not modify the primary key value for \"{0}\" field."
-msgstr "You can not modify the primary key value for \"{0}\" field."
+msgstr "Δεν μπορείς να τροποποιήσεις την τιμή του πρωτεύοντος κλειδιού στο \"{0}\" πεδίο."
 
 # TRANSLATION
 # LABEL/ID_DOWN
 #: LABEL/ID_DOWN
 msgid "Down"
-msgstr "Down"
+msgstr "Κάτω"
 
 # TRANSLATION
 # LABEL/ID_DOWNLOAD
 #: LABEL/ID_DOWNLOAD
 msgid "Download"
-msgstr "Download"
+msgstr "Κατέβασμα"
 
 # TRANSLATION
 # LABEL/ID_DOWNLOADING_FILE
 #: LABEL/ID_DOWNLOADING_FILE
 msgid "Downloading file"
-msgstr "Downloading file"
+msgstr "Κατέβασμα αρχείου"
 
 # TRANSLATION
 # LABEL/ID_DRAFT
 #: LABEL/ID_DRAFT
 msgid "[LABEL/ID_DRAFT] Draft"
-msgstr "Draft"
+msgstr "Προσχέδιο"
 
 # TRANSLATION
 # LABEL/ID_DROP_DATABASE_EXISTS
 #: LABEL/ID_DROP_DATABASE_EXISTS
 msgid "Drop database if exists"
-msgstr "Drop database if exists"
+msgstr "Πέταγμα βάσης δεδομένων, εφόσον υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_DUE_DATE
 #: LABEL/ID_DUE_DATE
 msgid "[LABEL/ID_DUE_DATE] Due Date"
-msgstr "Due Date"
+msgstr "Ημερομηνία Λήξης"
 
 # TRANSLATION
 # LABEL/ID_DUPLICATE_CASE_SCHEDULER_NAME
 #: LABEL/ID_DUPLICATE_CASE_SCHEDULER_NAME
 msgid "Duplicate Case Scheduler name."
-msgstr "Duplicate Case Scheduler name."
+msgstr "Διπλότυπο όνομα επιλογής."
 
 # TRANSLATION
 # LABEL/ID_DUPLICATE_CATEGORY_NAME
 #: LABEL/ID_DUPLICATE_CATEGORY_NAME
 msgid "[LABEL/ID_DUPLICATE_CATEGORY_NAME] Duplicate category name."
-msgstr "Duplicate category name."
+msgstr "Διπλότυπο όνομα κατηγορίας."
 
 # TRANSLATION
 # LABEL/ID_DUPLICATE_ENTRY_PRIMARY_KEY
 #: LABEL/ID_DUPLICATE_ENTRY_PRIMARY_KEY
 msgid "Duplicate entry for primary key"
-msgstr "Duplicate entry for primary key"
+msgstr "Διπλότυπη εισαγωγή για πρωτεύον κλειδί"
 
 # TRANSLATION
 # LABEL/ID_DYANFORM_CREATED
 #: LABEL/ID_DYANFORM_CREATED
 msgid "Dynaform has been created successfully"
-msgstr "Dynaform has been created successfully"
+msgstr "Dynaform δημιουργήθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_DYANFORM_REMOVE
 #: LABEL/ID_DYANFORM_REMOVE
 msgid "Dynaform has been removed successfully from Process"
-msgstr "Dynaform has been removed successfully from Process"
+msgstr "Dynaform αφαιρλεθηκε επιτυχώς από τη Διαδικασία"
 
 # TRANSLATION
 # LABEL/ID_DYNADOC
 #: LABEL/ID_DYNADOC
 msgid "My Case Forms and Documents"
-msgstr "My Case Forms and Documents"
+msgstr "Φόρμες και Έγγραφά μου"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM
@@ -239,91 +238,91 @@ msgstr "DynaForms"
 # LABEL/ID_DYNAFORM_ASSIGN
 #: LABEL/ID_DYNAFORM_ASSIGN
 msgid "Dynaform has been successfully assigned to a Process"
-msgstr "Dynaform has been successfully assigned to a Process"
+msgstr "Dynaform ανατεθέθηκε επιτυχώς σε μία Διεργασία"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_ASSIGN_FAILED
 #: LABEL/ID_DYNAFORM_ASSIGN_FAILED
 msgid "Failed saving Dynaform Assigned to process"
-msgstr "Failed saving Dynaform Assigned to process"
+msgstr "Αποτυχία αποθηκευμένου  Dynaform Assigned να εξελιχθεί"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_COPY
 #: LABEL/ID_DYNAFORM_COPY
 msgid "Copy/Import Dynaform"
-msgstr "Copy/Import Dynaform"
+msgstr "Αντιγραφή/Εισαγωγή Dynaform"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_COPY_REQUIRED
 #: LABEL/ID_DYNAFORM_COPY_REQUIRED
 msgid "Select the dynaform you want to copy/import."
-msgstr "Select the dynaform you want to copy/import."
+msgstr "Επέλεξε την dynaform για αντιγραφή/εισαγωγή."
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_EDITOR
 #: LABEL/ID_DYNAFORM_EDITOR
 msgid "DynaForm Editor"
-msgstr "DynaForm Editor"
+msgstr "DynaForm Επεξεργαστής"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_EDITOR_LOGIN_AGAIN
 #: LABEL/ID_DYNAFORM_EDITOR_LOGIN_AGAIN
 msgid "You have lost your session and you have to login to continue. Please enter your password."
-msgstr "You have lost your session and you have to login to continue. Please enter your password."
+msgstr "Έχεις χάσει τη συνεδρία σου και θα πρέπει να συνδεθείς για να συνεχίσεις. Παρακαλώ εισήγαγε τον κωδικό σου."
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_EDITOR_SAVE_CHANGES
 #: LABEL/ID_DYNAFORM_EDITOR_SAVE_CHANGES
 msgid "Do you want to save changes?"
-msgstr "Do you want to save changes?"
+msgstr "Θέλεις να αποθηκευτούν οι αλλαγές;"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_FIELD
 #: LABEL/ID_DYNAFORM_FIELD
 msgid "Dynaform Field"
-msgstr "Dynaform Field"
+msgstr "Dynaform Πεδίο"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_FIELDS
 #: LABEL/ID_DYNAFORM_FIELDS
 msgid "Dynaform Fields"
-msgstr "Dynaform Fields"
+msgstr "Dynaform Πεδία"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_HASNOSUBMITBTN
 #: LABEL/ID_DYNAFORM_HASNOSUBMITBTN
 msgid "Warning: This DynaForm does not include a [Submit] or [Button] field to save any entered data."
-msgstr "Warning: This DynaForm does not include a [Submit] or [Button] field to save any entered data."
+msgstr "Προσοχή: Αυτό το DynaForm δεν περιέχει ένα [Submit] ή [Button] πεδίο για αποθήκευση κάθε δεδομένου εισαγωγής."
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_HISTORY
 #: LABEL/ID_DYNAFORM_HISTORY
 msgid "Change Log"
-msgstr "Change Log"
+msgstr "Αλλαγή Σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_INFORMATION
 #: LABEL/ID_DYNAFORM_INFORMATION
 msgid "Dynaform Information"
-msgstr "Dynaform Information"
+msgstr "Dynaform Πληροφορίες"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_REMOVED
 #: LABEL/ID_DYNAFORM_REMOVED
 msgid "Dynaform has been removed successfully"
-msgstr "Dynaform has been removed successfully"
+msgstr "Dynaform διαγράφηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_SAVE_CHANGES
 #: LABEL/ID_DYNAFORM_SAVE_CHANGES
 msgid "[LABEL/ID_DYNAFORM_SAVE_CHANGES] Do you want to save changes?"
-msgstr "Do you want to save changes?"
+msgstr "Θέλεις να αποθηκευτούν οι αλλαγές σου;"
 
 # TRANSLATION
 # LABEL/ID_DYNAFORM_TITLE_REQUIRED
 #: LABEL/ID_DYNAFORM_TITLE_REQUIRED
 msgid "Dynaform Title Required"
-msgstr "Dynaform Title Required"
+msgstr "Απαιτείται Τίτλος Dynaform "
 
 # TRANSLATION
 # LABEL/ID_EASTPANEL
@@ -335,133 +334,133 @@ msgstr "eastPanel"
 # LABEL/ID_EDIT
 #: LABEL/ID_EDIT
 msgid "[LABEL/ID_EDIT] Edit"
-msgstr "Edit"
+msgstr "Επεξεργασία"
 
 # TRANSLATION
 # LABEL/ID_EDITING_DYNAFORM
 #: LABEL/ID_EDITING_DYNAFORM
 msgid "Editing the dynaform"
-msgstr "Editing the dynaform"
+msgstr "Επεξεργασία του dynaform"
 
 # TRANSLATION
 # LABEL/ID_EDIT_ACTION
 #: LABEL/ID_EDIT_ACTION
 msgid "Edit Action"
-msgstr "Edit Action"
+msgstr "Εντολή Επεξεργασίας"
 
 # TRANSLATION
 # LABEL/ID_EDIT_BPMN
 #: LABEL/ID_EDIT_BPMN
 msgid "Edit BPMN"
-msgstr "Edit BPMN"
+msgstr "Επεξεργασία BPMN"
 
 # TRANSLATION
 # LABEL/ID_EDIT_CATEGORY
 #: LABEL/ID_EDIT_CATEGORY
 msgid "Edit Process Category"
-msgstr "Edit Process Category"
+msgstr "Επεξεργασία Καταλόγου Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_EDIT_CONDITIONS_OF_STEP
 #: LABEL/ID_EDIT_CONDITIONS_OF_STEP
 msgid "Edit step conditions"
-msgstr "Edit step conditions"
+msgstr "Επεξεργασία συνθηκών"
 
 # TRANSLATION
 # LABEL/ID_EDIT_DBC
 #: LABEL/ID_EDIT_DBC
 msgid "Edit Database Connection"
-msgstr "Edit Database Connection"
+msgstr "Επεξεργασία Σύνδεσης Βάσεις Δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_EDIT_DEPARTMENT
 #: LABEL/ID_EDIT_DEPARTMENT
 msgid "Edit Department"
-msgstr "Edit Department"
+msgstr "Επεξεργασία Τμήματος"
 
 # TRANSLATION
 # LABEL/ID_EDIT_DYNAFORM
 #: LABEL/ID_EDIT_DYNAFORM
 msgid "Edit DynaForm"
-msgstr "Edit DynaForm"
+msgstr "Επεξεργασία DynaForm"
 
 # TRANSLATION
 # LABEL/ID_EDIT_EVENT
 #: LABEL/ID_EDIT_EVENT
 msgid "Edit Event"
-msgstr "Edit Event"
+msgstr "Επεξεργασία Γεγονότος"
 
 # TRANSLATION
 # LABEL/ID_EDIT_FIELD
 #: LABEL/ID_EDIT_FIELD
 msgid "Edit Field"
-msgstr "Edit Field"
+msgstr "Επεξεργασία Πεδίου"
 
 # TRANSLATION
 # LABEL/ID_EDIT_GROUP_TITLE
 #: LABEL/ID_EDIT_GROUP_TITLE
 msgid "Edit Group"
-msgstr "Edit Group"
+msgstr "Επεξεργασία Ομάδας"
 
 # TRANSLATION
 # LABEL/ID_EDIT_INPUTDOCS
 #: LABEL/ID_EDIT_INPUTDOCS
 msgid "Edit Input Document"
-msgstr "Edit Input Document"
+msgstr "Επεξεργασία Αρχείου Εισαγωγής"
 
 # TRANSLATION
 # LABEL/ID_EDIT_MEMBEROF
 #: LABEL/ID_EDIT_MEMBEROF
 msgid "Edit Member Of"
-msgstr "Edit Member Of"
+msgstr "Επεξεργασία Μέλους για"
 
 # TRANSLATION
 # LABEL/ID_EDIT_MEMBERS
 #: LABEL/ID_EDIT_MEMBERS
 msgid "Edit Members"
-msgstr "Edit Members"
+msgstr "Επεξεργασία Μελών"
 
 # TRANSLATION
 # LABEL/ID_EDIT_PERMISSIONS
 #: LABEL/ID_EDIT_PERMISSIONS
 msgid "Edit Permissions"
-msgstr "Edit Permissions"
+msgstr "Επεξεργασία Αδειών"
 
 # TRANSLATION
 # LABEL/ID_EDIT_REPORT_TABLE
 #: LABEL/ID_EDIT_REPORT_TABLE
 msgid "Edit Report Table"
-msgstr "Edit Report Table"
+msgstr "Επεξεργασία Πίνακα Αναφοράς"
 
 # TRANSLATION
 # LABEL/ID_EDIT_ROLE_TITLE
 #: LABEL/ID_EDIT_ROLE_TITLE
 msgid "Edit Role"
-msgstr "Edit Role"
+msgstr "Επεξεργασία Ρόλου"
 
 # TRANSLATION
 # LABEL/ID_EDIT_TRIGGERS
 #: LABEL/ID_EDIT_TRIGGERS
 msgid "Edit Trigger"
-msgstr "Edit Trigger"
+msgstr "Επεξεργασία Εναύσματος"
 
 # TRANSLATION
 # LABEL/ID_EDIT_USERS
 #: LABEL/ID_EDIT_USERS
 msgid "Edit Users"
-msgstr "Edit Users"
+msgstr "Επεξεργασία Χρηστών"
 
 # TRANSLATION
 # LABEL/ID_EDIT_VIEW_USER_GROUP
 #: LABEL/ID_EDIT_VIEW_USER_GROUP
 msgid "View user groups"
-msgstr "View user groups"
+msgstr "Εμφάνιση ομάδων χρηστών"
 
 # TRANSLATION
 # LABEL/ID_EDIT_WEB_ENTRY
 #: LABEL/ID_EDIT_WEB_ENTRY
 msgid "Edit Web Entry"
-msgstr "Edit Web Entry"
+msgstr "Επεξεργασία Διαδικτυακής Εισαγωγής"
 
 # TRANSLATION
 # LABEL/ID_EMAIL
