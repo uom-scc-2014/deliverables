@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: Γιαγκούλας Παναγιώτης <pgiagkoulas@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,79 +16,79 @@ msgstr ""
 # LABEL/ID_ADD_LICENSE
 #: LABEL/ID_ADD_LICENSE
 msgid "Please add a new license"
-msgstr "Please add a new license"
+msgstr "Παρακαλώ προσθέστε νέα άδεια"
 
 # TRANSLATION
 # LABEL/ID_ADD_MESSAGE
 #: LABEL/ID_ADD_MESSAGE
 msgid "Add message"
-msgstr "Add message"
+msgstr "Προσέθεσε Μήνυμα"
 
 # TRANSLATION
 # LABEL/ID_ADD_NOTE
 #: LABEL/ID_ADD_NOTE
 msgid "Add Note"
-msgstr "Add Note"
+msgstr "Προσέθεσε Σημείωση"
 
 # TRANSLATION
 # LABEL/ID_ADD_ROW
 #: LABEL/ID_ADD_ROW
 msgid "Add Row"
-msgstr "Add Row"
+msgstr "Προσέθεσε Γραμμή"
 
 # TRANSLATION
 # LABEL/ID_ADD_USER_OF_TASK
 #: LABEL/ID_ADD_USER_OF_TASK
 msgid "Last executor of the task"
-msgstr "Last executor of the task"
+msgstr "Τελευταίος χρήστης της διεργασίας"
 
 # TRANSLATION
 # LABEL/ID_ADHOC_ASSIGNMENT
 #: LABEL/ID_ADHOC_ASSIGNMENT
 msgid "Adhoc Assignment"
-msgstr "Adhoc Assignment"
+msgstr "Εξειδικευμένη Ανάθεση"
 
 # TRANSLATION
 # LABEL/ID_ADHOC_GROUPS_ACTORS
 #: LABEL/ID_ADHOC_GROUPS_ACTORS
 msgid "Ad Hoc Groups Actors"
-msgstr "Ad Hoc Groups Actors"
+msgstr "Εξειδικευμένες Ομάδες Δραστών"
 
 # TRANSLATION
 # LABEL/ID_ADHOC_USERS_ACTORS
 #: LABEL/ID_ADHOC_USERS_ACTORS
 msgid "Ad hoc Users Actors"
-msgstr "Ad hoc Users Actors"
+msgstr "Εξειδικευμένοι Χρήστες Δραστών"
 
 # TRANSLATION
 # LABEL/ID_ADMINISTRATOR_ROLE_CANT_CHANGED
 #: LABEL/ID_ADMINISTRATOR_ROLE_CANT_CHANGED
 msgid "The administrator's role can't be changed!"
-msgstr "The administrator's role can't be changed!"
+msgstr "Ο ρόλος του διαχειριστή δεν μπορεί να μεταβληθεί!"
 
 # TRANSLATION
 # LABEL/ID_ADMINS_CANT_USE_UXS
 #: LABEL/ID_ADMINS_CANT_USE_UXS
 msgid "Administrators users cannot use this User Experience."
-msgstr "Administrators users cannot use this User Experience."
+msgstr "Οι Διαχειριστές χρήστες δεν μπορούν να χρησιμοποιήσουν αυτή τη Λειτουργία Χρήστη"
 
 # TRANSLATION
 # LABEL/ID_ADMIN_PASSWORD
 #: LABEL/ID_ADMIN_PASSWORD
 msgid "Confirm Admin Password"
-msgstr "Confirm Admin Password"
+msgstr "Επιβεβαίωσε κωδικό Διαχειριστή"
 
 # TRANSLATION
 # LABEL/ID_ADMIN_PASSWORD_LABEL
 #: LABEL/ID_ADMIN_PASSWORD_LABEL
 msgid "Admin Password"
-msgstr "Admin Password"
+msgstr "Κωδικός Διαχειριστή"
 
 # TRANSLATION
 # LABEL/ID_ADMIN_USERNAME
 #: LABEL/ID_ADMIN_USERNAME
 msgid "Admin Username"
-msgstr "Admin Username"
+msgstr "Όνομα Χρήστη Διαχειριστή"
 
 # TRANSLATION
 # LABEL/ID_ADVANCEDSEARCH
@@ -101,271 +100,271 @@ msgstr "Advanced Search"
 # LABEL/ID_AD_HOC_ACTORS
 #: LABEL/ID_AD_HOC_ACTORS
 msgid "Ad Hoc Actors"
-msgstr "Ad Hoc Actors"
+msgstr "Εξειδικευμένοι Δράστες"
 
 # TRANSLATION
 # LABEL/ID_AFTER
 #: LABEL/ID_AFTER
 msgid "After"
-msgstr "After"
+msgstr "Μετά"
 
 # TRANSLATION
 # LABEL/ID_AFTER_DERIVATION
 #: LABEL/ID_AFTER_DERIVATION
 msgid "After Routing"
-msgstr "After Routing"
+msgstr "Μετά  τη Δρομολόγηση"
 
 # TRANSLATION
 # LABEL/ID_AFTER_ROUTING_NOTIFY
 #: LABEL/ID_AFTER_ROUTING_NOTIFY
 msgid "After routing notify the next assigned user(s)."
-msgstr "After routing notify the next assigned user(s)."
+msgstr "Μετά  τη Δρομολόγηση ενημέρωσε τον επόμενο εκχωρημένο χρήστη"
 
 # TRANSLATION
 # LABEL/ID_AGREE
 #: LABEL/ID_AGREE
 msgid "I agree"
-msgstr "I agree"
+msgstr "Συμφωνώ"
 
 # TRANSLATION
 # LABEL/ID_AJAX_COMMUNICATION_FAILED
 #: LABEL/ID_AJAX_COMMUNICATION_FAILED
 msgid "Ajax communication failed"
-msgstr "Ajax communication failed"
+msgstr "Επικοινωνία Ajax απέτυχε"
 
 # TRANSLATION
 # LABEL/ID_ALERT
 #: LABEL/ID_ALERT
 msgid "Alert"
-msgstr "Alert"
+msgstr "Συναγερμός"
 
 # TRANSLATION
 # LABEL/ID_ALERT_MESSAGE
 #: LABEL/ID_ALERT_MESSAGE
 msgid "Alert Message"
-msgstr "Alert Message"
+msgstr "Μήνυμα Συναγερμού"
 
 # TRANSLATION
 # LABEL/ID_ALL
 #: LABEL/ID_ALL
 msgid "All"
-msgstr "All"
+msgstr "Όλα"
 
 # TRANSLATION
 # LABEL/ID_ALLOW_ARBITARY_TRANSFER
 #: LABEL/ID_ALLOW_ARBITARY_TRANSFER
 msgid "Allow arbitary transfer (Ad hoc)"
-msgstr "Allow arbitary transfer (Ad hoc)"
+msgstr "Επέτρεψε αυθαίρετη μεταφορά (Εξειδικευμένη)"
 
 # TRANSLATION
 # LABEL/ID_ALL_CATEGORIES
 #: LABEL/ID_ALL_CATEGORIES
 msgid "All Categories"
-msgstr "All Categories"
+msgstr "Όλες οι Κατηγορίες"
 
 # TRANSLATION
 # LABEL/ID_ALL_PROCESS
 #: LABEL/ID_ALL_PROCESS
 msgid "All Processes"
-msgstr "All Processes"
+msgstr "Όλες οι Διεργασίες"
 
 # TRANSLATION
 # LABEL/ID_ALL_RECORDS_DELETED_SUCESSFULLY
 #: LABEL/ID_ALL_RECORDS_DELETED_SUCESSFULLY
 msgid "All records was deleted successfully!"
-msgstr "All records was deleted successfully!"
+msgstr "Όλες οι καταγραφές έχουν διαγραφεί επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_ALL_STATUS
 #: LABEL/ID_ALL_STATUS
 msgid "All Status"
-msgstr "All Status"
+msgstr "Όλες οι Καταστάσεις"
 
 # TRANSLATION
 # LABEL/ID_ALL_USERS
 #: LABEL/ID_ALL_USERS
 msgid "All Users"
-msgstr "All Users"
+msgstr "Όλοι οι Χρήστες"
 
 # TRANSLATION
 # LABEL/ID_ALL_VARIABLES
 #: LABEL/ID_ALL_VARIABLES
 msgid "All Variables"
-msgstr "All Variables"
+msgstr "Όλες οι Μεταβλητές"
 
 # TRANSLATION
 # LABEL/ID_ALL_WORKSPACES
 #: LABEL/ID_ALL_WORKSPACES
 msgid "All Workspaces"
-msgstr "All Workspaces"
+msgstr "Όλοι οι Χώροι Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_ANONYMOUS
 #: LABEL/ID_ANONYMOUS
 msgid "Anonymous"
-msgstr "Anonymous"
+msgstr "Ανώνυμος"
 
 # TRANSLATION
 # LABEL/ID_ANY
 #: LABEL/ID_ANY
 msgid "Any"
-msgstr "Any"
+msgstr "Κάθε"
 
 # TRANSLATION
 # LABEL/ID_ANY_TASK
 #: LABEL/ID_ANY_TASK
 msgid "All Tasks"
-msgstr "All Tasks"
+msgstr "Όλα τα Καθήκοντα"
 
 # TRANSLATION
 # LABEL/ID_APPCACHE_SETUP
 #: LABEL/ID_APPCACHE_SETUP
 msgid "Cases List Cache Builder"
-msgstr "Cases List Cache Builder"
+msgstr ""
 
 # TRANSLATION
 # LABEL/ID_APPLICATIONS
 #: LABEL/ID_APPLICATIONS
 msgid "DESIGNER"
-msgstr "DESIGNER"
+msgstr "ΣΧΕΔΙΑΣΤΗΣ"
 
 # TRANSLATION
 # LABEL/ID_APPLY
 #: LABEL/ID_APPLY
 msgid "Apply"
-msgstr "Apply"
+msgstr "Εφάρμοσε"
 
 # TRANSLATION
 # LABEL/ID_APPLY_AS_MAIN_LOGO
 #: LABEL/ID_APPLY_AS_MAIN_LOGO
 msgid "Apply as main logo"
-msgstr "Apply as main logo"
+msgstr "Εφάρμοσε σαν κύριο σύμβολο"
 
 # TRANSLATION
 # LABEL/ID_APPLY_CHANGES
 #: LABEL/ID_APPLY_CHANGES
 msgid "Apply changes"
-msgstr "Apply changes"
+msgstr "Εφάρμοσε αλλαγές"
 
 # TRANSLATION
 # LABEL/ID_APP_MSG_BODY
 #: LABEL/ID_APP_MSG_BODY
 msgid "Body"
-msgstr "Body"
+msgstr "Σώμα"
 
 # TRANSLATION
 # LABEL/ID_ARE_YOU_SURE_RESEND
 #: LABEL/ID_ARE_YOU_SURE_RESEND
 msgid "Are you sure that you want to resend this message"
-msgstr "Are you sure that you want to resend this message"
+msgstr "Είσαι σίγουρος ότι θέλεις να ξαναστείλεις αυτό το μήνυμα"
 
 # TRANSLATION
 # LABEL/ID_ARRAY_VARIABLES_EMPTY
 #: LABEL/ID_ARRAY_VARIABLES_EMPTY
 msgid "Array of variables is empty"
-msgstr "Array of variables is empty"
+msgstr "Η σειρά μεταβλητών είναι άδεια"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN
 #: LABEL/ID_ASSIGN
 msgid "Assign"
-msgstr "Assign"
+msgstr "Ανέθεσε"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_FIEDS
 #: LABEL/ID_ASSIGNED_FIEDS
 msgid "ASSIGNED FIELDS"
-msgstr "ASSIGNED FIELDS"
+msgstr "ΑΝΑΘΕΤΗΜΕΝΑ ΠΕΔΙΑ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_GROUPS
 #: LABEL/ID_ASSIGNED_GROUPS
 msgid "ASSIGNED GROUPS"
-msgstr "ASSIGNED GROUPS"
+msgstr "ΑΝΑΘΕΤΗΜΕΝΕΣ ΟΜΑΔΕΣ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_MEMBERS
 #: LABEL/ID_ASSIGNED_MEMBERS
 msgid "MEMBERS"
-msgstr "MEMBERS"
+msgstr "ΜΕΛΗ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_PERMISSIONS
 #: LABEL/ID_ASSIGNED_PERMISSIONS
 msgid "ASSIGNED PERMISSIONS"
-msgstr "ASSIGNED PERMISSIONS"
+msgstr "ΑΝΑΘΕΤΗΜΕΝΕΣ ΑΔΕΙΕΣ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_PERMISSIONS_FOR
 #: LABEL/ID_ASSIGNED_PERMISSIONS_FOR
 msgid "ASSIGNED PERMISSIONS FOR"
-msgstr "ASSIGNED PERMISSIONS FOR"
+msgstr "ΑΝΑΘΕΤΗΜΕΝΕΣ ΑΔΕΙΕΣ ΓΙΑ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_TO
 #: LABEL/ID_ASSIGNED_TO
 msgid "Assigned To"
-msgstr "Assigned To"
+msgstr "Αναθετημένα σε"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNED_USERS
 #: LABEL/ID_ASSIGNED_USERS
 msgid "ASSIGNED USERS"
-msgstr "ASSIGNED USERS"
+msgstr "ΑΝΑΘΕΤΗΜΕΝΟΙ ΧΡΗΣΤΕΣ"
 
 # TRANSLATION
 # LABEL/ID_ASSIGNMENT_CASE
 #: LABEL/ID_ASSIGNMENT_CASE
 msgid "Assignment case..."
-msgstr "Assignment case..."
+msgstr "Υπόθεση ανάθεσης..."
 
 # TRANSLATION
 # LABEL/ID_ASSIGNMENT_RULES
 #: LABEL/ID_ASSIGNMENT_RULES
 msgid "Assignment Rules"
-msgstr "Assignment Rules"
+msgstr "Κανόνες ανάθεσης"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_ALL_GROUPS
 #: LABEL/ID_ASSIGN_ALL_GROUPS
 msgid "Assign All Groups"
-msgstr "Assign All Groups"
+msgstr "Ανέθεσε Όλες τις Ομάδες"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_ALL_MEMBERS
 #: LABEL/ID_ASSIGN_ALL_MEMBERS
 msgid "Assign All Members"
-msgstr "Assign All Members"
+msgstr "Ανέθεσε Όλα τα Μέλη"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_ALL_PERMISSIONS
 #: LABEL/ID_ASSIGN_ALL_PERMISSIONS
 msgid "Assign All Permissions"
-msgstr "Assign All Permissions"
+msgstr "Ανέθεσε Όλες τις Άδειες"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_ALL_USERS
 #: LABEL/ID_ASSIGN_ALL_USERS
 msgid "Assign All Users"
-msgstr "Assign All Users"
+msgstr "Ανέθεσε Όλους τους Χρήστες"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_GROUP
 #: LABEL/ID_ASSIGN_GROUP
 msgid "Assign group"
-msgstr "Assign group"
+msgstr "Ανέθεσε Ομάδα"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_GROUP_TO
 #: LABEL/ID_ASSIGN_GROUP_TO
 msgid "Assign group to"
-msgstr "Assign group to"
+msgstr "Ανέθεσε ομάδα σε"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_ROLE
 #: LABEL/ID_ASSIGN_ROLE
 msgid "Assign user"
-msgstr "Assign user"
+msgstr "Ανέθεσε Χρήστη"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_RULES
@@ -377,79 +376,79 @@ msgstr "Error: There is a problem with the next tasks of this process. One of th
 # LABEL/ID_ASSIGN_SCREEN
 #: LABEL/ID_ASSIGN_SCREEN
 msgid "Assign Screen"
-msgstr "Assign Screen"
+msgstr "Ανέθεσε Οθόνη"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_TASK
 #: LABEL/ID_ASSIGN_TASK
 msgid "Assign Task"
-msgstr "Assign Task"
+msgstr "Ανέθεσε Καθήκον"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_THE_ROLE
 #: LABEL/ID_ASSIGN_THE_ROLE
 msgid "Assign the role"
-msgstr "Assign the role"
+msgstr "Ανέθεσε Ρόλο"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_TO
 #: LABEL/ID_ASSIGN_TO
 msgid "Assign To"
-msgstr "Assign To"
+msgstr "Ανέθεσε σε"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_TRIGGERS
 #: LABEL/ID_ASSIGN_TRIGGERS
 msgid "Assign Triggers"
-msgstr "Assign Triggers"
+msgstr "Ανέθεσε Πυροδοτητή"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_USERGROUPS
 #: LABEL/ID_ASSIGN_USERGROUPS
 msgid "Assign users group or user"
-msgstr "Assign users group or user"
+msgstr "Ανέθεσε ομάδα χρηστών ή χρήστη"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_USERS
 #: LABEL/ID_ASSIGN_USERS
 msgid "Assign Users"
-msgstr "Assign Users"
+msgstr "Ανέθεσε Χρήστες"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_VARIABLES_IN
 #: LABEL/ID_ASSIGN_VARIABLES_IN
 msgid "Assign Variables In"
-msgstr "Assign Variables In"
+msgstr "Ανέθεσε Μεταβλητές σε"
 
 # TRANSLATION
 # LABEL/ID_ASSIGN_VARIABLES_OUT
 #: LABEL/ID_ASSIGN_VARIABLES_OUT
 msgid "Assign Variables Out"
-msgstr "Assign Variables Out"
+msgstr "Ανέθεσε Μεταβλητές από"
 
 # TRANSLATION
 # LABEL/ID_ATTACH
 #: LABEL/ID_ATTACH
 msgid "Attach"
-msgstr "Attach"
+msgstr "Επισύναψε"
 
 # TRANSLATION
 # LABEL/ID_ATTRIBUTES
 #: LABEL/ID_ATTRIBUTES
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "Χαρακτηριστικά"
 
 # TRANSLATION
 # LABEL/ID_AT_RISK
 #: LABEL/ID_AT_RISK
 msgid "At Risk"
-msgstr "At Risk"
+msgstr "Σε κίνδυνο"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION
 #: LABEL/ID_AUTHENTICATION
 msgid "Authentication"
-msgstr "Authentication"
+msgstr "Αυθεντικοποίηση"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_DN
@@ -461,25 +460,25 @@ msgstr "DN"
 # LABEL/ID_AUTHENTICATION_FAILED
 #: LABEL/ID_AUTHENTICATION_FAILED
 msgid "Authentication Failed"
-msgstr "Authentication Failed"
+msgstr "Αυθεντικοποίηση Απέτυχε"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_FORM_TITLE
 #: LABEL/ID_AUTHENTICATION_FORM_TITLE
 msgid "Authentication Source Assignment"
-msgstr "Authentication Source Assignment"
+msgstr "Ανάθεση Πηγής Αυθεντικοποίησης"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_SOURCE
 #: LABEL/ID_AUTHENTICATION_SOURCE
 msgid "Authentication Source"
-msgstr "Authentication Source"
+msgstr "Πηγή Αυθεντικοποίησης"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_SOURCE_INFORMATION
 #: LABEL/ID_AUTHENTICATION_SOURCE_INFORMATION
 msgid "Authentication Source Information"
-msgstr "Authentication Source Information"
+msgstr "Πληροφορίες Πηγής Αυθεντικοποίησης"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_SOURCE_INF_TITLE
@@ -491,121 +490,121 @@ msgstr "Authentication Source Information"
 # LABEL/ID_AUTHENTICATION_SOURCE_INVALID
 #: LABEL/ID_AUTHENTICATION_SOURCE_INVALID
 msgid "Authentication Source for this user is invalid"
-msgstr "Authentication Source for this user is invalid"
+msgstr "Πηγή Αυθεντικοποίησης για αυτόν το χρήστη είναι άκυρη"
 
 # TRANSLATION
 # LABEL/ID_AUTHENTICATION_SUCCESS_DELETE
 #: LABEL/ID_AUTHENTICATION_SUCCESS_DELETE
 msgid "Authentication source has been deleted correctly."
-msgstr "Authentication source has been deleted correctly."
+msgstr "Πηγή Αυθεντικοποίησης έχει διαγραφεί επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_AUTHOR
 #: LABEL/ID_AUTHOR
 msgid "Author"
-msgstr "Author"
+msgstr "Συγγραφέας"
 
 # TRANSLATION
 # LABEL/ID_AUTH_SOURCES
 #: LABEL/ID_AUTH_SOURCES
 msgid "Authentication Sources"
-msgstr "Authentication Sources"
+msgstr "Πηγές Αυθεντικοποίησης"
 
 # TRANSLATION
 # LABEL/ID_AUTH_SOURCE_MISSING
 #: LABEL/ID_AUTH_SOURCE_MISSING
 msgid "The plugin that is related to this authentication source was removed or disabled, please consult to your system administrator."
-msgstr "The plugin that is related to this authentication source was removed or disabled, please consult to your system administrator."
+msgstr "Η επέκταση που συσχετίζεται με αυτή την πηγή αυθεντικοποίησης έχει αφαιρεθεί ή απενεργοποιηθεί, παρακαλώ συμβουλευτείτε τον διαχειριστή του συστήματός σας."
 
 # TRANSLATION
 # LABEL/ID_AUTO_INCREMENT
 #: LABEL/ID_AUTO_INCREMENT
 msgid "Auto Increment"
-msgstr "Auto Increment"
+msgstr "Αυτόματη Προσαύξηση"
 
 # TRANSLATION
 # LABEL/ID_AUTO_PREFIX
 #: LABEL/ID_AUTO_PREFIX
 msgid "Auto Prefix"
-msgstr "Auto Prefix"
+msgstr "Αυτόματο Πρόθεμα"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_AUTHENTICATION_SOURCES
 #: LABEL/ID_AVAILABLE_AUTHENTICATION_SOURCES
 msgid "Available Authentication Sources"
-msgstr "Available Authentication Sources"
+msgstr "Διαθέσιμες Πηγές Αυθεντικοποίησης"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_DB
 #: LABEL/ID_AVAILABLE_DB
 msgid "Available DB Engines"
-msgstr "Available DB Engines"
+msgstr "Διαθέσιμες Μηχανές Βάσεων Δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_FIELDS
 #: LABEL/ID_AVAILABLE_FIELDS
 msgid "Available Fields"
-msgstr "Available Fields"
+msgstr "Διαθέσιμα Πεδία"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_GROUPS
 #: LABEL/ID_AVAILABLE_GROUPS
 msgid "AVAILABLE GROUPS"
-msgstr "AVAILABLE GROUPS"
+msgstr "ΔΙΑΘΕΣΙΜΕΣ ΟΜΑΔΕΣ"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_MEMBERS
 #: LABEL/ID_AVAILABLE_MEMBERS
 msgid "AVAILABLE MEMBERS"
-msgstr "AVAILABLE MEMBERS"
+msgstr "ΔΙΑΘΕΣΙΜΑ ΜΕΛΗ"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_PERMISSIONS
 #: LABEL/ID_AVAILABLE_PERMISSIONS
 msgid "AVAILABLE PERMISSIONS"
-msgstr "AVAILABLE PERMISSIONS"
+msgstr "ΔΙΑΘΕΣΙΜΕΣ ΑΔΕΙΕΣ"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_TRIGGERS
 #: LABEL/ID_AVAILABLE_TRIGGERS
 msgid "Available Triggers"
-msgstr "Available Triggers"
+msgstr "Διαθέσιμοι πυροδοτητές"
 
 # TRANSLATION
 # LABEL/ID_AVAILABLE_USERS
 #: LABEL/ID_AVAILABLE_USERS
 msgid "AVAILABLE USERS"
-msgstr "AVAILABLE USERS"
+msgstr "ΔΙΑΘΕΣΙΜΟΙ ΧΡΗΣΤΕΣ"
 
 # TRANSLATION
 # LABEL/ID_BACK
 #: LABEL/ID_BACK
 msgid "Back"
-msgstr "Back"
+msgstr "Πίσω"
 
 # TRANSLATION
 # LABEL/ID_BACK_PERMISSIONS_LIST
 #: LABEL/ID_BACK_PERMISSIONS_LIST
 msgid "Back to permissions list"
-msgstr "Back to permissions list"
+msgstr "Πίσω στη λίστα αδειών"
 
 # TRANSLATION
 # LABEL/ID_BACK_TO_GROUP_LIST
 #: LABEL/ID_BACK_TO_GROUP_LIST
 msgid "Back to user groups"
-msgstr "Back to user groups"
+msgstr "Πίσω στις ομάδες χρηστών"
 
 # TRANSLATION
 # LABEL/ID_BACK_TO_USERS_LIST
 #: LABEL/ID_BACK_TO_USERS_LIST
 msgid "Back to Users List"
-msgstr "Back to Users List"
+msgstr "Πίσω στην Λίστα Χρηστών"
 
 # TRANSLATION
 # LABEL/ID_BAD_REQUEST
 #: LABEL/ID_BAD_REQUEST
 msgid "Bad Request!"
-msgstr "Bad Request!"
+msgstr "Κακή Αίτηση!"
 
 # TRANSLATION
 # LABEL/ID_BASE_DN
