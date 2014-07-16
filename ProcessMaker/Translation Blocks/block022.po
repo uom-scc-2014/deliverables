@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:47+0200\n"
+"Last-Translator: Νατάσα Κουτρούδη <mis1423@uom.edu.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,79 +16,79 @@ msgstr ""
 # LABEL/ID_TARGET_TASK
 #: LABEL/ID_TARGET_TASK
 msgid "Target Task"
-msgstr "Target Task"
+msgstr " Εργασία Στόχος"
 
 # TRANSLATION
 # LABEL/ID_TARGET_USER_DESTINATION_INVALID
 #: LABEL/ID_TARGET_USER_DESTINATION_INVALID
 msgid "The target user destination is invalid"
-msgstr "The target user destination is invalid"
+msgstr "Ο προορισμός του χρήστη είναι άκυρος"
 
 # TRANSLATION
 # LABEL/ID_TARGET_USER_DOES_NOT_HAVE_RIGHTS
 #: LABEL/ID_TARGET_USER_DOES_NOT_HAVE_RIGHTS
 msgid "The target user does not have rights to execute the task"
-msgstr "The target user does not have rights to execute the task"
+msgstr "Ο χρήστης δεν έχει δικαιώματα να εκτελέσει την εργασία"
 
 # TRANSLATION
 # LABEL/ID_TASK
 #: LABEL/ID_TASK
 msgid "[LABEL/ID_TASK] Task"
-msgstr "Task"
+msgstr "Εργασία"
 
 # TRANSLATION
 # LABEL/ID_TASKS
 #: LABEL/ID_TASKS
 msgid "Tasks"
-msgstr "Tasks"
+msgstr "Εργασίες"
 
 # TRANSLATION
 # LABEL/ID_TASK_CANT_DELETE
 #: LABEL/ID_TASK_CANT_DELETE
 msgid "You can't delete the task \"{0}\" because it has {1} cases."
-msgstr "You can't delete the task \"{0}\" because it has {1} cases."
+msgstr "Δεν μπορείτε να διαγράψετε την εργασία  \"{0}\" επειδή έχει {1} περιπτώσεις."
 
 # TRANSLATION
 # LABEL/ID_TASK_DEFINED_MANUAL_ASSIGNMENT
 #: LABEL/ID_TASK_DEFINED_MANUAL_ASSIGNMENT
 msgid "The task is defined for Manual assignment"
-msgstr "The task is defined for Manual assignment"
+msgstr "Η εργασία είναι καθορισμένη  για χειροκίνιτη εκχώρηση"
 
 # TRANSLATION
 # LABEL/ID_TASK_DOES_NOT_HAVE_ROUTING_RULE
 #: LABEL/ID_TASK_DOES_NOT_HAVE_ROUTING_RULE
 msgid "Task does not have a routing rule; check process definition"
-msgstr "Task does not have a routing rule; check process definition"
+msgstr "Η εργασία δεν έχει κανόνα δρομολόγησης, ελέγξετε τον ορισμό της διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_TASK_DURATION
 #: LABEL/ID_TASK_DURATION
 msgid "Task Duration"
-msgstr "Task Duration"
+msgstr "Διάρκεια Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_TASK_ID
 #: LABEL/ID_TASK_ID
 msgid "Task ID"
-msgstr "Task ID"
+msgstr "ID Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_TASK_INFORMATION
 #: LABEL/ID_TASK_INFORMATION
 msgid "[LABEL/ID_TASK_INFORMATION] Task Information"
-msgstr "Task Information"
+msgstr "Πληροφορίες Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_TASK_INVALID_USER_NOT_ASSIGNED_TASK
 #: LABEL/ID_TASK_INVALID_USER_NOT_ASSIGNED_TASK
 msgid "Task invalid or the user is not assigned to the task"
-msgstr "Task invalid or the user is not assigned to the task"
+msgstr "Άκυρη εργασία ή ο χρήστης δεν έχει δυνατότητα εκχώρησης στην εργασία"
 
 # TRANSLATION
 # LABEL/ID_TASK_IN_PROGRESS
 #: LABEL/ID_TASK_IN_PROGRESS
 msgid "Task in Progress"
-msgstr "Task in Progress"
+msgstr "Εργασία σε εξέλιξη"
 
 # TRANSLATION
 # LABEL/ID_TASK_NOT_RELATED
@@ -101,139 +100,139 @@ msgstr "[Not related to a task]"
 # LABEL/ID_TASK_NO_STEPS
 #: LABEL/ID_TASK_NO_STEPS
 msgid "The task doesn't have any steps"
-msgstr "The task doesn't have any steps"
+msgstr "Η εργασία δεν έχει κανένα βήμα"
 
 # TRANSLATION
 # LABEL/ID_TASK_PROPERTIES_SAVE
 #: LABEL/ID_TASK_PROPERTIES_SAVE
 msgid "Task properties has been saved successfully"
-msgstr "Task properties has been saved successfully"
+msgstr "Οι ιδιότητες της εργασίας αποθηκεύτηκαν επιτυχώς "
 
 # TRANSLATION
 # LABEL/ID_TASK_TRANSFER
 #: LABEL/ID_TASK_TRANSFER
 msgid "Task Transfer Date"
-msgstr "Task Transfer Date"
+msgstr "Ημερομηνία μεταφοράς εργασίας"
 
 # TRANSLATION
 # LABEL/ID_TASK_WAS_ASSIGNED_TO_USER
 #: LABEL/ID_TASK_WAS_ASSIGNED_TO_USER
 msgid "Manual assignment shouldn't be used with subprocesses.<br>The task \"{0}\" from case {1} was assigned to user <b>{2}</b> ( {3} {4} )"
-msgstr "Manual assignment shouldn't be used with subprocesses.<br>The task \"{0}\" from case {1} was assigned to user <b>{2}</b> ( {3} {4} )"
+msgstr "Η χειροκίνητη εκχώρηση δεν πρέπει να χρησιμοποιείται με υποδιαδικασίες.Η εργασία \"{0}\" της περίπτωσης {1} εκχωρήθηκε στο χρήστη {2} ( {3} {4} )"
 
 # TRANSLATION
 # LABEL/ID_TAS_DURATION_REQUIRE
 #: LABEL/ID_TAS_DURATION_REQUIRE
 msgid "Duration task required"
-msgstr "Duration task required"
+msgstr "Απαιτούμενη διάρκεια εργασίας"
 
 # TRANSLATION
 # LABEL/ID_TAS_EDIT
 #: LABEL/ID_TAS_EDIT
 msgid "Tasks (Edit mode)"
-msgstr "Tasks (Edit mode)"
+msgstr "Εργασίες (Επιλογή επεξεργασίας)"
 
 # TRANSLATION
 # LABEL/ID_TAS_VIEW
 #: LABEL/ID_TAS_VIEW
 msgid "Tasks (View mode)"
-msgstr "Tasks (View mode)"
+msgstr "Εργασίες (Επιλογή προβολής)"
 
 # TRANSLATION
 # LABEL/ID_TEMPLATES
 #: LABEL/ID_TEMPLATES
 msgid "Templates"
-msgstr "Templates"
+msgstr "Πρότυπα"
 
 # TRANSLATION
 # LABEL/ID_TEMPLATE_FILE_NOT_EXIST
 #: LABEL/ID_TEMPLATE_FILE_NOT_EXIST
 msgid "Template file '{FILE_TEMPLATE}' does not exist."
-msgstr "Template file '{FILE_TEMPLATE}' does not exist."
+msgstr "Ο φάκελος προτύπων '{FILE_TEMPLATE}' δεν υπάρχει."
 
 # TRANSLATION
 # LABEL/ID_TERMS_USE
 #: LABEL/ID_TERMS_USE
 msgid "Terms of use"
-msgstr "Terms of use"
+msgstr "Όροι χρήσης"
 
 # TRANSLATION
 # LABEL/ID_TEST
 #: LABEL/ID_TEST
 msgid "Test"
-msgstr "Test"
+msgstr "Έλεγχος"
 
 # TRANSLATION
 # LABEL/ID_TEST_CONFIGURATION
 #: LABEL/ID_TEST_CONFIGURATION
 msgid "Test Configuration"
-msgstr "Test Configuration"
+msgstr "Έλεγχος διαμόρφωσης"
 
 # TRANSLATION
 # LABEL/ID_TEST_CONNECTION
 #: LABEL/ID_TEST_CONNECTION
 msgid "Test Connection"
-msgstr "Test Connection"
+msgstr "Έλεγχος Σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_TEST_USER
 #: LABEL/ID_TEST_USER
 msgid "Test User"
-msgstr "Test User"
+msgstr "Έλεγχος Χρήστη"
 
 # TRANSLATION
 # LABEL/ID_TEST_WEB_ENTRY
 #: LABEL/ID_TEST_WEB_ENTRY
 msgid "Test Web Entry"
-msgstr "Test Web Entry"
+msgstr "Έλεγχος Web Εισόδου"
 
 # TRANSLATION
 # LABEL/ID_TEXT
 #: LABEL/ID_TEXT
 msgid "TEXT"
-msgstr "TEXT"
+msgstr "ΚΕΙΜΕΝΟ"
 
 # TRANSLATION
 # LABEL/ID_THANKS_USE_SERVICES
 #: LABEL/ID_THANKS_USE_SERVICES
 msgid "Thanks for using the ProcessMaker services"
-msgstr "Thanks for using the ProcessMaker services"
+msgstr "Ευχαριστούμε που χρησιμοποιήσατε τις υπηρεσίες του ProcessMaker"
 
 # TRANSLATION
 # LABEL/ID_THERE_MUST__LEAST_HOLIDAY
 #: LABEL/ID_THERE_MUST__LEAST_HOLIDAY
 msgid "There must be at least a holiday"
-msgstr "There must be at least a holiday"
+msgstr "Πρέπει να υπάρχει μία τουλάχιστον διακοπή"
 
 # TRANSLATION
 # LABEL/ID_THIS_MONTH
 #: LABEL/ID_THIS_MONTH
 msgid "This Month"
-msgstr "This Month"
+msgstr "Αυτό το Μήνα"
 
 # TRANSLATION
 # LABEL/ID_THIS_QUARTER
 #: LABEL/ID_THIS_QUARTER
 msgid "This quarter"
-msgstr "This quarter"
+msgstr "Αυτό το τέταρτο"
 
 # TRANSLATION
 # LABEL/ID_THIS_WEEK
 #: LABEL/ID_THIS_WEEK
 msgid "This Week"
-msgstr "This Week"
+msgstr "Αυτή την Εβδομάδα"
 
 # TRANSLATION
 # LABEL/ID_THIS_YEAR
 #: LABEL/ID_THIS_YEAR
 msgid "This Year"
-msgstr "This Year"
+msgstr "Αυτό το Χρόνο"
 
 # TRANSLATION
 # LABEL/ID_THREAD_INDEX
 #: LABEL/ID_THREAD_INDEX
 msgid "[LABEL/ID_THREAD_INDEX] Thread Index"
-msgstr "Thread Index"
+msgstr "Thread Δείκτης"
 
 # TRANSLATION
 # LABEL/ID_THU
@@ -245,31 +244,31 @@ msgstr "Thu"
 # LABEL/ID_TIME_EXIST_IN_LIST
 #: LABEL/ID_TIME_EXIST_IN_LIST
 msgid "The day and time exist in the list"
-msgstr "The day and time exist in the list"
+msgstr "Η μέρα και η ώρα υπάρχουν στη λίστα"
 
 # TRANSLATION
 # LABEL/ID_TIME_LABEL
 #: LABEL/ID_TIME_LABEL
 msgid "Time"
-msgstr "Time"
+msgstr "Διάρκεια"
 
 # TRANSLATION
 # LABEL/ID_TIME_NEXT_RUN
 #: LABEL/ID_TIME_NEXT_RUN
 msgid "Time Next Run"
-msgstr "Time Next Run"
+msgstr "Διάρκεια Επόμενης Εκτέλεσης"
 
 # TRANSLATION
 # LABEL/ID_TIME_REQUIRED
 #: LABEL/ID_TIME_REQUIRED
 msgid "Time is required"
-msgstr "Time is required"
+msgstr "Απαιτούμενος χρόνος"
 
 # TRANSLATION
 # LABEL/ID_TIME_STARTING_EXCEED_END
 #: LABEL/ID_TIME_STARTING_EXCEED_END
 msgid "The starting time must not exceed the end time"
-msgstr "The starting time must not exceed the end time"
+msgstr "Ο χρόνος έναρξης δεν πρέπει να υπερβαίνει το χρόνο λήξης"
 
 # TRANSLATION
 # LABEL/ID_TIME_START_WITH_TASK
@@ -281,277 +280,277 @@ msgstr "The time starts with task"
 # LABEL/ID_TIME_UNIT
 #: LABEL/ID_TIME_UNIT
 msgid "Time Unit"
-msgstr "Time Unit"
+msgstr "Μονάδα χρόνου"
 
 # TRANSLATION
 # LABEL/ID_TIME_ZONE
 #: LABEL/ID_TIME_ZONE
 msgid "Time Zone"
-msgstr "Time Zone"
+msgstr "Χρονική Ζώνη"
 
 # TRANSLATION
 # LABEL/ID_TIMING_CONTROL
 #: LABEL/ID_TIMING_CONTROL
 msgid "Timing Control"
-msgstr "Timing Control"
+msgstr "Διάρκεια Ελέγχου"
 
 # TRANSLATION
 # LABEL/ID_TINY_ALL_VARIABLES
 #: LABEL/ID_TINY_ALL_VARIABLES
 msgid "All variables"
-msgstr "All variables"
+msgstr "Όλες οι μεταβλητές"
 
 # TRANSLATION
 # LABEL/ID_TINY_PROCESS_VARIABLES
 #: LABEL/ID_TINY_PROCESS_VARIABLES
 msgid "Process Variables"
-msgstr "Process Variables"
+msgstr "Μεταβλητές Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_TINY_SYSTEM_VARIABLES
 #: LABEL/ID_TINY_SYSTEM_VARIABLES
 msgid "System Variables"
-msgstr "System Variables"
+msgstr "Μεταβλητές Συστήματος"
 
 # TRANSLATION
 # LABEL/ID_TINY_TYPE_VARIABLE
 #: LABEL/ID_TINY_TYPE_VARIABLE
 msgid "Type Variable"
-msgstr "Type Variable"
+msgstr "Τύπος μεταβλητής"
 
 # TRANSLATION
 # LABEL/ID_TITLE
 #: LABEL/ID_TITLE
 msgid "[LABEL/ID_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # TRANSLATION
 # LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF
 #: LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF
 msgid "[LABEL/ID_TITLE_AUTHENTICATION_SOURCE_INF] Authentication Source Information"
-msgstr "Authentication Source Information"
+msgstr "Αξιοπιστία Πηγής Πληροφόρησης"
 
 # TRANSLATION
 # LABEL/ID_TITLE_CANCELLED
 #: LABEL/ID_TITLE_CANCELLED
 msgid "[LABEL/ID_TITLE_CANCELLED] Cancelled"
-msgstr "Cancelled"
+msgstr "Ακυρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_TITLE_COMPLETED
 #: LABEL/ID_TITLE_COMPLETED
 msgid "[LABEL/ID_TITLE_COMPLETED] Completed"
-msgstr "Completed"
+msgstr "Ολοκληρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_TITLE_DRAFT
 #: LABEL/ID_TITLE_DRAFT
 msgid "[LABEL/ID_TITLE_DRAFT] Draft"
-msgstr "Draft"
+msgstr "Προσχέδιο"
 
 # TRANSLATION
 # LABEL/ID_TITLE_EXPORT_RESULT
 #: LABEL/ID_TITLE_EXPORT_RESULT
 msgid "Export Summary"
-msgstr "Export Summary"
+msgstr "Περίληψη Εξαγωγής"
 
 # TRANSLATION
 # LABEL/ID_TITLE_EXPORT_TOOL
 #: LABEL/ID_TITLE_EXPORT_TOOL
 msgid "Exporting Tool"
-msgstr "Exporting Tool"
+msgstr "Εργαλείο Εξαγωγής"
 
 # TRANSLATION
 # LABEL/ID_TITLE_FIELD
 #: LABEL/ID_TITLE_FIELD
 msgid "[LABEL/ID_TITLE_FIELD] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # TRANSLATION
 # LABEL/ID_TITLE_FIELD_DYNAFORM
 #: LABEL/ID_TITLE_FIELD_DYNAFORM
 msgid "[LABEL/ID_TITLE_FIELD_DYNAFORM] title"
-msgstr "title"
+msgstr "τίτλος"
 
 # TRANSLATION
 # LABEL/ID_TITLE_INBOX
 #: LABEL/ID_TITLE_INBOX
 msgid "[LABEL/ID_TITLE_INBOX] Inbox"
-msgstr "Inbox"
+msgstr "Εισερχόμενα"
 
 # TRANSLATION
 # LABEL/ID_TITLE_LOG_DETAIL
 #: LABEL/ID_TITLE_LOG_DETAIL
 msgid "Log Detail"
-msgstr "Log Detail"
+msgstr "Λεπτομέρειες Σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_TITLE_NO_INSTALL
 #: LABEL/ID_TITLE_NO_INSTALL
 msgid "SYSTEM INSTALLATION FAILED"
-msgstr "SYSTEM INSTALLATION FAILED"
+msgstr "Η ΕΓΚΑΤΑΣΤΑΣΗ ΤΟΥ ΣΥΣΤΗΜΑΤΟΣ ΑΠΕΤΥΧΕ"
 
 # TRANSLATION
 # LABEL/ID_TITLE_PARTICIPATED
 #: LABEL/ID_TITLE_PARTICIPATED
 msgid "[LABEL/ID_TITLE_PARTICIPATED] Participated"
-msgstr "Participated"
+msgstr "Συμμετείχε"
 
 # TRANSLATION
 # LABEL/ID_TITLE_PAUSED
 #: LABEL/ID_TITLE_PAUSED
 msgid "[LABEL/ID_TITLE_PAUSED] Paused"
-msgstr "Paused"
+msgstr "Διακόπηκε"
 
 # TRANSLATION
 # LABEL/ID_TITLE_START_CASE
 #: LABEL/ID_TITLE_START_CASE
 msgid "[LABEL/ID_TITLE_START_CASE] Start Case"
-msgstr "Start Case"
+msgstr "Έναρξη Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_TITLE_UNASSIGNED
 #: LABEL/ID_TITLE_UNASSIGNED
 msgid "Unassigned"
-msgstr "Unassigned"
+msgstr "Μη εκχωρημένο"
 
 # TRANSLATION
 # LABEL/ID_TO
 #: LABEL/ID_TO
 msgid "To"
-msgstr "To"
+msgstr "Από"
 
 # TRANSLATION
 # LABEL/ID_TODAY
 #: LABEL/ID_TODAY
 msgid "Today"
-msgstr "Today"
+msgstr "Σήμερα"
 
 # TRANSLATION
 # LABEL/ID_TOOLS
 #: LABEL/ID_TOOLS
 msgid "Tools"
-msgstr "Tools"
+msgstr "Εργαλεία"
 
 # TRANSLATION
 # LABEL/ID_TOP_MARGIN
 #: LABEL/ID_TOP_MARGIN
 msgid "Top Margin"
-msgstr "Top Margin"
+msgstr "Επάνω περιθώριο"
 
 # TRANSLATION
 # LABEL/ID_TOTAL_CASES
 #: LABEL/ID_TOTAL_CASES
 msgid "Total Cases"
-msgstr "Total Cases"
+msgstr "Συνολικές περιπτώσεις"
 
 # TRANSLATION
 # LABEL/ID_TOTAL_CASES_REASSIGNED
 #: LABEL/ID_TOTAL_CASES_REASSIGNED
 msgid "Total Cases Reassigned"
-msgstr "Total Cases Reassigned"
+msgstr "Συνολικές περιπτώσεις ξαναεκχωρήθηκαν"
 
 # TRANSLATION
 # LABEL/ID_TO_DO
 #: LABEL/ID_TO_DO
 msgid "To do"
-msgstr "To do"
+msgstr "Να γίνει"
 
 # TRANSLATION
 # LABEL/ID_TO_FLOAT
 #: LABEL/ID_TO_FLOAT
 msgid "Replace the value converted to float"
-msgstr "Replace the value converted to float"
+msgstr "Αντικατέστησε την τιμή που μετατράπηκε σε πραγματική"
 
 # TRANSLATION
 # LABEL/ID_TO_INTEGER
 #: LABEL/ID_TO_INTEGER
 msgid "Replace the value converted to integer"
-msgstr "Replace the value converted to integer"
+msgstr "Αντικατέστησε την τιμή που μετατράπηκε σε ακέραια"
 
 # TRANSLATION
 # LABEL/ID_TO_REASSIGN
 #: LABEL/ID_TO_REASSIGN
 msgid "[LABEL/ID_TO_REASSIGN] Reassign"
-msgstr "Reassign"
+msgstr "Επανεκχώρηση"
 
 # TRANSLATION
 # LABEL/ID_TO_REVISE
 #: LABEL/ID_TO_REVISE
 msgid "Review"
-msgstr "Review"
+msgstr "Αξιολόγηση"
 
 # TRANSLATION
 # LABEL/ID_TO_STRING
 #: LABEL/ID_TO_STRING
 msgid "Replace the value in quotes"
-msgstr "Replace the value in quotes"
+msgstr "Αντικατέστησε την τιμή  σε προσφορές"
 
 # TRANSLATION
 # LABEL/ID_TO_URL
 #: LABEL/ID_TO_URL
 msgid "Replace the value with URL encoding"
-msgstr "Replace the value with URL encoding"
+msgstr "Αντικατέστησε την τιμή σε URL κωδικοποίηση"
 
 # TRANSLATION
 # LABEL/ID_TRANSFER_HISTORY
 #: LABEL/ID_TRANSFER_HISTORY
 msgid "[LABEL/ID_TRANSFER_HISTORY] Transfer History"
-msgstr "Transfer History"
+msgstr "Ιστορικό Μεταφοράς"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS
 #: LABEL/ID_TRIGGERS
 msgid "[LABEL/ID_TRIGGERS] Triggers"
-msgstr "Triggers"
+msgstr "Εναύσματα"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_SAVED
 #: LABEL/ID_TRIGGERS_SAVED
 msgid "Trigger saved"
-msgstr "Trigger saved"
+msgstr "Τα Εναύσματα Σώθηκαν"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_UNAVAILABLE
 #: LABEL/ID_TRIGGERS_UNAVAILABLE
 msgid "No triggers are available. All triggers have been already assigned."
-msgstr "No triggers are available. All triggers have been already assigned."
+msgstr "Τα Εναύσματα δεν είναι διαθέσιμα.  Όλα τα Εναύσματα έχουν ήδη καταχωρηθεί"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_VALIDATE_EERR1
 #: LABEL/ID_TRIGGERS_VALIDATE_EERR1
 msgid "* The {Object} {Description} depends."
-msgstr "* The {Object} {Description} depends."
+msgstr "* Το {Object} {Description} εξαρτάται."
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_VALIDATION
 #: LABEL/ID_TRIGGERS_VALIDATION
 msgid "No Dependencies were found for this trigger in {Object} definitions"
-msgstr "No Dependencies were found for this trigger in {Object} definitions"
+msgstr "Δεν βρέθηκαν εξαρτήσεις γι 'αυτό το Έναυσμα στον {Object} ορισμό"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_VALIDATION_ERR2
 #: LABEL/ID_TRIGGERS_VALIDATION_ERR2
 msgid "({N}) Dependencies were found for this trigger in {Object} objects"
-msgstr "({N}) Dependencies were found for this trigger in {Object} objects"
+msgstr "({N}) Βρέθηκαν εξαρτήσεις γι 'αυτό το Έναυσμα στον {Object} ορισμό"
 
 # TRANSLATION
 # LABEL/ID_TRIGGERS_VALIDATION_ERR3
 #: LABEL/ID_TRIGGERS_VALIDATION_ERR3
 msgid "[LABEL/ID_TRIGGERS_VALIDATION_ERR3] * The {Object} {Description} depends."
-msgstr "* The {Object} {Description} depends."
+msgstr "* Το {Object} {Description} εξαρτάται."
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_ASSIGN
 #: LABEL/ID_TRIGGER_ASSIGN
 msgid "Triggers has been assigned successfully."
-msgstr "Triggers has been assigned successfully."
+msgstr "Τα Εναύσματα έχουν καταχωρηθεί επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_COPY_OPTION
 #: LABEL/ID_TRIGGER_COPY_OPTION
 msgid "Copy/Import Triggers from a Process"
-msgstr "Copy/Import Triggers from a Process"
+msgstr "Ανρέγραψε / Εισήγαγε τα εναύσματα μιας Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_COPY_OPTION_DESCRIPTION
@@ -563,13 +562,13 @@ msgstr "With this option you can copy/import a trigger from any other processes 
 # LABEL/ID_TRIGGER_COPY_TITLE
 #: LABEL/ID_TRIGGER_COPY_TITLE
 msgid "Copy/Import Trigger"
-msgstr "Copy/Import Trigger"
+msgstr "Ανρέγραψε / Εισήγαγε τα εναύσματα"
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_EDITOR_HINT_ADVISE_MESSAGE
 #: LABEL/ID_TRIGGER_EDITOR_HINT_ADVISE_MESSAGE
 msgid "Press Ctrl + Space in the Editor, to get the function list"
-msgstr "Press Ctrl + Space in the Editor, to get the function list"
+msgstr "Πατήστε Ctrl + Space στον Editor, για να πάρετε τη λίστα λειτουργιών"
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_REMOVE
@@ -581,7 +580,7 @@ msgstr "Trigger has been removed successfully."
 # LABEL/ID_TRIGGER_REQUIRED
 #: LABEL/ID_TRIGGER_REQUIRED
 msgid "Trigger is required"
-msgstr "Trigger is required"
+msgstr "Τα εναύσματα απαιτούντα"
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_RETURN_LABEL
@@ -593,19 +592,19 @@ msgstr "Variable to hold return value"
 # LABEL/ID_TRIGGER_RETURN_TITLE
 #: LABEL/ID_TRIGGER_RETURN_TITLE
 msgid "Return value"
-msgstr "Return value"
+msgstr "Επέστρεψε τιμή"
 
 # TRANSLATION
 # LABEL/ID_TRIGGER_SOURCE_LINK
 #: LABEL/ID_TRIGGER_SOURCE_LINK
 msgid "Edit Source Code"
-msgstr "Edit Source Code"
+msgstr "Επεξεργαστείτε τον πηγαίο κώδικα"
 
 # TRANSLATION
 # LABEL/ID_TRUE
 #: LABEL/ID_TRUE
 msgid "TRUE"
-msgstr "TRUE"
+msgstr "ΑΛΗΘΗΣ"
 
 # TRANSLATION
 # LABEL/ID_TUE
