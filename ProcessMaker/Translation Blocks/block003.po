@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-16 14:11+0200\n"
+"PO-Revision-Date: 2014-07-16 14:19+0200\n"
 "Last-Translator: Άγγελος Αρ <angelotti72@gmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -131,31 +131,31 @@ msgstr "Επαναφορά"
 # JAVASCRIPT/ID_ROLES_CAN_NOT_DELETE
 #: JAVASCRIPT/ID_ROLES_CAN_NOT_DELETE
 msgid "This role cannot be deleted while it still has some assigned users."
-msgstr "This role cannot be deleted while it still has some assigned users."
+msgstr "Δεν γίνεται να διαγραφεί ο ρολός όσο υπάρχουν ανατεθειμένοι χρήστες"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ROLES_MSG
 #: JAVASCRIPT/ID_ROLES_MSG
 msgid "You cannot modify this role."
-msgstr "You cannot modify this role."
+msgstr "Δεν επιτρέπεται η μετατροπή αυτού του ρόλου."
 
 # TRANSLATION
 # JAVASCRIPT/ID_ROLES_MSG1
 #: JAVASCRIPT/ID_ROLES_MSG1
 msgid "You must specify a role code!"
-msgstr "You must specify a role code!"
+msgstr "Πρέπει να ορίσεις κωδικό ρόλου!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ROLES_MSG2
 #: JAVASCRIPT/ID_ROLES_MSG2
 msgid "Role already exists! Please choose another."
-msgstr "Role already exists! Please choose another."
+msgstr "Ο ρολός υπάρχει ήδη! Επιλέξτε άλλο."
 
 # TRANSLATION
 # JAVASCRIPT/ID_ROLES_MSG3
 #: JAVASCRIPT/ID_ROLES_MSG3
 msgid "You must specify a role name!"
-msgstr "You must specify a role name!"
+msgstr "Πρέπει να ορίσεις όνομα ρόλου!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_RSTDATAFIELD
