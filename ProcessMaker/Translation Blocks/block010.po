@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:18+0200\n"
+"Last-Translator: Κωστόπουλος Ιωάννης <ioannkostopoulos@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,175 +16,175 @@ msgstr ""
 # LABEL/ID_ENABLE_VERSIONING
 #: LABEL/ID_ENABLE_VERSIONING
 msgid "Enable Versioning"
-msgstr "Enable Versioning"
+msgstr "Ενεργοποίηση Εκδοσεων"
 
 # TRANSLATION
 # LABEL/ID_ENABLE_VIRTUAL_KEYBOARD
 #: LABEL/ID_ENABLE_VIRTUAL_KEYBOARD
 msgid "Enable Virtual Keyboard (Only uxmodern skin)"
-msgstr "Enable Virtual Keyboard (Only uxmodern skin)"
+msgstr "Ενεργοποίηση Εικονικού Πληκτρολογίου (Μόνο για τη διαμόρφωση uxmodern)"
 
 # TRANSLATION
 # LABEL/ID_ENABLE_WORKSPACE
 #: LABEL/ID_ENABLE_WORKSPACE
 msgid "Enable Workspace"
-msgstr "Enable Workspace"
+msgstr "Ενεργοποίηση Περιβάλλοντος Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_ENCODE
 #: LABEL/ID_ENCODE
 msgid "Encode"
-msgstr "Encode"
+msgstr "Κωδικοποίηση"
 
 # TRANSLATION
 # LABEL/ID_END_DATE
 #: LABEL/ID_END_DATE
 msgid "End Date"
-msgstr "End Date"
+msgstr "Τελική Ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_END_DATE_MDY
 #: LABEL/ID_END_DATE_MDY
 msgid "End Date (\"m/d/Y\")"
-msgstr "End Date (\"m/d/Y\")"
+msgstr "Τελική Ημερομηνία (\"Μ/η/Ε\")"
 
 # TRANSLATION
 # LABEL/ID_END_HH_MM
 #: LABEL/ID_END_HH_MM
 msgid "End(hh:mm)"
-msgstr "End(hh:mm)"
+msgstr "Λήξη(ωω:λλ)"
 
 # TRANSLATION
 # LABEL/ID_END_MESSAGE_EVENT
 #: LABEL/ID_END_MESSAGE_EVENT
 msgid "End Message Event (Message Event)"
-msgstr "End Message Event (Message Event)"
+msgstr "Μήνυμα Λήξης (Μήνυμα)"
 
 # TRANSLATION
 # LABEL/ID_END_OF_PROCESS
 #: LABEL/ID_END_OF_PROCESS
 msgid "[LABEL/ID_END_OF_PROCESS] End of process"
-msgstr "End of process"
+msgstr "Λήξη Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_ENGINE
 #: LABEL/ID_ENGINE
 msgid "Engine"
-msgstr "Engine"
+msgstr "Μηχανή"
 
 # TRANSLATION
 # LABEL/ID_ENTERPRISE_INSTALLED
 #: LABEL/ID_ENTERPRISE_INSTALLED
 msgid "Enterprise Plugin has been correctly installed."
-msgstr "Enterprise Plugin has been correctly installed."
+msgstr "Η Πρόσθετη Εφαρμογή Enterprise έχει εγκατασταθεί επιτυχώς. "
 
 # TRANSLATION
 # LABEL/ID_ENTER_SEARCH_CRITERIA
 #: LABEL/ID_ENTER_SEARCH_CRITERIA
 msgid "Enter a search criteria and press search"
-msgstr "Enter a search criteria and press search"
+msgstr "Εισήγαγε κριτήρια αναζήτησης και πάτησε αναζήτηση"
 
 # TRANSLATION
 # LABEL/ID_ENTER_SEARCH_TERM
 #: LABEL/ID_ENTER_SEARCH_TERM
 msgid "Enter search term"
-msgstr "Enter search term"
+msgstr "Εισήγαγε όρο αναζήτησης "
 
 # TRANSLATION
 # LABEL/ID_ENVIRONMENT
 #: LABEL/ID_ENVIRONMENT
 msgid "Environment"
-msgstr "Environment"
+msgstr "Περιβάλλον"
 
 # TRANSLATION
 # LABEL/ID_ENVIRONMENT_SETTINGS
 #: LABEL/ID_ENVIRONMENT_SETTINGS
 msgid "[LABEL/ID_ENVIRONMENT_SETTINGS] Environment"
-msgstr "Environment"
+msgstr "Περιβάλλον"
 
 # TRANSLATION
 # LABEL/ID_ENVIRONMENT_SETTINGS_MSG_1
 #: LABEL/ID_ENVIRONMENT_SETTINGS_MSG_1
 msgid "You should select a format from the list."
-msgstr "You should select a format from the list."
+msgstr "Πρέπει να επιλέξεις μία διάταξη από τη λίστα. "
 
 # TRANSLATION
 # LABEL/ID_ERROR
 #: LABEL/ID_ERROR
 msgid "ERROR"
-msgstr "ERROR"
+msgstr "ΣΦΑΛΜΑ"
 
 # TRANSLATION
 # LABEL/ID_ERROR_CHANGE_SEQUENCE_NUMBER
 #: LABEL/ID_ERROR_CHANGE_SEQUENCE_NUMBER
 msgid "Unable to generate numerical sequence another user performing the same request."
-msgstr "Unable to generate numerical sequence another user performing the same request."
+msgstr "Δεν είναι δυνατόν να παραχθεί αριθμητική ακολουθία κάποιος άλλος χρήστης πραγματοποιεί το ίδιο αίτημα. "
 
 # TRANSLATION
 # LABEL/ID_ERROR_CREATING_NEW_CASE
 #: LABEL/ID_ERROR_CREATING_NEW_CASE
 msgid "Error creating a new Case"
-msgstr "Error creating a new Case"
+msgstr "Σφάλμα κατά τη δημιουργία νέας Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_ERROR_FILE_NOT_EXIST
 #: LABEL/ID_ERROR_FILE_NOT_EXIST
 msgid "The file '{filename}' does not exist, possibly the system failed to generate the file or the file was not moved correctly if the process is migrated from another server."
-msgstr "The file '{filename}' does not exist, possibly the system failed to generate the file or the file was not moved correctly if the process is migrated from another server."
+msgstr "Το αρχείο '{filename}'  δεν υπάρχει, πιθανόν το σύστημα απέτυχε να δημιουργήσει το αρχείο ή το αρχείο δεν μετακινήθηκε σωστά εάν η διαδικασία μεταφέρθηκε από άλλον εξυπηρετητή. "
 
 # TRANSLATION
 # LABEL/ID_ERROR_INSERT_LINE
 #: LABEL/ID_ERROR_INSERT_LINE
 msgid "Error trying to insert the line"
-msgstr "Error trying to insert the line"
+msgstr "Σφάλμα κατά την προσπάθεια εισαγωγής της γραμμής"
 
 # TRANSLATION
 # LABEL/ID_ERROR_OBJECT_NOT_EXISTS
 #: LABEL/ID_ERROR_OBJECT_NOT_EXISTS
 msgid "Error: Object does not exist."
-msgstr "Error: Object does not exist."
+msgstr "Σφάλμα: Το Αντικείμενο δεν υπάρχει. "
 
 # TRANSLATION
 # LABEL/ID_ERROR_REGISTERED
 #: LABEL/ID_ERROR_REGISTERED
 msgid "Errors registered:"
-msgstr "Errors registered:"
+msgstr "Καταγεγραμμένα σφάλματα:"
 
 # TRANSLATION
 # LABEL/ID_ERROR_SEND_NOTIFICATIONS
 #: LABEL/ID_ERROR_SEND_NOTIFICATIONS
 msgid "The following error has occurred when trying to send the notifications:"
-msgstr "The following error has occurred when trying to send the notifications:"
+msgstr "Το ακόλουθο σφάλμα προέκυψε κατά την προσπάθεια αποστολής της ειδοποίησης:"
 
 # TRANSLATION
 # LABEL/ID_ERROR_STREAMING_FILE
 #: LABEL/ID_ERROR_STREAMING_FILE
 msgid "doesn't exist. It should be saved by a plugin to a different place. Please review the configuration"
-msgstr "doesn't exist. It should be saved by a plugin to a different place. Please review the configuration"
+msgstr "δεν υπάρχει. Πρέπει να αποθηκευτεί από μία πρόσθετη εφαρμογή σε διαφορετική τοποθεσία. Παρακαλώ επανεξετάστε την διαμόρφωση. "
 
 # TRANSLATION
 # LABEL/ID_ERROR_TASK_SAVE
 #: LABEL/ID_ERROR_TASK_SAVE
 msgid "Error in saving Task Properties"
-msgstr "Error in saving Task Properties"
+msgstr "Σφάλμα κατά την αποθήκευση Ιδιοτήτων Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_ERROR_TRYING_INSERT
 #: LABEL/ID_ERROR_TRYING_INSERT
 msgid "Error trying insert into"
-msgstr "Error trying insert into"
+msgstr "Σφάλμα κατά την προσπάθεια εισαγωγής στο"
 
 # TRANSLATION
 # LABEL/ID_ERROR_UPLOADING_FILENAME
 #: LABEL/ID_ERROR_UPLOADING_FILENAME
 msgid "There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
-msgstr "There was an error uploading the file, probably the file size if greater than upload_max_filesize parameter in php.ini, please check this parameter and try again."
+msgstr "Υπήρξε σφάλμα κατά την μεταφόρτωση του αρχείου, πιθανόν το μέγεθος του αρχείου είναι μεγαλύτερο από την παράμετρο upload_max_filesize στο αρχείο  php.ini, παρακαλώ έλεγξε αυτή την παράμετρο και προσπάθησε ξανά. "
 
 # TRANSLATION
 # LABEL/ID_ERROR_UPLOADING_IMAGE_TYPE
 #: LABEL/ID_ERROR_UPLOADING_IMAGE_TYPE
 msgid "Error uploading image, wrong file type"
-msgstr "Error uploading image, wrong file type"
+msgstr "Σφάλμα κατά την μεταφόρτωση εικόνας, λανθασμένος τύπος αρχείου"
 
 # TRANSLATION
 # LABEL/ID_ERROR_UPLOADING_PLUGIN_FILENAME
