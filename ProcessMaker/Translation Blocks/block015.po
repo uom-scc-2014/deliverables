@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:25+0200\n"
+"Last-Translator: G.Fardellas <f.tzortzis@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,13 +16,13 @@ msgstr ""
 # LABEL/ID_MSG_CONFIRM_RESET_TEMPLATE
 #: LABEL/ID_MSG_CONFIRM_RESET_TEMPLATE
 msgid "Are you sure you want to restore the default template ?"
-msgstr "Are you sure you want to restore the default template ?"
+msgstr "Είσαι σίγουρος ότι θές να επαναφέρεις το προεπιλεγμένο πρότυπο;"
 
 # TRANSLATION
 # LABEL/ID_MSG_ENABLE_HTML_EDITING
 #: LABEL/ID_MSG_ENABLE_HTML_EDITING
 msgid "<b>Warning:</b> Editing the HTML prevents fields from being added or moved, so only edit the HTML after creating all the fields. Do you like to continue anyway?"
-msgstr "<b>Warning:</b> Editing the HTML prevents fields from being added or moved, so only edit the HTML after creating all the fields. Do you like to continue anyway?"
+msgstr "<b>Προσοχή:</b> Επεξεργάζοντας την HTML αποτρέπει πεδία από το να προστεθούν ή να μεταφερθούν, οπότε επεξεργάσου το HTML μετά την δημιουργία όλων των πεδίων. Θές να συνεχίσεις;"
 
 # TRANSLATION
 # LABEL/ID_MSG_ERROR_DUE_DATE
@@ -35,25 +34,25 @@ msgstr "Due date required!"
 # LABEL/ID_MSG_ERROR_PRO_TITLE
 #: LABEL/ID_MSG_ERROR_PRO_TITLE
 msgid "Process title required!"
-msgstr "Process title required!"
+msgstr "Απαιτείται τίτλος διαδικασίας!"
 
 # TRANSLATION
 # LABEL/ID_MSG_ERROR_USR_FIRSTNAME
 #: LABEL/ID_MSG_ERROR_USR_FIRSTNAME
 msgid "First name is required"
-msgstr "First name is required"
+msgstr "Το Όνομα είναι υποχρεωτικό"
 
 # TRANSLATION
 # LABEL/ID_MSG_ERROR_USR_LASTNAME
 #: LABEL/ID_MSG_ERROR_USR_LASTNAME
 msgid "Last name is required"
-msgstr "Last name is required"
+msgstr "Το Επώνυμο είναι υποχρεωτικό"
 
 # TRANSLATION
 # LABEL/ID_MSG_ERROR_USR_USERNAME
 #: LABEL/ID_MSG_ERROR_USR_USERNAME
 msgid "User name required!"
-msgstr "User name required!"
+msgstr "Απαιτείται όνομα χρήστη!"
 
 # TRANSLATION
 # LABEL/ID_MSG_GROUP_NAME_EXISTS
@@ -65,7 +64,7 @@ msgstr "Group name already exists!"
 # LABEL/ID_MSG_NORESULTS_USERGROUP
 #: LABEL/ID_MSG_NORESULTS_USERGROUP
 msgid "This user is not assigned to a group"
-msgstr "This user is not assigned to a group"
+msgstr "Αυτός ο χρήστης δεν έχει συνδεθεί σε μια ομάδα"
 
 # TRANSLATION
 # LABEL/ID_MSG_REMOVE_PLUGIN
@@ -77,37 +76,37 @@ msgstr "Are you sure that you want to remove this plugin?"
 # LABEL/ID_MSG_REMOVE_PLUGIN_SUCCESS
 #: LABEL/ID_MSG_REMOVE_PLUGIN_SUCCESS
 msgid "Plugin successfully removed!"
-msgstr "Plugin successfully removed!"
+msgstr "Το plugin αφαιρεθεί επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_MSJ_REPORSTO
 #: LABEL/ID_MSJ_REPORSTO
 msgid "The current user does not have a valid Reports To user. Please contact the administrator."
-msgstr "The current user does not have a valid Reports To user. Please contact the administrator."
+msgstr "Ο τρέχων χρήστης δεν έχει έγκυρο \"Αναφορά Στον Χρήστη\". Παρακαλώ επικοινωνήστε με τον διαχειριστή."
 
 # TRANSLATION
 # LABEL/ID_MSSQL_SUCCESS_CONNECT
 #: LABEL/ID_MSSQL_SUCCESS_CONNECT
 msgid "Succesfully connected to MSSQL Server"
-msgstr "Succesfully connected to MSSQL Server"
+msgstr "Επιτυχής σύνδεση με MSSQL Server"
 
 # TRANSLATION
 # LABEL/ID_MSSQL_SUPPORT_OPTIONAL
 #: LABEL/ID_MSSQL_SUPPORT_OPTIONAL
 msgid "MSSQL Support is optional."
-msgstr "MSSQL Support is optional."
+msgstr "Η υποστήριξη σε MSSQL είναι προαιρετική."
 
 # TRANSLATION
 # LABEL/ID_MULTIPLE_STARTING_TASKS
 #: LABEL/ID_MULTIPLE_STARTING_TASKS
 msgid "Multiple starting tasks in the process"
-msgstr "Multiple starting tasks in the process"
+msgstr "Πολλαπλά tasks εκκίνησης στη διαδικασία"
 
 # TRANSLATION
 # LABEL/ID_MYSQL_CREDENTIALS_WRONG
 #: LABEL/ID_MYSQL_CREDENTIALS_WRONG
 msgid "Connection Error: unable to connect to MySQL using provided credentials."
-msgstr "Connection Error: unable to connect to MySQL using provided credentials."
+msgstr "Σφάλμα σύνδεσης: μπορείτε να συνδεθείτε με MySQL χρησιμοποιώντας παρεχόμενο διαπιστευτήρια."
 
 # TRANSLATION
 # LABEL/ID_MYSQL_ERROR
@@ -119,19 +118,19 @@ msgstr "MySQL error: {0}"
 # LABEL/ID_MYSQL_SUCCESS_CONNECT
 #: LABEL/ID_MYSQL_SUCCESS_CONNECT
 msgid "Succesfully connected to MySQL Server"
-msgstr "Succesfully connected to MySQL Server"
+msgstr "Επιτυχής σύνδεση με MySQL Server"
 
 # TRANSLATION
 # LABEL/ID_MY_ACCOUNT
 #: LABEL/ID_MY_ACCOUNT
 msgid "My account"
-msgstr "My account"
+msgstr "Ο λογαριασμός μου"
 
 # TRANSLATION
 # LABEL/ID_MY_DRAFTS
 #: LABEL/ID_MY_DRAFTS
 msgid "My Drafts"
-msgstr "My Drafts"
+msgstr "Τα Πρόχειρα μου"
 
 # TRANSLATION
 # LABEL/ID_MY_INBOX
@@ -143,43 +142,43 @@ msgstr "My inbox"
 # LABEL/ID_NAME
 #: LABEL/ID_NAME
 msgid "Name"
-msgstr "Name"
+msgstr "Όνομα"
 
 # TRANSLATION
 # LABEL/ID_NAME_TAS_TITLE_REQUIRE
 #: LABEL/ID_NAME_TAS_TITLE_REQUIRE
 msgid "Task title required"
-msgstr "Task title required"
+msgstr "Απαιτείται Τίτλος εργασίας"
 
 # TRANSLATION
 # LABEL/ID_NCAMBIO
 #: LABEL/ID_NCAMBIO
 msgid "@#, Replaces the value without any change."
-msgstr "@#, Replaces the value without any change."
+msgstr "@#, Αντικαθιστά την αξία χωρίς καμία αλλαγή."
 
 # TRANSLATION
 # LABEL/ID_NEED_REGISTER
 #: LABEL/ID_NEED_REGISTER
 msgid "You need to be registered to download this process. Register NOW!"
-msgstr "You need to be registered to download this process. Register NOW!"
+msgstr "Θα πρέπει να είστε εγγεγραμμένος για να κατεβάσετε αυτή τη διαδικασία. Εγγραφείτε τώρα!"
 
 # TRANSLATION
 # LABEL/ID_NEW
 #: LABEL/ID_NEW
 msgid "New"
-msgstr "New"
+msgstr "Νέο"
 
 # TRANSLATION
 # LABEL/ID_NEW_ADD_TABLE
 #: LABEL/ID_NEW_ADD_TABLE
 msgid "New PM Table"
-msgstr "New PM Table"
+msgstr "Νέα PM Πίνακας"
 
 # TRANSLATION
 # LABEL/ID_NEW_CASE
 #: LABEL/ID_NEW_CASE
 msgid "New case"
-msgstr "New case"
+msgstr "Νέα υπόθεση"
 
 # TRANSLATION
 # LABEL/ID_NEW_CASE_PANEL
@@ -191,13 +190,13 @@ msgstr "New Case Panel"
 # LABEL/ID_NEW_CASE_SCHEDULER
 #: LABEL/ID_NEW_CASE_SCHEDULER
 msgid "New Case Scheduler"
-msgstr "New Case Scheduler"
+msgstr "Χρονοπρογραμματιστής Νέας Υπόθεσης"
 
 # TRANSLATION
 # LABEL/ID_NEW_CATEGORY
 #: LABEL/ID_NEW_CATEGORY
 msgid "Create New Category"
-msgstr "Create New Category"
+msgstr "Δημιουργία νέας κατηγορίας"
 
 # TRANSLATION
 # LABEL/ID_NEW_DEPARTMENT
@@ -209,19 +208,19 @@ msgstr "New"
 # LABEL/ID_NEW_DYNAFORM
 #: LABEL/ID_NEW_DYNAFORM
 msgid "New dynaform"
-msgstr "New dynaform"
+msgstr "Νέα dynaform"
 
 # TRANSLATION
 # LABEL/ID_NEW_EVENT
 #: LABEL/ID_NEW_EVENT
 msgid "New Event"
-msgstr "New Event"
+msgstr "Νέο Συμβάν"
 
 # TRANSLATION
 # LABEL/ID_NEW_FOLDER
 #: LABEL/ID_NEW_FOLDER
 msgid "New Folder"
-msgstr "New Folder"
+msgstr "Νέος Φάκελος"
 
 # TRANSLATION
 # LABEL/ID_NEW_GROUP
@@ -233,31 +232,31 @@ msgstr "New"
 # LABEL/ID_NEW_INPUTDOCS
 #: LABEL/ID_NEW_INPUTDOCS
 msgid "New Input Document"
-msgstr "New Input Document"
+msgstr "Νέο έγγραφο εισόδου"
 
 # TRANSLATION
 # LABEL/ID_NEW_NOTE
 #: LABEL/ID_NEW_NOTE
 msgid "New Note"
-msgstr "New Note"
+msgstr "Νέα Σημείωση"
 
 # TRANSLATION
 # LABEL/ID_NEW_PASSWORD
 #: LABEL/ID_NEW_PASSWORD
 msgid "New Password"
-msgstr "New Password"
+msgstr "Νεος Κωδικός"
 
 # TRANSLATION
 # LABEL/ID_NEW_PASSWORD_SENT
 #: LABEL/ID_NEW_PASSWORD_SENT
 msgid "Your new password was sent to your email account!"
-msgstr "Your new password was sent to your email account!"
+msgstr "Ο νέος σας κωδικός έχει σταλεί στο λογαριασμό e-mail σας!"
 
 # TRANSLATION
 # LABEL/ID_NEW_PASS_SAME_OLD_PASS
 #: LABEL/ID_NEW_PASS_SAME_OLD_PASS
 msgid "The confirm Password fields must be the same!"
-msgstr "The confirm Password fields must be the same!"
+msgstr "Τα πεδία που επιβεβαιώνουν τον κωδικό πρόσβασης πρέπει να είναι τα ίδια!"
 
 # TRANSLATION
 # LABEL/ID_NEW_PMTABLE
@@ -269,7 +268,7 @@ msgstr "New PM Table"
 # LABEL/ID_NEW_REPORT_TABLE
 #: LABEL/ID_NEW_REPORT_TABLE
 msgid "New Report Table"
-msgstr "New Report Table"
+msgstr "Νέος πίνακας έκθεσης"
 
 # TRANSLATION
 # LABEL/ID_NEW_REPORT_TABLE_OLD
@@ -281,43 +280,43 @@ msgstr "New Report Table (Old Version)"
 # LABEL/ID_NEW_SITE_TESTING
 #: LABEL/ID_NEW_SITE_TESTING
 msgid "New site testing..."
-msgstr "New site testing..."
+msgstr "Νέα δοκιμή ιστοσελίδας ..."
 
 # TRANSLATION
 # LABEL/ID_NEW_SKIN
 #: LABEL/ID_NEW_SKIN
 msgid "New Skin"
-msgstr "New Skin"
+msgstr "Νέο Περίβλημα-Skin"
 
 # TRANSLATION
 # LABEL/ID_NEW_STEP
 #: LABEL/ID_NEW_STEP
 msgid "New Step"
-msgstr "New Step"
+msgstr "Νέο Βήμα"
 
 # TRANSLATION
 # LABEL/ID_NEW_SUB_DEPARTMENT
 #: LABEL/ID_NEW_SUB_DEPARTMENT
 msgid "New Sub-Department"
-msgstr "New Sub-Department"
+msgstr "Νέα Υπο-Τμήμα"
 
 # TRANSLATION
 # LABEL/ID_NEW_TRANSLATION
 #: LABEL/ID_NEW_TRANSLATION
 msgid "New Translation"
-msgstr "New Translation"
+msgstr "Νέα Μετάφραση"
 
 # TRANSLATION
 # LABEL/ID_NEW_TRIGGERS
 #: LABEL/ID_NEW_TRIGGERS
 msgid "New Trigger"
-msgstr "New Trigger"
+msgstr "Νέος Σκανδαλισμός"
 
 # TRANSLATION
 # LABEL/ID_NEW_VERSION
 #: LABEL/ID_NEW_VERSION
 msgid "New Version"
-msgstr "New Version"
+msgstr "Νέα Έκδοση"
 
 # TRANSLATION
 # LABEL/ID_NEW_WEB_ENTRY
@@ -329,43 +328,43 @@ msgstr "New Web Entry"
 # LABEL/ID_NEW_WORKSPACE
 #: LABEL/ID_NEW_WORKSPACE
 msgid "New Workspace"
-msgstr "New Workspace"
+msgstr "Νέος Χώρος Εργασίας"
 
 # TRANSLATION
 # LABEL/ID_NEXT
 #: LABEL/ID_NEXT
 msgid "Next"
-msgstr "Next"
+msgstr "Επόμενο"
 
 # TRANSLATION
 # LABEL/ID_NEXT_STEP
 #: LABEL/ID_NEXT_STEP
 msgid "Next Step"
-msgstr "Next Step"
+msgstr "Επόμενο Βήμα"
 
 # TRANSLATION
 # LABEL/ID_NEXT_TASK
 #: LABEL/ID_NEXT_TASK
 msgid "Next Task"
-msgstr "Next Task"
+msgstr "Νέο Έργο"
 
 # TRANSLATION
 # LABEL/ID_NO
 #: LABEL/ID_NO
 msgid "No"
-msgstr "No"
+msgstr "Όχι"
 
 # TRANSLATION
 # LABEL/ID_NODELETEOPTIONALL
 #: LABEL/ID_NODELETEOPTIONALL
 msgid "You must add all the days that you have selected in work days, otherwise you should leave at least an \"-- ALL --\" option."
-msgstr "You must add all the days that you have selected in work days, otherwise you should leave at least an \"-- ALL --\" option."
+msgstr "Μπορείτε να προσθέσετε όλες τις ημέρες που έχετε επιλέξει σε εργάσιμες ημέρες, διαφορετικά θα πρέπει να αφήσετε τουλάχιστον μία \"ΟΛΑ\" επιλογή."
 
 # TRANSLATION
 # LABEL/ID_NONE
 #: LABEL/ID_NONE
 msgid "None"
-msgstr "None"
+msgstr "Τίποτα"
 
 # TRANSLATION
 # LABEL/ID_NONEC
@@ -383,133 +382,133 @@ msgstr "Non-writable Files"
 # LABEL/ID_NORMAL
 #: LABEL/ID_NORMAL
 msgid "Normal"
-msgstr "Normal"
+msgstr "Κανονικό"
 
 # TRANSLATION
 # LABEL/ID_NOTES_READY
 #: LABEL/ID_NOTES_READY
 msgid "Ready"
-msgstr "Ready"
+msgstr "Έτοιμο"
 
 # TRANSLATION
 # LABEL/ID_NOTICE
 #: LABEL/ID_NOTICE
 msgid "Notice"
-msgstr "Notice"
+msgstr "Ειδοποίηση"
 
 # TRANSLATION
 # LABEL/ID_NOTIFICATION
 #: LABEL/ID_NOTIFICATION
 msgid "Notification"
-msgstr "Notification"
+msgstr "Κοινοποίηση"
 
 # TRANSLATION
 # LABEL/ID_NOTIFICATION_ERROR
 #: LABEL/ID_NOTIFICATION_ERROR
 msgid "Some problem happens while trying to send the Task notification."
-msgstr "Some problem happens while trying to send the Task notification."
+msgstr "Μερικά πρόβληματα συμβαίνουν, ενώ το σύστημα προσπαθεί να στείλει την κοινοποίηση εργασιών."
 
 # TRANSLATION
 # LABEL/ID_NOTIFY_USERS_AFTER_ASSIGN
 #: LABEL/ID_NOTIFY_USERS_AFTER_ASSIGN
 msgid "After routing notify the next assigned user(s)"
-msgstr "After routing notify the next assigned user(s)"
+msgstr "Μετά τη δρομολόγηση ενημέρωσε τον επόμενο ανατιθέμενο χρήστης (ες)"
 
 # TRANSLATION
 # LABEL/ID_NOTIFY_USERS_CASE
 #: LABEL/ID_NOTIFY_USERS_CASE
 msgid "Notify users of case"
-msgstr "Notify users of case"
+msgstr "Ειδοποιήστε τους χρήστες της υπόθεσης"
 
 # TRANSLATION
 # LABEL/ID_NOT_CREATE_TABLE
 #: LABEL/ID_NOT_CREATE_TABLE
 msgid "Could not create the table with the name"
-msgstr "Could not create the table with the name"
+msgstr "Δεν μπόρεσα να δημιουργήσω τον πίνακα με το όνομα"
 
 # TRANSLATION
 # LABEL/ID_NOT_DEFINED
 #: LABEL/ID_NOT_DEFINED
 msgid "Not defined"
-msgstr "Not defined"
+msgstr "Δεν προσδιορίζεται"
 
 # TRANSLATION
 # LABEL/ID_NOT_DERIVATED
 #: LABEL/ID_NOT_DERIVATED
 msgid "The case couldn't be routed. Consult the system administrator"
-msgstr "The case couldn't be routed. Consult the system administrator"
+msgstr "Η υπόθεση δεν θα μπορούσε να δρομολογηθεί. Συμβουλευτείτε το διαχειριστή του συστήματος"
 
 # TRANSLATION
 # LABEL/ID_NOT_ENABLED
 #: LABEL/ID_NOT_ENABLED
 msgid "Not Enabled"
-msgstr "Not Enabled"
+msgstr "Μή Ενεργοποιημένο"
 
 # TRANSLATION
 # LABEL/ID_NOT_FINISHED
 #: LABEL/ID_NOT_FINISHED
 msgid "Not finished"
-msgstr "Not finished"
+msgstr "Δεν έχει ολοκληρωθεί"
 
 # TRANSLATION
 # LABEL/ID_NOT_HAVE_USERS
 #: LABEL/ID_NOT_HAVE_USERS
 msgid "doesn't have users."
-msgstr "doesn't have users."
+msgstr "δεν έχει χρήστες."
 
 # TRANSLATION
 # LABEL/ID_NOT_IN_FOLDER
 #: LABEL/ID_NOT_IN_FOLDER
 msgid "Not in folder"
-msgstr "Not in folder"
+msgstr "Όχι στο φάκελο"
 
 # TRANSLATION
 # LABEL/ID_NOT_PASSED
 #: LABEL/ID_NOT_PASSED
 msgid "Not Passed."
-msgstr "Not Passed."
+msgstr "Δεν Πέρασε."
 
 # TRANSLATION
 # LABEL/ID_NOT_PM_FILE
 #: LABEL/ID_NOT_PM_FILE
 msgid "This is not a .pm file"
-msgstr "This is not a .pm file"
+msgstr "Αυτό δεν είναι ένα αρχείο pm."
 
 # TRANSLATION
 # LABEL/ID_NOT_PRIVILEGES
 #: LABEL/ID_NOT_PRIVILEGES
 msgid "You do not have privileges"
-msgstr "You do not have privileges"
+msgstr "Δεν έχετε δικαιώματα"
 
 # TRANSLATION
 # LABEL/ID_NOT_PROCESS_RELATED
 #: LABEL/ID_NOT_PROCESS_RELATED
 msgid "Not from a Process"
-msgstr "Not from a Process"
+msgstr "Όχι από μία Διεργασία"
 
 # TRANSLATION
 # LABEL/ID_NOT_REQUIRED
 #: LABEL/ID_NOT_REQUIRED
 msgid "Not Required"
-msgstr "Not Required"
+msgstr "Δεν Απαιτείται"
 
 # TRANSLATION
 # LABEL/ID_NOT_SENT
 #: LABEL/ID_NOT_SENT
 msgid "Not sent"
-msgstr "Not sent"
+msgstr "Δεν αποστάλλησαν"
 
 # TRANSLATION
 # LABEL/ID_NOT_WORKSPACE
 #: LABEL/ID_NOT_WORKSPACE
 msgid "You have specified an unavailable workspace."
-msgstr "You have specified an unavailable workspace."
+msgstr "Έχετε ορίσει ένα μη-διαθέσιμο χώρο εργασίας."
 
 # TRANSLATION
 # LABEL/ID_NOT_WORKSPACE_SPECIFIED
 #: LABEL/ID_NOT_WORKSPACE_SPECIFIED
 msgid "No workspace specified!"
-msgstr "No workspace specified!"
+msgstr "Δεν διευκρινίζεται χώρο εργασίας!"
 
 # TRANSLATION
 # LABEL/ID_NO_DB_CONNECTION
@@ -527,43 +526,43 @@ msgstr "Process definition error: All conditions in parallel evaluation routing 
 # LABEL/ID_NO_EXIST
 #: LABEL/ID_NO_EXIST
 msgid "No exists"
-msgstr "No exists"
+msgstr "Δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_NO_FIELD_FOUND
 #: LABEL/ID_NO_FIELD_FOUND
 msgid "No fields found!"
-msgstr "No fields found!"
+msgstr "Δεν βρέθηκαν πεδία!"
 
 # TRANSLATION
 # LABEL/ID_NO_IMAGES_TO_DISPLAY
 #: LABEL/ID_NO_IMAGES_TO_DISPLAY
 msgid "No images to display"
-msgstr "No images to display"
+msgstr "Δεν υπάρχουν εικόνες για να εμφανίσετε"
 
 # TRANSLATION
 # LABEL/ID_NO_INSTALL
 #: LABEL/ID_NO_INSTALL
 msgid "A problem occurred during the installation of the system. Please, uninstall the partial installation and try again."
-msgstr "A problem occurred during the installation of the system. Please, uninstall the partial installation and try again."
+msgstr "Παρουσιάστηκε ένα πρόβλημα κατά την εγκατάσταση του συστήματος. Παρακαλούμε, καταργήστε τη μερική εγκατάσταση και προσπαθήστε ξανά."
 
 # TRANSLATION
 # LABEL/ID_NO_ITEMS_SELECTED
 #: LABEL/ID_NO_ITEMS_SELECTED
 msgid "No items Selected"
-msgstr "No items Selected"
+msgstr "Δεν υπάρχουν Επιλεγμένα στοιχεία "
 
 # TRANSLATION
 # LABEL/ID_NO_MANAGER_SELECTED
 #: LABEL/ID_NO_MANAGER_SELECTED
 msgid "No Manager Selected"
-msgstr "No Manager Selected"
+msgstr "Κανένας Διευθυντής Επιλεγμένος"
 
 # TRANSLATION
 # LABEL/ID_NO_MORE_APPLICATIONS
 #: LABEL/ID_NO_MORE_APPLICATIONS
 msgid "No more applications to show."
-msgstr "No more applications to show."
+msgstr "Καμία επιπλέον εφαρμογή για να εμφανιστεί."
 
 # TRANSLATION
 # LABEL/ID_NO_OLDER_SESSION_FILES
@@ -575,37 +574,37 @@ msgstr "There are no older session files"
 # LABEL/ID_NO_PERMISSION_NO_PARTICIPATED
 #: LABEL/ID_NO_PERMISSION_NO_PARTICIPATED
 msgid "You do not have permission to see this case or you have not participated in it."
-msgstr "You do not have permission to see this case or you have not participated in it."
+msgstr "Δεν έχετε την άδεια να δείτε αυτή την υπόθεση ή δεν έχουν συμμετάσχει σε αυτό."
 
 # TRANSLATION
 # LABEL/ID_NO_REASSIGN
 #: LABEL/ID_NO_REASSIGN
 msgid "Do not reassign"
-msgstr "Do not reassign"
+msgstr "Μην επανεκχωρήσετε"
 
 # TRANSLATION
 # LABEL/ID_NO_RECORDS
 #: LABEL/ID_NO_RECORDS
 msgid "No records"
-msgstr "No records"
+msgstr "Δεν υπάρχουν εγγραφές"
 
 # TRANSLATION
 # LABEL/ID_NO_RECORDS_FOUND
 #: LABEL/ID_NO_RECORDS_FOUND
 msgid "No records found"
-msgstr "No records found"
+msgstr "Δεν βρέθηκαν εγγραφές"
 
 # TRANSLATION
 # LABEL/ID_NO_RESUME
 #: LABEL/ID_NO_RESUME
 msgid "The user doesn't have a resume."
-msgstr "The user doesn't have a resume."
+msgstr "Ο χρήστης δεν έχει ένα βιογραφικό."
 
 # TRANSLATION
 # LABEL/ID_NO_SELECTED_FIELDS
 #: LABEL/ID_NO_SELECTED_FIELDS
 msgid "No selected fields"
-msgstr "No selected fields"
+msgstr "Δεν υπάρχουν επιλεγμένα πεδία"
 
 # TRANSLATION
 # LABEL/ID_NO_SELECTION_WARNING
