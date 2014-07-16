@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:35+0200\n"
+"Last-Translator: Βαλασία Άννα Βαλαβοσίκη <valavosiki@hotmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,7 +16,7 @@ msgstr ""
 # LABEL/ID_CASES_NOTE_POST_ERROR
 #: LABEL/ID_CASES_NOTE_POST_ERROR
 msgid "Post Error"
-msgstr "Post Error"
+msgstr "Σφάλμα αποστολής"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTE_POST_FAILED
@@ -29,587 +28,587 @@ msgstr "There is a server error"
 # LABEL/ID_CASES_NOTE_POST_SUCCESS
 #: LABEL/ID_CASES_NOTE_POST_SUCCESS
 msgid "Note successfully posted"
-msgstr "Note successfully posted"
+msgstr "Το μήνυμα στάλθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOT_START
 #: LABEL/ID_CASES_NOT_START
 msgid "You can't start a case because you don't have a starting task assigned"
-msgstr "You can't start a case because you don't have a starting task assigned"
+msgstr "Δεν μπορείτε να ξεκινήσετε μία περίπτωση επειδή δεν έχετε ορίσει μία αρχική εργασία"
 
 # TRANSLATION
 # LABEL/ID_CASES_NUM
 #: LABEL/ID_CASES_NUM
 msgid "[LABEL/ID_CASES_NUM] # Cases"
-msgstr "# Cases"
+msgstr "# Περιπτώσεις"
 
 # TRANSLATION
 # LABEL/ID_CASES_ROW_NUMBER
 #: LABEL/ID_CASES_ROW_NUMBER
 msgid "Number of Rows per Page"
-msgstr "Number of Rows per Page"
+msgstr "Αριθμός γραμμών ανά σελίδα"
 
 # TRANSLATION
 # LABEL/ID_CASES_START_PAGE
 #: LABEL/ID_CASES_START_PAGE
 msgid "Start Pages"
-msgstr "Start Pages"
+msgstr "Αρχικές σελίδες"
 
 # TRANSLATION
 # LABEL/ID_CASES_STATUS_CANCELLED
 #: LABEL/ID_CASES_STATUS_CANCELLED
 msgid "[LABEL/ID_CASES_STATUS_CANCELLED] Cancelled"
-msgstr "Cancelled"
+msgstr "Ακυρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_CASES_STATUS_COMPLETED
 #: LABEL/ID_CASES_STATUS_COMPLETED
 msgid "[LABEL/ID_CASES_STATUS_COMPLETED] Completed"
-msgstr "Completed"
+msgstr "Ολοκληρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_CASES_STATUS_DRAFT
 #: LABEL/ID_CASES_STATUS_DRAFT
 msgid "Draft"
-msgstr "Draft"
+msgstr "Πρόχειρο"
 
 # TRANSLATION
 # LABEL/ID_CASES_STATUS_PAUSED
 #: LABEL/ID_CASES_STATUS_PAUSED
 msgid "Paused"
-msgstr "Paused"
+msgstr "Σε παύση"
 
 # TRANSLATION
 # LABEL/ID_CASES_STATUS_TO_DO
 #: LABEL/ID_CASES_STATUS_TO_DO
 msgid "To Do"
-msgstr "To Do"
+msgstr "Προς εκτέλεση"
 
 # TRANSLATION
 # LABEL/ID_CASES_STEPS
 #: LABEL/ID_CASES_STEPS
 msgid "Cases Steps"
-msgstr "Cases Steps"
+msgstr "Βήματα περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASES_SUMMARY
 #: LABEL/ID_CASES_SUMMARY
 msgid "Cases Summary"
-msgstr "Cases Summary"
+msgstr "Περίληψη περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASES_TO_REASSIGN_TASK_LIST
 #: LABEL/ID_CASES_TO_REASSIGN_TASK_LIST
 msgid "Cases to reassign - Task List"
-msgstr "Cases to reassign - Task List"
+msgstr "Περιπτώσεις για επαναπροσδιορισμό- Λίστα εργασιών"
 
 # TRANSLATION
 # LABEL/ID_CASE_ALREADY_DERIVATED
 #: LABEL/ID_CASE_ALREADY_DERIVATED
 msgid "Case already routed"
-msgstr "Case already routed"
+msgstr "Η περίπτωση έχει ήδη δρομολογηθεί"
 
 # TRANSLATION
 # LABEL/ID_CASE_ASSIGNED_ANOTHER_USER
 #: LABEL/ID_CASE_ASSIGNED_ANOTHER_USER
 msgid "This case is assigned to another user"
-msgstr "This case is assigned to another user"
+msgstr "Αυτή η περίπτωση έχει ανατεθεί σε άλλο χρήστη"
 
 # TRANSLATION
 # LABEL/ID_CASE_CANCELLED
 #: LABEL/ID_CASE_CANCELLED
 msgid "The case {0} was cancelled!"
-msgstr "The case {0} was cancelled!"
+msgstr "Η περίπτωση {0} έχει ακυρωθεί!"
 
 # TRANSLATION
 # LABEL/ID_CASE_CANCEL_LABEL_NOTE
 #: LABEL/ID_CASE_CANCEL_LABEL_NOTE
 msgid "The Case canceled. By the reason:"
-msgstr "The Case canceled. By the reason:"
+msgstr "Η περίπτωση ακυρώθηκε. Η αιτία είναι:"
 
 # TRANSLATION
 # LABEL/ID_CASE_CANCEL_REASON
 #: LABEL/ID_CASE_CANCEL_REASON
 msgid "Reason of the cancel of case"
-msgstr "Reason of the cancel of case"
+msgstr "Η αιτία ακύρωσης της περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_COULD_NOT_REASSIGNED
 #: LABEL/ID_CASE_COULD_NOT_REASSIGNED
 msgid "The case could not be reassigned."
-msgstr "The case could not be reassigned."
+msgstr "Η περίπτωση δεν ήταν δυνατό να επαναπροσδιοριστεί"
 
 # TRANSLATION
 # LABEL/ID_CASE_DELEGATION_ALREADY_CLOSED
 #: LABEL/ID_CASE_DELEGATION_ALREADY_CLOSED
 msgid "This case delegation is already closed or does not exist"
-msgstr "This case delegation is already closed or does not exist"
+msgstr "Αυτή η εξουσιοδότηση της περίπτωσης έχει ήδη κλείσει ή δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CASE_DELETED_SUCCESSFULLY
 #: LABEL/ID_CASE_DELETED_SUCCESSFULLY
 msgid "The Case {APP_NUMBER} was deleted successfully!"
-msgstr "The Case {APP_NUMBER} was deleted successfully!"
+msgstr "Η περίπτωση {APP_NUMBER} διεγράφει με επιτυχία!"
 
 # TRANSLATION
 # LABEL/ID_CASE_DESCRIPTION
 #: LABEL/ID_CASE_DESCRIPTION
 msgid "Case Description"
-msgstr "Case Description"
+msgstr "Περιγραφή περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_DOES_NOT_EXIST
 #: LABEL/ID_CASE_DOES_NOT_EXIST
 msgid "Case {CASE_NUMBER} does not exist"
-msgstr "Case {CASE_NUMBER} does not exist"
+msgstr "Περίπτωση {CASE_NUMBER} δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CASE_DOES_NOT_EXISTS
 #: LABEL/ID_CASE_DOES_NOT_EXISTS
 msgid "This case does not exist"
-msgstr "This case does not exist"
+msgstr "Αυτή η περίπτωση δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CASE_DOES_NOT_EXIST_JS
 #: LABEL/ID_CASE_DOES_NOT_EXIST_JS
 msgid "Case {0} does not exist"
-msgstr "Case {0} does not exist"
+msgstr "Η περίπτωση {0} δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CASE_FIELD
 #: LABEL/ID_CASE_FIELD
 msgid "Case Field"
-msgstr "Case Field"
+msgstr "Πεδίο περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_HISTORY
 #: LABEL/ID_CASE_HISTORY
 msgid "[LABEL/ID_CASE_HISTORY] Case History"
-msgstr "Case History"
+msgstr "Ιστορικό περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_IN_STATUS
 #: LABEL/ID_CASE_IN_STATUS
 msgid "This case is in status"
-msgstr "This case is in status"
+msgstr "Αυτή η περίπτωση είναι ενεργή"
 
 # TRANSLATION
 # LABEL/ID_CASE_IS_CURRENTLY_WITH_ANOTHER_USER
 #: LABEL/ID_CASE_IS_CURRENTLY_WITH_ANOTHER_USER
 msgid "The case is currently opened by another user"
-msgstr "The case is currently opened by another user"
+msgstr "Αυτή η περίπτωση είναι ήδη ανοιχτή από άλλο χρήστη"
 
 # TRANSLATION
 # LABEL/ID_CASE_LABELS
 #: LABEL/ID_CASE_LABELS
 msgid "[LABEL/ID_CASE_LABELS] Case Labels"
-msgstr "Case Labels"
+msgstr "Ετικέτες περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_LIST
 #: LABEL/ID_CASE_LIST
 msgid "Case List"
-msgstr "Case List"
+msgstr "Λίστα περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTE
 #: LABEL/ID_CASE_NOTE
 msgid "Case Note"
-msgstr "Case Note"
+msgstr "Σημείωση περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTES_EMPTY
 #: LABEL/ID_CASE_NOTES_EMPTY
 msgid "No notes to Display"
-msgstr "No notes to Display"
+msgstr "Δεν υπάρχουν σημειώσεις προς προβολή"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTES_HINT_SEND
 #: LABEL/ID_CASE_NOTES_HINT_SEND
 msgid "A copy of this note will be sent to all Case Participants"
-msgstr "A copy of this note will be sent to all Case Participants"
+msgstr "Ένα αντίγραφο αυτής της σημείωσης θα σταλεί σε όλους τους συμμετέχοντες στην περίπτωση"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTES_LABEL_SEND
 #: LABEL/ID_CASE_NOTES_LABEL_SEND
 msgid "Send email (Case Participants)"
-msgstr "Send email (Case Participants)"
+msgstr "Αποστολή email (Συμμετέχοντες περίπτωσης)"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTES_LOADING
 #: LABEL/ID_CASE_NOTES_LOADING
 msgid "Loading Notes..."
-msgstr "Loading Notes..."
+msgstr "Φόρτωση σημειώσεων..."
 
 # TRANSLATION
 # LABEL/ID_CASE_NOTES_MORE
 #: LABEL/ID_CASE_NOTES_MORE
 msgid "Show more notes"
-msgstr "Show more notes"
+msgstr "Εμφάνιση περισσότερων σημειώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOT_EXISTS
 #: LABEL/ID_CASE_NOT_EXISTS
 msgid "The case does not exist"
-msgstr "The case does not exist"
+msgstr "Αυτή η περίπτωση δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOT_OPEN
 #: LABEL/ID_CASE_NOT_OPEN
 msgid "This case is not open"
-msgstr "This case is not open"
+msgstr "Η περίπτωση δεν είναι ανοιχτή"
 
 # TRANSLATION
 # LABEL/ID_CASE_NOT_YET_STARTED
 #: LABEL/ID_CASE_NOT_YET_STARTED
 msgid "Case not yet started"
-msgstr "Case not yet started"
+msgstr "Η περίπτωση δεν έχει ξεκινήσει"
 
 # TRANSLATION
 # LABEL/ID_CASE_PAUSED_SUCCESSFULLY
 #: LABEL/ID_CASE_PAUSED_SUCCESSFULLY
 msgid "The Case {APP_NUMBER} was paused successfully and it will be unpaused on date {UNPAUSE_DATE}"
-msgstr "The Case {APP_NUMBER} was paused successfully and it will be unpaused on date {UNPAUSE_DATE}"
+msgstr "Η περίπτωση {APP_NUMBER} σταμάτησε επιτυχώς και ξαναξεκίνησε την ημέρα  {UNPAUSE_DATE}"
 
 # TRANSLATION
 # LABEL/ID_CASE_PAUSE_LABEL_NOTE
 #: LABEL/ID_CASE_PAUSE_LABEL_NOTE
 msgid "The Case paused. By the reason:"
-msgstr "The Case paused. By the reason:"
+msgstr "Η περίπτωση σταμάτησε. Η αιτία είναι:"
 
 # TRANSLATION
 # LABEL/ID_CASE_PAUSE_REASON
 #: LABEL/ID_CASE_PAUSE_REASON
 msgid "Reason of the pause of case"
-msgstr "Reason of the pause of case"
+msgstr "Η αιτία που σταμάτησε η περίπτωση"
 
 # TRANSLATION
 # LABEL/ID_CASE_PROPERTIES_SAVE
 #: LABEL/ID_CASE_PROPERTIES_SAVE
 msgid "Case Tracker Properties Saved Successfully"
-msgstr "Case Tracker Properties Saved Successfully"
+msgstr "Οι ιδιότητες του οδηγού περιπτώσεων αποθηκεύτηκαν επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CASE_REACTIVATED_SUCCESSFULLY
 #: LABEL/ID_CASE_REACTIVATED_SUCCESSFULLY
 msgid "The case {APP_NUMBER} was reactivated successfully!"
-msgstr "The case {APP_NUMBER} was reactivated successfully!"
+msgstr "Η περίπτωση{APP_NUMBER} ενεργοποιήθηκε ξανά με επιτυχία!"
 
 # TRANSLATION
 # LABEL/ID_CASE_SCHEDULER
 #: LABEL/ID_CASE_SCHEDULER
 msgid "Case Scheduler"
-msgstr "Case Scheduler"
+msgstr "Προγραμματιστής περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_SCHEDULER_SAVED
 #: LABEL/ID_CASE_SCHEDULER_SAVED
 msgid "Case Scheduler Saved Sucessfully"
-msgstr "Case Scheduler Saved Sucessfully"
+msgstr "Ο προγραμματιστής περιπτώσεων αποθηκεύτηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CASE_SCHEDULER_SUMMARY
 #: LABEL/ID_CASE_SCHEDULER_SUMMARY
 msgid "Case Scheduler Summary"
-msgstr "Case Scheduler Summary"
+msgstr "Περίληψη του προγραμματιστή περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_SCHEDULER_VALIDATE_ALERT
 #: LABEL/ID_CASE_SCHEDULER_VALIDATE_ALERT
 msgid "[LABEL/ID_CASE_SCHEDULER_VALIDATE_ALERT] User or password are empty."
-msgstr "User or password are empty."
+msgstr "Το όνομα χρήστη ή ο κωδικός είναι άδεια"
 
 # TRANSLATION
 # LABEL/ID_CASE_START
 #: LABEL/ID_CASE_START
 msgid "Start Case"
-msgstr "Start Case"
+msgstr "Αρχική περίπτωση"
 
 # TRANSLATION
 # LABEL/ID_CASE_TITLE
 #: LABEL/ID_CASE_TITLE
 msgid "Case Title"
-msgstr "Case Title"
+msgstr "Τίτλος περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASE_TRACKERS
 #: LABEL/ID_CASE_TRACKERS
 msgid "Case trackers"
-msgstr "Case trackers"
+msgstr "Οδηγοί περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASE_UNPAUSED_SUCCESSFULLY
 #: LABEL/ID_CASE_UNPAUSED_SUCCESSFULLY
 msgid "The Case {APP_NUMBER} was unpaused successfully!"
-msgstr "The Case {APP_NUMBER} was unpaused successfully!"
+msgstr "Η περίπτωση  {APP_NUMBER} ξεκίνησε πάλι με επιτυχία!"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY
 #: LABEL/ID_CATEGORY
 msgid "Category"
-msgstr "Category"
+msgstr "Κατηγορία"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY_EXISTS
 #: LABEL/ID_CATEGORY_EXISTS
 msgid "Category name already exists."
-msgstr "Category name already exists."
+msgstr "Το όνομα της κατηγορίας ήδη υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY_NAME
 #: LABEL/ID_CATEGORY_NAME
 msgid "Category Name"
-msgstr "Category Name"
+msgstr "Όνομα καητγορίας"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY_SUCCESS_DELETE
 #: LABEL/ID_CATEGORY_SUCCESS_DELETE
 msgid "Process category has been deleted correctly."
-msgstr "Process category has been deleted correctly."
+msgstr "Η διεργασία κατηγορίας διεγράφη επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY_SUCCESS_NEW
 #: LABEL/ID_CATEGORY_SUCCESS_NEW
 msgid "Process category has been created correctly."
-msgstr "Process category has been created correctly."
+msgstr "Η διεργασία κατηγορίας δημιουργήθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CATEGORY_SUCCESS_UPDATE
 #: LABEL/ID_CATEGORY_SUCCESS_UPDATE
 msgid "Process category has been updated correctly."
-msgstr "Process category has been updated correctly."
+msgstr "Η διεργασία κατηγορίας ενημερώθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_CHANGES_SAVED
 #: LABEL/ID_CHANGES_SAVED
 msgid "Changes saved"
-msgstr "Changes saved"
+msgstr "Οι αλλαγές αποθηκεύτηκαν"
 
 # TRANSLATION
 # LABEL/ID_CHANGE_DATABASE_NAME
 #: LABEL/ID_CHANGE_DATABASE_NAME
 msgid "Change Database names"
-msgstr "Change Database names"
+msgstr "Αλλαγή των ονομάτων της βάσης δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_CHANGE_PASSWORD
 #: LABEL/ID_CHANGE_PASSWORD
 msgid "Change Password"
-msgstr "Change Password"
+msgstr "Αλλαγή κωδικού"
 
 # TRANSLATION
 # LABEL/ID_CHANGE_STATUS
 #: LABEL/ID_CHANGE_STATUS
 msgid "Change Status"
-msgstr "Change Status"
+msgstr "Αλλαγή κατάστασης"
 
 # TRANSLATION
 # LABEL/ID_CHANGE_VIEW
 #: LABEL/ID_CHANGE_VIEW
 msgid "Change view"
-msgstr "Change view"
+msgstr "Αλλαγή προβολής"
 
 # TRANSLATION
 # LABEL/ID_CHECKING
 #: LABEL/ID_CHECKING
 msgid "Checking..."
-msgstr "Checking..."
+msgstr "Έλεγχος..."
 
 # TRANSLATION
 # LABEL/ID_CHECK_AGAIN
 #: LABEL/ID_CHECK_AGAIN
 msgid "Check again"
-msgstr "Check again"
+msgstr "Έλεγχος πάλι"
 
 # TRANSLATION
 # LABEL/ID_CHECK_ALL
 #: LABEL/ID_CHECK_ALL
 msgid "[LABEL/ID_CHECK_ALL] Check All"
-msgstr "Check All"
+msgstr "Έλεγχος όλων"
 
 # TRANSLATION
 # LABEL/ID_CHECK_FIELDS_MARK_RED
 #: LABEL/ID_CHECK_FIELDS_MARK_RED
 msgid "Please check the fields mark in red."
-msgstr "Please check the fields mark in red."
+msgstr "Παρακαλώ ελέγξτε τα πεδία που επισημαίνονται με κόκκινο"
 
 # TRANSLATION
 # LABEL/ID_CHECK_PORT
 #: LABEL/ID_CHECK_PORT
 msgid "Checking port"
-msgstr "Checking port"
+msgstr "Πύλη ελέγχου"
 
 # TRANSLATION
 # LABEL/ID_CHECK_WORKSPACE_CONFIGURATION
 #: LABEL/ID_CHECK_WORKSPACE_CONFIGURATION
 msgid "Check Workspace Configuration"
-msgstr "Check Workspace Configuration"
+msgstr "Έλεγχος ρυθμίσεων της επιφάνειας εργασίας"
 
 # TRANSLATION
 # LABEL/ID_CHOOSE_OPTION
 #: LABEL/ID_CHOOSE_OPTION
 msgid "Choose an option"
-msgstr "Choose an option"
+msgstr "Διελέξτε μία επιλογή"
 
 # TRANSLATION
 # LABEL/ID_CLAIM
 #: LABEL/ID_CLAIM
 msgid "Claim"
-msgstr "Claim"
+msgstr "Δηλώστε"
 
 # TRANSLATION
 # LABEL/ID_CLASSIC_EDITOR
 #: LABEL/ID_CLASSIC_EDITOR
 msgid "Classic Editor"
-msgstr "Classic Editor"
+msgstr "Κλασικός συντάκτης"
 
 # TRANSLATION
 # LABEL/ID_CLASS_ALREADY_EXISTS
 #: LABEL/ID_CLASS_ALREADY_EXISTS
 msgid "Class already exists"
-msgstr "Class already exists"
+msgstr "Η κλάση υπάρχει ήδη"
 
 # TRANSLATION
 # LABEL/ID_CLASS_TABLE_DOESNT_EXIST
 #: LABEL/ID_CLASS_TABLE_DOESNT_EXIST
 msgid "This Class Table doesn't exist!"
-msgstr "This Class Table doesn't exist!"
+msgstr "Αυτός ο πίνακας κλάσης δεν υπάρχει!"
 
 # TRANSLATION
 # LABEL/ID_CLEAR
 #: LABEL/ID_CLEAR
 msgid "Clear"
-msgstr "Clear"
+msgstr "Καθαρισμός"
 
 # TRANSLATION
 # LABEL/ID_CLEAR_CACHE
 #: LABEL/ID_CLEAR_CACHE
 msgid "Clear Cache"
-msgstr "Clear Cache"
+msgstr "Καθαρισμός Cache"
 
 # TRANSLATION
 # LABEL/ID_CLEAR_CACHE_CONFIRM1
 #: LABEL/ID_CLEAR_CACHE_CONFIRM1
 msgid "Clear all cache files now?"
-msgstr "Clear all cache files now?"
+msgstr "Καθαρισμός όλων των cache αρχείων τώρα?"
 
 # TRANSLATION
 # LABEL/ID_CLEAR_CACHE_MSG1
 #: LABEL/ID_CLEAR_CACHE_MSG1
 msgid "All cache data was deleted"
-msgstr "All cache data was deleted"
+msgstr "Όλα τα δεδομένα cache έχουν διαγραφεί"
 
 # TRANSLATION
 # LABEL/ID_CLEAR_CACHE_MSG2
 #: LABEL/ID_CLEAR_CACHE_MSG2
 msgid "The cache directory is empty"
-msgstr "The cache directory is empty"
+msgstr "Ο φάκελος της cache είναι άδειος"
 
 # TRANSLATION
 # LABEL/ID_CLEAR_LOG
 #: LABEL/ID_CLEAR_LOG
 msgid "Clear Log"
-msgstr "Clear Log"
+msgstr "Καθαρισμός Log"
 
 # TRANSLATION
 # LABEL/ID_CLICK_LOCK
 #: LABEL/ID_CLICK_LOCK
 msgid "Click the lock to make changes."
-msgstr "Click the lock to make changes."
+msgstr "Πατήστε τη κλειδαριά για να κάνετε αλλαγές"
 
 # TRANSLATION
 # LABEL/ID_CLICK_UNLOCK
 #: LABEL/ID_CLICK_UNLOCK
 msgid "Click the lock to prevent further changes."
-msgstr "Click the lock to prevent further changes."
+msgstr "Πατήστε την κλιεδαριά για να αποφύγετε περαιτέρω αλλαγές"
 
 # TRANSLATION
 # LABEL/ID_CLOSE
 #: LABEL/ID_CLOSE
 msgid "Close"
-msgstr "Close"
+msgstr "Κλείσιμο"
 
 # TRANSLATION
 # LABEL/ID_CLOSE_EDITOR
 #: LABEL/ID_CLOSE_EDITOR
 msgid "Close Editor"
-msgstr "Close Editor"
+msgstr "Κλείσιμο συντάκτη"
 
 # TRANSLATION
 # LABEL/ID_CODE
 #: LABEL/ID_CODE
 msgid "Code"
-msgstr "Code"
+msgstr "Κώδικας"
 
 # TRANSLATION
 # LABEL/ID_COLLAPSE_ALL
 #: LABEL/ID_COLLAPSE_ALL
 msgid "Collapse All"
-msgstr "Collapse All"
+msgstr "Σβήσιμο όλων"
 
 # TRANSLATION
 # LABEL/ID_COLOSA_AND_CERTIFIED_PARTNERS
 #: LABEL/ID_COLOSA_AND_CERTIFIED_PARTNERS
 msgid "Supplied free of charge with no support, certification, warranty,maintenance nor indemnity by Colosa and its Certified Partners."
-msgstr "Supplied free of charge with no support, certification, warranty,maintenance nor indemnity by Colosa and its Certified Partners."
+msgstr "Παρέχεται δωρεάν χωρίς υποστήριξη, πιστοποίηση, εγγύηση συντήρηση ή αποζημίωση από την εταιρεία Colosa και τους πιστοποιημένους της συνεργάτες."
 
 # TRANSLATION
 # LABEL/ID_COLUMNS
 #: LABEL/ID_COLUMNS
 msgid "columns"
-msgstr "columns"
+msgstr "στήλες"
 
 # TRANSLATION
 # LABEL/ID_COMMAND_EXECUTED_SUCCESSFULLY
 #: LABEL/ID_COMMAND_EXECUTED_SUCCESSFULLY
 msgid "Command executed successfully"
-msgstr "Command executed successfully"
+msgstr "Η εντολή εκτελέσθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_COMMAND_EXECUTED_SUCCESSFULY
 #: LABEL/ID_COMMAND_EXECUTED_SUCCESSFULY
 msgid "command executed successfuly"
-msgstr "command executed successfuly"
+msgstr "η εντολή εκτελέσθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_COMMENTS
 #: LABEL/ID_COMMENTS
 msgid "Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # TRANSLATION
 # LABEL/ID_COMPLETED
 #: LABEL/ID_COMPLETED
 msgid "[LABEL/ID_COMPLETED] Completed"
-msgstr "Completed"
+msgstr "Ολοκληρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_COMPLETED_BY_USER
 #: LABEL/ID_COMPLETED_BY_USER
 msgid "Completed By User"
-msgstr "Completed By User"
+msgstr "Ολοκληρώθηκε από το χρήστη"
 
 # TRANSLATION
 # LABEL/ID_COMPLETED_TASK
 #: LABEL/ID_COMPLETED_TASK
 msgid "Completed Task"
-msgstr "Completed Task"
+msgstr "Ολοκληρωμένη εργασία"
 
 # TRANSLATION
 # LABEL/ID_COMPLETE_VARCHAR
 #: LABEL/ID_COMPLETE_VARCHAR
 msgid "Complete the Varchar field size"
-msgstr "Complete the Varchar field size"
+msgstr "Συμπληρώστε το μεγεθος του αλφαριθμητικού"
 
 # TRANSLATION
 # LABEL/ID_CONDITION
 #: LABEL/ID_CONDITION
 msgid "Condition"
-msgstr "Condition"
+msgstr "Συνθήκη"
 
 # TRANSLATION
 # LABEL/ID_CONDITIONS_EDITOR
 #: LABEL/ID_CONDITIONS_EDITOR
 msgid "Conditions editor"
-msgstr "Conditions editor"
+msgstr "Συντάκτης συνθηκών"
 
