@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:33+0200\n"
+"Last-Translator: Μιχάλης Σκουμπερδής <mikeskoumperdis@hotmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,157 +16,157 @@ msgstr ""
 # JAVASCRIPT/ACCEPT
 #: JAVASCRIPT/ACCEPT
 msgid "Accept"
-msgstr "Accept"
+msgstr "Αποδοχή"
 
 # TRANSLATION
 # JAVASCRIPT/CANCEL
 #: JAVASCRIPT/CANCEL
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωση"
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_ALERT1
 #: JAVASCRIPT/CONDITIONAL_ALERT1
 msgid "Some fields have not been filled."
-msgstr "Some fields have not been filled."
+msgstr "Ορισμένα πεδία δεν έχουν συμπληρωθεί"
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_ALERT2
 #: JAVASCRIPT/CONDITIONAL_ALERT2
 msgid "You should select at least one event (OnChange or OnLoad )"
-msgstr "You should select at least one event (OnChange or OnLoad )"
+msgstr "Πρέπει να επιλέξετε τουλάχιστον ένα γεγονός (Κατα την αλλγή ή την φόρτωση του )"
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_ALERT3
 #: JAVASCRIPT/CONDITIONAL_ALERT3
 msgid "You have not tested the condition, do you want save anyway?"
-msgstr "You have not tested the condition, do you want save anyway?"
+msgstr "Δεν έχετε κάνει έλεγχο στην κατάσταση, Θέλετε παρόλα αυτά να αποθηκεύσετε?"
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_ALERT4
 #: JAVASCRIPT/CONDITIONAL_ALERT4
 msgid "You have an error in the condition, do you want save anyway?"
-msgstr "You have an error in the condition, do you want save anyway?"
+msgstr "Δεν έχετε κάνει έλεγχο στην κατάσταση, Θέλετε παρόλα αυτά να αποθηκεύσετε?"
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
 #: JAVASCRIPT/CONDITIONAL_NOFIELDS_IN_CONDITION
 msgid "No records found for conditions setup"
-msgstr "No records found for conditions setup"
+msgstr "Δεν βρέθηκαν εγγραφές για τις καταστάσεις που δημιουργήθηκαν."
 
 # TRANSLATION
 # JAVASCRIPT/CONDITIONAL_TITLE
 #: JAVASCRIPT/CONDITIONAL_TITLE
 msgid "CONDITIONAL SHOW/HIDE EDITOR"
-msgstr "CONDITIONAL SHOW/HIDE EDITOR"
+msgstr "ΚΑΤΑ ΣΥΝΘΗΚΗ ΕΜΦΑΝΙΣΗ/ΑΠΟΚΡΥΨΗ ΚΕΙΜΕΝΟΓΡΑΦΟΥ"
 
 # TRANSLATION
 # JAVASCRIPT/curriculum
 #: JAVASCRIPT/curriculum
 msgid "Resume"
-msgstr "Resume"
+msgstr "Επενέναρξη"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_ALERT
 #: JAVASCRIPT/DBCONNECTIONS_ALERT
 msgid "You forgot to fill a required field!"
-msgstr "You forgot to fill a required field!"
+msgstr "Ξεχάσατε να συμπληρώσετε ένα απαραίτητο πεδίο!"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG1
 #: JAVASCRIPT/DBCONNECTIONS_MSG1
 msgid "DONE"
-msgstr "DONE"
+msgstr "ΕΓΙΝΕ"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG2
 #: JAVASCRIPT/DBCONNECTIONS_MSG2
 msgid "Failed"
-msgstr "Failed"
+msgstr "Απέτυχε"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG3
 #: JAVASCRIPT/DBCONNECTIONS_MSG3
 msgid "Testing"
-msgstr "Testing"
+msgstr "Έλεγχος"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG4
 #: JAVASCRIPT/DBCONNECTIONS_MSG4
 msgid "Please specify a database server!"
-msgstr "Please specify a database server!"
+msgstr "Παρακαλώ προτείνετε έναν διακομιστή βάσης δεδομένων!"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG5
 #: JAVASCRIPT/DBCONNECTIONS_MSG5
 msgid "You must specify a data base name!"
-msgstr "You must specify a data base name!"
+msgstr "Πρέπει να δώσετε ένα όνομα στη βάση δεδομένων!"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG6
 #: JAVASCRIPT/DBCONNECTIONS_MSG6
 msgid "You must specify a user!"
-msgstr "You must specify a user!"
+msgstr "Πρέπει να ανφέρετε έναν χρήστη!"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSG7
 #: JAVASCRIPT/DBCONNECTIONS_MSG7
 msgid "Loading test, please wait!..."
-msgstr "Loading test, please wait!..."
+msgstr "Μεταφόρτωση ελέγχου,παρακλώ περιμένετε!..."
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSGA
 #: JAVASCRIPT/DBCONNECTIONS_MSGA
 msgid "Database Connections Test was aborted"
-msgstr "Database Connections Test was aborted"
+msgstr "Οι συνδέσεις της βάσης δεδομένων απορρίφθηκαν"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSGR
 #: JAVASCRIPT/DBCONNECTIONS_MSGR
 msgid "Server Response"
-msgstr "Server Response"
+msgstr "Απόκριση από τον διακομιστή"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSGS
 #: JAVASCRIPT/DBCONNECTIONS_MSGS
 msgid "Successful"
-msgstr "Successful"
+msgstr "Επιτυχές"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_MSGT
 #: JAVASCRIPT/DBCONNECTIONS_MSGT
 msgid "The test has"
-msgstr "The test has"
+msgstr "Ο έλεγχχος έχει"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIONS_TEST
 #: JAVASCRIPT/DBCONNECTIONS_TEST
 msgid "TESTING SERVER CONNECTION"
-msgstr "TESTING SERVER CONNECTION"
+msgstr "ΕΛΕΓΧΟΣ ΔΙΑΣΥΝΔΕΣΕΩΝ ΔΙΑΚΟΜΙΣΤΗ"
 
 # TRANSLATION
 # JAVASCRIPT/DBCONNECTIOS_MSG1
 #: JAVASCRIPT/DBCONNECTIOS_MSG1
 msgid "[JAVASCRIPT/DBCONNECTIOS_MSG1] DONE"
-msgstr "DONE"
+msgstr "ΕΓΙΝΕ"
 
 # TRANSLATION
 # JAVASCRIPT/demo
 #: JAVASCRIPT/demo
 msgid "test javaScript"
-msgstr "test javaScript"
+msgstr "Κείμενο σε JavaScript"
 
 # TRANSLATION
 # JAVASCRIPT/DYNAFIELD_ALREADY_EXIST
 #: JAVASCRIPT/DYNAFIELD_ALREADY_EXIST
 msgid "The field name already exists!"
-msgstr "The field name already exists!"
+msgstr "Η καταχώρηση του πεδίου υπάρχει ήδη!"
 
 # TRANSLATION
 # JAVASCRIPT/EDIT_PROCESS
 #: JAVASCRIPT/EDIT_PROCESS
 msgid "Edit process"
-msgstr "Edit process"
+msgstr "Έχετε μερικά λάθη,παρακλώ προσπαθήστε ξανά"
 
 # TRANSLATION
 # JAVASCRIPT/ERROR_NEW_WS
@@ -191,205 +190,205 @@ msgstr "Make sure your uploaded file has extension html or txt"
 # JAVASCRIPT/ID_ABORT
 #: JAVASCRIPT/ID_ABORT
 msgid "Abort"
-msgstr "Abort"
+msgstr "Απόρριψη"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ACTIONS
 #: JAVASCRIPT/ID_ACTIONS
 msgid "Actions"
-msgstr "Actions"
+msgstr "Ενέργειες"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ADD
 #: JAVASCRIPT/ID_ADD
 msgid "Add"
-msgstr "Add"
+msgstr "Προσθήκη"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ADHOC_ASSIGNMENT
 #: JAVASCRIPT/ID_ADHOC_ASSIGNMENT
 msgid "Ad Hoc Assignment"
-msgstr "Ad Hoc Assignment"
+msgstr "Ad Hoc Εκχώρηση"
 
 # TRANSLATION
 # JAVASCRIPT/ID_APPLY_LOGO
 #: JAVASCRIPT/ID_APPLY_LOGO
 msgid "Do you want to apply the selected Logo?"
-msgstr "Do you want to apply the selected Logo?"
+msgstr "Θέλετε να ζητήσετε το επιλεγμένο Logo?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
 #: JAVASCRIPT/ID_ASSIGN_CASE_TO_USER
 msgid "You have to select one employee. Select one from the dropdown list please."
-msgstr "You have to select one employee. Select one from the dropdown list please."
+msgstr "Πρέπει να επιλέξετε έναν υπάλληλο.Επιλέξτε έναν από την παρακάτω λίστα παρακαλώ."
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_DYNAFORM
 #: JAVASCRIPT/ID_ASSIGN_DYNAFORM
 msgid "Assign DynaForm"
-msgstr "Assign DynaForm"
+msgstr "Εκχώρηση  DynaForm"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_INPUT_DOCUMENT
 #: JAVASCRIPT/ID_ASSIGN_INPUT_DOCUMENT
 msgid "Assign Input Document"
-msgstr "Assign Input Document"
+msgstr "Καταχώρηση Εισαγωγικού αρχείου"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_RULES
 #: JAVASCRIPT/ID_ASSIGN_RULES
 msgid "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
-msgstr "Error: There is a problem with the next tasks of this process. One of them has manual assignment. Manual assignment shouldn't be used with subprocesses"
+msgstr "Σφάλμα: Υπάρχει πρόβλημσ με τις επόμενες ενέργειες της διαδικασίας. Κάποια από αυτές έχει χειρόγραφες εκχωρήσεις. Οι χειροκίνητες καταχωρήσεις δεν χρησιμοποιούνται με υποδιαδικασίες"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ASSIGN_SUPERVISOR
 #: JAVASCRIPT/ID_ASSIGN_SUPERVISOR
 msgid "Assign Process Supervisor"
-msgstr "Assign Process Supervisor"
+msgstr "Επίβλεψη εκχωρούμενων διαδικασιών"
 
 # TRANSLATION
 # JAVASCRIPT/ID_BACKGROUND_COLOR
 #: JAVASCRIPT/ID_BACKGROUND_COLOR
 msgid "Background color"
-msgstr "Background color"
+msgstr "χρώμα φόντου"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASES_NUM
 #: JAVASCRIPT/ID_CASES_NUM
 msgid "# Cases"
-msgstr "# Cases"
+msgstr "# Περιπτώσεις"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASE_HISTORY
 #: JAVASCRIPT/ID_CASE_HISTORY
 msgid "Case History"
-msgstr "Case History"
+msgstr "Ιστορικό περιπτώσεων"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASE_SCHEDULER_VALIDATE_ALERT
 #: JAVASCRIPT/ID_CASE_SCHEDULER_VALIDATE_ALERT
 msgid "User or password are empty."
-msgstr "User or password are empty."
+msgstr "Ο χρήστης ή ο κωδικός δεν υπάρχει."
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASE_TRACKER
 #: JAVASCRIPT/ID_CASE_TRACKER
 msgid "Case Tracker"
-msgstr "Case Tracker"
+msgstr "Υποθετικός Tracker"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASE_TRACKER_OBJECTS
 #: JAVASCRIPT/ID_CASE_TRACKER_OBJECTS
 msgid "Objects"
-msgstr "Objects"
+msgstr "Αντικείμενα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CASE_TRACKER_PROPERTIES
 #: JAVASCRIPT/ID_CASE_TRACKER_PROPERTIES
 msgid "Properties"
-msgstr "Properties"
+msgstr "Ιδιότητες"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CLASS_TABLE_DOESNT_EXIST
 #: JAVASCRIPT/ID_CLASS_TABLE_DOESNT_EXIST
 msgid "This table class does not exist"
-msgstr "This table class does not exist"
+msgstr "Η τάξη του πίνακα δεν υπάρχει"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CLICK_VIEW_MORE_INFO
 #: JAVASCRIPT/ID_CLICK_VIEW_MORE_INFO
 msgid "Click here to view more info"
-msgstr "Click here to view more info"
+msgstr "Κλικ εδώ για περισσότερες πληροφορίες"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CLOSE_SEARCH
 #: JAVASCRIPT/ID_CLOSE_SEARCH
 msgid "Close Search"
-msgstr "Close Search"
+msgstr "Κλείσιμο αναζήτησης"
 
 # TRANSLATION
 # JAVASCRIPT/ID_COLOR_LEYENDS
 #: JAVASCRIPT/ID_COLOR_LEYENDS
 msgid "Key"
-msgstr "Key"
+msgstr "κλειδί"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_ADHOCUSER_CASE
 #: JAVASCRIPT/ID_CONFIRM_ADHOCUSER_CASE
 msgid "Are you sure you want to do it?"
-msgstr "Are you sure you want to do it?"
+msgstr "Είστε σίγουροι ότι θέλετε να το κάνετε αυτό?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_CANCEL_CASE
 #: JAVASCRIPT/ID_CONFIRM_CANCEL_CASE
 msgid "Are you sure you want to cancel this case?"
-msgstr "Are you sure you want to cancel this case?"
+msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε την περίπτωση?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_DELETE_CASE
 #: JAVASCRIPT/ID_CONFIRM_DELETE_CASE
 msgid "Are you sure you want to delete this case?"
-msgstr "Are you sure you want to delete this case?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε την περίπτωση?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
 #: JAVASCRIPT/ID_CONFIRM_DELETE_INPUT_AND_HISTORY
 msgid "This will delete the current document and its past versions."
-msgstr "This will delete the current document and its past versions."
+msgstr "Αυτό θα διαγράψει το τρέχον 'εγγραφο και τις παλαιότερες εκδόσεις."
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_PAUSE_CASE
 #: JAVASCRIPT/ID_CONFIRM_PAUSE_CASE
 msgid "Are you sure you want to pause this case?"
-msgstr "Are you sure you want to pause this case?"
+msgstr "Είστε σίγουροι ότι θέλετα να διακόψετε την περίπτωση?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_PAUSE_CASE_ALERT
 #: JAVASCRIPT/ID_CONFIRM_PAUSE_CASE_ALERT
 msgid "You should specify an unpause date."
-msgstr "You should specify an unpause date."
+msgstr "Πρέπει να αιτιολογήσεις την διακοπή της ημερομηνίας."
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_REMOVE_DASHBOARD
 #: JAVASCRIPT/ID_CONFIRM_REMOVE_DASHBOARD
 msgid "Are you sure you want to remove this dashboard?"
-msgstr "Are you sure you want to remove this dashboard?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε τον πίνακα?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_REMOVE_TRIGGER
 #: JAVASCRIPT/ID_CONFIRM_REMOVE_TRIGGER
 msgid "Are you sure you want to remove this trigger?"
-msgstr "Are you sure you want to remove this trigger?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγρλάψετε αυτή την έναρξη?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CONFIRM_WEBENTRY_DELETE
 #: JAVASCRIPT/ID_CONFIRM_WEBENTRY_DELETE
 msgid "Are you sure you want to delete this web entry?"
-msgstr "Are you sure you want to delete this web entry?"
+msgstr "Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την πύλη εισόδου στο διαδίκτυο?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_CREATE
 #: JAVASCRIPT/ID_CREATE
 msgid "Create"
-msgstr "Create"
+msgstr "Δημιουργία"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DBS_EDIT
 #: JAVASCRIPT/ID_DBS_EDIT
 msgid "Edit the current Database Source"
-msgstr "Edit the current Database Source"
+msgstr "Μεταβάλλετε την τρέχουσα βάση δεδομένων"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DBS_LIST
 #: JAVASCRIPT/ID_DBS_LIST
 msgid "Databases Source List"
-msgstr "Databases Source List"
+msgstr "Λίστα πηγών βάσεων δεδομένων"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DBS_NEW
 #: JAVASCRIPT/ID_DBS_NEW
 msgid "Add new Database Source"
-msgstr "Add new Database Source"
+msgstr "Προσθήκη νεας πηγής βάσεων δεδομένων"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DB_CONNECTION_ASSIGN
@@ -401,31 +400,31 @@ msgstr "You can not delete this data base connection. This is assigned in some s
 # JAVASCRIPT/ID_DELETE_TABLE_COLLECTION
 #: JAVASCRIPT/ID_DELETE_TABLE_COLLECTION
 msgid "Do you want to delete this table?"
-msgstr "Do you want to delete this table?"
+msgstr "Θέλετε να διαγράψετε τον πίνακα?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DEPARTMENT
 #: JAVASCRIPT/ID_DEPARTMENT
 msgid "Department"
-msgstr "Department"
+msgstr "Τμήμα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DISABLE_WORKSPACE_CONFIRM
 #: JAVASCRIPT/ID_DISABLE_WORKSPACE_CONFIRM
 msgid "Do you want to disable the selected workspace?"
-msgstr "Do you want to disable the selected workspace?"
+msgstr "Θέλετε να απενεργοποιήσετε την εργασία?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DONT_SAVE_XMLFORM
 #: JAVASCRIPT/ID_DONT_SAVE_XMLFORM
 msgid "This form has not a submit action. Do you want to continue anyway?"
-msgstr "This form has not a submit action. Do you want to continue anyway?"
+msgstr "Αυτή η φόρμα είναι για υποβολή. Θέλετα να συνεχίσετε?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_DUPLICATE_CATEGORY_NAME
 #: JAVASCRIPT/ID_DUPLICATE_CATEGORY_NAME
 msgid "Duplicate category name."
-msgstr "Duplicate category name."
+msgstr "Διλοεγγραφή κατηγορίας."
 
 # TRANSLATION
 # JAVASCRIPT/ID_DYNAFORMS
@@ -449,7 +448,7 @@ msgstr "Edit Stages Map"
 # JAVASCRIPT/ID_EMAIL_INVALID
 #: JAVASCRIPT/ID_EMAIL_INVALID
 msgid "The mail is invalid"
-msgstr "The mail is invalid"
+msgstr "Το ηλεκτρονικό ταχυδρομείο δεν υπάρχει"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EMAIL_REQUIRED
@@ -461,7 +460,7 @@ msgstr "The mail to is required, or uncheck the send a test mail"
 # JAVASCRIPT/ID_EMPTY_NODENAME
 #: JAVASCRIPT/ID_EMPTY_NODENAME
 msgid "The field name contains spaces or it's empty!"
-msgstr "The field name contains spaces or it's empty!"
+msgstr "Το όνομα αρχείου καλύπτει πολύ χώρο ή δεν υπάρχει!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_ENABLE_WORKSPACE_CONFIRM
@@ -473,31 +472,31 @@ msgstr "Do you want enable the selected workspace?"
 # JAVASCRIPT/ID_END_OF_PROCESS
 #: JAVASCRIPT/ID_END_OF_PROCESS
 msgid "End of process"
-msgstr "End of process"
+msgstr "Τέλος της διαδικασίας"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EVENTS
 #: JAVASCRIPT/ID_EVENTS
 msgid "Events"
-msgstr "Events"
+msgstr "Γεγονότα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EVENT_CONDITIONAL
 #: JAVASCRIPT/ID_EVENT_CONDITIONAL
 msgid "Conditional Event"
-msgstr "Conditional Event"
+msgstr "Υποθετικό γεγονός"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EVENT_MESSAGE
 #: JAVASCRIPT/ID_EVENT_MESSAGE
 msgid "Message Event"
-msgstr "Message Event"
+msgstr "Γεγονός -μήνυμα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EVENT_MULTIPLE
 #: JAVASCRIPT/ID_EVENT_MULTIPLE
 msgid "Multiple Event"
-msgstr "Multiple Event"
+msgstr "πολλαπλό γεγονός"
 
 # TRANSLATION
 # JAVASCRIPT/ID_EXIST_DYNAFORM
@@ -533,83 +532,83 @@ msgstr "There is a triggers with the same name in this process."
 # JAVASCRIPT/ID_EXIT_WITHOUT_SAVING
 #: JAVASCRIPT/ID_EXIT_WITHOUT_SAVING
 msgid "Exit without saving?"
-msgstr "Exit without saving?"
+msgstr "Εξοδος χωρίς αποθήκευση?"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
 #: JAVASCRIPT/ID_FIELDS_RESERVED_WORDS
 msgid "The following fields cannot have these names because they are reserved words"
-msgstr "The following fields cannot have these names because they are reserved words"
+msgstr "Τα παρακάτω πεδία δεν μπορούν να έχουν το παρακάτω όνομα γιατί είναι αναγραμματισμένες λέξεις!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FIELD_DUPLICATE
 #: JAVASCRIPT/ID_FIELD_DUPLICATE
 msgid "Duplicate Field"
-msgstr "Duplicate Field"
+msgstr "Διπλοεγγραφή πεδίου"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FIELD_FOREIGN_TABLE
 #: JAVASCRIPT/ID_FIELD_FOREIGN_TABLE
 msgid "Field \"table\" is required"
-msgstr "Field \"table\" is required"
+msgstr "Το Πεδιο \"Πίνακας\" iΖητείται"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FILEGENERATED
 #: JAVASCRIPT/ID_FILEGENERATED
 msgid "Filename generated, is required!"
-msgstr "Filename generated, is required!"
+msgstr "Ζητείται Το όνομα του αρχείου που δημιουργήθηκε!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FILL_SERVER
 #: JAVASCRIPT/ID_FILL_SERVER
 msgid "You must specify a server!"
-msgstr "You must specify a server!"
+msgstr "Πρέπει να βρεθεί server!"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FONT_COLOR
 #: JAVASCRIPT/ID_FONT_COLOR
 msgid "Change text color"
-msgstr "Change text color"
+msgstr "Αλλαγή χρώματος κειμένου"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FONT_NAME
 #: JAVASCRIPT/ID_FONT_NAME
 msgid "Font Name"
-msgstr "Font Name"
+msgstr "Όνομα Γραμματοσειράς"
 
 # TRANSLATION
 # JAVASCRIPT/ID_FONT_SIZE
 #: JAVASCRIPT/ID_FONT_SIZE
 msgid "Font Size"
-msgstr "Font Size"
+msgstr "Μέγεθος Γραμματοσειράς"
 
 # TRANSLATION
 # JAVASCRIPT/ID_GENERATED_DOCUMENTS
 #: JAVASCRIPT/ID_GENERATED_DOCUMENTS
 msgid "Generated Documents"
-msgstr "Generated Documents"
+msgstr "Γενικά έγγραφα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_GROUP
 #: JAVASCRIPT/ID_GROUP
 msgid "Group"
-msgstr "Group"
+msgstr "Ομάδα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_HILITE_COLOR
 #: JAVASCRIPT/ID_HILITE_COLOR
 msgid "Highlight Color"
-msgstr "Highlight Color"
+msgstr "Κύριο χρώμα"
 
 # TRANSLATION
 # JAVASCRIPT/ID_HISTORY_MESSAGE_CASE
 #: JAVASCRIPT/ID_HISTORY_MESSAGE_CASE
 msgid "Messages History"
-msgstr "Messages History"
+msgstr "Ιστορικό μηνυμάτων"
 
 # TRANSLATION
 # JAVASCRIPT/ID_IMAGE_URI
 #: JAVASCRIPT/ID_IMAGE_URI
 msgid "Image URI"
-msgstr "Image URI"
+msgstr " URI της Εικόνας"
 
