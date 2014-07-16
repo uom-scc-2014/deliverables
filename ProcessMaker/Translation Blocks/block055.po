@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: divamvak <divamvak@gmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -299,7 +298,7 @@ msgstr "Label"
 # triggers/triggerCopy.xml
 #: title - LBLTITLE1
 msgid "Trigger Information"
-msgstr "Trigger Information"
+msgstr " Πληροφορία Συμβάντος"
 
 # triggers/triggerCopy.xml?PROCESS_UID
 # triggers/triggerCopy.xml
@@ -335,25 +334,25 @@ msgstr ""
 # triggers/triggerCopy.xml
 #: text - TRI_TITLE
 msgid "Title of the new trigger"
-msgstr "Title of the new trigger"
+msgstr "Τίτλος νέου συμβάντος"
 
 # triggers/triggerCopy.xml?TRI_DESCRIPTION
 # triggers/triggerCopy.xml
 #: textarea - TRI_DESCRIPTION
 msgid "Description of the new trigger"
-msgstr "Description of the new trigger"
+msgstr "Περιγραφή του νέου συμβάντος"
 
 # triggers/triggerCopy.xml?TRI_WEBBOT
 # triggers/triggerCopy.xml
 #: textarea - TRI_WEBBOT
 msgid "Script"
-msgstr "Script"
+msgstr "Σενάριο"
 
 # triggers/triggerCopy.xml?BTNCOPYSAVE
 # triggers/triggerCopy.xml
 #: button - BTNCOPYSAVE
 msgid "Copy/Import and Save"
-msgstr "Copy/Import and Save"
+msgstr " Αντιγραφή/Εισαγωγή και Αποθήκευση"
 
 # triggers/triggerCopy.xml?BTNCANCEL
 # triggers/triggerCopy.xml
@@ -395,7 +394,7 @@ msgstr "Cancel"
 # triggers/triggersNarrowEdit.xml
 #: title - TITLE
 msgid "Trigger Script"
-msgstr "Trigger Script"
+msgstr "Σενάριο Συμβάντος"
 
 # triggers/triggersNarrowEdit.xml?TRI_WEBBOT
 # triggers/triggersNarrowEdit.xml
@@ -485,13 +484,13 @@ msgstr "Apply Filter"
 # triggers/wizardOptions.xml
 #: text - NAME
 msgid "Param Name"
-msgstr "Param Name"
+msgstr "Όνομα Παραμέτρου"
 
 # triggers/wizardOptions.xml?VALUE
 # triggers/wizardOptions.xml
 #: text - VALUE
 msgid "Param Value"
-msgstr "Param Value"
+msgstr " Τιμή Παραμέτρου"
 
 # users/myInfo.xml?TITLEADD
 # users/myInfo.xml
@@ -515,7 +514,7 @@ msgstr "Resume"
 # users/myInfo.xml
 #: title - TITLE9689
 msgid "Personal Information"
-msgstr "Personal Information"
+msgstr " Προσωπική Πληροφορία"
 
 # users/myInfo.xml?USR_FIRSTNAME
 # users/myInfo.xml
@@ -551,7 +550,7 @@ msgstr "Address"
 # users/myInfo.xml
 #: text - USR_ZIP_CODE
 msgid "Zip/Postal Code"
-msgstr "Zip/Postal Code"
+msgstr " Ταχυδρομικός Κώδικας"
 
 # users/myInfo.xml?USR_COUNTRY
 # users/myInfo.xml
