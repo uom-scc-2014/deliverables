@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:44+0200\n"
+"Last-Translator: Κωνσταντίνα Ψαρρά <konna.psarra@gmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,313 +16,313 @@ msgstr ""
 # LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING
 #: LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING
 msgid "[LABEL/ID_SAVE_DERIVATION_RULES_BEFORE_CLOSING] Save changes to the routing rules before closing?"
-msgstr "Save changes to the routing rules before closing?"
+msgstr "Θέλεις να αποθηκεύσεις τις αλλαγές στους κανόνες δρομολόγησης πριν κλείσεις;"
 
 # TRANSLATION
 # LABEL/ID_SAVE_DYNAFORM_INFORMATION_BEFORE_PRINTING
 #: LABEL/ID_SAVE_DYNAFORM_INFORMATION_BEFORE_PRINTING
 msgid "Do you want to save the dynaform information before printing it?"
-msgstr "Do you want to save the dynaform information before printing it?"
+msgstr "Θέλεις να αποθηκεύσετε το dynaform πριν την εκτύπωση;"
 
 # TRANSLATION
 # LABEL/ID_SAVE_SETTINGS
 #: LABEL/ID_SAVE_SETTINGS
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
 
 # TRANSLATION
 # LABEL/ID_SAVING
 #: LABEL/ID_SAVING
 msgid "Saving..."
-msgstr "Saving..."
+msgstr "Αποθήκευση..."
 
 # TRANSLATION
 # LABEL/ID_SAVING_ENVIRONMENT_SETTINGS
 #: LABEL/ID_SAVING_ENVIRONMENT_SETTINGS
 msgid "Saving Environment Settings"
-msgstr "Saving Environment Settings"
+msgstr "Αποθήκευση Ρυθμίσεων Περιβάλλοντος"
 
 # TRANSLATION
 # LABEL/ID_SAVING_LABEL
 #: LABEL/ID_SAVING_LABEL
 msgid "Saving"
-msgstr "Saving"
+msgstr "Αποθήκευση"
 
 # TRANSLATION
 # LABEL/ID_SAVING_PROCESS
 #: LABEL/ID_SAVING_PROCESS
 msgid "Saving process"
-msgstr "Saving process"
+msgstr "Αποθήκευση διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_LIST
 #: LABEL/ID_SCHEDULER_LIST
 msgid "New cases scheduler"
-msgstr "New cases scheduler"
+msgstr "Νέος χρονοπρογραμματισμός εργασίας"
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_LOG
 #: LABEL/ID_SCHEDULER_LOG
 msgid "Cases Scheduler Logs"
-msgstr "Cases Scheduler Logs"
+msgstr "Ιστορικό Χρονοπρογραμματισμού Εργασιών"
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_SUCCESS_CHANGE_STATUS
 #: LABEL/ID_SCHEDULER_SUCCESS_CHANGE_STATUS
 msgid "Case Scheduler status has been changed correctly."
-msgstr "Case Scheduler status has been changed correctly."
+msgstr "Η κατάσταση του χρονοπρογραμματισμού εργασιών έχει αλλάξει με επιτυχία."
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_SUCCESS_DELETE
 #: LABEL/ID_SCHEDULER_SUCCESS_DELETE
 msgid "Case Scheduler has been deleted correctly."
-msgstr "Case Scheduler has been deleted correctly."
+msgstr "Η διαγραφή του χρονοπρογραμματισμού εργασιών ήταν επιτυχής."
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_SUCCESS_NEW
 #: LABEL/ID_SCHEDULER_SUCCESS_NEW
 msgid "Case Scheduler has been created correctly."
-msgstr "Case Scheduler has been created correctly."
+msgstr "Η δημιουργία του χρονοπρογραμματισμού εργασιών ήταν επιτυχής."
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_SUCCESS_UPDATE
 #: LABEL/ID_SCHEDULER_SUCCESS_UPDATE
 msgid "Case Scheduler has been updated correctly."
-msgstr "Case Scheduler has been updated correctly."
+msgstr "Η ενημέρωση του χρονοπρογραμματισμού εργασιών ήταν επιτυχής."
 
 # TRANSLATION
 # LABEL/ID_SCHEDULER_TASK
 #: LABEL/ID_SCHEDULER_TASK
 msgid "Scheduled Task ID"
-msgstr "Scheduled Task ID"
+msgstr "ID Χρονοπρογραμματισμού Εργασιών"
 
 # TRANSLATION
 # LABEL/ID_SCHEMA
 #: LABEL/ID_SCHEMA
 msgid "Schema"
-msgstr "Schema"
+msgstr "Σχήμα"
 
 # TRANSLATION
 # LABEL/ID_SEARCH
 #: LABEL/ID_SEARCH
 msgid "[LABEL/ID_SEARCH] Search"
-msgstr "Search"
+msgstr "Αναζήτηση"
 
 # TRANSLATION
 # LABEL/ID_SEARCH_PATTERN
 #: LABEL/ID_SEARCH_PATTERN
 msgid "Search Pattern"
-msgstr "Search Pattern"
+msgstr "Αναζήτηση Προτύπου"
 
 # TRANSLATION
 # LABEL/ID_SEARCH_RESULT
 #: LABEL/ID_SEARCH_RESULT
 msgid "Search results"
-msgstr "Search results"
+msgstr "Αποτελέσματα αναζήτησης"
 
 # TRANSLATION
 # LABEL/ID_SEARCH_USER
 #: LABEL/ID_SEARCH_USER
 msgid "Username"
-msgstr "Username"
+msgstr "Όνομα Χρήστη"
 
 # TRANSLATION
 # LABEL/ID_SEARCH_XML_METADATA
 #: LABEL/ID_SEARCH_XML_METADATA
 msgid "Search XML metadata"
-msgstr "Search XML metadata"
+msgstr "Αναζήτηση μεταδεδομένων XML"
 
 # TRANSLATION
 # LABEL/ID_SECOND
 #: LABEL/ID_SECOND
 msgid "Second"
-msgstr "Second"
+msgstr "Δευτερόλεπτο"
 
 # TRANSLATION
 # LABEL/ID_SECONDS
 #: LABEL/ID_SECONDS
 msgid "Seconds"
-msgstr "Seconds"
+msgstr "Δευτερόλεπτα"
 
 # TRANSLATION
 # LABEL/ID_SEE
 #: LABEL/ID_SEE
 msgid "See"
-msgstr "See"
+msgstr "Δες"
 
 # TRANSLATION
 # LABEL/ID_SELECT
 #: LABEL/ID_SELECT
 msgid "Select"
-msgstr "Select"
+msgstr "Διάλεξε"
 
 # TRANSLATION
 # LABEL/ID_SELECTED
 #: LABEL/ID_SELECTED
 msgid "selected"
-msgstr "selected"
+msgstr "Επιλεγμένο"
 
 # TRANSLATION
 # LABEL/ID_SELECTED_FIELD
 #: LABEL/ID_SELECTED_FIELD
 msgid "selected field"
-msgstr "selected field"
+msgstr "επιλεγμένο πεδίο"
 
 # TRANSLATION
 # LABEL/ID_SELECTED_IMAGE_DELETED
 #: LABEL/ID_SELECTED_IMAGE_DELETED
 msgid "The selected image has been deleted."
-msgstr "The selected image has been deleted."
+msgstr "Η επιλεγμένη εικόνα έχει διαγραφεί."
 
 # TRANSLATION
 # LABEL/ID_SELECTED_IMAGE_IS_LOGO
 #: LABEL/ID_SELECTED_IMAGE_IS_LOGO
 msgid "The selected image is established as logo."
-msgstr "The selected image is established as logo."
+msgstr "Η επιλεγμένη εικόνα είναι πλέον λογότυπο"
 
 # TRANSLATION
 # LABEL/ID_SELECT_ALL
 #: LABEL/ID_SELECT_ALL
 msgid "You must define at least one 'ALL' for other days you have not defined"
-msgstr "You must define at least one 'ALL' for other days you have not defined"
+msgstr "Πρέπει να ορίσεις τουλάχιστον ένα 'ALL' για τις υπόλοιπες ημέρες που δεν έχουν οριστεί"
 
 # TRANSLATION
 # LABEL/ID_SELECT_AN_IMAGE
 #: LABEL/ID_SELECT_AN_IMAGE
 msgid "Please select an image"
-msgstr "Please select an image"
+msgstr "Παρακαλώ επέλεξε μια εικόνα."
 
 # TRANSLATION
 # LABEL/ID_SELECT_AUTH_SOURCE
 #: LABEL/ID_SELECT_AUTH_SOURCE
 msgid "Select Authentication Source..."
-msgstr "Select Authentication Source..."
+msgstr "Επέλεξε Πηγή Ταυτοποίησης..."
 
 # TRANSLATION
 # LABEL/ID_SELECT_DATE_TIME
 #: LABEL/ID_SELECT_DATE_TIME
 msgid "Select the time and day you want this task to start"
-msgstr "Select the time and day you want this task to start"
+msgstr "Επέλεξε την ώρα και την μέρα εκκίνησης της διεργασίας"
 
 # TRANSLATION
 # LABEL/ID_SELECT_DAY_OF_WEEK
 #: LABEL/ID_SELECT_DAY_OF_WEEK
 msgid "Select the day(s) of the week below"
-msgstr "Select the day(s) of the week below"
+msgstr "Διάλεξε παρακάτω τις ημέρες της εβδομάδας"
 
 # TRANSLATION
 # LABEL/ID_SELECT_DIRECTORY
 #: LABEL/ID_SELECT_DIRECTORY
 msgid "Select a directory"
-msgstr "Select a directory"
+msgstr "Επιλογή καταλόγου"
 
 # TRANSLATION
 # LABEL/ID_SELECT_DYNAFORM
 #: LABEL/ID_SELECT_DYNAFORM
 msgid "Please select the Dynaform Type"
-msgstr "Please select the Dynaform Type"
+msgstr "Παρακαλώ, διάλεξε τύπο Dynaform"
 
 # TRANSLATION
 # LABEL/ID_SELECT_FILE
 #: LABEL/ID_SELECT_FILE
 msgid "Select a file"
-msgstr "Select a file"
+msgstr "Επιλογή αρχείου"
 
 # TRANSLATION
 # LABEL/ID_SELECT_FILE_PMT_IMPORT
 #: LABEL/ID_SELECT_FILE_PMT_IMPORT
 msgid "Please select a .pmt file"
-msgstr "Please select a .pmt file"
+msgstr "Παρακαλώ διάλεξε ένα αρχείο .pmt"
 
 # TRANSLATION
 # LABEL/ID_SELECT_FILE_PM_IMPORT
 #: LABEL/ID_SELECT_FILE_PM_IMPORT
 msgid "Please select a .pm file"
-msgstr "Please select a .pm file"
+msgstr "Παρακαλώ διάλεξε ένα αρχείο .pm"
 
 # TRANSLATION
 # LABEL/ID_SELECT_FIRST_PM_TABLE_ROW
 #: LABEL/ID_SELECT_FIRST_PM_TABLE_ROW
 msgid "First select a PM Table from the list please."
-msgstr "First select a PM Table from the list please."
+msgstr "Πρώτα διάλεξε έναν πίνακα PM από την λίστα."
 
 # TRANSLATION
 # LABEL/ID_SELECT_FIRST_ROW
 #: LABEL/ID_SELECT_FIRST_ROW
 msgid "First select a ROW from the list"
-msgstr "First select a ROW from the list"
+msgstr "Πρώτα διάλεξε μια ΣΕΙΡΑ από την λίστα"
 
 # TRANSLATION
 # LABEL/ID_SELECT_GRID
 #: LABEL/ID_SELECT_GRID
 msgid "Select a grid"
-msgstr "Select a grid"
+msgstr "Διάλεξε πλέγμα"
 
 # TRANSLATION
 # LABEL/ID_SELECT_LANGUAGE_FROM_LIST
 #: LABEL/ID_SELECT_LANGUAGE_FROM_LIST
 msgid "First select a language from the list please."
-msgstr "First select a language from the list please."
+msgstr "Πρώτα διάλεξε γλώσσα από την λίστα."
 
 # TRANSLATION
 # LABEL/ID_SELECT_ONE_AT_LEAST
 #: LABEL/ID_SELECT_ONE_AT_LEAST
 msgid "Select at least one item from the list"
-msgstr "Select at least one item from the list"
+msgstr "Διάλεξε τουλάχιστον ένα αντικείμενο από την λίστα"
 
 # TRANSLATION
 # LABEL/ID_SELECT_ONE_ITEM_FROM_LIST
 #: LABEL/ID_SELECT_ONE_ITEM_FROM_LIST
 msgid "Just select one item from the list to edit"
-msgstr "Just select one item from the list to edit"
+msgstr "Απλά διάλεξε ένα αντικείμενο από την λίστα προς επεξεργασία"
 
 # TRANSLATION
 # LABEL/ID_SELECT_ONE_OPTION
 #: LABEL/ID_SELECT_ONE_OPTION
 msgid "select one option"
-msgstr "select one option"
+msgstr "Διάλεξε μια επιλογή"
 
 # TRANSLATION
 # LABEL/ID_SELECT_OPTION_TABLE
 #: LABEL/ID_SELECT_OPTION_TABLE
 msgid "Select a option to export schema or data from the selected table(s)."
-msgstr "Select a option to export schema or data from the selected table(s)."
+msgstr "Διάλεξε τον τρόπο εξαγωγής του σχήματος ή των δεδομένων από τους επιλεγμένους πίνακες."
 
 # TRANSLATION
 # LABEL/ID_SELECT_PM_FILE
 #: LABEL/ID_SELECT_PM_FILE
 msgid "Select a .pmt file"
-msgstr "Select a .pmt file"
+msgstr "Διάλεξε ένα αρχείο .pmt"
 
 # TRANSLATION
 # LABEL/ID_SELECT_PROCESS_FILE
 #: LABEL/ID_SELECT_PROCESS_FILE
 msgid "Select a process file"
-msgstr "Select a process file"
+msgstr "Επέλεξε ένα αρχείο διεργασίας"
 
 # TRANSLATION
 # LABEL/ID_SELECT_STATUS
 #: LABEL/ID_SELECT_STATUS
 msgid "Select status..."
-msgstr "Select status..."
+msgstr "Επιλογή κατάστασης..."
 
 # TRANSLATION
 # LABEL/ID_SELECT_TABLE
 #: LABEL/ID_SELECT_TABLE
 msgid "Please select a table to export."
-msgstr "Please select a table to export."
+msgstr "Παρακαλώ επέλεξε έναν πίνακα προς εξαγωγή."
 
 # TRANSLATION
 # LABEL/ID_SELECT_TEMPLATE_FILE
 #: LABEL/ID_SELECT_TEMPLATE_FILE
 msgid "Select a template file"
-msgstr "Select a template file"
+msgstr "Επέλεξε ένα αρχείο προτύπου"
 
 # TRANSLATION
 # LABEL/ID_SELECT_WORKSPACE
 #: LABEL/ID_SELECT_WORKSPACE
 msgid "Select a workspace"
-msgstr "Select a workspace"
+msgstr "Επέλεξε ένα χώρο εργασίας"
 
 # TRANSLATION
 # LABEL/ID_SELFSERVICE
@@ -341,275 +340,275 @@ msgstr "Self Service"
 # LABEL/ID_SEL_AFTER_DATE
 #: LABEL/ID_SEL_AFTER_DATE
 msgid "Please select after date"
-msgstr "Please select after date"
+msgstr "Παρακαλώ επέλεξε επόμενη ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_SEL_BEFORE_DATE
 #: LABEL/ID_SEL_BEFORE_DATE
 msgid "Please select before date"
-msgstr "Please select before date"
+msgstr "Παρακαλώ επέλεξε προηγούμενη ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_SEL_END_DATE
 #: LABEL/ID_SEL_END_DATE
 msgid "Please select end date"
-msgstr "Please select end date"
+msgstr "Παρακαλώ επέλεξε ημερομηνία τερματισμού"
 
 # TRANSLATION
 # LABEL/ID_SEL_START_DATE
 #: LABEL/ID_SEL_START_DATE
 msgid "Please select start date"
-msgstr "Please select start date"
+msgstr "Παρακαλώ επέλεξε ημερομηνία εκκίνησης"
 
 # TRANSLATION
 # LABEL/ID_SEND
 #: LABEL/ID_SEND
 msgid "Post"
-msgstr "Post"
+msgstr "Δημοσίευση"
 
 # TRANSLATION
 # LABEL/ID_SENDING_REQUEST
 #: LABEL/ID_SENDING_REQUEST
 msgid "Sending Request..."
-msgstr "Sending Request..."
+msgstr "Αποστολή Αιτήματος"
 
 # TRANSLATION
 # LABEL/ID_SENDMAIL_NOT_INSTALLED
 #: LABEL/ID_SENDMAIL_NOT_INSTALLED
 msgid "An error has occured, please verify on which server \"SendMail\" has been installed or any other mail service, and if it has been configured correctly."
-msgstr "An error has occured, please verify on which server \"SendMail\" has been installed or any other mail service, and if it has been configured correctly."
+msgstr "Συνέβη ένα σφάλμα, παρακαλώ επιβεβαιώστε σε ποιον διακομιστή \"SendMail\" έχει εγκατασταθεί, ή οποιαδήποτε άλλη υπηρεσία mail, και αν έχει ρυθμιστεί σωστά."
 
 # TRANSLATION
 # LABEL/ID_SEND_AT
 #: LABEL/ID_SEND_AT
 msgid "send at"
-msgstr "send at"
+msgstr "στάλθηκε στις"
 
 # TRANSLATION
 # LABEL/ID_SEND_EMAIL_CASE_PARTICIPANTS
 #: LABEL/ID_SEND_EMAIL_CASE_PARTICIPANTS
 msgid "Send Email (Case Participants)"
-msgstr "Send Email (Case Participants)"
+msgstr "Αποστολή Email (Συμμετέχοντες Εργασίας)"
 
 # TRANSLATION
 # LABEL/ID_SENT
 #: LABEL/ID_SENT
 msgid "Participated"
-msgstr "Participated"
+msgstr "Συμμετείχε"
 
 # TRANSLATION
 # LABEL/ID_SENT_BY
 #: LABEL/ID_SENT_BY
 msgid "Sent By"
-msgstr "Sent By"
+msgstr "Στάλθηκε από"
 
 # TRANSLATION
 # LABEL/ID_SERVER
 #: LABEL/ID_SERVER
 msgid "Server"
-msgstr "Server"
+msgstr "Διακομιστής"
 
 # TRANSLATION
 # LABEL/ID_SERVER_COMMUNICATION_ERROR
 #: LABEL/ID_SERVER_COMMUNICATION_ERROR
 msgid "Failed to connect to the server"
-msgstr "Failed to connect to the server"
+msgstr "Αποτύχια σύνδεσης στο διακομιστή"
 
 # TRANSLATION
 # LABEL/ID_SERVER_IP
 #: LABEL/ID_SERVER_IP
 msgid "Server IP Address"
-msgstr "Server IP Address"
+msgstr "Διεύθυνση IP Διακομιστή"
 
 # TRANSLATION
 # LABEL/ID_SERVER_NAME
 #: LABEL/ID_SERVER_NAME
 msgid "Server Address"
-msgstr "Server Address"
+msgstr "Διεύθυνση Διακομιστή"
 
 # TRANSLATION
 # LABEL/ID_SERVER_PORT
 #: LABEL/ID_SERVER_PORT
 msgid "Server Port"
-msgstr "Server Port"
+msgstr "Θύρα Διακομιστή"
 
 # TRANSLATION
 # LABEL/ID_SERVER_PROBLEM
 #: LABEL/ID_SERVER_PROBLEM
 msgid "Server Problem :"
-msgstr "Server Problem :"
+msgstr "Πρόβλημα Διακομιστή:"
 
 # TRANSLATION
 # LABEL/ID_SERVER_PROTOCOL
 #: LABEL/ID_SERVER_PROTOCOL
 msgid "Server Protocol"
-msgstr "Server Protocol"
+msgstr "Πρωτόκολλο Διακομιστή"
 
 # TRANSLATION
 # LABEL/ID_SERVER_REPORTED
 #: LABEL/ID_SERVER_REPORTED
 msgid "Server reported"
-msgstr "Server reported"
+msgstr "Ο διακομιστής έκανε αναφορά"
 
 # TRANSLATION
 # LABEL/ID_SERVICE
 #: LABEL/ID_SERVICE
 msgid "Service"
-msgstr "Service"
+msgstr "Υπηρεσία"
 
 # TRANSLATION
 # LABEL/ID_SESSION
 #: LABEL/ID_SESSION
 msgid "Session"
-msgstr "Session"
+msgstr "Συνεδρία"
 
 # TRANSLATION
 # LABEL/ID_SESSION_ACTIVE
 #: LABEL/ID_SESSION_ACTIVE
 msgid "Session active"
-msgstr "Session active"
+msgstr "Συνεδρία ενεργή"
 
 # TRANSLATION
 # LABEL/ID_SESSION_EXPIRED
 #: LABEL/ID_SESSION_EXPIRED
 msgid "The session has expired."
-msgstr "The session has expired."
+msgstr "Η συνεδρία έληξε."
 
 # TRANSLATION
 # LABEL/ID_SETTINGS
 #: LABEL/ID_SETTINGS
 msgid "Settings"
-msgstr "Settings"
+msgstr "Ρυθμίσεις"
 
 # TRANSLATION
 # LABEL/ID_SETTINGS_HEARTBEAT_TITLE
 #: LABEL/ID_SETTINGS_HEARTBEAT_TITLE
 msgid "Display Setting"
-msgstr "Display Setting"
+msgstr "Προβολή Ρύθμισης"
 
 # TRANSLATION
 # LABEL/ID_SETTING_MESSAGE
 #: LABEL/ID_SETTING_MESSAGE
 msgid "The Settings tool was clicked"
-msgstr "The Settings tool was clicked"
+msgstr "Έγινε κλικ στο εργαλείο Ρυθμίσεων"
 
 # TRANSLATION
 # LABEL/ID_SETUP
 #: LABEL/ID_SETUP
 msgid "ADMIN"
-msgstr "ADMIN"
+msgstr "ΔΙΑΧΕΙΡΙΣΤΗΣ"
 
 # TRANSLATION
 # LABEL/ID_SETUP_MAILCONF_TITLE
 #: LABEL/ID_SETUP_MAILCONF_TITLE
 msgid "Test SMTP Connection"
-msgstr "Test SMTP Connection"
+msgstr "Έλεγχος SMTP Σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_SETUP_WEBSERVICES
 #: LABEL/ID_SETUP_WEBSERVICES
 msgid "Setup"
-msgstr "Setup"
+msgstr "Εγκατάσταση"
 
 # TRANSLATION
 # LABEL/ID_SET_A_TABLE_NAME
 #: LABEL/ID_SET_A_TABLE_NAME
 msgid "Set a Table Name"
-msgstr "Set a Table Name"
+msgstr "Ορίσε Όνομα Πίνακα"
 
 # TRANSLATION
 # LABEL/ID_SET_SUPERVISOR
 #: LABEL/ID_SET_SUPERVISOR
 msgid "Set Supervisor"
-msgstr "Set Supervisor"
+msgstr "Όρισε Προϊστάμενο"
 
 # TRANSLATION
 # LABEL/ID_SET_SUPERVISOR_SUCCESS
 #: LABEL/ID_SET_SUPERVISOR_SUCCESS
 msgid "Supervisor assigned correctly"
-msgstr "Supervisor assigned correctly"
+msgstr "Η ανάθεση του προϊσταμένου ήταν επιτυχής"
 
 # TRANSLATION
 # LABEL/ID_SET_TABLE_DESCRIPTION
 #: LABEL/ID_SET_TABLE_DESCRIPTION
 msgid "Set a Table Description"
-msgstr "Set a Table Description"
+msgstr "Όρισε Περιγραφή Πίνακα"
 
 # TRANSLATION
 # LABEL/ID_SHOULD_SELECT_LANGUAGE_FROM_LIST
 #: LABEL/ID_SHOULD_SELECT_LANGUAGE_FROM_LIST
 msgid "You should to select a language from the list."
-msgstr "You should to select a language from the list."
+msgstr "Πρέπει να επιλέξεις μία γλώσσα από την λίστα."
 
 # TRANSLATION
 # LABEL/ID_SHOW_CASES_NOTES
 #: LABEL/ID_SHOW_CASES_NOTES
 msgid "Show Case Notes"
-msgstr "Show Case Notes"
+msgstr "Προβολή Σημειώσεων Εργασιών"
 
 # TRANSLATION
 # LABEL/ID_SHOW_DIRS
 #: LABEL/ID_SHOW_DIRS
 msgid "Show Dirs"
-msgstr "Show Dirs"
+msgstr "Προβολή Καταλόγων"
 
 # TRANSLATION
 # LABEL/ID_SHOW_HIDE_CASES_STEPS
 #: LABEL/ID_SHOW_HIDE_CASES_STEPS
 msgid "Show or hide the Cases Steps"
-msgstr "Show or hide the Cases Steps"
+msgstr "Εμφάνιση ή απόκρυψη των Βημάτων Εργασιών"
 
 # TRANSLATION
 # LABEL/ID_SIGN_IN
 #: LABEL/ID_SIGN_IN
 msgid "Sign In"
-msgstr "Sign In"
+msgstr "Σύνδεση"
 
 # TRANSLATION
 # LABEL/ID_SIGN_OUT
 #: LABEL/ID_SIGN_OUT
 msgid "Sign out"
-msgstr "Sign out"
+msgstr "Αποσύνδεση"
 
 # TRANSLATION
 # LABEL/ID_SIMPLE_REPORT
 #: LABEL/ID_SIMPLE_REPORT
 msgid "Simple Report"
-msgstr "Simple Report"
+msgstr "Απλή Αναφορά"
 
 # TRANSLATION
 # LABEL/ID_SITE
 #: LABEL/ID_SITE
 msgid "Site"
-msgstr "Site"
+msgstr "Σελίδα"
 
 # TRANSLATION
 # LABEL/ID_SITE_CREATING
 #: LABEL/ID_SITE_CREATING
 msgid "site creating..."
-msgstr "site creating..."
+msgstr "η σελίδα δημιουργείται..."
 
 # TRANSLATION
 # LABEL/ID_SIZE
 #: LABEL/ID_SIZE
 msgid "Size"
-msgstr "Size"
+msgstr "Μέγεθος"
 
 # TRANSLATION
 # LABEL/ID_SIZE_IN_BYTES
 #: LABEL/ID_SIZE_IN_BYTES
 msgid "Size in bytes"
-msgstr "Size in bytes"
+msgstr "Μέγεθος σε bytes"
 
 # TRANSLATION
 # LABEL/ID_SKINS
 #: LABEL/ID_SKINS
 msgid "Skins"
-msgstr "Skins"
+msgstr "Θέματα"
 
 # TRANSLATION
 # LABEL/ID_SKIN_ALREADY_EXISTS
 #: LABEL/ID_SKIN_ALREADY_EXISTS
 msgid "Skin already exists"
-msgstr "Skin already exists"
+msgstr "Το θέμα υπάρχει ήδη"
 
