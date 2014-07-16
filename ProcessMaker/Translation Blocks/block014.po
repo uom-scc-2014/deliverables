@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: Θοδωρής Ιτζάρης <theodoreme@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,79 +16,79 @@ msgstr ""
 # LABEL/ID_MEMORY_LIMIT
 #: LABEL/ID_MEMORY_LIMIT
 msgid "Memory Limit (Mb)"
-msgstr "Memory Limit (Mb)"
+msgstr "Όριο μνήμης (Mb)"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE
 #: LABEL/ID_MESSAGE
 msgid "Message"
-msgstr "Message"
+msgstr "Μήνυμα"
 
 # TRANSLATION
 # LABEL/ID_MESSAGES
 #: LABEL/ID_MESSAGES
 msgid "Messages"
-msgstr "Messages"
+msgstr "Μυνήματα"
 
 # TRANSLATION
 # LABEL/ID_MESSAGES_HISTORY
 #: LABEL/ID_MESSAGES_HISTORY
 msgid "[LABEL/ID_MESSAGES_HISTORY] Messages History"
-msgstr "Messages History"
+msgstr "Ιστορικό μηνυμάτων"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_EMPTY_DATE_FIELD
 #: LABEL/ID_MESSAGE_EMPTY_DATE_FIELD
 msgid "There is at least one empty date field in the holiday grid, please check and try again."
-msgstr "There is at least one empty date field in the holiday grid, please check and try again."
+msgstr "Υπάρχει τουλάχιστον ένα άδιο πεδίο στον πίνακα των διακοπών, έλενξε το και προσπάθησε ξανά."
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_LOGIN
 #: LABEL/ID_MESSAGE_LOGIN
 msgid "The default language that is configured in this place is for the \"dropdown\" of the languages that are displaying on the login screen, this configuration is set for each workspace."
-msgstr "The default language that is configured in this place is for the \"dropdown\" of the languages that are displaying on the login screen, this configuration is set for each workspace."
+msgstr "Η εξ ορισμού γλώσσα σε αυτήν την επιλογή είναι για το  \"dropdown\" των γλωσσών που εμφανίζονται στην οθόνη 'εισαγωγής χρήστη', αυτη η ρυθμιση ειναι για όλα τα περιβάλλοντα εργασίας."
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_ROOT_CHANGE_FAILURE
 #: LABEL/ID_MESSAGE_ROOT_CHANGE_FAILURE
 msgid "The root password can't be updated!"
-msgstr "The root password can't be updated!"
+msgstr "Το root password δεν μπορεί να ενημερωθεί!"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_ROOT_CHANGE_SUCESS
 #: LABEL/ID_MESSAGE_ROOT_CHANGE_SUCESS
 msgid "The root password has been updated successfully!"
-msgstr "The root password has been updated successfully!"
+msgstr "Το root password έχει ενημερωθεί με επιτυχία!"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_SENT
 #: LABEL/ID_MESSAGE_SENT
 msgid "message sent"
-msgstr "message sent"
+msgstr "αποστολη μηνύματος"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_SUBJECT_DERIVATION
 #: LABEL/ID_MESSAGE_SUBJECT_DERIVATION
 msgid "Notification for task assignment"
-msgstr "Notification for task assignment"
+msgstr "Ειδοποίηση για ανάθεση εργασίας"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_SUBJECT_NOTE_NOTIFICATION
 #: LABEL/ID_MESSAGE_SUBJECT_NOTE_NOTIFICATION
 msgid "A note has added to a case"
-msgstr "A note has added to a case"
+msgstr "Μια σημείωση έχει προστεθεί σε μια υπόθεση"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_SYSTEM
 #: LABEL/ID_MESSAGE_SYSTEM
 msgid "The language that is set by default applies directly when the domain is entered (eg.- http://127.0.0.1:8081), the system reads the configuration and redirects the link to the selected language"
-msgstr "The language that is set by default applies directly when the domain is entered (eg.- http://127.0.0.1:8081), the system reads the configuration and redirects the link to the selected language"
+msgstr "Η γλώσσα που έχει ρυθμιστεί εξ'ορισμού αφορά απευθείας όταν γραφτεί το domai  (π.χ.- http://127.0.0.1:8081), το σύστημα διαβάζει την ρύθμιση και ανακατευθύνει τον σύνδεσμο στην επιλεγμένη γλώσσα"
 
 # TRANSLATION
 # LABEL/ID_MESSAGE_SYSTEM2
 #: LABEL/ID_MESSAGE_SYSTEM2
 msgid "(eg.- http://127.0.0.1:8081/sys/en/classic/login/login), it should be emphasized that this configuration is for all environments."
-msgstr "(eg.- http://127.0.0.1:8081/sys/en/classic/login/login), it should be emphasized that this configuration is for all environments."
+msgstr "(eg.- http://127.0.0.1:8081/sys/en/classic/login/login), πρέπει να τονιστεί ότι είναι ρύθμιση για όλα τα περιβάλλοντα."
 
 # TRANSLATION
 # LABEL/ID_MESS_ENGINE_TYPE_1
@@ -113,61 +112,61 @@ msgstr "SMTP (OpenMail)"
 # LABEL/ID_MESS_SEND_MAX_REQUIRED
 #: LABEL/ID_MESS_SEND_MAX_REQUIRED
 msgid "The maximum number of attempts to send mail is a required field."
-msgstr "The maximum number of attempts to send mail is a required field."
+msgstr "Το πεδίο για τον μέγιστο αριθμό προσπαθειών για αποστολή email, είναι απαραίτητο."
 
 # TRANSLATION
 # LABEL/ID_MESS_TEST_BODY
 #: LABEL/ID_MESS_TEST_BODY
 msgid "ProcessMaker Test Email"
-msgstr "ProcessMaker Test Email"
+msgstr "ProcessMaker δοκιμαστικό Email"
 
 # TRANSLATION
 # LABEL/ID_MESS_TEST_MESSAGE_ERROR_PHP_MAIL
 #: LABEL/ID_MESS_TEST_MESSAGE_ERROR_PHP_MAIL
 msgid "Test message send failed, error:"
-msgstr "Test message send failed, error:"
+msgstr "Το δοκιμαστικό μήνυμα απέτυχε,σφάλμα :"
 
 # TRANSLATION
 # LABEL/ID_MESS_TEST_MESSAGE_SENDED
 #: LABEL/ID_MESS_TEST_MESSAGE_SENDED
 msgid "[LABEL/ID_MESS_TEST_MESSAGE_SENDED] Test message sent successfully"
-msgstr "Test message sent successfully"
+msgstr "Το δοκιμαστικό μήνυμα στάλθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_MESS_TEST_SUBJECT
 #: LABEL/ID_MESS_TEST_SUBJECT
 msgid "Test Email"
-msgstr "Test Email"
+msgstr "Δοκιμαστικό Email"
 
 # TRANSLATION
 # LABEL/ID_METHOD
 #: LABEL/ID_METHOD
 msgid "Method"
-msgstr "Method"
+msgstr "Μέθοδος"
 
 # TRANSLATION
 # LABEL/ID_METHODS
 #: LABEL/ID_METHODS
 msgid "Methods"
-msgstr "Methods"
+msgstr "Μέθοδοι"
 
 # TRANSLATION
 # LABEL/ID_MINUTE
 #: LABEL/ID_MINUTE
 msgid "Minute"
-msgstr "Minute"
+msgstr "Λεπτό"
 
 # TRANSLATION
 # LABEL/ID_MINUTES
 #: LABEL/ID_MINUTES
 msgid "Minutes"
-msgstr "Minutes"
+msgstr "Λεπτά"
 
 # TRANSLATION
 # LABEL/ID_MODIFIED
 #: LABEL/ID_MODIFIED
 msgid "Modified"
-msgstr "Modified"
+msgstr "Τροποποιήθηκε"
 
 # TRANSLATION
 # LABEL/ID_MON
@@ -179,115 +178,115 @@ msgstr "Mon"
 # LABEL/ID_MONITORED_FOLDER
 #: LABEL/ID_MONITORED_FOLDER
 msgid "Monitored Folder"
-msgstr "Monitored Folder"
+msgstr "Φάκελος παρακολούθησης"
 
 # TRANSLATION
 # LABEL/ID_MONTH_1
 #: LABEL/ID_MONTH_1
 msgid "January"
-msgstr "January"
+msgstr "Ιανουάριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_10
 #: LABEL/ID_MONTH_10
 msgid "October"
-msgstr "October"
+msgstr "Οκτώβριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_11
 #: LABEL/ID_MONTH_11
 msgid "November"
-msgstr "November"
+msgstr "Νοέμβριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_12
 #: LABEL/ID_MONTH_12
 msgid "December"
-msgstr "December"
+msgstr "Δεκέμβριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_2
 #: LABEL/ID_MONTH_2
 msgid "February"
-msgstr "February"
+msgstr "Φεβρουάριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_3
 #: LABEL/ID_MONTH_3
 msgid "March"
-msgstr "March"
+msgstr "Μάρτιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_4
 #: LABEL/ID_MONTH_4
 msgid "April"
-msgstr "April"
+msgstr "Απρίλιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_5
 #: LABEL/ID_MONTH_5
 msgid "May"
-msgstr "May"
+msgstr "Μάιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_6
 #: LABEL/ID_MONTH_6
 msgid "June"
-msgstr "June"
+msgstr "Ιούνιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_7
 #: LABEL/ID_MONTH_7
 msgid "July"
-msgstr "July"
+msgstr "Ιούλιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_8
 #: LABEL/ID_MONTH_8
 msgid "August"
-msgstr "August"
+msgstr "Αύγουστος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_9
 #: LABEL/ID_MONTH_9
 msgid "September"
-msgstr "September"
+msgstr "Σεπτέμβριος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_1
 #: LABEL/ID_MONTH_ABB_1
 msgid "Jan"
-msgstr "Jan"
+msgstr "Ιαν"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_10
 #: LABEL/ID_MONTH_ABB_10
 msgid "Oct"
-msgstr "Oct"
+msgstr "Οκτ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_11
 #: LABEL/ID_MONTH_ABB_11
 msgid "Nov"
-msgstr "Nov"
+msgstr "Νοε"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_12
 #: LABEL/ID_MONTH_ABB_12
 msgid "Dec"
-msgstr "Dec"
+msgstr "Δεκ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_2
 #: LABEL/ID_MONTH_ABB_2
 msgid "Feb"
-msgstr "Feb"
+msgstr "Φεβ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_3
 #: LABEL/ID_MONTH_ABB_3
 msgid "Mar"
-msgstr "Mar"
+msgstr "Μαρ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_4
@@ -299,91 +298,91 @@ msgstr "Apr"
 # LABEL/ID_MONTH_ABB_5
 #: LABEL/ID_MONTH_ABB_5
 msgid "[LABEL/ID_MONTH_ABB_5] May"
-msgstr "May"
+msgstr "Μάιος"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_6
 #: LABEL/ID_MONTH_ABB_6
 msgid "Jun"
-msgstr "Jun"
+msgstr "Ιουν"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_7
 #: LABEL/ID_MONTH_ABB_7
 msgid "Jul"
-msgstr "Jul"
+msgstr "Ιούλ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_8
 #: LABEL/ID_MONTH_ABB_8
 msgid "Aug"
-msgstr "Aug"
+msgstr "Αυγ"
 
 # TRANSLATION
 # LABEL/ID_MONTH_ABB_9
 #: LABEL/ID_MONTH_ABB_9
 msgid "Sep"
-msgstr "Sep"
+msgstr "Σεπ"
 
 # TRANSLATION
 # LABEL/ID_MORE_INFO
 #: LABEL/ID_MORE_INFO
 msgid "More Info"
-msgstr "More Info"
+msgstr "Περισσότερες Πληροφορίες"
 
 # TRANSLATION
 # LABEL/ID_MORE_INFORMATION
 #: LABEL/ID_MORE_INFORMATION
 msgid "more information"
-msgstr "more information"
+msgstr "περισσότερες πληροφορίες"
 
 # TRANSLATION
 # LABEL/ID_MOST_AT_LEAST_3_DAY
 #: LABEL/ID_MOST_AT_LEAST_3_DAY
 msgid "You must define at least 3 Working Days!"
-msgstr "You must define at least 3 Working Days!"
+msgstr "Πρέπει να καθορίσεις τουλάχιστον 3 εργάσιμες ημέρες!"
 
 # TRANSLATION
 # LABEL/ID_MOVE
 #: LABEL/ID_MOVE
 msgid "Move"
-msgstr "Move"
+msgstr "Μετακίνηση"
 
 # TRANSLATION
 # LABEL/ID_MSG_AJAX_FAILURE
 #: LABEL/ID_MSG_AJAX_FAILURE
 msgid "Some error has happened. Please retry later."
-msgstr "Some error has happened. Please retry later."
+msgstr "Κάποιο λάθος υπάρχει.Σε παρακαλώ ξανά προσπάθησε αργότερα."
 
 # TRANSLATION
 # LABEL/ID_MSG_ASSIGN_DONE
 #: LABEL/ID_MSG_ASSIGN_DONE
 msgid "User successfully assigned to group"
-msgstr "User successfully assigned to group"
+msgstr "Ο χρήστης ανατέθηκε στο group με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_MSG_CANNOT_DELETE_AUTHENTICATION
 #: LABEL/ID_MSG_CANNOT_DELETE_AUTHENTICATION
 msgid "Authentication source cannot be deleted while has assigned users."
-msgstr "Authentication source cannot be deleted while has assigned users."
+msgstr "Η πηγή της πιστοποίησης δεν μπορεί να διαγραφεί όσο υπάρχουν ανατηθέμενοι χρήστες."
 
 # TRANSLATION
 # LABEL/ID_MSG_CANNOT_DELETE_CALENDAR
 #: LABEL/ID_MSG_CANNOT_DELETE_CALENDAR
 msgid "Calendar cannot be deleted while has assignations."
-msgstr "Calendar cannot be deleted while has assignations."
+msgstr "Το ημερολόγιο δεν μπορεί να διαγραφεί όσο υπάρχουν αναθέσεις"
 
 # TRANSLATION
 # LABEL/ID_MSG_CANNOT_DELETE_CATEGORY
 #: LABEL/ID_MSG_CANNOT_DELETE_CATEGORY
 msgid "Category cannot be deleted while has assigned processes."
-msgstr "Category cannot be deleted while has assigned processes."
+msgstr "Η κατηγορία δεν μπορεί να διαγραφεί όσο υπάρχουν ανατηθέμενες διεργασίες"
 
 # TRANSLATION
 # LABEL/ID_MSG_CANNOT_DELETE_DEPARTMENT
 #: LABEL/ID_MSG_CANNOT_DELETE_DEPARTMENT
 msgid "Department cannot be deleted while has assigned users."
-msgstr "Department cannot be deleted while has assigned users."
+msgstr "Το παράρτημα δεν μπορεί να διαγραφεί όσο υπάρχουν ανατηθέμενοι χρήστες."
 
 # TRANSLATION
 # LABEL/ID_MSG_CANNOT_DELETE_INPUT_DOC
@@ -467,25 +466,25 @@ msgstr "Are you sure you want to delete this case?"
 # LABEL/ID_MSG_CONFIRM_DELETE_CASES
 #: LABEL/ID_MSG_CONFIRM_DELETE_CASES
 msgid "Are you sure you want to delete all selected cases?"
-msgstr "Are you sure you want to delete all selected cases?"
+msgstr "Είσαι σίγουρος ότι θέλεις να διαγράψεις όλες τις περιπτώσεις;"
 
 # TRANSLATION
 # LABEL/ID_MSG_CONFIRM_DELETE_CASE_SCHEDULER
 #: LABEL/ID_MSG_CONFIRM_DELETE_CASE_SCHEDULER
 msgid "Are you sure you want to delete this scheduled case?"
-msgstr "Are you sure you want to delete this scheduled case?"
+msgstr "Είσαι σίγουρος ότι θέλεις να διαγράψεις την προγραμματισμένη περίπτωση;"
 
 # TRANSLATION
 # LABEL/ID_MSG_CONFIRM_DELETE_CASE_TRACKER_OBJECT
 #: LABEL/ID_MSG_CONFIRM_DELETE_CASE_TRACKER_OBJECT
 msgid "Do you want to delete this object?"
-msgstr "Do you want to delete this object?"
+msgstr "Θέλεις να διαγράψεις αυτό το αντικείμενο;"
 
 # TRANSLATION
 # LABEL/ID_MSG_CONFIRM_DELETE_CONDITION
 #: LABEL/ID_MSG_CONFIRM_DELETE_CONDITION
 msgid "Are you sure to delete this condition?"
-msgstr "Are you sure to delete this condition?"
+msgstr "Είσαι σίγουρος ότι θέλεις να διαγράψεις αυτήν τη συνθήκη;"
 
 # TRANSLATION
 # LABEL/ID_MSG_CONFIRM_DELETE_DEPARTMENT
