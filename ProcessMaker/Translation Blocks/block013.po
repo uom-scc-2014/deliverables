@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:18+0200\n"
+"Last-Translator:  <test@test.gr>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,49 +16,49 @@ msgstr ""
 # LABEL/ID_INSTALLING_WORKSPACE
 #: LABEL/ID_INSTALLING_WORKSPACE
 msgid "Installing workspace..."
-msgstr "Installing workspace..."
+msgstr "Εγκατάσταση χώρου εργασίας"
 
 # TRANSLATION
 # LABEL/ID_INSTALL_BUT_ERROR
 #: LABEL/ID_INSTALL_BUT_ERROR
 msgid "Installed but with error, couldn't update {0}"
-msgstr "Installed but with error, couldn't update {0}"
+msgstr "Εγκαταστάθηκε αλλά με σφάλμα, δεν αναβαθμίστηκε"
 
 # TRANSLATION
 # LABEL/ID_INSTALL_MESSAGE
 #: LABEL/ID_INSTALL_MESSAGE
 msgid "Please follow these instructions to complete installation"
-msgstr "Please follow these instructions to complete installation"
+msgstr "Παρακαλώ ακολοθουθήστε τις οδηγίες για την ολοκλήρωση της εγκατάστασης"
 
 # TRANSLATION
 # LABEL/ID_INSTALL_STEPS
 #: LABEL/ID_INSTALL_STEPS
 msgid "Install Steps"
-msgstr "Install Steps"
+msgstr "Βήματα εγκατάστασης"
 
 # TRANSLATION
 # LABEL/ID_INSTALL_SUCESS
 #: LABEL/ID_INSTALL_SUCESS
 msgid "Install completed Succesfully"
-msgstr "Install completed Succesfully"
+msgstr "Η εγκατάσταση ολοκληρώθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_INSTRUCTIONS
 #: LABEL/ID_INSTRUCTIONS
 msgid "Instructions"
-msgstr "Instructions"
+msgstr "Οδηγίες"
 
 # TRANSLATION
 # LABEL/ID_INSTRUCTIONS_TEXT
 #: LABEL/ID_INSTRUCTIONS_TEXT
 msgid "To assign a case it should be selected from the grid and then on the Search enter a name to do the user search to whom the case will be reasigned and then select one from the list."
-msgstr "To assign a case it should be selected from the grid and then on the Search enter a name to do the user search to whom the case will be reasigned and then select one from the list."
+msgstr "Για να εκχωρήσετε μια υπόθεση θα πρέπει να την επιλέξετε από το πλέγμα και μετά στην αναζήτηση εισάγετε ένα όνομα για να γίνει η αναζήτηση του χρήστη στον οποίο η υπόθεση θα εκχωρηθεί και στη συνέχεια επιλέξτε μία από τη λίστα"
 
 # TRANSLATION
 # LABEL/ID_INSUFFICIENT_PRIVILEGES_FUNCTION
 #: LABEL/ID_INSUFFICIENT_PRIVILEGES_FUNCTION
 msgid "Insufficient privileges to execute this function"
-msgstr "Insufficient privileges to execute this function"
+msgstr "Ανεπαρκή δικαιώματα για την εκτέλεση της λειτουργίας"
 
 # TRANSLATION
 # LABEL/ID_INT
@@ -71,19 +70,19 @@ msgstr "INT"
 # LABEL/ID_INTERMEDIATE_MESSAGE_EVENT
 #: LABEL/ID_INTERMEDIATE_MESSAGE_EVENT
 msgid "Intermediate Message Events (Task Notifications)"
-msgstr "Intermediate Message Events (Task Notifications)"
+msgstr "Ενδιάμεσα μυνήματα γεγονότων (Επισήμανση Εργασίας)"
 
 # TRANSLATION
 # LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS
 #: LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS
 msgid "[LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS] Intermediate Message Events (Task Notifications)"
-msgstr "Intermediate Message Events (Task Notifications)"
+msgstr "[LABEL/ID_INTERMEDIATE_MESSAGE_EVENTS] Intermediate Message Events (Task Notifications)"
 
 # TRANSLATION
 # LABEL/ID_INTERMEDIATE_TIMER_EVENT
 #: LABEL/ID_INTERMEDIATE_TIMER_EVENT
 msgid "Intermediate Timer Event (Multiple Event)"
-msgstr "Intermediate Timer Event (Multiple Event)"
+msgstr "Ενδιάμεσο γεγονός χρονισμού (Πολλαπλό γεγονός)"
 
 # TRANSLATION
 # LABEL/ID_INTERMEDIATE_TIMER_EVENTS
@@ -95,73 +94,73 @@ msgstr "Intermediate Timer Event (Multiple Event)"
 # LABEL/ID_INTERNATIONAL
 #: LABEL/ID_INTERNATIONAL
 msgid "International"
-msgstr "International"
+msgstr "Διεθνής"
 
 # TRANSLATION
 # LABEL/ID_INVALID_APPLICATION_ID_MSG
 #: LABEL/ID_INVALID_APPLICATION_ID_MSG
 msgid "Invalid application id stored on session,<br/>This can happens when you have opened another case on a new tab or window.<br/>Please {0} the case."
-msgstr "Invalid application id stored on session,<br/>This can happens when you have opened another case on a new tab or window.<br/>Please {0} the case."
+msgstr "Ανύπαρκτο id εφαρμογής αποθηκευμένο σε αυτήν τη συνεδρία, <br/> Αυτό μπορεί να συμβεί όταν έχετε ανοίξει μία άλλη υπόθεση σε νέα καρτέλα ή παράθυρο. <br/> Παρακαλώ {0} την υπόθεση"
 
 # TRANSLATION
 # LABEL/ID_INVALID_APPLICATION_NUMBER
 #: LABEL/ID_INVALID_APPLICATION_NUMBER
 msgid "You have set a invalid Application Number"
-msgstr "You have set a invalid Application Number"
+msgstr "Έχεις ορίσει ένα ανύπαρκτο αριθμό εφαρμογής"
 
 # TRANSLATION
 # LABEL/ID_INVALID_CASE_DELEGATION_INDEX
 #: LABEL/ID_INVALID_CASE_DELEGATION_INDEX
 msgid "Invalid Case Delegation index for this user"
-msgstr "Invalid Case Delegation index for this user"
+msgstr "Ανύπαρκτη αναφορά υπόθεσης για αυτόν τον χρήστη"
 
 # TRANSLATION
 # LABEL/ID_INVALID_DATA
 #: LABEL/ID_INVALID_DATA
 msgid "Invalid data"
-msgstr "Invalid data"
+msgstr "Ανύπαρκτα δεδομένα"
 
 # TRANSLATION
 # LABEL/ID_INVALID_END_HOURS
 #: LABEL/ID_INVALID_END_HOURS
 msgid "The following end hours rows are invalid:"
-msgstr "The following end hours rows are invalid:"
+msgstr "Οι παρακάτω γραμμές τέλους ωρών δεν υπάρχουν"
 
 # TRANSLATION
 # LABEL/ID_INVALID_EXTENSION
 #: LABEL/ID_INVALID_EXTENSION
 msgid "Invalid file extension!"
-msgstr "Invalid file extension!"
+msgstr "Λανθασμένη επέκταση αρχείου!"
 
 # TRANSLATION
 # LABEL/ID_INVALID_FILE
 #: LABEL/ID_INVALID_FILE
 msgid "Invalid FIle"
-msgstr "Invalid FIle"
+msgstr "Λανθασμένο αρχείο"
 
 # TRANSLATION
 # LABEL/ID_INVALID_NAME
 #: LABEL/ID_INVALID_NAME
 msgid "Invalid name!"
-msgstr "Invalid name!"
+msgstr "Λανθασμένο όνομα!"
 
 # TRANSLATION
 # LABEL/ID_INVALID_ORIGIN_USER
 #: LABEL/ID_INVALID_ORIGIN_USER
 msgid "Invalid origin user"
-msgstr "Invalid origin user"
+msgstr "Ανύπαρκτος αρχικός χρήστης!"
 
 # TRANSLATION
 # LABEL/ID_INVALID_PROCESS
 #: LABEL/ID_INVALID_PROCESS
 msgid "Invalid process"
-msgstr "Invalid process"
+msgstr "Ανύπαρκτη διεργασία"
 
 # TRANSLATION
 # LABEL/ID_INVALID_PROCESS_NAME
 #: LABEL/ID_INVALID_PROCESS_NAME
 msgid "Invalid process name, please just use alphanumeric characters."
-msgstr "Invalid process name, please just use alphanumeric characters."
+msgstr "Ανύπαρκτο όνομα διεργασίας, παρακαλώ χρησιμοποιήστε μόνο αλφαριθμητικού χαρακτήρες"
 
 # TRANSLATION
 # LABEL/ID_INVALID_PROCESS_NAME2
@@ -173,43 +172,43 @@ msgstr "Invalid process name, please just use alphanumeric characters."
 # LABEL/ID_INVALID_ROLE
 #: LABEL/ID_INVALID_ROLE
 msgid "Invalid role '{ROLE}'"
-msgstr "Invalid role '{ROLE}'"
+msgstr "Ανύπαρκτος ρόλος '{ROLE}'"
 
 # TRANSLATION
 # LABEL/ID_INVALID_START_HOURS
 #: LABEL/ID_INVALID_START_HOURS
 msgid "The following start hours rows are invalid:"
-msgstr "The following start hours rows are invalid:"
+msgstr "Οι παρακάτω γραμμές αρχής ωρών δεν υπάρχουν"
 
 # TRANSLATION
 # LABEL/ID_INVALID_TRIGGER
 #: LABEL/ID_INVALID_TRIGGER
 msgid "Invalid trigger '{TRIGGER_INDEX}'"
-msgstr "Invalid trigger '{TRIGGER_INDEX}'"
+msgstr "Ανύπαρκτη σκανδάλη '{TRIGGER_INDEX}'"
 
 # TRANSLATION
 # LABEL/ID_IN_PROGRESS
 #: LABEL/ID_IN_PROGRESS
 msgid "In Progress"
-msgstr "In Progress"
+msgstr "Σε εξέλιξη"
 
 # TRANSLATION
 # LABEL/ID_ISNT_LICENSE
 #: LABEL/ID_ISNT_LICENSE
 msgid "This isn't the correct license."
-msgstr "This isn't the correct license."
+msgstr "Λάθος άδεια"
 
 # TRANSLATION
 # LABEL/ID_IS_NOT_REGISTERED
 #: LABEL/ID_IS_NOT_REGISTERED
 msgid "is not registered!"
-msgstr "is not registered!"
+msgstr "μη εγγεγραμμένος"
 
 # TRANSLATION
 # LABEL/ID_IS_REQUIRED
 #: LABEL/ID_IS_REQUIRED
 msgid "is required"
-msgstr "is required"
+msgstr "απαιτείται"
 
 # TRANSLATION
 # LABEL/ID_IUD
@@ -233,7 +232,7 @@ msgstr "Javascript cache"
 # LABEL/ID_JUMP
 #: LABEL/ID_JUMP
 msgid "Jump"
-msgstr "Jump"
+msgstr "Πήδα"
 
 # TRANSLATION
 # LABEL/ID_LABEL
@@ -251,25 +250,25 @@ msgstr "Language"
 # LABEL/ID_LANGUAGE_CANT_DELETE
 #: LABEL/ID_LANGUAGE_CANT_DELETE
 msgid "There is {0} cases started with this language, delete action canceled!"
-msgstr "There is {0} cases started with this language, delete action canceled!"
+msgstr "Υπάρχουν {0} υποθέσεις ανοιχτές σε αυτή τη γλώσσα, η ενέργεια διαγραφής ακυρώθηκε!"
 
 # TRANSLATION
 # LABEL/ID_LANGUAGE_DELETED_SUCCESSFULLY
 #: LABEL/ID_LANGUAGE_DELETED_SUCCESSFULLY
 msgid "Language deleted successfully!"
-msgstr "Language deleted successfully!"
+msgstr "Η γλώσσα διαγράφτηκε επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_LANGUAJE_DIRECTORY
 #: LABEL/ID_LANGUAJE_DIRECTORY
 msgid "Language Directory"
-msgstr "Language Directory"
+msgstr "Φάκελος Γλώσσας"
 
 # TRANSLATION
 # LABEL/ID_LANG_INSTALL_UPDATE
 #: LABEL/ID_LANG_INSTALL_UPDATE
 msgid "Install / Update"
-msgstr "Install / Update"
+msgstr "Εγκατάσταση / Αναβάθμιση"
 
 # TRANSLATION
 # LABEL/ID_LAN_COUNTRY
@@ -287,7 +286,7 @@ msgstr "File"
 # LABEL/ID_LAN_FILE_WATER_LABEL
 #: LABEL/ID_LAN_FILE_WATER_LABEL
 msgid "Select a translation file"
-msgstr "Select a translation file"
+msgstr "Επιλέξτε ένα αρχείο μετάφρασης"
 
 # TRANSLATION
 # LABEL/ID_LAN_LANGUAGE
@@ -299,139 +298,139 @@ msgstr "Language"
 # LABEL/ID_LAN_LOCALE
 #: LABEL/ID_LAN_LOCALE
 msgid "Locale"
-msgstr "Locale"
+msgstr "Τοπικές ρυθμίσεις"
 
 # TRANSLATION
 # LABEL/ID_LAN_NUM_RECORDS
 #: LABEL/ID_LAN_NUM_RECORDS
 msgid "# Records"
-msgstr "# Records"
+msgstr "# Εγγραφές"
 
 # TRANSLATION
 # LABEL/ID_LAN_REV_DATE
 #: LABEL/ID_LAN_REV_DATE
 msgid "Revision Date"
-msgstr "Revision Date"
+msgstr "Ημερομηνία αναθεώρησης"
 
 # TRANSLATION
 # LABEL/ID_LAN_TRANSLATOR
 #: LABEL/ID_LAN_TRANSLATOR
 msgid "Translator"
-msgstr "Translator"
+msgstr "Μεταφραστής"
 
 # TRANSLATION
 # LABEL/ID_LAN_UPDATE_DATE
 #: LABEL/ID_LAN_UPDATE_DATE
 msgid "Update Date"
-msgstr "Update Date"
+msgstr "Ημερομηνία αναβάθμισης"
 
 # TRANSLATION
 # LABEL/ID_LAN_UPLOAD_TITLE
 #: LABEL/ID_LAN_UPLOAD_TITLE
 msgid "Upload translation file"
-msgstr "Upload translation file"
+msgstr "Μεταφόρτωση αρχείου μετάφρασης"
 
 # TRANSLATION
 # LABEL/ID_LAN_VERSION
 #: LABEL/ID_LAN_VERSION
 msgid "Version"
-msgstr "Version"
+msgstr "Έκδοση"
 
 # TRANSLATION
 # LABEL/ID_LAST
 #: LABEL/ID_LAST
 msgid "Last"
-msgstr "Last"
+msgstr "Τελευταίο"
 
 # TRANSLATION
 # LABEL/ID_LASTNAME
 #: LABEL/ID_LASTNAME
 msgid "Last Name"
-msgstr "Last Name"
+msgstr "Επίθετο"
 
 # TRANSLATION
 # LABEL/ID_LAST_EMPLOYEE
 #: LABEL/ID_LAST_EMPLOYEE
 msgid "Last Employee"
-msgstr "Last Employee"
+msgstr "Τελευταίος υπάλληλος"
 
 # TRANSLATION
 # LABEL/ID_LAST_LOGIN
 #: LABEL/ID_LAST_LOGIN
 msgid "Last Login"
-msgstr "Last Login"
+msgstr "Τελευταία είσοδος"
 
 # TRANSLATION
 # LABEL/ID_LAST_MODIFY
 #: LABEL/ID_LAST_MODIFY
 msgid "[LABEL/ID_LAST_MODIFY] Last Modify"
-msgstr "Last Modify"
+msgstr "[LABEL/ID_LAST_MODIFY] Last Modify"
 
 # TRANSLATION
 # LABEL/ID_LAST_NAME
 #: LABEL/ID_LAST_NAME
 msgid "[LABEL/ID_LAST_NAME] Last Name"
-msgstr "Last Name"
+msgstr "[LABEL/ID_LAST_NAME] Last Name"
 
 # TRANSLATION
 # LABEL/ID_LAST_RUN_TIME
 #: LABEL/ID_LAST_RUN_TIME
 msgid "Last Run Time"
-msgstr "Last Run Time"
+msgstr "Τελευταία εκτέλεση"
 
 # TRANSLATION
 # LABEL/ID_LDAP_OPTIONAL
 #: LABEL/ID_LDAP_OPTIONAL
 msgid "LDAP is optional."
-msgstr "LDAP is optional."
+msgstr "LDAP είναι προαιρετικό"
 
 # TRANSLATION
 # LABEL/ID_LEFT_MARGIN
 #: LABEL/ID_LEFT_MARGIN
 msgid "Left Margin"
-msgstr "Left Margin"
+msgstr "Αριστερό περιθώριο"
 
 # TRANSLATION
 # LABEL/ID_LICENSE_EMPTY
 #: LABEL/ID_LICENSE_EMPTY
 msgid "Can not find any license"
-msgstr "Can not find any license"
+msgstr "Δεν βρέθηκε καμία άδεια"
 
 # TRANSLATION
 # LABEL/ID_LINE
 #: LABEL/ID_LINE
 msgid "Line"
-msgstr "Line"
+msgstr "Γραμμή"
 
 # TRANSLATION
 # LABEL/ID_LOADING
 #: LABEL/ID_LOADING
 msgid "Loading, please wait..."
-msgstr "Loading, please wait..."
+msgstr "Φόρτωση, παρακαλώ περίμενετε"
 
 # TRANSLATION
 # LABEL/ID_LOADING_GRID
 #: LABEL/ID_LOADING_GRID
 msgid "Loading..."
-msgstr "Loading..."
+msgstr "Φορτώνει..."
 
 # TRANSLATION
 # LABEL/ID_LOAD_FAILED
 #: LABEL/ID_LOAD_FAILED
 msgid "Load Failed"
-msgstr "Load Failed"
+msgstr "Η φόρτωση απέτυχε"
 
 # TRANSLATION
 # LABEL/ID_LOAD_FROM_FILE
 #: LABEL/ID_LOAD_FROM_FILE
 msgid "Load from file"
-msgstr "Load from file"
+msgstr "Φόρτωση από αρχείο"
 
 # TRANSLATION
 # LABEL/ID_LOAD_MORE
 #: LABEL/ID_LOAD_MORE
 msgid "Load More"
-msgstr "Load More"
+msgstr "Φόρτωση περισσότερων"
 
 # TRANSLATION
 # LABEL/ID_LOCALE
@@ -443,85 +442,85 @@ msgstr "Locale"
 # LABEL/ID_LOCATION
 #: LABEL/ID_LOCATION
 msgid "Location"
-msgstr "Location"
+msgstr "Τοποθεσία"
 
 # TRANSLATION
 # LABEL/ID_LOGGED
 #: LABEL/ID_LOGGED
 msgid "Logged on"
-msgstr "Logged on"
+msgstr "Συνδεμένος"
 
 # TRANSLATION
 # LABEL/ID_LOGIN
 #: LABEL/ID_LOGIN
 msgid "Login"
-msgstr "Login"
+msgstr "Είσοδος"
 
 # TRANSLATION
 # LABEL/ID_LOGIN_AGAIN
 #: LABEL/ID_LOGIN_AGAIN
 msgid "You have lost your session and you have to login again."
-msgstr "You have lost your session and you have to login again."
+msgstr "Χάσατε τη σύνδεση σας και πρέπει να συνδεθείτε και πάλι"
 
 # TRANSLATION
 # LABEL/ID_LOGIN_LIBRARY
 #: LABEL/ID_LOGIN_LIBRARY
 msgid "Login into ProcessMaker Library"
-msgstr "Login into ProcessMaker Library"
+msgstr "Σύνδεση στη βιβλιοθήκη του ProcessMaker"
 
 # TRANSLATION
 # LABEL/ID_LOGIN_SETTINGS
 #: LABEL/ID_LOGIN_SETTINGS
 msgid "Login Settings"
-msgstr "Login Settings"
+msgstr "Ρυθμίσεις σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_LOGIN_WITH_FACEBOOK
 #: LABEL/ID_LOGIN_WITH_FACEBOOK
 msgid "Login with Facebook!!"
-msgstr "Login with Facebook!!"
+msgstr "Σύνδεση μέσω Facebook!!"
 
 # TRANSLATION
 # LABEL/ID_LOGO
 #: LABEL/ID_LOGO
 msgid "Logo"
-msgstr "Logo"
+msgstr "Λογότυπο"
 
 # TRANSLATION
 # LABEL/ID_LOGOUT
 #: LABEL/ID_LOGOUT
 msgid "Logout"
-msgstr "Logout"
+msgstr "Αποσύνδεση"
 
 # TRANSLATION
 # LABEL/ID_LOGS
 #: LABEL/ID_LOGS
 msgid "Logs"
-msgstr "Logs"
+msgstr "Καταγραφές"
 
 # TRANSLATION
 # LABEL/ID_LOG_AGAIN
 #: LABEL/ID_LOG_AGAIN
 msgid "Please login again to apply the changes."
-msgstr "Please login again to apply the changes."
+msgstr "Παρακαλώ συνδεθείτε ξανά για να εφαρμοστούν οι αλλαγές"
 
 # TRANSLATION
 # LABEL/ID_LOG_CASE_SCHEDULER
 #: LABEL/ID_LOG_CASE_SCHEDULER
 msgid "Case Scheduler Log"
-msgstr "Case Scheduler Log"
+msgstr "Καταγραφέας προγραμματισμού υποθέσεων"
 
 # TRANSLATION
 # LABEL/ID_LOG_INFO
 #: LABEL/ID_LOG_INFO
 msgid "Log Information"
-msgstr "Log Information"
+msgstr "Πληροφορίες καταγραφών"
 
 # TRANSLATION
 # LABEL/ID_MAIL_SENT_SUCCESSFULLY
 #: LABEL/ID_MAIL_SENT_SUCCESSFULLY
 msgid "Your message has been sent successfully"
-msgstr "Your message has been sent successfully"
+msgstr "Το μύνημά σας στάλθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_MAIL_TEST_SUCCESS
@@ -533,83 +532,83 @@ msgstr "Test message sent successfully"
 # LABEL/ID_MAIL_TO_NOT_VALID_ADDRESS
 #: LABEL/ID_MAIL_TO_NOT_VALID_ADDRESS
 msgid "\"Mail to\" does not contain a valid email address format"
-msgstr "\"Mail to\" does not contain a valid email address format"
+msgstr "\"Μήνυμα προς\" δεν είναι έγκυρη η διεύθυνση"
 
 # TRANSLATION
 # LABEL/ID_MAINTENANCE
 #: LABEL/ID_MAINTENANCE
 msgid "Maintenance"
-msgstr "Maintenance"
+msgstr "Συντήρηση"
 
 # TRANSLATION
 # LABEL/ID_MANAGER
 #: LABEL/ID_MANAGER
 msgid "Manager"
-msgstr "Manager"
+msgstr "Διαχειριστής"
 
 # TRANSLATION
 # LABEL/ID_MANUAL_ASSIGNMENT
 #: LABEL/ID_MANUAL_ASSIGNMENT
 msgid "Manual Assignment"
-msgstr "Manual Assignment"
+msgstr "Μη αυτόματη εκχώρηση"
 
 # TRANSLATION
 # LABEL/ID_MAP
 #: LABEL/ID_MAP
 msgid "Where is my Case?"
-msgstr "Where is my Case?"
+msgstr "Που είναι η υπόθεση οεο?"
 
 # TRANSLATION
 # LABEL/ID_MAP_TYPE
 #: LABEL/ID_MAP_TYPE
 msgid "Map Type"
-msgstr "Map Type"
+msgstr "Τύπος χάρτη"
 
 # TRANSLATION
 # LABEL/ID_MASKS_LIST
 #: LABEL/ID_MASKS_LIST
 msgid "Masks List"
-msgstr "Masks List"
+msgstr "Λίστα μασκών"
 
 # TRANSLATION
 # LABEL/ID_MAX_FILE_SIZE
 #: LABEL/ID_MAX_FILE_SIZE
 msgid "Max upload file size"
-msgstr "Max upload file size"
+msgstr "Μέγιστο μέγεθος αρχείου μεταφόρτωσης"
 
 # TRANSLATION
 # LABEL/ID_MAX_LIFETIME
 #: LABEL/ID_MAX_LIFETIME
 msgid "Maximum lifetime cleaned up (ms)"
-msgstr "Maximum lifetime cleaned up (ms)"
+msgstr "Εκκαθάριση μέγιστου χρόνου ζωής (ms)"
 
 # TRANSLATION
 # LABEL/ID_MAX_LIMIT_COLUMNS_FOR_DATABASE
 #: LABEL/ID_MAX_LIMIT_COLUMNS_FOR_DATABASE
 msgid "The maximun limit of columns for a database table is 255, you already have them defined!"
-msgstr "The maximun limit of columns for a database table is 255, you already have them defined!"
+msgstr "Το μέγιστο πλήθος στηλών για ένα πίνακα βάσης δεδομένων είναι 255, το έχετε ήδη ορίσει!"
 
 # TRANSLATION
 # LABEL/ID_MEDIA
 #: LABEL/ID_MEDIA
 msgid "Media"
-msgstr "Media"
+msgstr "Μέσα"
 
 # TRANSLATION
 # LABEL/ID_MEMBER
 #: LABEL/ID_MEMBER
 msgid "Member"
-msgstr "Member"
+msgstr "Μέλος"
 
 # TRANSLATION
 # LABEL/ID_MEMBERS
 #: LABEL/ID_MEMBERS
 msgid "Members"
-msgstr "Members"
+msgstr "Μέλη"
 
 # TRANSLATION
 # LABEL/ID_MEMBER_OF
 #: LABEL/ID_MEMBER_OF
 msgid "MEMBER OF"
-msgstr "MEMBER OF"
+msgstr "Μέλος του"
 
