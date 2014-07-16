@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:19+0200\n"
+"Last-Translator: Νικόλαος Παναγιωτόπουλος <npanagioto@yahoo.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,19 +16,19 @@ msgstr ""
 # authSources/ldapEdit.xml
 #: textarea - AUTH_SOURCE_ATTRIBUTES
 msgid "[authSources/ldapEdit.xml?AUTH_SOURCE_ATTRIBUTES] Attributes"
-msgstr "Attributes"
+msgstr "Παράμετροι"
 
 # authSources/ldapEdit.xml?btnSave
 # authSources/ldapEdit.xml
 #: submit - btnSave
 msgid "[authSources/ldapEdit.xml?btnSave] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # authSources/ldapEdit.xml?BTN_CANCEL
 # authSources/ldapEdit.xml
 #: button - BTN_CANCEL
 msgid "[authSources/ldapEdit.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Άκυρο"
 
 # authSources/ldapSearchResults.xml?Checkbox
 # authSources/ldapSearchResults.xml
@@ -41,7 +40,7 @@ msgstr "<span id=\"spanSelectAll\"></span>"
 # authSources/ldapSearchResults.xml
 #: text - FullName
 msgid "[authSources/ldapSearchResults.xml?FullName] Name"
-msgstr "Name"
+msgstr "Όνομα"
 
 # authSources/ldapSearchResults.xml?Email
 # authSources/ldapSearchResults.xml
@@ -53,7 +52,7 @@ msgstr "<span style=\"width:40px; display:block;\">E-Mail</span>"
 # authSources/ldapSearchResults.xml
 #: text - DistinguishedName
 msgid "Distinguished Name"
-msgstr "Distinguished Name"
+msgstr "Διακεκριμένο Όνομα"
 
 # cases/casesDemo.xml?uid
 # cases/casesDemo.xml
@@ -65,79 +64,79 @@ msgstr "#"
 # cases/casesDemo.xml
 #: text - name
 msgid "name"
-msgstr "name"
+msgstr "όνομα"
 
 # cases/casesDemo.xml?age
 # cases/casesDemo.xml
 #: text - age
 msgid "[cases/casesDemo.xml?age] Task"
-msgstr "Task"
+msgstr "Εργασία"
 
 # cases/casesDemo.xml?balance
 # cases/casesDemo.xml
 #: text - balance
 msgid "balance"
-msgstr "balance"
+msgstr "ισορροπία"
 
 # cases/cases_AllDynaformsList.xml?DYN_TITLE
 # cases/cases_AllDynaformsList.xml
 #: text - DYN_TITLE
 msgid "[cases/cases_AllDynaformsList.xml?DYN_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AllInputdocsList.xml?TITLE
 # cases/cases_AllInputdocsList.xml
 #: text - TITLE
 msgid "[cases/cases_AllInputdocsList.xml?TITLE] Filename"
-msgstr "Filename"
+msgstr "Όνομα Αρχείου"
 
 # cases/cases_AllInputdocsList.xml?APP_DOC_COMMENT
 # cases/cases_AllInputdocsList.xml
 #: text - APP_DOC_COMMENT
 msgid "[cases/cases_AllInputdocsList.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AllInputdocsList.xml?TYPE
 # cases/cases_AllInputdocsList.xml
 #: dropdown - TYPE
 msgid "[cases/cases_AllInputdocsList.xml?TYPE] Type"
-msgstr "Type"
+msgstr "Τύπος"
 
 # cases/cases_AllInputdocsList.xml?TYPE-INPUT
 # cases/cases_AllInputdocsList.xml
 #: dropdown - TYPE - INPUT
 msgid "[cases/cases_AllInputdocsList.xml?TYPE-INPUT]"
-msgstr "Input Document"
+msgstr "Εισαγωγή Εγγράφου"
 
 # cases/cases_AllInputdocsList.xml?TYPE-ATTACHED
 # cases/cases_AllInputdocsList.xml
 #: dropdown - TYPE - ATTACHED
 msgid "[cases/cases_AllInputdocsList.xml?TYPE-ATTACHED]"
-msgstr "Attached in form"
+msgstr "Επισύναψη σε φόρμα"
 
 # cases/cases_AllInputdocsList.xml?DOC_VERSION
 # cases/cases_AllInputdocsList.xml
 #: text - DOC_VERSION
 msgid "[cases/cases_AllInputdocsList.xml?DOC_VERSION] Version"
-msgstr "Version"
+msgstr "Έκδοση"
 
 # cases/cases_AllInputdocsList.xml?ORIGIN
 # cases/cases_AllInputdocsList.xml
 #: text - ORIGIN
 msgid "[cases/cases_AllInputdocsList.xml?ORIGIN] Origin Task"
-msgstr "Origin Task"
+msgstr "Πρωτότυπη Εργασία"
 
 # cases/cases_AllInputdocsList.xml?CREATED_BY
 # cases/cases_AllInputdocsList.xml
 #: text - CREATED_BY
 msgid "[cases/cases_AllInputdocsList.xml?CREATED_BY] Created By"
-msgstr "Created By"
+msgstr "Δημιουργία από"
 
 # cases/cases_AllInputdocsList.xml?CREATE_DATE
 # cases/cases_AllInputdocsList.xml
 #: text - CREATE_DATE
 msgid "[cases/cases_AllInputdocsList.xml?CREATE_DATE] Create Date"
-msgstr "Create Date"
+msgstr "Ημέρα Δημιουργίας"
 
 # cases/cases_AllInputdocsList.xml?DELETE
 # cases/cases_AllInputdocsList.xml
@@ -149,25 +148,25 @@ msgstr ""
 # cases/cases_AllInputdocsList_Summary.xml
 #: text - TITLE
 msgid "[cases/cases_AllInputdocsList_Summary.xml?TITLE] Filename"
-msgstr "Filename"
+msgstr "Όνομα Αρχείου"
 
 # cases/cases_AllInputdocsList_Summary.xml?APP_DOC_COMMENT
 # cases/cases_AllInputdocsList_Summary.xml
 #: text - APP_DOC_COMMENT
 msgid "[cases/cases_AllInputdocsList_Summary.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AllInputdocsList_Summary.xml?CREATED_BY
 # cases/cases_AllInputdocsList_Summary.xml
 #: text - CREATED_BY
 msgid "[cases/cases_AllInputdocsList_Summary.xml?CREATED_BY] Created By"
-msgstr "Created By"
+msgstr "Δημιουργία από"
 
 # cases/cases_AllInputdocsList_Summary.xml?CREATE_DATE
 # cases/cases_AllInputdocsList_Summary.xml
 #: text - CREATE_DATE
 msgid "[cases/cases_AllInputdocsList_Summary.xml?CREATE_DATE] Create Date"
-msgstr "Create Date"
+msgstr "Ημέρα Δημιουργίας"
 
 # cases/cases_AllInputdocsList_Summary.xml?DELETE
 # cases/cases_AllInputdocsList_Summary.xml
@@ -179,31 +178,31 @@ msgstr ""
 # cases/cases_AllOutputdocsList.xml
 #: text - TITLE
 msgid "[cases/cases_AllOutputdocsList.xml?TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AllOutputdocsList.xml?OUTDOCTITLE
 # cases/cases_AllOutputdocsList.xml
 #: text - OUTDOCTITLE
 msgid "[cases/cases_AllOutputdocsList.xml?OUTDOCTITLE] Output Document"
-msgstr "Output Document"
+msgstr "Έξοδος Εγγράφου"
 
 # cases/cases_AllOutputdocsList.xml?ORIGIN
 # cases/cases_AllOutputdocsList.xml
 #: text - ORIGIN
 msgid "[cases/cases_AllOutputdocsList.xml?ORIGIN] Origin Task"
-msgstr "Origin Task"
+msgstr "Πρωτότυπη Εργασία"
 
 # cases/cases_AllOutputdocsList.xml?CREATED_BY
 # cases/cases_AllOutputdocsList.xml
 #: text - CREATED_BY
 msgid "[cases/cases_AllOutputdocsList.xml?CREATED_BY] Created By"
-msgstr "Created By"
+msgstr "Δημιουργία από"
 
 # cases/cases_AllOutputdocsList.xml?CREATE_DATE
 # cases/cases_AllOutputdocsList.xml
 #: text - CREATE_DATE
 msgid "[cases/cases_AllOutputdocsList.xml?CREATE_DATE] Create Date"
-msgstr "Create Date"
+msgstr "Ημέρα Δημιουργίας"
 
 # cases/cases_AllOutputdocsList.xml?DELETE
 # cases/cases_AllOutputdocsList.xml
@@ -215,19 +214,19 @@ msgstr ""
 # cases/cases_AllOutputdocsList_Summary.xml
 #: text - TITLE
 msgid "[cases/cases_AllOutputdocsList_Summary.xml?TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AllOutputdocsList_Summary.xml?OUTDOCTITLE
 # cases/cases_AllOutputdocsList_Summary.xml
 #: text - OUTDOCTITLE
 msgid "[cases/cases_AllOutputdocsList_Summary.xml?OUTDOCTITLE] Output Document"
-msgstr "Output Document"
+msgstr "Έξοδος Εγγράφου"
 
 # cases/cases_AllOutputdocsList_Summary.xml?CREATE_DATE
 # cases/cases_AllOutputdocsList_Summary.xml
 #: text - CREATE_DATE
 msgid "[cases/cases_AllOutputdocsList_Summary.xml?CREATE_DATE] Create Date"
-msgstr "Create Date"
+msgstr "Ημέρα Δημιουργίας"
 
 # cases/cases_AllOutputdocsList_Summary.xml?DELETE
 # cases/cases_AllOutputdocsList_Summary.xml
@@ -239,337 +238,337 @@ msgstr ""
 # cases/cases_AttachInputDocument1.xml
 #: title - TITLE1
 msgid "Attach Input document"
-msgstr "Attach Input document"
+msgstr "Επισύναψη εισερχόμενου εγγράφου"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_TITLE
 # cases/cases_AttachInputDocument1.xml
 #: caption - INP_DOC_TITLE
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_DESCRIPTION
 # cases/cases_AttachInputDocument1.xml
 #: caption - INP_DOC_DESCRIPTION
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_FORM_NEEDED
 msgid "Document Type"
-msgstr "Document Type"
+msgstr "Τύπος Εγγράφου"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
-msgstr "Digital"
+msgstr "Ψηφιακό"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_FORM_NEEDED - REAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-REAL]"
-msgstr "Printed"
+msgstr "Εκτύπωση"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VREAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_FORM_NEEDED-VREAL]"
-msgstr "Digital/Printed"
+msgstr "Ψηφιακή/Εκτύπωση"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_ORIGINAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL] Format"
-msgstr "Format"
+msgstr "Διαμόρφωση"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_ORIGINAL - ORIGINAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-ORIGINAL]"
-msgstr "Original"
+msgstr "Αυθεντικό"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
-msgstr "Legal Copy"
+msgstr "Νόμιμο Αντίγραφο"
 
 # cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPY
 # cases/cases_AttachInputDocument1.xml
 #: dropdown - INP_DOC_ORIGINAL - COPY
 msgid "[cases/cases_AttachInputDocument1.xml?INP_DOC_ORIGINAL-COPY]"
-msgstr "Copy"
+msgstr "Αντιγραφή"
 
 # cases/cases_AttachInputDocument1.xml?APP_DOC_FILENAME
 # cases/cases_AttachInputDocument1.xml
 #: file - APP_DOC_FILENAME
 msgid "[cases/cases_AttachInputDocument1.xml?APP_DOC_FILENAME] File"
-msgstr "File"
+msgstr "Αρχείο"
 
 # cases/cases_AttachInputDocument1.xml?APP_DOC_COMMENT
 # cases/cases_AttachInputDocument1.xml
 #: textarea - APP_DOC_COMMENT
 msgid "[cases/cases_AttachInputDocument1.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AttachInputDocument1.xml?MORE
 # cases/cases_AttachInputDocument1.xml
 #: checkbox - MORE
 msgid "Upload Multiple Input Documents"
-msgstr "Upload Multiple Input Documents"
+msgstr "Ανέβασμα πολλών εισαγόμενων εγγράφων"
 
 # cases/cases_AttachInputDocument1.xml?SAVE
 # cases/cases_AttachInputDocument1.xml
 #: button - SAVE
 msgid "[cases/cases_AttachInputDocument1.xml?SAVE] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # cases/cases_AttachInputDocument2.xml?TITLE1
 # cases/cases_AttachInputDocument2.xml
 #: title - TITLE1
 msgid "New Input document"
-msgstr "New Input document"
+msgstr "Νέα είσοδος εγγράφου"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_TITLE
 # cases/cases_AttachInputDocument2.xml
 #: caption - INP_DOC_TITLE
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_DESCRIPTION
 # cases/cases_AttachInputDocument2.xml
 #: caption - INP_DOC_DESCRIPTION
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_FORM_NEEDED
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED] Document Type"
-msgstr "Document Type"
+msgstr "Τύπος Εγγράφου"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
-msgstr "Digital"
+msgstr "Ψηφιακό"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_FORM_NEEDED - REAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-REAL]"
-msgstr "Printed"
+msgstr "Εκτύπωση"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VREAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_FORM_NEEDED-VREAL]"
-msgstr "Digital/Printed"
+msgstr "Ψηφιακή/Εκτύπωση"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_ORIGINAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL] Format"
-msgstr "Format"
+msgstr "Διαμόρφωση"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_ORIGINAL - ORIGINAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-ORIGINAL]"
-msgstr "Original"
+msgstr "Αυθεντικό"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
-msgstr "Legal Copy"
+msgstr "Νόμιμο Αντίγραφο"
 
 # cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPY
 # cases/cases_AttachInputDocument2.xml
 #: dropdown - INP_DOC_ORIGINAL - COPY
 msgid "[cases/cases_AttachInputDocument2.xml?INP_DOC_ORIGINAL-COPY]"
-msgstr "Copy"
+msgstr "Αντιγραφή"
 
 # cases/cases_AttachInputDocument2.xml?APP_DOC_COMMENT
 # cases/cases_AttachInputDocument2.xml
 #: textarea - APP_DOC_COMMENT
 msgid "[cases/cases_AttachInputDocument2.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AttachInputDocument2.xml?MORE
 # cases/cases_AttachInputDocument2.xml
 #: checkbox - MORE
 msgid "[cases/cases_AttachInputDocument2.xml?MORE] Upload Multiple Input Documents"
-msgstr "Upload Multiple Input Documents"
+msgstr "Ανέβασμα πολλών εισαγόμενων εγγράφων"
 
 # cases/cases_AttachInputDocument2.xml?SAVE
 # cases/cases_AttachInputDocument2.xml
 #: button - SAVE
 msgid "[cases/cases_AttachInputDocument2.xml?SAVE] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # cases/cases_AttachInputDocument3.xml?TITLE1
 # cases/cases_AttachInputDocument3.xml
 #: title - TITLE1
 msgid "[cases/cases_AttachInputDocument3.xml?TITLE1] Attach Input document"
-msgstr "Attach Input document"
+msgstr "Επισύναψη εισερχόμενου εγγράφου"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_TITLE
 # cases/cases_AttachInputDocument3.xml
 #: caption - INP_DOC_TITLE
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_DESCRIPTION
 # cases/cases_AttachInputDocument3.xml
 #: caption - INP_DOC_DESCRIPTION
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγαρφή"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_FORM_NEEDED
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED] Document Type"
-msgstr "Document Type"
+msgstr "Τύπος Αρχείου"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VIRTUAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VIRTUAL]"
-msgstr "Digital"
+msgstr "Ψηφιακό"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_FORM_NEEDED - REAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-REAL]"
-msgstr "Printed"
+msgstr "Εκτύπωση"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_FORM_NEEDED - VREAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_FORM_NEEDED-VREAL]"
-msgstr "Digital/Printed"
+msgstr "Ψηφιακή/Εκτύπωση"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_ORIGINAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL] Format"
-msgstr "Format"
+msgstr "Διαμόρφωση"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_ORIGINAL - ORIGINAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-ORIGINAL]"
-msgstr "Original"
+msgstr "Αυθεντικό"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_ORIGINAL - COPYLEGAL
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPYLEGAL]"
-msgstr "Legal Copy"
+msgstr "Νόμιμη Αντιγραφή"
 
 # cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPY
 # cases/cases_AttachInputDocument3.xml
 #: dropdown - INP_DOC_ORIGINAL - COPY
 msgid "[cases/cases_AttachInputDocument3.xml?INP_DOC_ORIGINAL-COPY]"
-msgstr "Copy"
+msgstr "Αντιγραφή"
 
 # cases/cases_AttachInputDocument3.xml?APP_DOC_FILENAME
 # cases/cases_AttachInputDocument3.xml
 #: file - APP_DOC_FILENAME
 msgid "[cases/cases_AttachInputDocument3.xml?APP_DOC_FILENAME] File"
-msgstr "File"
+msgstr "Αρχείο"
 
 # cases/cases_AttachInputDocument3.xml?APP_DOC_COMMENT
 # cases/cases_AttachInputDocument3.xml
 #: textarea - APP_DOC_COMMENT
 msgid "[cases/cases_AttachInputDocument3.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AttachInputDocument3.xml?MORE
 # cases/cases_AttachInputDocument3.xml
 #: checkbox - MORE
 msgid "[cases/cases_AttachInputDocument3.xml?MORE] Upload Multiple Input Documents"
-msgstr "Upload Multiple Input Documents"
+msgstr "Ανέβασμα πολλών εισαγόμενων εγγράφων"
 
 # cases/cases_AttachInputDocument3.xml?SAVE
 # cases/cases_AttachInputDocument3.xml
 #: button - SAVE
 msgid "[cases/cases_AttachInputDocument3.xml?SAVE] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_FILENAME
 # cases/cases_AttachInputDocumentGeneral.xml
 #: file - APP_DOC_FILENAME
 msgid "[cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_FILENAME] File"
-msgstr "File"
+msgstr "Αρχείο"
 
 # cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_COMMENT
 # cases/cases_AttachInputDocumentGeneral.xml
 #: textarea - APP_DOC_COMMENT
 msgid "[cases/cases_AttachInputDocumentGeneral.xml?APP_DOC_COMMENT] Comments"
-msgstr "Comments"
+msgstr "Σχόλια"
 
 # cases/cases_AttachInputDocumentGeneral.xml?BTN_CANCEL
 # cases/cases_AttachInputDocumentGeneral.xml
 #: button - BTN_CANCEL
 msgid "[cases/cases_AttachInputDocumentGeneral.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Άκυρο"
 
 # cases/cases_AttachInputDocumentGeneral.xml?SAVE
 # cases/cases_AttachInputDocumentGeneral.xml
 #: button - SAVE
 msgid "[cases/cases_AttachInputDocumentGeneral.xml?SAVE] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # cases/cases_CannotInitiateCase.xml?TITLE
 # cases/cases_CannotInitiateCase.xml
 #: title - TITLE
 msgid "[cases/cases_CannotInitiateCase.xml?TITLE] Start a new case"
-msgstr "Start a new case"
+msgstr "Ξεκίνημα και"
 
 # cases/cases_CannotInitiateCase.xml?DESCRIPTION
 # cases/cases_CannotInitiateCase.xml
 #: label - DESCRIPTION
 msgid "You cannot initiate a new case."
-msgstr "You cannot initiate a new case."
+msgstr "Δε μπορείς να αρχικοποιήσεις νέα περίπτωση"
 
 # cases/cases_CatchSelfService.xml?TITLE1
 # cases/cases_CatchSelfService.xml
 #: title - TITLE1
 msgid "Claim Case"
-msgstr "Claim Case"
+msgstr "Περίπτωση"
 
 # cases/cases_CatchSelfService.xml?PRO_TITLE
 # cases/cases_CatchSelfService.xml
 #: text - PRO_TITLE
 msgid "[cases/cases_CatchSelfService.xml?PRO_TITLE] Process"
-msgstr "Process"
+msgstr "Διαδικασία"
 
 # cases/cases_CatchSelfService.xml?STATUS
 # cases/cases_CatchSelfService.xml
 #: text - STATUS
 msgid "Case Status"
-msgstr "Case Status"
+msgstr "Περίπτωση κατάστασης"
 
 # cases/cases_CatchSelfService.xml?TITLE
 # cases/cases_CatchSelfService.xml
 #: text - TITLE
 msgid "[cases/cases_CatchSelfService.xml?TITLE] Case Title"
-msgstr "Case Title"
+msgstr "Τίτλο περίπτωσης"
 
 # cases/cases_CatchSelfService.xml?APP_NUMBER
 # cases/cases_CatchSelfService.xml
 #: text - APP_NUMBER
 msgid "Case Number"
-msgstr "Case Number"
+msgstr "Αριθμός περίπτωσης"
 
 # cases/cases_CatchSelfService.xml?APP_UID
 # cases/cases_CatchSelfService.xml
 #: text - APP_UID
 msgid "Case Uid"
-msgstr "Case Uid"
+msgstr "Περίπτωση Uid"
 
 # cases/cases_CatchSelfService.xml?TAS_TITLE
 # cases/cases_CatchSelfService.xml
@@ -581,35 +580,35 @@ msgstr "Task"
 # cases/cases_CatchSelfService.xml
 #: text - DEL_DELEGATE_DATE
 msgid "Task Delegate Date"
-msgstr "Task Delegate Date"
+msgstr "Ημερομηνία Ανάθεσης Εργασίας"
 
 # cases/cases_CatchSelfService.xml?DEL_TASK_DUE_DATE
 # cases/cases_CatchSelfService.xml
 #: text - DEL_TASK_DUE_DATE
 msgid "Task Due Date"
-msgstr "Task Due Date"
+msgstr "Ημερομηνία Διιάρκειας Εργασίας"
 
 # cases/cases_CatchSelfService.xml?PREVIOUS_TASK
 # cases/cases_CatchSelfService.xml
 #: text - PREVIOUS_TASK
 msgid "Previous Task"
-msgstr "Previous Task"
+msgstr "Προηγούμενη Εργασία"
 
 # cases/cases_CatchSelfService.xml?PREVIOUS_USER
 # cases/cases_CatchSelfService.xml
 #: text - PREVIOUS_USER
 msgid "Previous User"
-msgstr "Previous User"
+msgstr "Προηγούμενος Χρήστης"
 
 # cases/cases_CatchSelfService.xml?BTN_CATCH
 # cases/cases_CatchSelfService.xml
 #: submit - BTN_CATCH
 msgid "Claim this case"
-msgstr "Claim this case"
+msgstr "ισχυρισμός υπόθεσης"
 
 # cases/cases_CatchSelfService.xml?BTN_CANCEL
 # cases/cases_CatchSelfService.xml
 #: button - BTN_CANCEL
 msgid "[cases/cases_CatchSelfService.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Άκυρο"
 
