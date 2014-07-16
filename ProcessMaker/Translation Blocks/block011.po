@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:19+0200\n"
+"Last-Translator: vasilis <didaggelos@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,7 +16,7 @@ msgstr ""
 # LABEL/ID_FIELD_DYNAFORM_PERCENTAGE
 #: LABEL/ID_FIELD_DYNAFORM_PERCENTAGE
 msgid "percentage"
-msgstr "percentage"
+msgstr "ποσοστό"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_RADIOGROUP
@@ -29,61 +28,61 @@ msgstr "radiogroup"
 # LABEL/ID_FIELD_DYNAFORM_RESET
 #: LABEL/ID_FIELD_DYNAFORM_RESET
 msgid "reset"
-msgstr "reset"
+msgstr "επαναφορά"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_SUBMIT
 #: LABEL/ID_FIELD_DYNAFORM_SUBMIT
 msgid "submit"
-msgstr "submit"
+msgstr "καταχώρηση"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_SUBTITLE
 #: LABEL/ID_FIELD_DYNAFORM_SUBTITLE
 msgid "subtitle"
-msgstr "subtitle"
+msgstr "υπότιτλος"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_SUGGEST
 #: LABEL/ID_FIELD_DYNAFORM_SUGGEST
 msgid "suggest"
-msgstr "suggest"
+msgstr "προτεινόμενο"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_SUGGEST_INPUT_TITLE
 #: LABEL/ID_FIELD_DYNAFORM_SUGGEST_INPUT_TITLE
 msgid "If the value entered doesn't exist, a new registry will be inserted when press Enter Key"
-msgstr "If the value entered doesn't exist, a new registry will be inserted when press Enter Key"
+msgstr "Εάν η τιμή που εισαχθεί δεν αντιστοιχεί σε υπάρχουσα τιμή, μια νέα εγγραφή θα δημιουργηθεί πατώντας το πλήκτρο Enter. "
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_SUGGEST_MESSAGE_TEMPORAL
 #: LABEL/ID_FIELD_DYNAFORM_SUGGEST_MESSAGE_TEMPORAL
 msgid "New value inserted in the table"
-msgstr "New value inserted in the table"
+msgstr "Μια νέα τιμή εισήχθη στον πίνακα"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_TEXT
 #: LABEL/ID_FIELD_DYNAFORM_TEXT
 msgid "text"
-msgstr "text"
+msgstr "κείμενο"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_TEXTAREA
 #: LABEL/ID_FIELD_DYNAFORM_TEXTAREA
 msgid "textarea"
-msgstr "textarea"
+msgstr "περιοχή κειμένου"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_TITLE
 #: LABEL/ID_FIELD_DYNAFORM_TITLE
 msgid "title"
-msgstr "title"
+msgstr "τίτλος"
 
 # TRANSLATION
 # LABEL/ID_FIELD_DYNAFORM_YESNO
 #: LABEL/ID_FIELD_DYNAFORM_YESNO
 msgid "yesno"
-msgstr "yesno"
+msgstr "Ναι/ Όχι"
 
 # TRANSLATION
 # LABEL/ID_FIELD_FOREIGN_TABLE
@@ -95,163 +94,163 @@ msgstr "Field \"table\" is required"
 # LABEL/ID_FIELD_HANDLER_ACTION_DELETE
 #: LABEL/ID_FIELD_HANDLER_ACTION_DELETE
 msgid "Are you sure that you want to remove this"
-msgstr "Are you sure that you want to remove this"
+msgstr "Είστε σίγουροι οτι θέλετε να διαγραφεί"
 
 # TRANSLATION
 # LABEL/ID_FIELD_HANDLER_HELP1
 #: LABEL/ID_FIELD_HANDLER_HELP1
 msgid "About the feature"
-msgstr "About the feature"
+msgstr "Σχετικά με το χαρακτηριστικό"
 
 # TRANSLATION
 # LABEL/ID_FIELD_HANDLER_HELP2
 #: LABEL/ID_FIELD_HANDLER_HELP2
 msgid "Drag & Drop to move and reorder the fields."
-msgstr "Drag & Drop to move and reorder the fields."
+msgstr "Drag & Drop για να μετακινήσετε και να επαναδιατάξετε τα πεδία"
 
 # TRANSLATION
 # LABEL/ID_FIELD_HANDLER_HELP3
 #: LABEL/ID_FIELD_HANDLER_HELP3
 msgid "Bring the mouse pointer near tool icon and the corresponding options (Edit, Delete) will be shown."
-msgstr "Bring the mouse pointer near tool icon and the corresponding options (Edit, Delete) will be shown."
+msgstr "Σύρετε το δείκτη του ποντικιού δίπλα στο εικονίδιο του εργαλείου και θα εμφανιστούν οι επιλογές (Edit, Delete)."
 
 # TRANSLATION
 # LABEL/ID_FIELD_INVALID
 #: LABEL/ID_FIELD_INVALID
 msgid "Field Invalid"
-msgstr "Field Invalid"
+msgstr "Άκυρο πεδίο"
 
 # TRANSLATION
 # LABEL/ID_FIELD_KEY_TABLE
 #: LABEL/ID_FIELD_KEY_TABLE
 msgid "Please select one or more fields to be primary keys."
-msgstr "Please select one or more fields to be primary keys."
+msgstr "Please select one or more fields to be primary keys.Παρακαλώ επιλέξτε ένα ή περισσότερα πεδία για πρωτεύον κλειδί."
 
 # TRANSLATION
 # LABEL/ID_FIELD_LABEL
 #: LABEL/ID_FIELD_LABEL
 msgid "Field Label"
-msgstr "Field Label"
+msgstr "Ετικέτα πεδίου"
 
 # TRANSLATION
 # LABEL/ID_FIELD_NAME
 #: LABEL/ID_FIELD_NAME
 msgid "Field Name"
-msgstr "Field Name"
+msgstr "Όνομα πεδίου"
 
 # TRANSLATION
 # LABEL/ID_FIELD_NAME_FOR
 #: LABEL/ID_FIELD_NAME_FOR
 msgid "Field Name for"
-msgstr "Field Name for"
+msgstr "όνομα πεδίου για"
 
 # TRANSLATION
 # LABEL/ID_FIELD_NAME_REQUIRED
 #: LABEL/ID_FIELD_NAME_REQUIRED
 msgid "Field name is required"
-msgstr "Field name is required"
+msgstr "Το όνομα πεδίου είναι υποχρεωτικό"
 
 # TRANSLATION
 # LABEL/ID_FIELD_REQUIRED
 #: LABEL/ID_FIELD_REQUIRED
 msgid "This field is required"
-msgstr "This field is required"
+msgstr "Αυτό το πεδίο είναι υποχρεωτικό"
 
 # TRANSLATION
 # LABEL/ID_FIELD_SIZE_FOR
 #: LABEL/ID_FIELD_SIZE_FOR
 msgid "Field size for"
-msgstr "Field size for"
+msgstr "μέγεθος πεδίου"
 
 # TRANSLATION
 # LABEL/ID_FIELD_SIZE_REQUIRED
 #: LABEL/ID_FIELD_SIZE_REQUIRED
 msgid "Field size is required"
-msgstr "Field size is required"
+msgstr "το μέγεθος πεδίου είναι υποχρεωτικό"
 
 # TRANSLATION
 # LABEL/ID_FILE
 #: LABEL/ID_FILE
 msgid "File"
-msgstr "File"
+msgstr "αρχείο"
 
 # TRANSLATION
 # LABEL/ID_FILENAME
 #: LABEL/ID_FILENAME
 msgid "Filename"
-msgstr "Filename"
+msgstr "όνομα αρχείου"
 
 # TRANSLATION
 # LABEL/ID_FILENAME_GENERATED
 #: LABEL/ID_FILENAME_GENERATED
 msgid "Filename generated"
-msgstr "Filename generated"
+msgstr "το όνομα αρχείου δημιουργήθηκε"
 
 # TRANSLATION
 # LABEL/ID_FILES_INVALID_PLUGIN_FILENAME
 #: LABEL/ID_FILES_INVALID_PLUGIN_FILENAME
 msgid "the uploaded files are invalid, expected 'application/octect-stream mime type file ({pluginFilename})"
-msgstr "the uploaded files are invalid, expected 'application/octect-stream mime type file ({pluginFilename})"
+msgstr "τα αρχεία που επιλέχθηκαν είναι μη έγκυρα,  απαιτούνται αρχεία expected 'application/octect-stream mime type file ({pluginFilename})"
 
 # TRANSLATION
 # LABEL/ID_FILE_CONTAIN_CLASS_PLUGIN
 #: LABEL/ID_FILE_CONTAIN_CLASS_PLUGIN
 msgid "The file {filename} doesn't contain class: {className}"
-msgstr "The file {filename} doesn't contain class: {className}"
+msgstr "το αρχείο {filename} δεν περιέχει την κλάση: {className}"
 
 # TRANSLATION
 # LABEL/ID_FILE_IMPORTED_SUCCESSFULLY
 #: LABEL/ID_FILE_IMPORTED_SUCCESSFULLY
 msgid "File \"{0}\" imported successfully."
-msgstr "File \"{0}\" imported successfully."
+msgstr "Το αρχείο \"{0}\" εισήχθη επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_FILE_NOT_WRITEABLE
 #: LABEL/ID_FILE_NOT_WRITEABLE
 msgid "File '{0}' is not writeable. Please check permission before continue"
-msgstr "File '{0}' is not writeable. Please check permission before continue"
+msgstr "το αρχείο '{0}' δεν είναι εγγράψιμο. Παρακαλώ ελέγξτε τα δικαιώματα πριν να συνεχίσετε."
 
 # TRANSLATION
 # LABEL/ID_FILE_NUM_RECORD
 #: LABEL/ID_FILE_NUM_RECORD
 msgid "PO File num. records:"
-msgstr "PO File num. records:"
+msgstr "PO αύξων αριθμός αρχείου. εγγραφές:"
 
 # TRANSLATION
 # LABEL/ID_FILE_PLUGIN_NOT_EXISTS
 #: LABEL/ID_FILE_PLUGIN_NOT_EXISTS
 msgid "File '{pluginFile}' does not exist"
-msgstr "File '{pluginFile}' does not exist"
+msgstr "Το αρχείο '{pluginFile}' δεν βρέθηκε"
 
 # TRANSLATION
 # LABEL/ID_FILE_PROCESSED
 #: LABEL/ID_FILE_PROCESSED
 msgid "File: {0} processed in {1} seconds"
-msgstr "File: {0} processed in {1} seconds"
+msgstr "αρχείο: {0} επεξεργάστηκε σε{1}   δευτερόλεπτα"
 
 # TRANSLATION
 # LABEL/ID_FILE_TOO_BIG
 #: LABEL/ID_FILE_TOO_BIG
 msgid "The file is too big to upload!"
-msgstr "The file is too big to upload!"
+msgstr "Το αρχείο είναι πολύ μεγάλο!"
 
 # TRANSLATION
 # LABEL/ID_FILE_UPLOAD_INCORRECT_EXTENSION
 #: LABEL/ID_FILE_UPLOAD_INCORRECT_EXTENSION
 msgid "The file has an incorrect extension. Please check the file and upload again."
-msgstr "The file has an incorrect extension. Please check the file and upload again."
+msgstr "το αρχείο δεν έχει σωστή κατάληξη. Παρακαλώ ελέγξτε το αρχείο και ανεβάστε το ξανά."
 
 # TRANSLATION
 # LABEL/ID_FILL_PRIMARY_KEYS
 #: LABEL/ID_FILL_PRIMARY_KEYS
 msgid "Please fill all the primary key fields"
-msgstr "Please fill all the primary key fields"
+msgstr "Παρακαλώ συμπληρώστε όλα τα πεδία για το πρωτεύον κλειδί"
 
 # TRANSLATION
 # LABEL/ID_FILTER
 #: LABEL/ID_FILTER
 msgid "Filter"
-msgstr "Filter"
+msgstr "Φίλτρο"
 
 # TRANSLATION
 # LABEL/ID_FILTER_BY_DELEGATED_DATE
@@ -263,37 +262,37 @@ msgstr "Filter"
 # LABEL/ID_FILTER_CURRENT_VIEW
 #: LABEL/ID_FILTER_CURRENT_VIEW
 msgid "Filter current view"
-msgstr "Filter current view"
+msgstr "φιλτράρισμα τρέχουσας προβολής"
 
 # TRANSLATION
 # LABEL/ID_FIND_A_PROCESS
 #: LABEL/ID_FIND_A_PROCESS
 msgid "Find a Process"
-msgstr "Find a Process"
+msgstr "Βρείτε μια διαδικασία"
 
 # TRANSLATION
 # LABEL/ID_FINISH
 #: LABEL/ID_FINISH
 msgid "Finish"
-msgstr "Finish"
+msgstr "Τέλος"
 
 # TRANSLATION
 # LABEL/ID_FINISHED
 #: LABEL/ID_FINISHED
 msgid "Finished"
-msgstr "Finished"
+msgstr "Ολοκληρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_FINISHED_REFRESH_VIEW_SEE_SLOPE_WORK
 #: LABEL/ID_FINISHED_REFRESH_VIEW_SEE_SLOPE_WORK
 msgid "You are now finished. Please refresh your view to see if you have any more work pending."
-msgstr "You are now finished. Please refresh your view to see if you have any more work pending."
+msgstr "Η διαδικασία ολοκληρώθηκε. Παρακαλώ ανανεώστε την προβολή για να δείτε εάν υπάρχει  εκκρεμή διαδιακασία."
 
 # TRANSLATION
 # LABEL/ID_FINISHING
 #: LABEL/ID_FINISHING
 msgid "Finishing..."
-msgstr "Finishing..."
+msgstr "ολοκληρώνεταί..."
 
 # TRANSLATION
 # LABEL/ID_FINISH_DATE
@@ -305,25 +304,25 @@ msgstr "Finish Date"
 # LABEL/ID_FINISH_EDITION
 #: LABEL/ID_FINISH_EDITION
 msgid "Finish Edition"
-msgstr "Finish Edition"
+msgstr "Ολοκλήρωση έκδοσης"
 
 # TRANSLATION
 # LABEL/ID_FINISH_WITH_OPTION
 #: LABEL/ID_FINISH_WITH_OPTION
 msgid "Finish with option"
-msgstr "Finish with option"
+msgstr "ολοκλήρωση με επιλογές"
 
 # TRANSLATION
 # LABEL/ID_FIRST
 #: LABEL/ID_FIRST
 msgid "First"
-msgstr "First"
+msgstr "Πρώτο"
 
 # TRANSLATION
 # LABEL/ID_FIRSTNAME
 #: LABEL/ID_FIRSTNAME
 msgid "First Name"
-msgstr "First Name"
+msgstr "Πρώτο όνομα"
 
 # TRANSLATION
 # LABEL/ID_FIRST_NAME
@@ -335,61 +334,61 @@ msgstr "First Name"
 # LABEL/ID_FLOAT
 #: LABEL/ID_FLOAT
 msgid "FLOAT"
-msgstr "FLOAT"
+msgstr "ακέραιος"
 
 # TRANSLATION
 # LABEL/ID_FOLDERS
 #: LABEL/ID_FOLDERS
 msgid "Documents"
-msgstr "Documents"
+msgstr "έγγραφα"
 
 # TRANSLATION
 # LABEL/ID_FORGOT_PASSWORD
 #: LABEL/ID_FORGOT_PASSWORD
 msgid "Forgot Password"
-msgstr "Forgot Password"
+msgstr "ξεχάσατε τον κωδικό"
 
 # TRANSLATION
 # LABEL/ID_FORGOT_PASSWORD_Q
 #: LABEL/ID_FORGOT_PASSWORD_Q
 msgid "Forgot Password?"
-msgstr "Forgot Password?"
+msgstr "ξεχάσατε τον κωδικό?"
 
 # TRANSLATION
 # LABEL/ID_FORMAT
 #: LABEL/ID_FORMAT
 msgid "Format"
-msgstr "Format"
+msgstr "επαναφορά"
 
 # TRANSLATION
 # LABEL/ID_FORMS_HTML_CACHE
 #: LABEL/ID_FORMS_HTML_CACHE
 msgid "Forms Html templates cache"
-msgstr "Forms Html templates cache"
+msgstr "προσωρινή μνήμη από  τη φόρμα html των προτύπων"
 
 # TRANSLATION
 # LABEL/ID_FORMS_METADATA_CACHE
 #: LABEL/ID_FORMS_METADATA_CACHE
 msgid "Forms metadata cache"
-msgstr "Forms metadata cache"
+msgstr "προσωρινή μνήμη απο τα μεταδεδωμένα φορμών"
 
 # TRANSLATION
 # LABEL/ID_FRI
 #: LABEL/ID_FRI
 msgid "Fri"
-msgstr "Fri"
+msgstr "παρασκευή"
 
 # TRANSLATION
 # LABEL/ID_FROM
 #: LABEL/ID_FROM
 msgid "From"
-msgstr "From"
+msgstr "από"
 
 # TRANSLATION
 # LABEL/ID_FROM_NAME
 #: LABEL/ID_FROM_NAME
 msgid "From name"
-msgstr "From name"
+msgstr "από όνομα"
 
 # TRANSLATION
 # LABEL/ID_FTP_MONITOR_SETTINGS
