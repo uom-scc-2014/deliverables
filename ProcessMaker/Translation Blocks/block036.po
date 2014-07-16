@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:18+0200\n"
+"Last-Translator: Athanasia Moschou <it12148@uom.edu.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -191,13 +190,13 @@ msgstr "New"
 # departments/departments_AddUnAssignedUsers.xml
 #: text - USR_FIRSTNAME
 msgid "Firstname"
-msgstr "Firstname"
+msgstr "Όνομα"
 
 # departments/departments_AddUnAssignedUsers.xml?USR_LASTNAME
 # departments/departments_AddUnAssignedUsers.xml
 #: text - USR_LASTNAME
 msgid "Lastname"
-msgstr "Lastname"
+msgstr "Επώνυμο"
 
 # departments/departments_AvailableUsers.xml?USR_FIRSTNAME
 # departments/departments_AvailableUsers.xml
@@ -215,7 +214,7 @@ msgstr "Lastname"
 # departments/departments_Edit.xml
 #: title - title
 msgid "Department Information"
-msgstr "Department Information"
+msgstr "Πληροφορίες τμήματος"
 
 # departments/departments_Edit.xml?DEPO_TITLE
 # departments/departments_Edit.xml
@@ -245,7 +244,7 @@ msgstr "Inactive"
 # departments/departments_Edit.xml
 #: dropdown - DEP_MANAGER
 msgid "Manager/Supervisor"
-msgstr "Manager/Supervisor"
+msgstr "Διευθυντής/Επιβλέποντας"
 
 # departments/departments_Edit.xml?button
 # departments/departments_Edit.xml
@@ -293,7 +292,7 @@ msgstr "Department Information"
 # departments/departments_SubNew.xml
 #: text - DEP_PARENT_NAME
 msgid "Parent Department"
-msgstr "Parent Department"
+msgstr "Γονικό τμήμα"
 
 # departments/departments_SubNew.xml?DEP_TITLE
 # departments/departments_SubNew.xml
@@ -335,18 +334,19 @@ msgstr "Manager"
 # departments/departments_UsersList.xml
 #: text - USR_REPORTS_NAME
 msgid "Reports To"
-msgstr "Reports To"
+msgstr "Αναφέρεται σε"
 
 # dynaforms/datemask.xml?mask
 # dynaforms/datemask.xml
 #: title - mask
 msgid "Options Mask"
-msgstr "Options Mask"
+msgstr "Μάσκα επιλογών"
 
 # dynaforms/datemask.xml?option1
 # dynaforms/datemask.xml
 #: subtitle - option1
-msgid "%a — abbreviated weekday name\n"
+msgid ""
+"%a — abbreviated weekday name\n"
 "<br> %A — full weekday name\n"
 "<br> %b — abbreviated month name\n"
 "<br> %B — full month name\n"
@@ -373,7 +373,8 @@ msgid "%a — abbreviated weekday name\n"
 "<br> %y — year without the century (range 00 to 99)\n"
 "<br> %Y — year with the century\n"
 "<br> %% — a literal '%' character"
-msgstr "%a — abbreviated weekday name\n"
+msgstr ""
+"%a — abbreviated weekday name\n"
 "<br> %A — full weekday name\n"
 "<br> %b — abbreviated month name\n"
 "<br> %B — full month name\n"
@@ -405,7 +406,7 @@ msgstr "%a — abbreviated weekday name\n"
 # dynaforms/dynaform_Fields.xml
 #: text - XMLNODE_NAME
 msgid "Field"
-msgstr "Field"
+msgstr "Πεδίο"
 
 # dynaforms/dynaform_Fields.xml?TYPE
 # dynaforms/dynaform_Fields.xml
@@ -423,19 +424,19 @@ msgstr "Title"
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - subtitle
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-subtitle]"
-msgstr "Subtitle"
+msgstr "Υπότιτλος"
 
 # dynaforms/dynaform_Fields.xml?TYPE-text
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - text
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-text]"
-msgstr "text"
+msgstr "κείμενο"
 
 # dynaforms/dynaform_Fields.xml?TYPE-password
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - password
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-password]"
-msgstr "Password"
+msgstr "Κωδικός"
 
 # dynaforms/dynaform_Fields.xml?TYPE-textarea
 # dynaforms/dynaform_Fields.xml
@@ -453,31 +454,31 @@ msgstr "Currency"
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - percentage
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-percentage]"
-msgstr "Percentage"
+msgstr "Ποσοστό"
 
 # dynaforms/dynaform_Fields.xml?TYPE-date
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - date
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-date]"
-msgstr "date"
+msgstr "ημερομηνία"
 
 # dynaforms/dynaform_Fields.xml?TYPE-yesno
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - yesno
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-yesno]"
-msgstr "Yes/No"
+msgstr "Ναι/Όχι"
 
 # dynaforms/dynaform_Fields.xml?TYPE-link
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - link
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-link]"
-msgstr "link"
+msgstr "σύνδεσμος"
 
 # dynaforms/dynaform_Fields.xml?TYPE-file
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - file
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-file]"
-msgstr "file"
+msgstr "αρχείο"
 
 # dynaforms/dynaform_Fields.xml?TYPE-checkbox
 # dynaforms/dynaform_Fields.xml
@@ -489,25 +490,25 @@ msgstr "Check Box"
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - button
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-button]"
-msgstr "Button"
+msgstr "Κουμπί"
 
 # dynaforms/dynaform_Fields.xml?TYPE-reset
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - reset
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-reset]"
-msgstr "Reset"
+msgstr "Επανεκίνηση"
 
 # dynaforms/dynaform_Fields.xml?TYPE-submit
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - submit
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-submit]"
-msgstr "Submit"
+msgstr "Υποβολή"
 
 # dynaforms/dynaform_Fields.xml?TYPE-hidden
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - hidden
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-hidden]"
-msgstr "Hidden"
+msgstr "Κρυφό"
 
 # dynaforms/dynaform_Fields.xml?TYPE-dropdown
 # dynaforms/dynaform_Fields.xml
@@ -549,67 +550,67 @@ msgstr "Java Script"
 # dynaforms/dynaform_Fields.xml
 #: dropdown - TYPE - private
 msgid "[dynaforms/dynaform_Fields.xml?TYPE-private]"
-msgstr "Private"
+msgstr "Ιδιωτικό"
 
 # dynaforms/dynaform_Fields.xml?SEARCH
 # dynaforms/dynaform_Fields.xml
 #: button - SEARCH
 msgid "[dynaforms/dynaform_Fields.xml?SEARCH] Apply Filter"
-msgstr "Apply Filter"
+msgstr "Εφαρμογή φίλτρου"
 
 # dynaforms/dynaforms_AssignVariables.xml?SAVE_FROM_PMTABLE
 # dynaforms/dynaforms_AssignVariables.xml
 #: button - SAVE_FROM_PMTABLE
 msgid "[dynaforms/dynaforms_AssignVariables.xml?SAVE_FROM_PMTABLE] Save"
-msgstr "Save"
+msgstr "Αποθήκευση"
 
 # dynaforms/dynaforms_AssignVariables.xml?SAVE_AND_OPEN_FROM_PMTABLE
 # dynaforms/dynaforms_AssignVariables.xml
 #: button - SAVE_AND_OPEN_FROM_PMTABLE
 msgid "Save & Open"
-msgstr "Save & Open"
+msgstr "Αποθήκευση και Άνοιγμα"
 
 # dynaforms/dynaforms_AssignVariablesGrid.xml?FLD_NAME
 # dynaforms/dynaforms_AssignVariablesGrid.xml
 #: text - FLD_NAME
 msgid "[dynaforms/dynaforms_AssignVariablesGrid.xml?FLD_NAME] Primary Key"
-msgstr "Primary Key"
+msgstr "Πρωτεύον κλειδί"
 
 # dynaforms/dynaforms_AssignVariablesGrid.xml?PRO_VARIABLE
 # dynaforms/dynaforms_AssignVariablesGrid.xml
 #: textpm - PRO_VARIABLE
 msgid "[dynaforms/dynaforms_AssignVariablesGrid.xml?PRO_VARIABLE] Variables"
-msgstr "Variables"
+msgstr "Μεταβλητές"
 
 # dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?DYN_TITLE
 # dynaforms/dynaforms_AvailableSupervisorDynaforms.xml
 #: text - DYN_TITLE
 msgid "[dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?DYN_TITLE] Title"
-msgstr "Title"
+msgstr "Τίτλος"
 
 # dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?SEARCH
 # dynaforms/dynaforms_AvailableSupervisorDynaforms.xml
 #: button - SEARCH
 msgid "[dynaforms/dynaforms_AvailableSupervisorDynaforms.xml?SEARCH] Apply Filter"
-msgstr "Apply Filter"
+msgstr "Εφαρμογή φίλτρου"
 
 # dynaforms/dynaforms_ChoseType.xml?TITLE
 # dynaforms/dynaforms_ChoseType.xml
 #: title - TITLE
 msgid "[dynaforms/dynaforms_ChoseType.xml?TITLE] Please select the Dynaform Type"
-msgstr "Please select the Dynaform Type"
+msgstr "Παρακαλώ επέλεξε τον τύπο Dynaform"
 
 # dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE
 # dynaforms/dynaforms_ChoseType.xml
 #: radiogroup - DYN_SOURCE
 msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE] Type"
-msgstr "Type"
+msgstr "Τύπος"
 
 # dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-normal
 # dynaforms/dynaforms_ChoseType.xml
 #: radiogroup - DYN_SOURCE - normal
 msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-normal]"
-msgstr "Blank Dynaform"
+msgstr "Κενή  Dynaform"
 
 # dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-pmtable
 # dynaforms/dynaforms_ChoseType.xml
@@ -621,47 +622,47 @@ msgstr "PM Table Dynaform"
 # dynaforms/dynaforms_ChoseType.xml
 #: radiogroup - DYN_SOURCE - copy
 msgid "[dynaforms/dynaforms_ChoseType.xml?DYN_SOURCE-copy]"
-msgstr "Copy/Import Dynaform"
+msgstr "Αντιγραφή/Εισαγωγή Dynaform"
 
 # dynaforms/dynaforms_ChoseType.xml?BTN_CANCEL
 # dynaforms/dynaforms_ChoseType.xml
 #: button - BTN_CANCEL
 msgid "[dynaforms/dynaforms_ChoseType.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωση"
 
 # dynaforms/dynaforms_ChoseType.xml?ACCEPT
 # dynaforms/dynaforms_ChoseType.xml
 #: button - ACCEPT
 msgid "[dynaforms/dynaforms_ChoseType.xml?ACCEPT] Select"
-msgstr "Select"
+msgstr "Επιλογή"
 
 # dynaforms/dynaforms_ConditionalShowHide.xml?tit1
 # dynaforms/dynaforms_ConditionalShowHide.xml
 #: title - tit1
 msgid "Conditions Editor"
-msgstr "Conditions Editor"
+msgstr "Επεξεργαστής συνθηκών"
 
 # dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION
 # dynaforms/dynaforms_ConditionalShowHide.xml
 #: dropdown - FCD_FUNCTION
 msgid "Function"
-msgstr "Function"
+msgstr "Λειτουργία"
 
 # dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-show
 # dynaforms/dynaforms_ConditionalShowHide.xml
 #: dropdown - FCD_FUNCTION - show
 msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-show]"
-msgstr "Show"
+msgstr "Εμφάνισε"
 
 # dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showOnly
 # dynaforms/dynaforms_ConditionalShowHide.xml
 #: dropdown - FCD_FUNCTION - showOnly
 msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showOnly]"
-msgstr "Show only"
+msgstr "Εμφάνισε μόνο"
 
 # dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showAll
 # dynaforms/dynaforms_ConditionalShowHide.xml
 #: dropdown - FCD_FUNCTION - showAll
 msgid "[dynaforms/dynaforms_ConditionalShowHide.xml?FCD_FUNCTION-showAll]"
-msgstr "Show all"
+msgstr "Εμφάνιση όλων"
 
