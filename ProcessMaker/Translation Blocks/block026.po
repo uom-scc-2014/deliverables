@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: Αριστοτέλης χατζηβλάσιος <aris_hat@hotmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,55 +16,55 @@ msgstr ""
 # LABEL/PENTAHO_LABEL_WS_USER_PASSWORD
 #: LABEL/PENTAHO_LABEL_WS_USER_PASSWORD
 msgid "Pentaho Workspace User and Password"
-msgstr "Pentaho Workspace User and Password"
+msgstr "Pentaho χώρος εργασίας για το όνομα χρήστη και τον κωδικό πρόσβασης"
 
 # TRANSLATION
 # LABEL/PENTAHO_TABLES_TRIGGERS
 #: LABEL/PENTAHO_TABLES_TRIGGERS
 msgid "[LABEL/PENTAHO_TABLES_TRIGGERS] Database tables and triggers"
-msgstr "Database tables and triggers"
+msgstr "Πίνακες και συμβάντα στη βάση δεδομένων"
 
 # TRANSLATION
 # LABEL/PHOTO_GALLERY
 #: LABEL/PHOTO_GALLERY
 msgid "Photo gallery"
-msgstr "Photo gallery"
+msgstr "Ομάδα εικόνων"
 
 # TRANSLATION
 # LABEL/PORT_DEFAULT
 #: LABEL/PORT_DEFAULT
 msgid "Port (default 25)"
-msgstr "Port (default 25)"
+msgstr "Πύλη (default 25)"
 
 # TRANSLATION
 # LABEL/REQUIRE_AUTHENTICATION
 #: LABEL/REQUIRE_AUTHENTICATION
 msgid "Require authentication"
-msgstr "Require authentication"
+msgstr "Απαιτείται πιστοποίηση"
 
 # TRANSLATION
 # LABEL/RESOLVING_NAME
 #: LABEL/RESOLVING_NAME
 msgid "[LABEL/RESOLVING_NAME] Resolving Host Name"
-msgstr "Resolving Host Name"
+msgstr "Επίλυση ονόματος φιλοξενητή"
 
 # TRANSLATION
 # LABEL/SENDING_TEST_EMAIL
 #: LABEL/SENDING_TEST_EMAIL
 msgid "Sending a test mail to"
-msgstr "Sending a test mail to"
+msgstr "Στείλε δοκιμαστικό e-mail στο"
 
 # TRANSLATION
 # LABEL/SEND_TEST_MAIL
 #: LABEL/SEND_TEST_MAIL
 msgid "Send a test mail"
-msgstr "Send a test mail"
+msgstr "Στείλε δοκιμαστικό e-mail στο"
 
 # TRANSLATION
 # LABEL/SERVER_RESPONSE
 #: LABEL/SERVER_RESPONSE
 msgid "[LABEL/SERVER_RESPONSE] Server Response"
-msgstr "Server Response"
+msgstr "Απάντηση του server"
 
 # TRANSLATION
 # LABEL/SMTP_SERVER
@@ -77,97 +76,97 @@ msgstr "SMTP Server"
 # LABEL/STEP1
 #: LABEL/STEP1
 msgid "Step 1"
-msgstr "Step 1"
+msgstr "Βήμα 1"
 
 # TRANSLATION
 # LABEL/STEP2
 #: LABEL/STEP2
 msgid "Step 2"
-msgstr "Step 2"
+msgstr "Βήμα 2"
 
 # TRANSLATION
 # LABEL/STEP3
 #: LABEL/STEP3
 msgid "Step 3"
-msgstr "Step 3"
+msgstr "Βήμα 3"
 
 # TRANSLATION
 # LABEL/STEP4
 #: LABEL/STEP4
 msgid "Step 4"
-msgstr "Step 4"
+msgstr "Βήμα 4"
 
 # TRANSLATION
 # LABEL/STEP_MODE
 #: LABEL/STEP_MODE
 msgid "Mode"
-msgstr "Mode"
+msgstr "Λειτουργία"
 
 # TRANSLATION
 # LABEL/TESTING_EMAIL_CONF
 #: LABEL/TESTING_EMAIL_CONF
 msgid "Testing email configuration"
-msgstr "Testing email configuration"
+msgstr "Έλεγχος της δομής του e-mail"
 
 # TRANSLATION
 # LABEL/TEST_HAS
 #: LABEL/TEST_HAS
 msgid "[LABEL/TEST_HAS] The test has"
-msgstr "The test has"
+msgstr "Το τεστ εχει"
 
 # TRANSLATION
 # LABEL/TO_DO
 #: LABEL/TO_DO
 msgid "[LABEL/TO_DO] To Do"
-msgstr "To Do"
+msgstr "να κανει"
 
 # TRANSLATION
 # LABEL/UID_UNDEFINED_USER
 #: LABEL/UID_UNDEFINED_USER
 msgid "Undefined user"
-msgstr "Undefined user"
+msgstr "Απροσδιόριστος χρήστης"
 
 # TRANSLATION
 # LABEL/UNCHECK_ALL
 #: LABEL/UNCHECK_ALL
 msgid "Uncheck All"
-msgstr "Uncheck All"
+msgstr "Αποεπιλογή όλων"
 
 # TRANSLATION
 # LABEL/USE_SECURE_CONNECTION
 #: LABEL/USE_SECURE_CONNECTION
 msgid "Use Secure Connection"
-msgstr "Use Secure Connection"
+msgstr "Χρησιμοποίησε ασφαλή σύνδεση"
 
 # TRANSLATION
 # LABEL/VIEW_ROLE_USERS
 #: LABEL/VIEW_ROLE_USERS
 msgid "[LABEL/VIEW_ROLE_USERS] Users"
-msgstr "Users"
+msgstr "Χρήστες"
 
 # TRANSLATION
 # LABEL/WEBEN_ONLY_BALANCED
 #: LABEL/WEBEN_ONLY_BALANCED
 msgid "Web Entry only works with tasks which have Cyclical Assignment.<br/> Please change the Assignment Rules"
-msgstr "Web Entry only works with tasks which have Cyclical Assignment.<br/> Please change the Assignment Rules"
+msgstr "Η είσοδος στο διαδίκτυο λειτουργεί μόνο με εργασίες που έχουν κυκλικές διαδικασίες.<br/> Παρακαλώ έλλαξε τους κανόνες εργασίας"
 
 # TRANSLATION
 # LABEL/WRONG_LOGIN_CREDENTIALS
 #: LABEL/WRONG_LOGIN_CREDENTIALS
 msgid "Wrong login credentials"
-msgstr "Wrong login credentials"
+msgstr "Εσφαλμένα πιστοποιητικά εισόδου"
 
 # additionalTables/additionalTablesData.xml?ADD_TAB_NAME
 # additionalTables/additionalTablesData.xml
 #: text - ADD_TAB_NAME
 msgid "[additionalTables/additionalTablesData.xml?ADD_TAB_NAME] Name"
-msgstr "Name"
+msgstr "Όνομα"
 
 # additionalTables/additionalTablesData.xml?ADD_TAB_DESCRIPTION
 # additionalTables/additionalTablesData.xml
 #: text - ADD_TAB_DESCRIPTION
 msgid "[additionalTables/additionalTablesData.xml?ADD_TAB_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # additionalTables/additionalTablesData.xml?EDIT
 # additionalTables/additionalTablesData.xml
@@ -185,19 +184,19 @@ msgstr ""
 # additionalTables/additionalTablesDataImportForm.xml
 #: title - TITLE
 msgid "[additionalTables/additionalTablesDataImportForm.xml?TITLE] Import Data from CSV file"
-msgstr "Import Data from CSV file"
+msgstr "Εισήγαγε δεδομένα από CSV φάκελο"
 
 # additionalTables/additionalTablesDataImportForm.xml?CSV_FILE
 # additionalTables/additionalTablesDataImportForm.xml
 #: file - CSV_FILE
 msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_FILE] CSV File"
-msgstr "CSV File"
+msgstr "CSV φακελος"
 
 # additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER
 # additionalTables/additionalTablesDataImportForm.xml
 #: dropdown - CSV_DELIMITER
 msgid "[additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER] Delimited by"
-msgstr "Delimited by"
+msgstr "Οριοθετήθηκε από"
 
 # additionalTables/additionalTablesDataImportForm.xml?CSV_DELIMITER-;
 # additionalTables/additionalTablesDataImportForm.xml
@@ -215,91 +214,91 @@ msgstr "Comma (,)"
 # additionalTables/additionalTablesDataImportForm.xml
 #: submit - btnSave
 msgid "[additionalTables/additionalTablesDataImportForm.xml?btnSave] Save"
-msgstr "Save"
+msgstr "Αποθήκευσε"
 
 # additionalTables/additionalTablesDataImportForm.xml?BTN_CANCEL
 # additionalTables/additionalTablesDataImportForm.xml
 #: button - BTN_CANCEL
 msgid "[additionalTables/additionalTablesDataImportForm.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωσε"
 
 # additionalTables/additionalTablesEdit.xml?TITLE1
 # additionalTables/additionalTablesEdit.xml
 #: title - TITLE1
 msgid "Table Information"
-msgstr "Table Information"
+msgstr "Πληροφορίες πίνακα"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_NAME
 # additionalTables/additionalTablesEdit.xml
 #: text - ADD_TAB_NAME
 msgid "[additionalTables/additionalTablesEdit.xml?ADD_TAB_NAME] Table Name"
-msgstr "Table Name"
+msgstr "Όνομα πίνακα"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_DESCRIPTION
 # additionalTables/additionalTablesEdit.xml
 #: textarea - ADD_TAB_DESCRIPTION
 msgid "[additionalTables/additionalTablesEdit.xml?ADD_TAB_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # additionalTables/additionalTablesEdit.xml?TITLE2
 # additionalTables/additionalTablesEdit.xml
 #: title - TITLE2
 msgid "Log Configuration"
-msgstr "Log Configuration"
+msgstr "Επιβεβαίωση εισόδου"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_INSERT
 # additionalTables/additionalTablesEdit.xml
 #: checkbox - ADD_TAB_SDW_LOG_INSERT
 msgid "Save log for insert actions"
-msgstr "Save log for insert actions"
+msgstr "Σωσε την είσοδο για τις ενέργειες εισαγωγής"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_UPDATE
 # additionalTables/additionalTablesEdit.xml
 #: checkbox - ADD_TAB_SDW_LOG_UPDATE
 msgid "Save log for update actions"
-msgstr "Save log for update actions"
+msgstr "Σώσε την είσοδο για ενέργειες αναβάθμισης"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_LOG_DELETE
 # additionalTables/additionalTablesEdit.xml
 #: checkbox - ADD_TAB_SDW_LOG_DELETE
 msgid "Save log for delete actions"
-msgstr "Save log for delete actions"
+msgstr "Σώσε την είσοδο για ενέργειες διαγραφής"
 
 # additionalTables/additionalTablesEdit.xml?ADD_TAB_SDW_AUTO_DELETE
 # additionalTables/additionalTablesEdit.xml
 #: checkbox - ADD_TAB_SDW_AUTO_DELETE
 msgid "Delete related log when table is deleted"
-msgstr "Delete related log when table is deleted"
+msgstr "Διέγραψε σχετικές εισόδους όταν έχει διαγραφεί ο πίνακας"
 
 # additionalTables/additionalTablesEdit.xml?TITLE3
 # additionalTables/additionalTablesEdit.xml
 #: title - TITLE3
 msgid "[additionalTables/additionalTablesEdit.xml?TITLE3] Fields"
-msgstr "Fields"
+msgstr "Πεδία"
 
 # additionalTables/additionalTablesEdit.xml?btnSave
 # additionalTables/additionalTablesEdit.xml
 #: button - btnSave
 msgid "[additionalTables/additionalTablesEdit.xml?btnSave] Save"
-msgstr "Save"
+msgstr "Αποθήκευσε"
 
 # additionalTables/additionalTablesEdit.xml?BTN_CANCEL
 # additionalTables/additionalTablesEdit.xml
 #: button - BTN_CANCEL
 msgid "[additionalTables/additionalTablesEdit.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωσε"
 
 # additionalTables/additionalTablesExportList.xml?ADD_TAB_NAME
 # additionalTables/additionalTablesExportList.xml
 #: text - ADD_TAB_NAME
 msgid "[additionalTables/additionalTablesExportList.xml?ADD_TAB_NAME] Name"
-msgstr "Name"
+msgstr "Όνομα"
 
 # additionalTables/additionalTablesExportList.xml?ADD_TAB_DESCRIPTION
 # additionalTables/additionalTablesExportList.xml
 #: text - ADD_TAB_DESCRIPTION
 msgid "[additionalTables/additionalTablesExportList.xml?ADD_TAB_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # additionalTables/additionalTablesExportList.xml?ADD_SCHEMA
 # additionalTables/additionalTablesExportList.xml
@@ -317,19 +316,19 @@ msgstr "Data&nbsp;"
 # additionalTables/additionalTablesFields.xml
 #: text - FLD_NAME
 msgid "[additionalTables/additionalTablesFields.xml?FLD_NAME] Field Name"
-msgstr "Field Name"
+msgstr "Όνομα πεδίου"
 
 # additionalTables/additionalTablesFields.xml?FLD_DESCRIPTION
 # additionalTables/additionalTablesFields.xml
 #: text - FLD_DESCRIPTION
 msgid "[additionalTables/additionalTablesFields.xml?FLD_DESCRIPTION] Field Label"
-msgstr "Field Label"
+msgstr "Ταμπέλα πεδίου"
 
 # additionalTables/additionalTablesFields.xml?FLD_TYPE
 # additionalTables/additionalTablesFields.xml
 #: dropdown - FLD_TYPE
 msgid "[additionalTables/additionalTablesFields.xml?FLD_TYPE] Type"
-msgstr "Type"
+msgstr "τύπος"
 
 # additionalTables/additionalTablesFields.xml?FLD_TYPE-VARCHAR
 # additionalTables/additionalTablesFields.xml
@@ -365,37 +364,37 @@ msgstr "FLOAT"
 # additionalTables/additionalTablesFields.xml
 #: text - FLD_SIZE
 msgid "[additionalTables/additionalTablesFields.xml?FLD_SIZE] Size"
-msgstr "Size"
+msgstr "Μέγεθος"
 
 # additionalTables/additionalTablesFields.xml?FLD_NULL
 # additionalTables/additionalTablesFields.xml
 #: checkbox - FLD_NULL
 msgid "[additionalTables/additionalTablesFields.xml?FLD_NULL] Null"
-msgstr "Null"
+msgstr "Άκυρος"
 
 # additionalTables/additionalTablesFields.xml?FLD_KEY
 # additionalTables/additionalTablesFields.xml
 #: checkbox - FLD_KEY
 msgid "[additionalTables/additionalTablesFields.xml?FLD_KEY] Primary Key"
-msgstr "Primary Key"
+msgstr "Πρωτεύον κλειδί"
 
 # additionalTables/additionalTablesFields2.xml?FLD_NAME
 # additionalTables/additionalTablesFields2.xml
 #: text - FLD_NAME
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_NAME] Field Name"
-msgstr "Field Name"
+msgstr "Όνομα πεδίου"
 
 # additionalTables/additionalTablesFields2.xml?FLD_DESCRIPTION
 # additionalTables/additionalTablesFields2.xml
 #: text - FLD_DESCRIPTION
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_DESCRIPTION] Field Label"
-msgstr "Field Label"
+msgstr "Ταμπέλα πεδίου"
 
 # additionalTables/additionalTablesFields2.xml?FLD_TYPE
 # additionalTables/additionalTablesFields2.xml
 #: dropdown - FLD_TYPE
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_TYPE] Type"
-msgstr "Type"
+msgstr "Τύπος"
 
 # additionalTables/additionalTablesFields2.xml?FLD_TYPE-VARCHAR
 # additionalTables/additionalTablesFields2.xml
@@ -431,31 +430,31 @@ msgstr "FLOAT"
 # additionalTables/additionalTablesFields2.xml
 #: text - FLD_SIZE
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_SIZE] Size"
-msgstr "Size"
+msgstr "Μέγεθος"
 
 # additionalTables/additionalTablesFields2.xml?FLD_NULL
 # additionalTables/additionalTablesFields2.xml
 #: checkbox - FLD_NULL
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_NULL] Null"
-msgstr "Null"
+msgstr "Άκυρο"
 
 # additionalTables/additionalTablesFields2.xml?FLD_KEY
 # additionalTables/additionalTablesFields2.xml
 #: checkbox - FLD_KEY
 msgid "[additionalTables/additionalTablesFields2.xml?FLD_KEY] Primary Key"
-msgstr "Primary Key"
+msgstr "Πρωτεύον κλειδί"
 
 # additionalTables/additionalTablesList.xml?ADD_TAB_NAME
 # additionalTables/additionalTablesList.xml
 #: text - ADD_TAB_NAME
 msgid "[additionalTables/additionalTablesList.xml?ADD_TAB_NAME] Name"
-msgstr "Name"
+msgstr "Όνομα"
 
 # additionalTables/additionalTablesList.xml?ADD_TAB_DESCRIPTION
 # additionalTables/additionalTablesList.xml
 #: text - ADD_TAB_DESCRIPTION
 msgid "[additionalTables/additionalTablesList.xml?ADD_TAB_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # additionalTables/additionalTablesList.xml?EDIT
 # additionalTables/additionalTablesList.xml
@@ -473,85 +472,85 @@ msgstr ""
 # additionalTables/additionalTablesNew.xml
 #: title - TITLE1
 msgid "[additionalTables/additionalTablesNew.xml?TITLE1] Table Information"
-msgstr "Table Information"
+msgstr "Πληροφορίες πίνακα"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_NAME
 # additionalTables/additionalTablesNew.xml
 #: text - ADD_TAB_NAME
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_NAME] Table Name"
-msgstr "Table Name"
+msgstr "Όνομα πίνακα"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_DESCRIPTION
 # additionalTables/additionalTablesNew.xml
 #: textarea - ADD_TAB_DESCRIPTION
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_DESCRIPTION] Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # additionalTables/additionalTablesNew.xml?TITLE2
 # additionalTables/additionalTablesNew.xml
 #: title - TITLE2
 msgid "Log configuration"
-msgstr "Log configuration"
+msgstr "Επιβεβαίωση εισόδου"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_INSERT
 # additionalTables/additionalTablesNew.xml
 #: checkbox - ADD_TAB_SDW_LOG_INSERT
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_INSERT] Save log for insert actions"
-msgstr "Save log for insert actions"
+msgstr "Σωσε την είσοδο για τις ενέργειες εισαγωγής"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_UPDATE
 # additionalTables/additionalTablesNew.xml
 #: checkbox - ADD_TAB_SDW_LOG_UPDATE
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_UPDATE] Save log for update actions"
-msgstr "Save log for update actions"
+msgstr "Σώσε την είσοδο για ενέργειες αναβάθμισης"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_DELETE
 # additionalTables/additionalTablesNew.xml
 #: checkbox - ADD_TAB_SDW_LOG_DELETE
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_LOG_DELETE] Save log for delete actions"
-msgstr "Save log for delete actions"
+msgstr "Σώσε την είσοδο για ενέργειες διαγραφής"
 
 # additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_AUTO_DELETE
 # additionalTables/additionalTablesNew.xml
 #: checkbox - ADD_TAB_SDW_AUTO_DELETE
 msgid "[additionalTables/additionalTablesNew.xml?ADD_TAB_SDW_AUTO_DELETE] Delete related log when table is deleted"
-msgstr "Delete related log when table is deleted"
+msgstr "Διέγραψε σχετικές εισόδους όταν έχει διαγραφεί ο πίνακας"
 
 # additionalTables/additionalTablesNew.xml?TITLE3
 # additionalTables/additionalTablesNew.xml
 #: title - TITLE3
 msgid "[additionalTables/additionalTablesNew.xml?TITLE3] Fields"
-msgstr "Fields"
+msgstr "Πεδία"
 
 # additionalTables/additionalTablesNew.xml?btnSave
 # additionalTables/additionalTablesNew.xml
 #: button - btnSave
 msgid "[additionalTables/additionalTablesNew.xml?btnSave] Save"
-msgstr "Save"
+msgstr "αποθήκευσε"
 
 # additionalTables/additionalTablesNew.xml?BTN_CANCEL
 # additionalTables/additionalTablesNew.xml
 #: button - BTN_CANCEL
 msgid "[additionalTables/additionalTablesNew.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωσε"
 
 # additionalTables/additionalTablesOptions.xml?MNU_ADD
 # additionalTables/additionalTablesOptions.xml
 #: link - MNU_ADD
 msgid "[additionalTables/additionalTablesOptions.xml?MNU_ADD] New"
-msgstr "New"
+msgstr "Νέο"
 
 # additionalTables/additionalTablesOptions.xml?MNU_IMPORT
 # additionalTables/additionalTablesOptions.xml
 #: link - MNU_IMPORT
 msgid "[additionalTables/additionalTablesOptions.xml?MNU_IMPORT] Import"
-msgstr "Import"
+msgstr "Εισήγαγε"
 
 # additionalTables/additionalTablesOptions.xml?MNU_EXPORT
 # additionalTables/additionalTablesOptions.xml
 #: link - MNU_EXPORT
 msgid "[additionalTables/additionalTablesOptions.xml?MNU_EXPORT] Export"
-msgstr "Export"
+msgstr "Κάνε εξαγωγη"
 
 # additionalTables/additionalTablesTitle.xml?TITLE
 # additionalTables/additionalTablesTitle.xml
@@ -563,53 +562,53 @@ msgstr "@#ADD_TAB_NAME"
 # additionalTables/additionalTablesToImport.xml
 #: title - TITLE1
 msgid "Import PMTables"
-msgstr "Import PMTables"
+msgstr "Εισήγαγε PMΠίνακες"
 
 # additionalTables/additionalTablesToImport.xml?MAX_FILE_SIZE
 # additionalTables/additionalTablesToImport.xml
 #: edit - MAX_FILE_SIZE
 msgid "Max upload file size in bytes"
-msgstr "Max upload file size in bytes"
+msgstr "Μεγιστοποίησε το μέγεθος του φακέλου που φορτώθηκε σε"
 
 # additionalTables/additionalTablesToImport.xml?FILENAME
 # additionalTables/additionalTablesToImport.xml
 #: file - FILENAME
 msgid "[additionalTables/additionalTablesToImport.xml?FILENAME] File"
-msgstr "File"
+msgstr "Φάκελος"
 
 # additionalTables/additionalTablesToImport.xml?OVERWRITE
 # additionalTables/additionalTablesToImport.xml
 #: checkbox - OVERWRITE
 msgid "Overwrite if exist"
-msgstr "Overwrite if exist"
+msgstr "Παρέβλεψε αν υπάρχει αυτή η δυνατότητα"
 
 # additionalTables/additionalTablesToImport.xml?SAVE
 # additionalTables/additionalTablesToImport.xml
 #: button - SAVE
 msgid "[additionalTables/additionalTablesToImport.xml?SAVE] Import"
-msgstr "Import"
+msgstr "Εισήγαγε"
 
 # additionalTables/additionalTablesToImport.xml?BTN_CANCEL
 # additionalTables/additionalTablesToImport.xml
 #: button - BTN_CANCEL
 msgid "[additionalTables/additionalTablesToImport.xml?BTN_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωσε"
 
 # additionalTables/doExport.xml?FILENAME_LABEL
 # additionalTables/doExport.xml
 #: link - FILENAME_LABEL
 msgid "[additionalTables/doExport.xml?FILENAME_LABEL] File"
-msgstr "File"
+msgstr "Φάκελος"
 
 # additionalTables/doExport.xml?SIZE
 # additionalTables/doExport.xml
 #: caption - SIZE
 msgid "File size"
-msgstr "File size"
+msgstr "Μέγεθος φακέλου"
 
 # additionalTables/doExport.xml?META
 # additionalTables/doExport.xml
 #: textarea - META
 msgid "[additionalTables/doExport.xml?META] Summary"
-msgstr "Summary"
+msgstr "Περίληψη"
 
