@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:35+0200\n"
+"Last-Translator: Πετρούλα Κοσπάτη <petkosp@otenet.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,127 +16,127 @@ msgstr ""
 # LABEL/ID_REASSIGN_CASES
 #: LABEL/ID_REASSIGN_CASES
 msgid "Reassign Cases"
-msgstr "Reassign Cases"
+msgstr "Εκ νέου ανάθεση καταστάσεων"
 
 # TRANSLATION
 # LABEL/ID_REASSIGN_CONFIRM
 #: LABEL/ID_REASSIGN_CONFIRM
 msgid "Are you sure to reassign the current case?"
-msgstr "Are you sure to reassign the current case?"
+msgstr "Είσαι σίγουρος για την εκ νέου ανάθεση της τρέχουσας κατάστασης;"
 
 # TRANSLATION
 # LABEL/ID_REASSIGN_TO
 #: LABEL/ID_REASSIGN_TO
 msgid "[LABEL/ID_REASSIGN_TO] Reassign"
-msgstr "Reassign"
+msgstr "Ανάθεση εκ νέου"
 
 # TRANSLATION
 # LABEL/ID_REASSIGN_USERS
 #: LABEL/ID_REASSIGN_USERS
 msgid "User Reassignment"
-msgstr "User Reassignment"
+msgstr "Χρήστης εκ νέου ανάθεσης"
 
 # TRANSLATION
 # LABEL/ID_REBUILDING_TRANSLATIONS
 #: LABEL/ID_REBUILDING_TRANSLATIONS
 msgid "Rebuilding translations"
-msgstr "Rebuilding translations"
+msgstr "Ανασχεδιασμένες μεταφράσεις"
 
 # TRANSLATION
 # LABEL/ID_REBUILD_SUCCESS
 #: LABEL/ID_REBUILD_SUCCESS
 msgid "REBUILD SUCCESS"
-msgstr "REBUILD SUCCESS"
+msgstr "ΕΠΙΤΥΧΗΣ ΑΝΑΣΧΕΔΙΑΣΜΟΣ"
 
 # TRANSLATION
 # LABEL/ID_RECEIVED_EMPTY_RESPONSE
 #: LABEL/ID_RECEIVED_EMPTY_RESPONSE
 msgid "Received an empty response"
-msgstr "Received an empty response"
+msgstr "Λήψη κενής απάντησης"
 
 # TRANSLATION
 # LABEL/ID_RECENT_VERSION_PLUGIN
 #: LABEL/ID_RECENT_VERSION_PLUGIN
 msgid "A recent version of this plugin was already installed."
-msgstr "A recent version of this plugin was already installed."
+msgstr "Μια πρόσφατη εκδοχή αυτού του πρόσθετου έχει ήδη εγκατασταθεί."
 
 # TRANSLATION
 # LABEL/ID_RECORDS
 #: LABEL/ID_RECORDS
 msgid "Records"
-msgstr "Records"
+msgstr "Εγγραφές"
 
 # TRANSLATION
 # LABEL/ID_RECORD_DOES_NOT_EXIST
 #: LABEL/ID_RECORD_DOES_NOT_EXIST
 msgid "Record does not exist"
-msgstr "Record does not exist"
+msgstr "Η εγγραφή δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_RECORD_SAVED_SUCCESFULLY
 #: LABEL/ID_RECORD_SAVED_SUCCESFULLY
 msgid "Record saved successfully"
-msgstr "Record saved successfully"
+msgstr "Η εγγραφή αποθηκεύτηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_REDIRECT_URL
 #: LABEL/ID_REDIRECT_URL
 msgid "The System can try to redirect to the correct url. Try Now."
-msgstr "The System can try to redirect to the correct url. Try Now."
+msgstr "Το Σύστημα μπορεί να ανακατευθύνει στο σωστό url.Δοκίμασε τώρα."
 
 # TRANSLATION
 # LABEL/ID_RED_ENDS_IN
 #: LABEL/ID_RED_ENDS_IN
 msgid "Red Ends In"
-msgstr "Red Ends In"
+msgstr "Τέλος κόκκινου"
 
 # TRANSLATION
 # LABEL/ID_RED_STARTS_IN
 #: LABEL/ID_RED_STARTS_IN
 msgid "Red Starts In"
-msgstr "Red Starts In"
+msgstr "Αρχή κόκκινου"
 
 # TRANSLATION
 # LABEL/ID_REFRESH_LABEL
 #: LABEL/ID_REFRESH_LABEL
 msgid "Refresh"
-msgstr "Refresh"
+msgstr "Ανανέωση"
 
 # TRANSLATION
 # LABEL/ID_REFRESH_MESSAGE
 #: LABEL/ID_REFRESH_MESSAGE
 msgid "You clicked Ctrl + F5"
-msgstr "You clicked Ctrl + F5"
+msgstr "Έκανες click  Ctrl + F5"
 
 # TRANSLATION
 # LABEL/ID_REFRESH_TIME_SECONDS
 #: LABEL/ID_REFRESH_TIME_SECONDS
 msgid "Refresh Time (seconds)"
-msgstr "Refresh Time (seconds)"
+msgstr "Ανανέωση χρόνου(δευτερόλεπτα)"
 
 # TRANSLATION
 # LABEL/ID_REFRESH_VIEW
 #: LABEL/ID_REFRESH_VIEW
 msgid "Refresh view"
-msgstr "Refresh view"
+msgstr "Ανανέωση επισκόπησης"
 
 # TRANSLATION
 # LABEL/ID_REGENERATE
 #: LABEL/ID_REGENERATE
 msgid "Regenerate"
-msgstr "Regenerate"
+msgstr "Αναπαράγωγη"
 
 # TRANSLATION
 # LABEL/ID_REGENERATE_DATA_REPORT
 #: LABEL/ID_REGENERATE_DATA_REPORT
 msgid "Regenerate Data Report"
-msgstr "Regenerate Data Report"
+msgstr "Αναπαράγωγη αναφοράς δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_RELOAD
 #: LABEL/ID_RELOAD
 msgid "Reload"
-msgstr "Reload"
+msgstr "Επαναφόρτωση"
 
 # TRANSLATION
 # LABEL/ID_REMOVE
@@ -149,13 +148,13 @@ msgstr "Remove"
 # LABEL/ID_REMOVED
 #: LABEL/ID_REMOVED
 msgid "Removed"
-msgstr "Removed"
+msgstr "Αφαιρέθηκε"
 
 # TRANSLATION
 # LABEL/ID_REMOVED_SESSION_FILES
 #: LABEL/ID_REMOVED_SESSION_FILES
 msgid "Older session files has been removed"
-msgstr "Older session files has been removed"
+msgstr "Η παλαιότερη συνεδρίαση έχει αφαιρεθεί"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_ALL_BUTTON_FACE
@@ -167,31 +166,31 @@ msgstr "<<"
 # LABEL/ID_REMOVE_ALL_GROUPS
 #: LABEL/ID_REMOVE_ALL_GROUPS
 msgid "Remove All Groups"
-msgstr "Remove All Groups"
+msgstr "Αφαίρεση Όλων των Ομάδων"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_ALL_MEMBERS
 #: LABEL/ID_REMOVE_ALL_MEMBERS
 msgid "Remove All Members"
-msgstr "Remove All Members"
+msgstr "Αφαίρεση Όλων των Μελών"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_ALL_PERMISSIONS
 #: LABEL/ID_REMOVE_ALL_PERMISSIONS
 msgid "Remove All Permissions"
-msgstr "Remove All Permissions"
+msgstr "Αφαίρεση Όλων των Αδειών"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_ALL_USERS
 #: LABEL/ID_REMOVE_ALL_USERS
 msgid "Remove All Users"
-msgstr "Remove All Users"
+msgstr "Αφαίρεση Όλων των Χρηστών"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_FIELD
 #: LABEL/ID_REMOVE_FIELD
 msgid "Remove field"
-msgstr "Remove field"
+msgstr "Αφαίρεση πεδίου"
 
 # TRANSLATION
 # LABEL/ID_REMOVE_LOGO
@@ -209,127 +208,127 @@ msgstr "Are you sure you want to delete this role?"
 # LABEL/ID_REMOVE_VARIABLES_IN
 #: LABEL/ID_REMOVE_VARIABLES_IN
 msgid "Remove Variables In"
-msgstr "Remove Variables In"
+msgstr "Αφαίρεση Εισερχόμενων Μεταβλητών "
 
 # TRANSLATION
 # LABEL/ID_REMOVE_VARIABLES_OUT
 #: LABEL/ID_REMOVE_VARIABLES_OUT
 msgid "Remove Variables Out"
-msgstr "Remove Variables Out"
+msgstr "Αφαίρεση Εξερχόμενων Μεταβλητών "
 
 # TRANSLATION
 # LABEL/ID_REMOVING_SELECTED_TABLES
 #: LABEL/ID_REMOVING_SELECTED_TABLES
 msgid "Removing selected table(s), please wait!"
-msgstr "Removing selected table(s), please wait!"
+msgstr "Αφαιρούνται ο επιλεγμένος(οι) πίνακας(ες),παρακαλώ περίμενε!"
 
 # TRANSLATION
 # LABEL/ID_RENAME
 #: LABEL/ID_RENAME
 msgid "Rename"
-msgstr "Rename"
+msgstr "Μετονομασία"
 
 # TRANSLATION
 # LABEL/ID_REOPEN
 #: LABEL/ID_REOPEN
 msgid "re-open"
-msgstr "re-open"
+msgstr "Άνοιξε-ξανά"
 
 # TRANSLATION
 # LABEL/ID_REPLACED_BY
 #: LABEL/ID_REPLACED_BY
 msgid "Replaced by"
-msgstr "Replaced by"
+msgstr "Αντικαταστάθηκε από"
 
 # TRANSLATION
 # LABEL/ID_REPLACED_LOGO
 #: LABEL/ID_REPLACED_LOGO
 msgid "The logo was replaced"
-msgstr "The logo was replaced"
+msgstr "Το λογότυπο αντικαταστάθηκε"
 
 # TRANSLATION
 # LABEL/ID_REPLACE_WITHOUT_CHANGES
 #: LABEL/ID_REPLACE_WITHOUT_CHANGES
 msgid "Replace the value without changes"
-msgstr "Replace the value without changes"
+msgstr "Αντικατέστησε την τιμή χωρίς αλλαγές"
 
 # TRANSLATION
 # LABEL/ID_REPORT1
 #: LABEL/ID_REPORT1
 msgid "Case duration by process and task"
-msgstr "Case duration by process and task"
+msgstr "Διάρκεια κατάστασης ανά διαδικασία και δραστηριότητα"
 
 # TRANSLATION
 # LABEL/ID_REPORT2
 #: LABEL/ID_REPORT2
 msgid "Number of cases per process"
-msgstr "Number of cases per process"
+msgstr "Πλήθος καταστάσεων ανά διαδικασία"
 
 # TRANSLATION
 # LABEL/ID_REPORT3
 #: LABEL/ID_REPORT3
 msgid "Number of cases per month"
-msgstr "Number of cases per month"
+msgstr "Πλήθος καταστάσεων ανά μήνα"
 
 # TRANSLATION
 # LABEL/ID_REPORT4
 #: LABEL/ID_REPORT4
 msgid "Number of cases per starting user"
-msgstr "Number of cases per starting user"
+msgstr "Πλήθος καταστάσεων ανά εναρκτήριο χρήστη"
 
 # TRANSLATION
 # LABEL/ID_REPORT5
 #: LABEL/ID_REPORT5
 msgid "Number of cases per executing user"
-msgstr "Number of cases per executing user"
+msgstr "Πλήθος καταστάσεων ανά εκτελόντα χρήστη"
 
 # TRANSLATION
 # LABEL/ID_REPORTS
 #: LABEL/ID_REPORTS
 msgid "Reports"
-msgstr "Reports"
+msgstr "Αναφόρες"
 
 # TRANSLATION
 # LABEL/ID_REPORTS_TO
 #: LABEL/ID_REPORTS_TO
 msgid "Reports to"
-msgstr "Reports to"
+msgstr "Αναφορές σε"
 
 # TRANSLATION
 # LABEL/ID_REPORT_DATABASE
 #: LABEL/ID_REPORT_DATABASE
 msgid "Report Database"
-msgstr "Report Database"
+msgstr "ΒΔ Αναφορών"
 
 # TRANSLATION
 # LABEL/ID_REPORT_DATABASE_NAME
 #: LABEL/ID_REPORT_DATABASE_NAME
 msgid "Please enter the Report Database Name."
-msgstr "Please enter the Report Database Name."
+msgstr "Παρακαλώ να εισάγεις το όνομα της ΒΔ Αναφορών"
 
 # TRANSLATION
 # LABEL/ID_REPORT_EDITED
 #: LABEL/ID_REPORT_EDITED
 msgid "Report Table Edited Successfully"
-msgstr "Report Table Edited Successfully"
+msgstr "Ο πίνακας αναφορών επεξεργάστηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_REPORT_REMOVED
 #: LABEL/ID_REPORT_REMOVED
 msgid "Report Table has been removed successfully"
-msgstr "Report Table has been removed successfully"
+msgstr "Ο πίνακας αναφορών αφαιρέθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_REPORT_SAVE
 #: LABEL/ID_REPORT_SAVE
 msgid "Report Table Saved Successfully"
-msgstr "Report Table Saved Successfully"
+msgstr "Ο πίνακας αναφορών αποθηκεύτηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_REPORT_TABLE
 #: LABEL/ID_REPORT_TABLE
 msgid "Report Table"
-msgstr "Report Table"
+msgstr "Πίνακας Αναφοράς"
 
 # TRANSLATION
 # LABEL/ID_REPORT_TABLES
@@ -341,7 +340,7 @@ msgstr "Report Tables"
 # LABEL/ID_REPORT_TABLES_DATA_EXPORT_NOT_ALLOWED
 #: LABEL/ID_REPORT_TABLES_DATA_EXPORT_NOT_ALLOWED
 msgid "Data export for Report Tables is not allowed!"
-msgstr "Data export for Report Tables is not allowed!"
+msgstr "Η εξαγωγή δεδομένων των Πινάκων Αναφοράς δεν επιτρέπεται!"
 
 # TRANSLATION
 # LABEL/ID_REPORT_TABLE_TITLE
@@ -353,13 +352,13 @@ msgstr "Title"
 # LABEL/ID_REQUEST_ACTION
 #: LABEL/ID_REQUEST_ACTION
 msgid "You may request an action"
-msgstr "You may request an action"
+msgstr "Μπορείς να ζητήσεις μια πράξη"
 
 # TRANSLATION
 # LABEL/ID_REQUEST_ACTION_NOT_EXIST
 #: LABEL/ID_REQUEST_ACTION_NOT_EXIST
 msgid "The requested action does not exist"
-msgstr "The requested action does not exist"
+msgstr "Η ζητούμενη πράξη δεν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_REQUEST_DOCUMENTS
@@ -371,43 +370,43 @@ msgstr "Input Documents"
 # LABEL/ID_REQUEST_SENT
 #: LABEL/ID_REQUEST_SENT
 msgid "Request sent."
-msgstr "Request sent."
+msgstr "Η αναφορά εστάλη"
 
 # TRANSLATION
 # LABEL/ID_REQUIRED_FIELD
 #: LABEL/ID_REQUIRED_FIELD
 msgid "Required Field"
-msgstr "Required Field"
+msgstr "Απαιτούμενο πεδίο"
 
 # TRANSLATION
 # LABEL/ID_REQUIRED_FIELDS_ERROR
 #: LABEL/ID_REQUIRED_FIELDS_ERROR
 msgid "Some required fields were not filled"
-msgstr "Some required fields were not filled"
+msgstr "Απαιτούμενα πεδία δεν συμπληρώθηκαν"
 
 # TRANSLATION
 # LABEL/ID_REQUIRED_NAME_CASE_SCHEDULER
 #: LABEL/ID_REQUIRED_NAME_CASE_SCHEDULER
 msgid "You forgot the name of the Case Scheduler"
-msgstr "You forgot the name of the Case Scheduler"
+msgstr "Ξέχασες το όνομα του προγραμματιστή της κατάστασης"
 
 # TRANSLATION
 # LABEL/ID_REQUIRED_NAME_DYNAFORM
 #: LABEL/ID_REQUIRED_NAME_DYNAFORM
 msgid "Dynaform name required."
-msgstr "Dynaform name required."
+msgstr "Απαιτείται όνομα για Dynaform "
 
 # TRANSLATION
 # LABEL/ID_RESEND
 #: LABEL/ID_RESEND
 msgid "Resend"
-msgstr "Resend"
+msgstr "Επαναποστολή"
 
 # TRANSLATION
 # LABEL/ID_RESERVED_WORD
 #: LABEL/ID_RESERVED_WORD
 msgid "because it is a reserved word"
-msgstr "because it is a reserved word"
+msgstr "επειδή είναι δεσμευμένη λέξη"
 
 # TRANSLATION
 # LABEL/ID_RESET
@@ -419,43 +418,43 @@ msgstr "Reset"
 # LABEL/ID_RESET_DATES
 #: LABEL/ID_RESET_DATES
 msgid "Reset Dates"
-msgstr "Reset Dates"
+msgstr "Επαναφορά Ημερομηνιών"
 
 # TRANSLATION
 # LABEL/ID_RESET_PASSWORD
 #: LABEL/ID_RESET_PASSWORD
 msgid "Reset password"
-msgstr "Reset password"
+msgstr "Επαναφορά κωδικού"
 
 # TRANSLATION
 # LABEL/ID_RESOLVE_APPLICATION_ID
 #: LABEL/ID_RESOLVE_APPLICATION_ID
 msgid "Can not resolve the Apllication ID for this request."
-msgstr "Can not resolve the Apllication ID for this request."
+msgstr "Αδύνατη ανάλυση του ID της εφαρμογής για αυτό το αίτημα."
 
 # TRANSLATION
 # LABEL/ID_RESPONSABILITIES_ASSIGNMENT
 #: LABEL/ID_RESPONSABILITIES_ASSIGNMENT
 msgid "Assignment of responsibilities"
-msgstr "Assignment of responsibilities"
+msgstr "Ανάθεση ευθυνών"
 
 # TRANSLATION
 # LABEL/ID_RESTORE_DEFAULT
 #: LABEL/ID_RESTORE_DEFAULT
 msgid "Restore default"
-msgstr "Restore default"
+msgstr "Επαναφορά προεπιλεγμένων"
 
 # TRANSLATION
 # LABEL/ID_RESTORE_LOGO
 #: LABEL/ID_RESTORE_LOGO
 msgid "Restore the default logo"
-msgstr "Restore the default logo"
+msgstr "Επαναφορά προεπιλεγμένου λογοτύπου"
 
 # TRANSLATION
 # LABEL/ID_RESULT
 #: LABEL/ID_RESULT
 msgid "Result"
-msgstr "Result"
+msgstr "Αποτέλεσμα"
 
 # TRANSLATION
 # LABEL/ID_RESUME
@@ -467,19 +466,19 @@ msgstr "Resume"
 # LABEL/ID_RIGHT_MARGIN
 #: LABEL/ID_RIGHT_MARGIN
 msgid "Right Margin"
-msgstr "Right Margin"
+msgstr "Δεξί περιθώριο"
 
 # TRANSLATION
 # LABEL/ID_ROLE
 #: LABEL/ID_ROLE
 msgid "Role"
-msgstr "Role"
+msgstr "Ρόλος"
 
 # TRANSLATION
 # LABEL/ID_ROLES
 #: LABEL/ID_ROLES
 msgid "Roles"
-msgstr "Roles"
+msgstr "Ρόλοι"
 
 # TRANSLATION
 # LABEL/ID_ROLES_CAN_NOT_DELETE
@@ -497,79 +496,79 @@ msgstr "You cannot modify this role."
 # LABEL/ID_ROLES_SUCCESS_DELETE
 #: LABEL/ID_ROLES_SUCCESS_DELETE
 msgid "Your role has been deleted correctly."
-msgstr "Your role has been deleted correctly."
+msgstr "Ο ρόλος σου έχει διαγραφεί επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_ROLES_SUCCESS_NEW
 #: LABEL/ID_ROLES_SUCCESS_NEW
 msgid "Role has been created correctly."
-msgstr "Role has been created correctly."
+msgstr "Ο ρόλος δημιουργήθηκε επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_ROLES_SUCCESS_UPDATE
 #: LABEL/ID_ROLES_SUCCESS_UPDATE
 msgid "Role has been updated correctly."
-msgstr "Role has been updated correctly."
+msgstr "Ο ρόλος ενημερώθηκε επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_ROLE_CODE_INVALID_CHARACTER
 #: LABEL/ID_ROLE_CODE_INVALID_CHARACTER
 msgid "The 'Code' field cannot contain special characters or spaces."
-msgstr "The 'Code' field cannot contain special characters or spaces."
+msgstr "Το πεδίο \"Κώδικας\" απαγορεύεται να επριέχει ειδικούς χαρακτήρες ή κενά."
 
 # TRANSLATION
 # LABEL/ID_ROLE_EXISTS
 #: LABEL/ID_ROLE_EXISTS
 msgid "Role Code already exists."
-msgstr "Role Code already exists."
+msgstr "Ο κώδικας του ρόλου ήδη υπάρχει."
 
 # TRANSLATION
 # LABEL/ID_ROLE_NAME_NOT_EMPTY
 #: LABEL/ID_ROLE_NAME_NOT_EMPTY
 msgid "The 'Name' field can not be empty."
-msgstr "The 'Name' field can not be empty."
+msgstr "Το πεδίο \"Όνομα\" δεν μπορεί να είναι κενό."
 
 # TRANSLATION
 # LABEL/ID_ROOT_FOLDER
 #: LABEL/ID_ROOT_FOLDER
 msgid "Root Folder"
-msgstr "Root Folder"
+msgstr "Ο κύριος φάκελος"
 
 # TRANSLATION
 # LABEL/ID_ROUTED_CASE_STATUS
 #: LABEL/ID_ROUTED_CASE_STATUS
 msgid "Routed Case Status"
-msgstr "Routed Case Status"
+msgstr "Η κατάσταση της κύριας περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_ROWS
 #: LABEL/ID_ROWS
 msgid "Rows"
-msgstr "Rows"
+msgstr "Γραμμές"
 
 # TRANSLATION
 # LABEL/ID_ROWS_PER_PAGE
 #: LABEL/ID_ROWS_PER_PAGE
 msgid "Rows per Page"
-msgstr "Rows per Page"
+msgstr "Γραμμές ανά Σελίδα"
 
 # TRANSLATION
 # LABEL/ID_RP_DATABASE_NAME
 #: LABEL/ID_RP_DATABASE_NAME
 msgid "Report Database Name"
-msgstr "Report Database Name"
+msgstr "Όνομα ΒΔ αναφοράς"
 
 # TRANSLATION
 # LABEL/ID_RULES_AND_USER_GROUPS
 #: LABEL/ID_RULES_AND_USER_GROUPS
 msgid "Rules and user groups"
-msgstr "Rules and user groups"
+msgstr "Κανόνες και ομάδες χρηστών"
 
 # TRANSLATION
 # LABEL/ID_SAMPLES
 #: LABEL/ID_SAMPLES
 msgid "Samples"
-msgstr "Samples"
+msgstr "Δείγματα"
 
 # TRANSLATION
 # LABEL/ID_SAT
@@ -587,29 +586,29 @@ msgstr "Save"
 # LABEL/ID_SAVED
 #: LABEL/ID_SAVED
 msgid "Saved"
-msgstr "Saved"
+msgstr "Αποθηκεύτηκε"
 
 # TRANSLATION
 # LABEL/ID_SAVED2
 #: LABEL/ID_SAVED2
 msgid "Saved..."
-msgstr "Saved..."
+msgstr "Αποθηκεύτηκε..."
 
 # TRANSLATION
 # LABEL/ID_SAVED_SUCCESSFULLY
 #: LABEL/ID_SAVED_SUCCESSFULLY
 msgid "Saved Successfully"
-msgstr "Saved Successfully"
+msgstr "Αποθηκεύτηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_SAVE_AND_CONTINUE
 #: LABEL/ID_SAVE_AND_CONTINUE
 msgid "Save and Continue"
-msgstr "Save and Continue"
+msgstr "Αποθήκευσε και Συνέχισε"
 
 # TRANSLATION
 # LABEL/ID_SAVE_CHANGES
 #: LABEL/ID_SAVE_CHANGES
 msgid "Save Changes"
-msgstr "Save Changes"
+msgstr "Αποθήκευσε Αλλαγές"
 
