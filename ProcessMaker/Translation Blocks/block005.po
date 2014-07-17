@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: Κώστας Γλυκός <mai1212@uom.edu.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,409 +16,409 @@ msgstr ""
 # LABEL/ID_BEFORE
 #: LABEL/ID_BEFORE
 msgid "Before"
-msgstr "Before"
+msgstr "Πριν"
 
 # TRANSLATION
 # LABEL/ID_BEFORE_ASSIGNMENT
 #: LABEL/ID_BEFORE_ASSIGNMENT
 msgid "Before Assignment"
-msgstr "Before Assignment"
+msgstr "Πριν την Ανάθεση"
 
 # TRANSLATION
 # LABEL/ID_BEFORE_DERIVATION
 #: LABEL/ID_BEFORE_DERIVATION
 msgid "Before Routing"
-msgstr "Before Routing"
+msgstr "Πριν τη Δρομολόγηση"
 
 # TRANSLATION
 # LABEL/ID_BEHAVIOUR
 #: LABEL/ID_BEHAVIOUR
 msgid "Behaviour"
-msgstr "Behaviour"
+msgstr "Συμπεριφορά"
 
 # TRANSLATION
 # LABEL/ID_BLANK_DYNAFORM
 #: LABEL/ID_BLANK_DYNAFORM
 msgid "Blank Dynaform"
-msgstr "Blank Dynaform"
+msgstr "Κενή Dynaform"
 
 # TRANSLATION
 # LABEL/ID_BLOCK
 #: LABEL/ID_BLOCK
 msgid "[LABEL/ID_BLOCK] Block"
-msgstr "Block"
+msgstr "Μπλοκ"
 
 # TRANSLATION
 # LABEL/ID_BOTTOM_MARGIN
 #: LABEL/ID_BOTTOM_MARGIN
 msgid "Bottom Margin"
-msgstr "Bottom Margin"
+msgstr "Κάτω Περιθώριο"
 
 # TRANSLATION
 # LABEL/ID_BPMN_EDITOR
 #: LABEL/ID_BPMN_EDITOR
 msgid "BPMN Editor (Beta)"
-msgstr "BPMN Editor (Beta)"
+msgstr "BPMN Επεξεργαστής (Δοκιμαστική)"
 
 # TRANSLATION
 # LABEL/ID_BREAK_DW_PROCESS
 #: LABEL/ID_BREAK_DW_PROCESS
 msgid "were lost by a connection problem."
-msgstr "were lost by a connection problem."
+msgstr "Χαθήκαμε λόγω προβλήματος σύνδεσης."
 
 # TRANSLATION
 # LABEL/ID_BROWSE
 #: LABEL/ID_BROWSE
 msgid "Browse"
-msgstr "Browse"
+msgstr "Πλοήγηση"
 
 # TRANSLATION
 # LABEL/ID_BROWSER_NOT_SUPPORTED
 #: LABEL/ID_BROWSER_NOT_SUPPORTED
 msgid "This browser is not supported."
-msgstr "This browser is not supported."
+msgstr "Αυτός ο πλοηγητής δεν υποστηρίζεται. "
 
 # TRANSLATION
 # LABEL/ID_BROWSE_LIBRARY
 #: LABEL/ID_BROWSE_LIBRARY
 msgid "Browse Library"
-msgstr "Browse Library"
+msgstr "Βιβλιοθήκη Πλοήγησης"
 
 # TRANSLATION
 # LABEL/ID_BUTTON
 #: LABEL/ID_BUTTON
 msgid "Button"
-msgstr "Button"
+msgstr "Κουμπί"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BTN_BUILD
 #: LABEL/ID_CACHE_BTN_BUILD
 msgid "Build Cache"
-msgstr "Build Cache"
+msgstr "Χτίσιμο Cache"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BTN_SETUP_PASSWRD
 #: LABEL/ID_CACHE_BTN_SETUP_PASSWRD
 msgid "Setup Password"
-msgstr "Setup Password"
+msgstr "Βάλε Κωδικό Πρόσβασης"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BTN_SETUP_SESSION
 #: LABEL/ID_CACHE_BTN_SETUP_SESSION
 msgid "Delete older session files"
-msgstr "Delete older session files"
+msgstr "Διάγραψε παλιότερα αρχεία συνόδου"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_CURRENT_USER
 #: LABEL/ID_CACHE_BUILDER_CURRENT_USER
 msgid "Current User"
-msgstr "Current User"
+msgstr "Τρέχων Χρήστης"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_LANGUAGE
 #: LABEL/ID_CACHE_BUILDER_LANGUAGE
 msgid "Language"
-msgstr "Language"
+msgstr "Γλώσσα"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_MYSQL_VERSION
 #: LABEL/ID_CACHE_BUILDER_MYSQL_VERSION
 msgid "MySQL Version"
-msgstr "MySQL Version"
+msgstr "Έκδοση MySQL"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_ROWS
 #: LABEL/ID_CACHE_BUILDER_ROWS
 msgid "Rows in APP_CACHE_VIEW"
-msgstr "Rows in APP_CACHE_VIEW"
+msgstr "Σειρές στο APP_CACHE_VIEW"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TABLE
 #: LABEL/ID_CACHE_BUILDER_TABLE
 msgid "Table APP_CACHE_VIEW"
-msgstr "Table APP_CACHE_VIEW"
+msgstr "Πίνακας APP_CACHE_VIEW"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_DELETE
 #: LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_DELETE
 msgid "Trigger APPLICATION DELETE"
-msgstr "Trigger APPLICATION DELETE"
+msgstr "Ενεργοποίηση ΕΦΑΡΜΟΓΗ ΔΙΑΓΡΑΦΗ"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_UPDATE
 #: LABEL/ID_CACHE_BUILDER_TRIGGER_APPLICATION_UPDATE
 msgid "Trigger APPLICATION UPDATE"
-msgstr "Trigger APPLICATION UPDATE"
+msgstr "Ενεργοποίηση ΕΦΑΡΜΟΓΗ ΕΝΗΜΕΡΩΣΗ"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TRIGGER_CONTENT_UPDATE
 #: LABEL/ID_CACHE_BUILDER_TRIGGER_CONTENT_UPDATE
 msgid "Trigger CONTENT UPDATE"
-msgstr "Trigger CONTENT UPDATE"
+msgstr "Ενεργοποίηση ΕΝΗΜΕΡΩΣΗ ΠΕΡΙΕΧΟΜΕΝΟΥ"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TRIGGER_INSERT
 #: LABEL/ID_CACHE_BUILDER_TRIGGER_INSERT
 msgid "Trigger APP_DELEGATION INSERT"
-msgstr "Trigger APP_DELEGATION INSERT"
+msgstr "Ενεργοποίηση ΕΙΣΑΓΩΓΗΣ APP_DELEGATION"
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_TRIGGER_UPDATE
 #: LABEL/ID_CACHE_BUILDER_TRIGGER_UPDATE
 msgid "Trigger APP_DELEGATION UPDATE"
-msgstr "Trigger APP_DELEGATION UPDATE"
+msgstr " Ενεργοποίηση ΕΝΗΜΕΡΩΣΗΣ APP_DELEGATION "
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDER_USER_SUPER_PRIVILEGE
 #: LABEL/ID_CACHE_BUILDER_USER_SUPER_PRIVILEGE
 msgid "Current User has SUPER privilege"
-msgstr "Current User has SUPER privilege"
+msgstr "Ο Τρέχων χρήστης έχει προνόμιο SUPER "
 
 # TRANSLATION
 # LABEL/ID_CACHE_BUILDING
 #: LABEL/ID_CACHE_BUILDING
 msgid "Building Workflow Application Cache..."
-msgstr "Building Workflow Application Cache..."
+msgstr "Χτίσιμο Ροής Εργασίας Εφαρμογής Cache..."
 
 # TRANSLATION
 # LABEL/ID_CACHE_DELETED_SUCCESS
 #: LABEL/ID_CACHE_DELETED_SUCCESS
 msgid "All cache data was deleted successfully"
-msgstr "All cache data was deleted successfully"
+msgstr "Όλα τα δεδομένα cache διαγράφηκαν επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CACHE_DIR_ISNOT_WRITABLE
 #: LABEL/ID_CACHE_DIR_ISNOT_WRITABLE
 msgid "The cache directory is not writable, change permissions please!"
-msgstr "The cache directory is not writable, change permissions please!"
+msgstr "Ο φάκελος cache δεν είναι εγγράψιμος, άλλαξε τις άδειες παρακαλώ!"
 
 # TRANSLATION
 # LABEL/ID_CACHE_FILE
 #: LABEL/ID_CACHE_FILE
 msgid "Cache file:"
-msgstr "Cache file:"
+msgstr "Cache αρχείο:"
 
 # TRANSLATION
 # LABEL/ID_CACHE_HOST
 #: LABEL/ID_CACHE_HOST
 msgid "Host"
-msgstr "Host"
+msgstr "Οικοδεσπότης"
 
 # TRANSLATION
 # LABEL/ID_CACHE_LANGUAGE
 #: LABEL/ID_CACHE_LANGUAGE
 msgid "[LABEL/ID_CACHE_LANGUAGE] Language"
-msgstr "Language"
+msgstr "Γλώσσα"
 
 # TRANSLATION
 # LABEL/ID_CACHE_PASSWORD
 #: LABEL/ID_CACHE_PASSWORD
 msgid "Password"
-msgstr "Password"
+msgstr "Κωδικός Πρόσβασης"
 
 # TRANSLATION
 # LABEL/ID_CACHE_SUBTITLE_REBUILD
 #: LABEL/ID_CACHE_SUBTITLE_REBUILD
 msgid "Rebuild Workflow Application Cache"
-msgstr "Rebuild Workflow Application Cache"
+msgstr "Ξαναχτίσιμο της Ροής Εργασίας της Εφαρμογής Cache"
 
 # TRANSLATION
 # LABEL/ID_CACHE_SUBTITLE_SETUP_DB
 #: LABEL/ID_CACHE_SUBTITLE_SETUP_DB
 msgid "Setup MySql Root Password"
-msgstr "Setup MySql Root Password"
+msgstr "Βάλε MySql Root Κωδικό"
 
 # TRANSLATION
 # LABEL/ID_CACHE_SUBTITLE_SETUP_SESSION
 #: LABEL/ID_CACHE_SUBTITLE_SETUP_SESSION
 msgid "Session Maintenance"
-msgstr "Session Maintenance"
+msgstr "Διατήρηση Συνόδου"
 
 # TRANSLATION
 # LABEL/ID_CACHE_TITLE_INFO
 #: LABEL/ID_CACHE_TITLE_INFO
 msgid "Workflow Applications Cache Info"
-msgstr "Workflow Applications Cache Info"
+msgstr "Πληροφορίες Ροής Εργασίας Εφαρμογών Cache "
 
 # TRANSLATION
 # LABEL/ID_CACHE_USER
 #: LABEL/ID_CACHE_USER
 msgid "User"
-msgstr "User"
+msgstr "Χρήστης"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR
 #: LABEL/ID_CALENDAR
 msgid "Calendar"
-msgstr "Calendar"
+msgstr "Ημερολόγιο"
 
 # TRANSLATION
 # LABEL/ID_CALENDARS
 #: LABEL/ID_CALENDARS
 msgid "Calendars"
-msgstr "Calendars"
+msgstr "Ημερολόγια"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_CREATED_SUCCESSFULLY
 #: LABEL/ID_CALENDAR_CREATED_SUCCESSFULLY
 msgid "Your calendar has been created successfully"
-msgstr "Your calendar has been created successfully"
+msgstr "Το ημερολόγιό σου έχει δημιουργηθεί επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_DEFINITION
 #: LABEL/ID_CALENDAR_DEFINITION
 msgid "Calendar Definition"
-msgstr "Calendar Definition"
+msgstr "Ορισμός Ημερολογίου"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_DESCRIPTION
 #: LABEL/ID_CALENDAR_DESCRIPTION
 msgid "Calendar Description"
-msgstr "Calendar Description"
+msgstr "Περιγραφή Ημερολογίου"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_INVALID_NAME
 #: LABEL/ID_CALENDAR_INVALID_NAME
 msgid "The calendar name already exists!"
-msgstr "The calendar name already exists!"
+msgstr "Το όνομα ημερολογίου υπάρχει ήδη!"
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_SUCCESS_DELETE
 #: LABEL/ID_CALENDAR_SUCCESS_DELETE
 msgid "Calendar has been deleted correctly."
-msgstr "Calendar has been deleted correctly."
+msgstr "Το Ημερολόγιο διεγράφη επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_CALENDAR_UPDATED_SUCCESSFULLY
 #: LABEL/ID_CALENDAR_UPDATED_SUCCESSFULLY
 msgid "Your calendar has been updated successfully"
-msgstr "Your calendar has been updated successfully"
+msgstr "Το ημερολόγιό σου ενημερώθηκε επιτυχώς."
 
 # TRANSLATION
 # LABEL/ID_CANCEL
 #: LABEL/ID_CANCEL
 msgid "[LABEL/ID_CANCEL] Cancel"
-msgstr "Cancel"
+msgstr "Ακύρωση"
 
 # TRANSLATION
 # LABEL/ID_CANCELLED
 #: LABEL/ID_CANCELLED
 msgid "[LABEL/ID_CANCELLED] Cancelled"
-msgstr "Cancelled"
+msgstr "Ακυρώθηκε"
 
 # TRANSLATION
 # LABEL/ID_CANCEL_CASE
 #: LABEL/ID_CANCEL_CASE
 msgid "Cancel Case"
-msgstr "Cancel Case"
+msgstr "Περίπτωση Ακύρωσης"
 
 # TRANSLATION
 # LABEL/ID_CANCEL_NEW_NOTE
 #: LABEL/ID_CANCEL_NEW_NOTE
 msgid "Cancel New Note"
-msgstr "Cancel New Note"
+msgstr "Ακύρωση Νέας Σημείωσης "
 
 # TRANSLATION
 # LABEL/ID_CANCEL_PARTIAL_JOIN_MULTIPLE_INSTANCE
 #: LABEL/ID_CANCEL_PARTIAL_JOIN_MULTIPLE_INSTANCE
 msgid "Cancelling Partial Join for Multiple Instance"
-msgstr "Cancelling Partial Join for Multiple Instance"
+msgstr "Ακύρωση Μερικής Ένωσης για Πολλαπλό Στιγμιότυπο"
 
 # TRANSLATION
 # LABEL/ID_CANNOT_CHANGE_STATUS_ADMIN_USER
 #: LABEL/ID_CANNOT_CHANGE_STATUS_ADMIN_USER
 msgid "Can't change the status of administrator!"
-msgstr "Can't change the status of administrator!"
+msgstr "Δεν μπορείς να αλλάξεις την κατάσταση διαχειριστή!"
 
 # TRANSLATION
 # LABEL/ID_CANNOT_DELETE_ADMIN_USER
 #: LABEL/ID_CANNOT_DELETE_ADMIN_USER
 msgid "Can't delete the administrator!"
-msgstr "Can't delete the administrator!"
+msgstr "Δεν μπορείς να διαγράψεις το διαχειριστή!"
 
 # TRANSLATION
 # LABEL/ID_CANT_RESOLVE_APPLICATION
 #: LABEL/ID_CANT_RESOLVE_APPLICATION
 msgid "Can't resolve the Aplication ID for this request."
-msgstr "Can't resolve the Aplication ID for this request."
+msgstr "Δεν μπορεί να επιλύσει το  ID Εφαρμογής για αυτό το αίτημα."
 
 # TRANSLATION
 # LABEL/ID_CAN_NOT_REMOVED
 #: LABEL/ID_CAN_NOT_REMOVED
 msgid "Can not be removed"
-msgstr "Can not be removed"
+msgstr "Δεν μπορεί να αφαιρεθεί"
 
 # TRANSLATION
 # LABEL/ID_CAN_NOT_ROUTE_CASE_USING_WEBSERVICES
 #: LABEL/ID_CAN_NOT_ROUTE_CASE_USING_WEBSERVICES
 msgid "Can not route a case with Manual Assignment using webservices"
-msgstr "Can not route a case with Manual Assignment using webservices"
+msgstr "Δεν μπορεί να δρομολογήσει μια περίπτωση με Ατομική Ανάθεση υπηρεσιών ιστού"
 
 # TRANSLATION
 # LABEL/ID_CAPS_LOCK_ALERT1
 #: LABEL/ID_CAPS_LOCK_ALERT1
 msgid "Having Caps Lock on may cause you to enter your password incorrectly."
-msgstr "Having Caps Lock on may cause you to enter your password incorrectly."
+msgstr "Το ενεργοποιημένο Caps Lock μπορεί να οδηγήσει σε λανθασμένο κωδικό."
 
 # TRANSLATION
 # LABEL/ID_CAPS_LOCK_ALERT2
 #: LABEL/ID_CAPS_LOCK_ALERT2
 msgid "You should press Caps Lock to turn it off before entering your password."
-msgstr "You should press Caps Lock to turn it off before entering your password."
+msgstr "Θα πρέπει να πατήσεις το Caps Lock, για να το απενεργοποιήσεις, πριν να εισαγάγεις τον κωδικό σου."
 
 # TRANSLATION
 # LABEL/ID_CAPS_LOCK_IS_ON
 #: LABEL/ID_CAPS_LOCK_IS_ON
 msgid "Caps Lock is On"
-msgstr "Caps Lock is On"
+msgstr "Το Caps Lock είναι ενεργό"
 
 # TRANSLATION
 # LABEL/ID_CASE
 #: LABEL/ID_CASE
 msgid "Case"
-msgstr "Case"
+msgstr "Περίπτωση"
 
 # TRANSLATION
 # LABEL/ID_CASECANCEL
 #: LABEL/ID_CASECANCEL
 msgid "No actions available for this case."
-msgstr "No actions available for this case."
+msgstr "Δεν υπάρχουν διαθέσιμες ενέργειες για αυτή την περίπτωση."
 
 # TRANSLATION
 # LABEL/ID_CASEDEMO
 #: LABEL/ID_CASEDEMO
 msgid "Case Demo"
-msgstr "Case Demo"
+msgstr "Demo Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASES
 #: LABEL/ID_CASES
 msgid "HOME"
-msgstr "HOME"
+msgstr "ΑΡΧΙΚΗ"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_CURRENT_USER
 #: LABEL/ID_CASESLIST_APP_CURRENT_USER
 msgid "[LABEL/ID_CASESLIST_APP_CURRENT_USER] Current User"
-msgstr "Current User"
+msgstr "Τρέχων Χρήστης"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_DEL_INDEX
 #: LABEL/ID_CASESLIST_APP_DEL_INDEX
 msgid "Del Index"
-msgstr "Del Index"
+msgstr "Δείκτης Διαγραφής"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_DEL_PREVIOUS_USER
 #: LABEL/ID_CASESLIST_APP_DEL_PREVIOUS_USER
 msgid "Sent by"
-msgstr "Sent by"
+msgstr "Εστάλη από"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_FINISH_DATE
 #: LABEL/ID_CASESLIST_APP_FINISH_DATE
 msgid "Finish Date"
-msgstr "Finish Date"
+msgstr "Ημερομηνία Λήξης"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_NUMBER
@@ -431,185 +430,185 @@ msgstr "#"
 # LABEL/ID_CASESLIST_APP_PRO_TITLE
 #: LABEL/ID_CASESLIST_APP_PRO_TITLE
 msgid "Process"
-msgstr "Process"
+msgstr "Επεξεργασία"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_STATUS
 #: LABEL/ID_CASESLIST_APP_STATUS
 msgid "Status"
-msgstr "Status"
+msgstr "Κατάσταση"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_TAS_TITLE
 #: LABEL/ID_CASESLIST_APP_TAS_TITLE
 msgid "[LABEL/ID_CASESLIST_APP_TAS_TITLE] Task"
-msgstr "Task"
+msgstr "Λειτουργία"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_THREAD_INDEX
 #: LABEL/ID_CASESLIST_APP_THREAD_INDEX
 msgid "Thread Index"
-msgstr "Thread Index"
+msgstr "Δείκτης Thread"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_TITLE
 #: LABEL/ID_CASESLIST_APP_TITLE
 msgid "[LABEL/ID_CASESLIST_APP_TITLE] Case"
-msgstr "Case"
+msgstr "Περίπτωση"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_UID
 #: LABEL/ID_CASESLIST_APP_UID
 msgid "Case Id"
-msgstr "Case Id"
+msgstr " Id Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_APP_UPDATE_DATE
 #: LABEL/ID_CASESLIST_APP_UPDATE_DATE
 msgid "Last Modify"
-msgstr "Last Modify"
+msgstr "Τελευταία Τροποποίηση"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_DEL_INDEX
 #: LABEL/ID_CASESLIST_DEL_INDEX
 msgid "Case Index"
-msgstr "Case Index"
+msgstr "Δείκτης Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_DEL_PRIORITY
 #: LABEL/ID_CASESLIST_DEL_PRIORITY
 msgid "Priority"
-msgstr "Priority"
+msgstr "Προτεραιότητα"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_DEL_TASK_DUE_DATE
 #: LABEL/ID_CASESLIST_DEL_TASK_DUE_DATE
 msgid "Due Date"
-msgstr "Due Date"
+msgstr "Ημερομηνία Λήξης"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_COMPLETE
 #: LABEL/ID_CASESLIST_FIELD_COMPLETE
 msgid "Complete all system fields"
-msgstr "Complete all system fields"
+msgstr "Συμπλήρωσε όλα τα πεδία συστήματος"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_COMPLETE_ID
 #: LABEL/ID_CASESLIST_FIELD_COMPLETE_ID
 msgid "Complete all system fields, with the label ID for its translation"
-msgstr "Complete all system fields, with the label ID for its translation"
+msgstr "Συμπλήρωσε όλα τα πεδία συστήματος, με την επιγραφή ID για τη μετάφραση"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_LABEL_RESET
 #: LABEL/ID_CASESLIST_FIELD_LABEL_RESET
 msgid "Restart labels with system fields"
-msgstr "Restart labels with system fields"
+msgstr "Επανεκκίνηση επιγραφών με πεδία συστήματος"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_LABEL_RESET_ID
 #: LABEL/ID_CASESLIST_FIELD_LABEL_RESET_ID
 msgid "Restart labels with system fields, with the ID for its translation"
-msgstr "Restart labels with system fields, with the ID for its translation"
+msgstr "Επανεκκίνηση επιγραφών με πεδία συστήματος, με το ID για τη μετάφραση"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_RESET
 #: LABEL/ID_CASESLIST_FIELD_RESET
 msgid "Restart everything with the system fields"
-msgstr "Restart everything with the system fields"
+msgstr "Επανεκκίνηση όλων με τα πεδία συστήματος"
 
 # TRANSLATION
 # LABEL/ID_CASESLIST_FIELD_RESET_ID
 #: LABEL/ID_CASESLIST_FIELD_RESET_ID
 msgid "Restart everything with the system fields, with the ID of the label for its translation"
-msgstr "Restart everything with the system fields, with the ID of the label for its translation"
+msgstr "Επανεκκίνηση όλων με τα πεδία συστήματος, με το ID της επιγραφής για τη μετάφραση"
 
 # TRANSLATION
 # LABEL/ID_CASESREASSIGN
 #: LABEL/ID_CASESREASSIGN
 msgid "You still have cases to reassign."
-msgstr "You still have cases to reassign."
+msgstr "Έχεις ακόμη περιπτώσεις για να αναθέσεις."
 
 # TRANSLATION
 # LABEL/ID_CASES_ASSIGNED_BY
 #: LABEL/ID_CASES_ASSIGNED_BY
 msgid "Cases to be Assigned by"
-msgstr "Cases to be Assigned by"
+msgstr "Περιπτώσεις για να ανατεθούν από"
 
 # TRANSLATION
 # LABEL/ID_CASES_DATE_MASK
 #: LABEL/ID_CASES_DATE_MASK
 msgid "Date Format"
-msgstr "Date Format"
+msgstr "Μορφή Ημερομηνίας"
 
 # TRANSLATION
 # LABEL/ID_CASES_LIST_FIELDS
 #: LABEL/ID_CASES_LIST_FIELDS
 msgid "Cases List Fields"
-msgstr "Cases List Fields"
+msgstr "Πεδία Λίστας Περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASES_LIST_GRID_LOADING
 #: LABEL/ID_CASES_LIST_GRID_LOADING
 msgid "Loading Cases List, please wait..."
-msgstr "Loading Cases List, please wait..."
+msgstr "Φόρτωση της Λίστας Περιπτώσεων, παρακαλώ περίμενε..."
 
 # TRANSLATION
 # LABEL/ID_CASES_LIST_SETUP
 #: LABEL/ID_CASES_LIST_SETUP
 msgid "Cases Lists"
-msgstr "Cases Lists"
+msgstr "Λίστες Περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASES_MENU_ADMIN
 #: LABEL/ID_CASES_MENU_ADMIN
 msgid "Process Supervisor"
-msgstr "Process Supervisor"
+msgstr "Επιβλέπων Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_CASES_MENU_FOLDERS
 #: LABEL/ID_CASES_MENU_FOLDERS
 msgid "[LABEL/ID_CASES_MENU_FOLDERS] Cases"
-msgstr "Cases"
+msgstr "Περιπτώσεις"
 
 # TRANSLATION
 # LABEL/ID_CASES_MENU_SEARCH
 #: LABEL/ID_CASES_MENU_SEARCH
 msgid "Search"
-msgstr "Search"
+msgstr "Αναζήτηση"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTES
 #: LABEL/ID_CASES_NOTES
 msgid "Case Notes"
-msgstr "Case Notes"
+msgstr "Σημειώσεις Περίπτωσης"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTES_ADD
 #: LABEL/ID_CASES_NOTES_ADD
 msgid "Add new note"
-msgstr "Add new note"
+msgstr "Προσθήκη νέας σημείωσης"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTES_CANCEL
 #: LABEL/ID_CASES_NOTES_CANCEL
 msgid "Cancel this note"
-msgstr "Cancel this note"
+msgstr "Ακύρωσε τη σημείωση"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTES_NO_PERMISSIONS
 #: LABEL/ID_CASES_NOTES_NO_PERMISSIONS
 msgid "You do not have permission to cases notes"
-msgstr "You do not have permission to cases notes"
+msgstr "Δεν έχεις άδεια στις σημειώσεις περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTES_POST
 #: LABEL/ID_CASES_NOTES_POST
 msgid "Post a Note"
-msgstr "Post a Note"
+msgstr "Δημοσίευσε μια Σημείωση"
 
 # TRANSLATION
 # LABEL/ID_CASES_NOTE_POSTING
 #: LABEL/ID_CASES_NOTE_POSTING
 msgid "Posting a Note"
-msgstr "Posting a Note"
+msgstr "Δημοσίευση μιας Σημείωσης"
 
