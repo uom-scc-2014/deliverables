@@ -2,69 +2,111 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-16 14:20+0200\n"
-"Last-Translator: Μίλκου -Χατζηπαυλίδου  <milkaterina07@gmail.com>\n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
+"PO-Revision-Date: 2014-07-16 19:34+0200\n"
+"Last-Translator: Milkou - Chatzipavlidou <mis146@uom.edu.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom."
+"scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer_Encoding: 8bit\n"
-"X-Poedit-Language: Greek\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: Greek\n"
+"X-Generator: Poedit 1.5.4\n"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_1
-msgid "If any of these items is not supported (marked as No) then please take actions to correct them."
-msgstr "Αν κάποιο από αυτά τα αντικείμενα δεν υποστηρίζεται (τσεκαρισμένο ως ΟΧΙ) τότε παρακαλώ ανέλαβε δράση για να τα διορθώσεις."
+msgid ""
+"If any of these items is not supported (marked as No) then please take "
+"actions to correct them."
+msgstr ""
+"Αν κάποιο από αυτά τα αντικείμενα δεν υποστηρίζεται (τσεκαρισμένο ως ΟΧΙ) "
+"τότε παρακαλώ ανέλαβε δράση για να τα διορθώσεις."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_2
-msgid "Failure to do so could lead to your ProcessMaker! installation not functioning correctly."
-msgstr "Αποτυχία του παραπάνω μπορεί να οδηγήσει στην μη σωστή λειτουργία της εγκατάστασης του ProcessMaker."
+msgid ""
+"Failure to do so could lead to your ProcessMaker! installation not "
+"functioning correctly."
+msgstr ""
+"Αποτυχία του παραπάνω μπορεί να οδηγήσει στην μη σωστή λειτουργία της "
+"εγκατάστασης του ProcessMaker."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_1
-msgid "These settings are recommended for PHP in order to ensure full compatibility with ProcessMaker."
-msgstr "Αυτές οι ρυθμίσεις προτείνονται για PHP προκειμένου να εξασφαλιστεί η πλήρης συμβατότητα με το ProcessMaker."
+msgid ""
+"These settings are recommended for PHP in order to ensure full compatibility "
+"with ProcessMaker."
+msgstr ""
+"Αυτές οι ρυθμίσεις προτείνονται για PHP προκειμένου να εξασφαλιστεί η πλήρης "
+"συμβατότητα με το ProcessMaker."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_2
-msgid "However, ProcessMaker still operate if your settings do not quite match the recommended."
-msgstr "Παρ'όλα αυτά, το ProcessMaker λειτουργεί εάν οι ρυθμίσεις δεν συμπίπτουν με τις προτεινόμενες ."
+msgid ""
+"However, ProcessMaker still operate if your settings do not quite match the "
+"recommended."
+msgstr ""
+"Παρ'όλα αυτά, το ProcessMaker λειτουργεί εάν οι ρυθμίσεις δεν συμπίπτουν με "
+"τις προτεινόμενες ."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_1
-msgid "In order for ProcessMaker to function correctly it needs to be able to access or write to certain files or directories."
-msgstr "Το ProcessMaker για να λειτουργήσει σωστά χρειάζεται να έχει πρόσβαση ή εγγραφή σε ορισμένα αρχεία και φακέλους. "
+msgid ""
+"In order for ProcessMaker to function correctly it needs to be able to "
+"access or write to certain files or directories."
+msgstr ""
+"Το ProcessMaker για να λειτουργήσει σωστά χρειάζεται να έχει πρόσβαση ή "
+"εγγραφή σε ορισμένα αρχεία και φακέλους. "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_2
-msgid "If you see <font color=\"red\">\"unwriteable\"</font> you need to change the permissions on the file or directory to allow ProcessMaker to write to it."
-msgstr "Εάν δεις <font color=\"red\">\"unwriteable\"</font> χρείαζεται να αλλάξεις τα δικαιώματα στο αρχείο ή το φάκελο για να επιτρέψει στο ProcessMaker να γράψει σε αυτό."
+msgid ""
+"If you see <font color=\"red\">\"unwriteable\"</font> you need to change the "
+"permissions on the file or directory to allow ProcessMaker to write to it."
+msgstr ""
+"Εάν δεις <font color=\"red\">\"unwriteable\"</font> χρείαζεται να αλλάξεις "
+"τα δικαιώματα στο αρχείο ή το φάκελο για να επιτρέψει στο ProcessMaker να "
+"γράψει σε αυτό."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_1
-msgid "ProcessMaker stores all of its data in a database. This screen gives the installation program the information needed to create this database."
-msgstr "Το ProcessMaker  αποθηκεύει όλα τα δεδομένα του σε μια βάση δεδομένων. Αυτή η οθόνη δίνει στο εγκατεστημένο πρόγραμμα τις πληροφορίες που χρειάζεται για να δημιουργήσει τη βάση δεδομένων."
+msgid ""
+"ProcessMaker stores all of its data in a database. This screen gives the "
+"installation program the information needed to create this database."
+msgstr ""
+"Το ProcessMaker  αποθηκεύει όλα τα δεδομένα του σε μια βάση δεδομένων. Αυτή "
+"η οθόνη δίνει στο εγκατεστημένο πρόγραμμα τις πληροφορίες που χρειάζεται για "
+"να δημιουργήσει τη βάση δεδομένων."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_2
-msgid "If you are installing ProcessMaker on a remote web server, you will need to get this information from your Database Server."
-msgstr "Εάν κάνεις την εγκατάσταση του ProcessMaker  σε έναν απομακρυσμένο διακομιστή, θα χρειαστείς να πάρεις τις πληροφορίες από τη βάση δεδομένων του διακομιστή σου."
+msgid ""
+"If you are installing ProcessMaker on a remote web server, you will need to "
+"get this information from your Database Server."
+msgstr ""
+"Εάν κάνεις την εγκατάσταση του ProcessMaker  σε έναν απομακρυσμένο "
+"διακομιστή, θα χρειαστείς να πάρεις τις πληροφορίες από τη βάση δεδομένων "
+"του διακομιστή σου."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP5
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP5
-msgid "ProcessMaker uses a workspaces to store data. Please select a valid workspace name and credentials to log in it."
-msgstr "Το ProcessMaker χρησιμοποιεί μια επιφάνεια εργασίας για να αποθηκεύσει δεδομένα. Παρακαλώ επέλεξε ένα έγκυρο όνομα επιφάνειας εργασίας και διαπηστευτήρια για να συνδεθείς σε αυτό."
+msgid ""
+"ProcessMaker uses a workspaces to store data. Please select a valid "
+"workspace name and credentials to log in it."
+msgstr ""
+"Το ProcessMaker χρησιμοποιεί μια επιφάνεια εργασίας για να αποθηκεύσει "
+"δεδομένα. Παρακαλώ επέλεξε ένα έγκυρο όνομα επιφάνειας εργασίας και "
+"διαπηστευτήρια για να συνδεθείς σε αυτό."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP6
@@ -153,32 +195,46 @@ msgstr "Αυτή η Επιχειρηματική Διαδικασία υποστ
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_SUCCESS_INSTALLED
 #: LABEL/ID_PROCESSMAKER_SUCCESS_INSTALLED
-msgid "ProcessMaker was successfully installed<br/>Workspace <b>\" {0} \" </b> was installed correctly."
-msgstr "ProcessMaker εγκαταστάθηκε επιτυχώς <br/>Workspace <b>\" {0} \" </b> εγκαταστάθηκε σωστά."
+msgid ""
+"ProcessMaker was successfully installed<br/>Workspace <b>\" {0} \" </b> was "
+"installed correctly."
+msgstr ""
+"Το  ProcessMaker εγκαταστάθηκε επιτυχώς <br/>Workspace <b>\" {0} \" </b> "
+"εγκαταστάθηκε σωστά. "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_UI_NOT_INSTALL
 #: LABEL/ID_PROCESSMAKER_UI_NOT_INSTALL
-msgid "The new ProcessMaker UI couldn't be applied on installation, you can enable it after from Admin->System settings."
-msgstr "Το νέο ProcessMaker UI δεν εφαρμόστηκε στην εγκατάσταση, μπορείς να το ενεργοποιήσεις μετά από το Διαχειριστής->Ρυθμίσεις συστήματος."
+msgid ""
+"The new ProcessMaker UI couldn't be applied on installation, you can enable "
+"it after from Admin->System settings."
+msgstr ""
+"Το νέο ProcessMaker UI δεν εφαρμόστηκε στην εγκατάσταση, μπορείς να το "
+"ενεργοποιήσεις μετά από το Διαχειριστής->Ρυθμίσεις συστήματος."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_VALIDATION
 #: LABEL/ID_PROCESSMAKER_VALIDATION
-msgid "Please insert a valid processmaker user name and password, in order to assign the case to their respective owner."
-msgstr "Please insert a valid processmaker user name and password, in order to assign the case to their respective owner."
+msgid ""
+"Please insert a valid processmaker user name and password, in order to "
+"assign the case to their respective owner."
+msgstr ""
+"Παρακαλώ εισάγεται ένα έγκυρο processmaker όνομα χρήστη και κωδικό "
+"πρόσβασης, προκειμένου να αναθέσεις την υπόθεση στον σεβαστό κάτοχο."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_WRITE_CONFIG_INDEX
 #: LABEL/ID_PROCESSMAKER_WRITE_CONFIG_INDEX
 msgid "ProcessMaker couldn't write on configuration file: {0}<br/>"
-msgstr "ProcessMaker couldn't write on configuration file: {0}<br/>"
+msgstr "Το ProcessMaker δε μπόρεσε να γράψει στο αρχείο διαμόρφωσης: {0}<br/>"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE
 #: LABEL/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE
-msgid "[LABEL/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE] Are you sure you want to delete this calendar?"
-msgstr "Are you sure you want to delete this calendar?"
+msgid ""
+"[LABEL/ID_PROCESSMAP_CALENDAR_CONFIRM_DELETE] Are you sure you want to "
+"delete this calendar?"
+msgstr "Είστε σίγουρος πως θέλετε να διαγράψετε αυτό το ημερολόγιο;"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_DYNAFORMS
@@ -190,425 +246,442 @@ msgstr "DynaForms"
 # LABEL/ID_PROCESSMAP_EVALUATION
 #: LABEL/ID_PROCESSMAP_EVALUATION
 msgid "[LABEL/ID_PROCESSMAP_EVALUATION] Evaluation"
-msgstr "Evaluation"
+msgstr "Διακλάδωση και επιλογή βάσει κριτηρίων "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_MESSAGES
 #: LABEL/ID_PROCESSMAP_MESSAGES
 msgid "[LABEL/ID_PROCESSMAP_MESSAGES] Messages"
-msgstr "Messages"
+msgstr "Μηνύματα"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK
 #: LABEL/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK
-msgid "[LABEL/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK] Parallel by Evaluation (fork)"
-msgstr "Parallel by Evaluation (fork)"
+msgid ""
+"[LABEL/ID_PROCESSMAP_PARALLEL_EVALUATION_FORK] Parallel by Evaluation (fork)"
+msgstr "Παράλληλη εκτέλεση εργασιών βάσει κριτηρίων  (fork)"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_PARALLEL_FORK
 #: LABEL/ID_PROCESSMAP_PARALLEL_FORK
 msgid "[LABEL/ID_PROCESSMAP_PARALLEL_FORK] Parallel (fork)"
-msgstr "Parallel (fork)"
+msgstr " Παράλληλη εκτέλεση εργασιών (fork)"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_PARALLEL_JOIN
 #: LABEL/ID_PROCESSMAP_PARALLEL_JOIN
 msgid "[LABEL/ID_PROCESSMAP_PARALLEL_JOIN] Parallel (join)"
-msgstr "Parallel (join)"
+msgstr "Συνένωση παράλληλων εργασιών (join)"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_SELECTION
 #: LABEL/ID_PROCESSMAP_SELECTION
 msgid "[LABEL/ID_PROCESSMAP_SELECTION] Selection"
-msgstr "Selection"
+msgstr "Διακλάδωση απλής επιλογής "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_SEQUENTIAL
 #: LABEL/ID_PROCESSMAP_SEQUENTIAL
 msgid "[LABEL/ID_PROCESSMAP_SEQUENTIAL] Sequential"
-msgstr "Sequential"
+msgstr "Σειριακή σύνδεση"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAP_TITLE
 #: LABEL/ID_PROCESSMAP_TITLE
 msgid "BPMN Designer"
-msgstr "BPMN Designer"
+msgstr " Σχεδιαστής BPMN"
 
 # TRANSLATION
 # LABEL/ID_PROCESSNAME_ALREADY_EXISTS
 #: LABEL/ID_PROCESSNAME_ALREADY_EXISTS
 msgid "The Process Name already exists!"
-msgstr "The Process Name already exists!"
+msgstr "Το Όνομα Διαδικασίας ήδη υπάρχει!"
 
 # TRANSLATION
 # LABEL/ID_PROCESSTITLE_ALREADY_EXISTS
 #: LABEL/ID_PROCESSTITLE_ALREADY_EXISTS
 msgid "The Process Title \"{PRO_TITLE}\" already exists!"
-msgstr "The Process Title \"{PRO_TITLE}\" already exists!"
+msgstr "Ο Τίτλος Διαδικασίας \"{PRO_TITLE}\" ήδη υπάρχει!"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_ALREADY_IN_SYSTEM
 #: LABEL/ID_PROCESS_ALREADY_IN_SYSTEM
-msgid "The process is already in the System and the value for importOption is not specified."
-msgstr "The process is already in the System and the value for importOption is not specified."
+msgid ""
+"The process is already in the System and the value for importOption is not "
+"specified."
+msgstr ""
+"Η διαδικασία βρίσκεται ήδη στο σύστημα και η τιμή επιλογήΕισαγωγής δεν "
+"διευκρινίζεται."
 
 # TRANSLATION
 # LABEL/ID_PROCESS_CANT_DELETE
 #: LABEL/ID_PROCESS_CANT_DELETE
 msgid "You can't delete the process \"{0}\" because it has {1} cases."
-msgstr "You can't delete the process \"{0}\" because it has {1} cases."
+msgstr ""
+"Η διαδικασία δε μπορεί να διαγραφεί  \"{0}\" επειδή υπάρχουν {1} υποθέσεις."
 
 # TRANSLATION
 # LABEL/ID_PROCESS_CATEGORY
 #: LABEL/ID_PROCESS_CATEGORY
 msgid "Process Categories"
-msgstr "Process Categories"
+msgstr "Κατηγορίες Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_DEF_PROBLEM
 #: LABEL/ID_PROCESS_DEF_PROBLEM
-msgid "There is a problem in the process definition and/or an exception error occurred."
-msgstr "There is a problem in the process definition and/or an exception error occurred."
+msgid ""
+"There is a problem in the process definition and/or an exception error "
+"occurred."
+msgstr ""
+"Υπάρχει ένα πρόβλημα στον προσδιορισμό της διαδικασίας και/ή ένα λάθος "
+"εξαίρεσης έχει προκύψει."
 
 # TRANSLATION
 # LABEL/ID_PROCESS_DELETE_ALL_LABEL
 #: LABEL/ID_PROCESS_DELETE_ALL_LABEL
 msgid "Do you want to delete all selected processes?"
-msgstr "Do you want to delete all selected processes?"
+msgstr "Θέλετε να διαγράψετε όλες τις επιλεγμένες διαδικασιές;"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_DELETE_LABEL
 #: LABEL/ID_PROCESS_DELETE_LABEL
 msgid "Do you want to delete the selected process?"
-msgstr "Do you want to delete the selected process?"
+msgstr "Θέλετε να διαγράψετε την επιλεγμένη διαδικασία;"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_DETAILS
 #: LABEL/ID_PROCESS_DETAILS
 msgid "Process Details"
-msgstr "Process Details"
+msgstr "Λεπτομέρειες Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_EXIST_SOME_GROUP
 #: LABEL/ID_PROCESS_EXIST_SOME_GROUP
-msgid "Some of the groups that are you trying to import, already exists. Please select one of the following options to continue"
-msgstr "Some of the groups that are you trying to import, already exists. Please select one of the following options to continue"
+msgid ""
+"Some of the groups that are you trying to import, already exists. Please "
+"select one of the following options to continue"
+msgstr ""
+"Μερικές από τις ομάδες που προσπαθείτε να εισάγετε, ήδη υπάρχουν. Παρακαλώ "
+"επιλέξτε μία από τις παρακάτω επιλογές για να συνεχίσετε."
 
 # TRANSLATION
 # LABEL/ID_PROCESS_FILE_MANAGER
 #: LABEL/ID_PROCESS_FILE_MANAGER
 msgid "Process File Manager"
-msgstr "Process File Manager"
+msgstr "Διαχείριση Αρχείου Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_GROUP_MERGE_PREEXISTENT
 #: LABEL/ID_PROCESS_GROUP_MERGE_PREEXISTENT
-msgid "Merge the imported groups, with the preexistent local groups (no changes will be made to the local groups)"
-msgstr "Merge the imported groups, with the preexistent local groups (no changes will be made to the local groups)"
+msgid ""
+"Merge the imported groups, with the preexistent local groups (no changes "
+"will be made to the local groups)"
+msgstr ""
+"Συγχώνευσε τις ομάδες που έχουν εισαχθεί με τις ήδη υπάρχοντες τοπικές "
+"ομάδες (δε θα γίνουν αλλαγές στις τοπικές ομάδες)"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_GROUP_RENAME
 #: LABEL/ID_PROCESS_GROUP_RENAME
 msgid "Rename the imported groups"
-msgstr "Rename the imported groups"
+msgstr "Μετονόμασε τις ομάδες που έχουν εισαχθεί"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_ID
 #: LABEL/ID_PROCESS_ID
 msgid "Process ID"
-msgstr "Process ID"
+msgstr "Αναγνωριστικό Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_INFORMATION
 #: LABEL/ID_PROCESS_INFORMATION
 msgid "[LABEL/ID_PROCESS_INFORMATION] Process Information"
-msgstr "Process Information"
+msgstr "Πληροφορίες Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_MAP
 #: LABEL/ID_PROCESS_MAP
 msgid "[LABEL/ID_PROCESS_MAP] Process Map"
-msgstr "Process Map"
+msgstr "Χάρτης Διαδιακασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_NOCATEGORY
 #: LABEL/ID_PROCESS_NOCATEGORY
 msgid "No Category"
-msgstr "No Category"
+msgstr "Χωρίς Κατηγορία"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_NO_CATEGORY
 #: LABEL/ID_PROCESS_NO_CATEGORY
 msgid "[LABEL/ID_PROCESS_NO_CATEGORY] No Category"
-msgstr "No Category"
+msgstr "Χωρίς Κατηγορία"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_NO_EXIST
 #: LABEL/ID_PROCESS_NO_EXIST
 msgid "Process doesn't exist!"
-msgstr "Process doesn't exist!"
+msgstr "Η διαδικασία δεν υπάρχει!"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_PERMISSIONS
 #: LABEL/ID_PROCESS_PERMISSIONS
 msgid "[LABEL/ID_PROCESS_PERMISSIONS] Process Permissions"
-msgstr "Process Permissions"
+msgstr "Δικαιώματα Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_PERMISSIONS_CREATE
 #: LABEL/ID_PROCESS_PERMISSIONS_CREATE
 msgid "Process Permission created successfully"
-msgstr "Process Permission created successfully"
+msgstr "Το Δικαίωμα Διαδικασίας δημιουργήθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_PERMISSIONS_EDIT
 #: LABEL/ID_PROCESS_PERMISSIONS_EDIT
 msgid "Process Permission edited successfully"
-msgstr "Process Permission edited successfully"
+msgstr "Το Δικαίωμα Διαδικασίας επεξεργάστηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_SAVE
 #: LABEL/ID_PROCESS_SAVE
 msgid "Process Save"
-msgstr "Process Save"
+msgstr "Αποθήκευση Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_SAVE_SUCCESS
 #: LABEL/ID_PROCESS_SAVE_SUCCESS
 msgid "The process was saved successfully!"
-msgstr "The process was saved successfully!"
+msgstr "Η διαδικασία αποθηκεύτηκε επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_SUCESSFULLY_IMPORTED
 #: LABEL/ID_PROCESS_SUCESSFULLY_IMPORTED
 msgid "Process sucessfully imported"
-msgstr "Process sucessfully imported"
+msgstr "Η διαδικασία εισήχθει επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_TITLE_REQUIRED
 #: LABEL/ID_PROCESS_TITLE_REQUIRED
 msgid "Process Title is required."
-msgstr "Process Title is required."
+msgstr "Απαιτείται ο Τίτλος Διαδικασίας."
 
 # TRANSLATION
 # LABEL/ID_PROCESS_UID
 #: LABEL/ID_PROCESS_UID
 msgid "Process Uid"
-msgstr "Process Uid"
+msgstr "Uid Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_UID_NOT_DEFINED
 #: LABEL/ID_PROCESS_UID_NOT_DEFINED
 msgid "the process uid is not defined!"
-msgstr "the process uid is not defined!"
+msgstr "το uid διαδικασίας δεν έχει προσδιοριστεί!"
 
 # TRANSLATION
 # LABEL/ID_PROCESS_WAS_NOT_SET
 #: LABEL/ID_PROCESS_WAS_NOT_SET
 msgid "The Process ID was not set!"
-msgstr "The Process ID was not set!"
+msgstr "Το Αναγνωριστικό Διαδικασίας δεν έχει τεθεί!"
 
 # TRANSLATION
 # LABEL/ID_PROFILE
 #: LABEL/ID_PROFILE
 msgid "Profile"
-msgstr "Profile"
+msgstr "Προφίλ"
 
 # TRANSLATION
 # LABEL/ID_PROJECT_DOWNLOAD_CORRECTLY
 #: LABEL/ID_PROJECT_DOWNLOAD_CORRECTLY
 msgid "Project Downloaded correctly."
-msgstr "Project Downloaded correctly."
+msgstr "Το Έργο Κατέβηκε σωστά."
 
 # TRANSLATION
 # LABEL/ID_PROJECT_PUBLISHED_CORRECTLY
 #: LABEL/ID_PROJECT_PUBLISHED_CORRECTLY
 msgid "Project has been published correctly."
-msgstr "Project has been published correctly."
+msgstr "Το Έργο δημοσιεύτηκε σωστά."
 
 # TRANSLATION
 # LABEL/ID_PROJECT_SHARED_CORRECTLY
 #: LABEL/ID_PROJECT_SHARED_CORRECTLY
 msgid "Project has been shared correctly."
-msgstr "Project has been shared correctly."
+msgstr "Το Έργο διαμοιράστηκε σωστά."
 
 # TRANSLATION
 # LABEL/ID_PROJECT_WAS_NOT_SET
 #: LABEL/ID_PROJECT_WAS_NOT_SET
 msgid "The Project ID was not set!"
-msgstr "The Project ID was not set!"
+msgstr "Το Αναγνωριστικό Έργου δεν έχει τεθεί!"
 
 # TRANSLATION
 # LABEL/ID_PROPERTIES
 #: LABEL/ID_PROPERTIES
 msgid "[LABEL/ID_PROPERTIES] Properties"
-msgstr "Properties"
+msgstr "Ιδιότητες"
 
 # TRANSLATION
 # LABEL/ID_PROVIDER
 #: LABEL/ID_PROVIDER
 msgid "Provider"
-msgstr "Provider"
+msgstr "Πάροχος"
 
 # TRANSLATION
 # LABEL/ID_PROXY_HOST
 #: LABEL/ID_PROXY_HOST
 msgid "[LABEL/ID_PROXY_HOST] Host"
-msgstr "Host"
+msgstr "Πελάτης"
 
 # TRANSLATION
 # LABEL/ID_PROXY_PASSWORD
 #: LABEL/ID_PROXY_PASSWORD
 msgid "[LABEL/ID_PROXY_PASSWORD] Password"
-msgstr "Password"
+msgstr "Κωδικός Πρόσβασης"
 
 # TRANSLATION
 # LABEL/ID_PROXY_PORT
 #: LABEL/ID_PROXY_PORT
 msgid "[LABEL/ID_PROXY_PORT] Port"
-msgstr "Port"
+msgstr "Θύρα"
 
 # TRANSLATION
 # LABEL/ID_PROXY_SETTINGS
 #: LABEL/ID_PROXY_SETTINGS
 msgid "Proxy Settings"
-msgstr "Proxy Settings"
+msgstr "Ρυθμίσεις διακομιστή μεσολάβησης"
 
 # TRANSLATION
 # LABEL/ID_PROXY_USER
 #: LABEL/ID_PROXY_USER
 msgid "[LABEL/ID_PROXY_USER] User"
-msgstr "User"
+msgstr "Χρήστης"
 
 # TRANSLATION
 # LABEL/ID_PRO_CREATE_DATE
 #: LABEL/ID_PRO_CREATE_DATE
 msgid "[LABEL/ID_PRO_CREATE_DATE] Create Date"
-msgstr "Create Date"
+msgstr "Δημιούργησε Ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_PRO_DEBUG
 #: LABEL/ID_PRO_DEBUG
 msgid "Debug"
-msgstr "Debug"
+msgstr "Εντοπισμός και απομάκρυνση λαθών"
 
 # TRANSLATION
 # LABEL/ID_PRO_DESCRIPTION
 #: LABEL/ID_PRO_DESCRIPTION
 msgid "Process Description"
-msgstr "Process Description"
+msgstr "Περιγραφή Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PRO_TITLE
 #: LABEL/ID_PRO_TITLE
 msgid "Process Title"
-msgstr "Process Title"
+msgstr "Τίτλος Διαδικασίας"
 
 # TRANSLATION
 # LABEL/ID_PRO_USER
 #: LABEL/ID_PRO_USER
 msgid "User Owner"
-msgstr "User Owner"
+msgstr "Κάτοχος Χρήστης"
 
 # TRANSLATION
 # LABEL/ID_PUBLIC
 #: LABEL/ID_PUBLIC
 msgid "Public"
-msgstr "Public"
+msgstr "Δημόσιο"
 
 # TRANSLATION
 # LABEL/ID_PUBLIC_INDEX_FILE
 #: LABEL/ID_PUBLIC_INDEX_FILE
 msgid "Public Index file"
-msgstr "Public Index file"
+msgstr "Δημόσιο Ευρετήριο αρχείων"
 
 # TRANSLATION
 # LABEL/ID_QUERY
 #: LABEL/ID_QUERY
 msgid "Query"
-msgstr "Query"
+msgstr "Ερώτηση / Αίτημα"
 
 # TRANSLATION
 # LABEL/ID_RATING
 #: LABEL/ID_RATING
 msgid "Rating"
-msgstr "Rating"
+msgstr "Βαθμολογία"
 
 # TRANSLATION
 # LABEL/ID_RBAC_DATABASE
 #: LABEL/ID_RBAC_DATABASE
 msgid "Rbac Database"
-msgstr "Rbac Database"
+msgstr "Rbac Βάση Δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_RBAC_DATABASE_NAME
 #: LABEL/ID_RBAC_DATABASE_NAME
 msgid "Please enter the Rbac Database Name."
-msgstr "Please enter the Rbac Database Name."
+msgstr "Παρακαλώ εισάγετε το όνομα της Rbac Βάσης Δεδομένων."
 
 # TRANSLATION
 # LABEL/ID_RB_DATABASE_NAME
 #: LABEL/ID_RB_DATABASE_NAME
 msgid "Rbac Database Name"
-msgstr "Rbac Database Name"
+msgstr "Όνομα Rbac Βάσης Δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_REACTIVATE
 #: LABEL/ID_REACTIVATE
 msgid "Reactivate"
-msgstr "Reactivate"
+msgstr "Επανενεργοποίηση"
 
 # TRANSLATION
 # LABEL/ID_REACTIVATING_CASE
 #: LABEL/ID_REACTIVATING_CASE
 msgid "Reactivating case..."
-msgstr "Reactivating case..."
+msgstr "Επανενεργοποίηση περίπτωσης..."
 
 # TRANSLATION
 # LABEL/ID_READ_ONLINE_DOCUMENTATION
 #: LABEL/ID_READ_ONLINE_DOCUMENTATION
 msgid "Read Online Documentation"
-msgstr "Read Online Documentation"
+msgstr "Διαβάστε Διαδικτυακή Τεκμηρίωση"
 
 # TRANSLATION
 # LABEL/ID_REALLY_SHOULD
 #: LABEL/ID_REALLY_SHOULD
 msgid "You really should do it"
-msgstr "You really should do it"
+msgstr "Πρέπει να το κάνεις"
 
 # TRANSLATION
 # LABEL/ID_REASSIGN
 #: LABEL/ID_REASSIGN
 msgid "Reassign"
-msgstr "Reassign"
+msgstr "Επανεκχώρηση"
 
 # TRANSLATION
 # LABEL/ID_REASSIGNED
 #: LABEL/ID_REASSIGNED
 msgid "Reassigned"
-msgstr "Reassigned"
+msgstr "Επανεκχωρημένος"
 
 # TRANSLATION
 # LABEL/ID_REASSIGNED_TO
 #: LABEL/ID_REASSIGNED_TO
 msgid "Reassigned to"
-msgstr "Reassigned to"
+msgstr "Επανεκχωρημένος σε"
 
 # TRANSLATION
 # LABEL/ID_REASSIGNMENT
 #: LABEL/ID_REASSIGNMENT
 msgid "REASSIGNMENT"
-msgstr "REASSIGNMENT"
+msgstr "ΑΝΑΤΟΠΟΘΕΤΗΣΗ"
 
 # TRANSLATION
 # LABEL/ID_REASSIGNMENT_SUCCESS
 #: LABEL/ID_REASSIGNMENT_SUCCESS
 msgid "The case #{APP_NUMBER} was reassigned to user {USER} successfully!"
-msgstr "The case #{APP_NUMBER} was reassigned to user {USER} successfully!"
+msgstr "Η Περίπτωση #{APP_NUMBER} ανατέθηκε στο χρήστη {ΧΡΗΣΤΗΣ} επιτυχώς!"
 
 # TRANSLATION
 # LABEL/ID_REASSIGN_ALL_CASES_BY_TASK
 #: LABEL/ID_REASSIGN_ALL_CASES_BY_TASK
 msgid "Reassign All Cases by Task"
-msgstr "Reassign All Cases by Task"
-
+msgstr "Ανάθεσε εκ νέου όλες τις Περιπτώσεις ανά Γεγονός"
