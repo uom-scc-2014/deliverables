@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-07-16 14:19+0200\n"
+"Last-Translator: ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ <diparaske@gmail.com>\n"
 "Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,181 +16,181 @@ msgstr ""
 # LABEL/ID_GRID_PAGE_NO_DASHLET_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_DASHLET_MESSAGE
 msgid "No dashlets instances to display."
-msgstr "No dashlets instances to display."
+msgstr "Δεν υπάρχουν αναφορες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_EMAIL_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_EMAIL_MESSAGE
 msgid "No Emails to display"
-msgstr "No Emails to display"
+msgstr "Δεν υπάρχουν διευθύνσεις ηλεκτρονικού ταχυδρομείου για εμφάνιση "
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_EVENT_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_EVENT_MESSAGE
 msgid "No Events to display"
-msgstr "No Events to display"
+msgstr "Δεν υπάρχουν γεγονότα για εμφάνιση "
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_GROUPS_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_GROUPS_MESSAGE
 msgid "No groups to display"
-msgstr "No groups to display"
+msgstr "Δεν υπάρχουν ομάδες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_PERMISSIONS_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_PERMISSIONS_MESSAGE
 msgid "No Permissions to display"
-msgstr "No Permissions to display"
+msgstr "Δεν υπάρχουν άδειες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_PMTABLES_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_PMTABLES_MESSAGE
 msgid "No PM Tables to display"
-msgstr "No PM Tables to display"
+msgstr "Δεν υπάρχουν  PM πίνακες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_ROLES_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_ROLES_MESSAGE
 msgid "No roles to display"
-msgstr "No roles to display"
+msgstr "Δεν υπάρχουν κανόνες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_ROWS_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_ROWS_MESSAGE
 msgid "No rows to display"
-msgstr "No rows to display"
+msgstr "Δεν υπάρχουν γραμμές για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_SKIN_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_SKIN_MESSAGE
 msgid "No skins to display"
-msgstr "No skins to display"
+msgstr "Δεν υπάρχουν θέματα για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_PAGE_NO_USERS_MESSAGE
 #: LABEL/ID_GRID_PAGE_NO_USERS_MESSAGE
 msgid "No users to display"
-msgstr "No users to display"
+msgstr "Δεν υπάρχουν χρήστες για εμφάνιση"
 
 # TRANSLATION
 # LABEL/ID_GRID_WIZARD
 #: LABEL/ID_GRID_WIZARD
 msgid "ProcessMaker Grid Wizard"
-msgstr "ProcessMaker Grid Wizard"
+msgstr "ProcessMaker οδηγός πλέγματος"
 
 # TRANSLATION
 # LABEL/ID_GROUP
 #: LABEL/ID_GROUP
 msgid "[LABEL/ID_GROUP] Group"
-msgstr "Group"
+msgstr "Ομάδα"
 
 # TRANSLATION
 # LABEL/ID_GROUPS
 #: LABEL/ID_GROUPS
 msgid "Groups"
-msgstr "Groups"
+msgstr "Ομάδες"
 
 # TRANSLATION
 # LABEL/ID_GROUPS_ACTORS
 #: LABEL/ID_GROUPS_ACTORS
 msgid "Groups Actors"
-msgstr "Groups Actors"
+msgstr "Ομάδες συμμετεχόντων"
 
 # TRANSLATION
 # LABEL/ID_GROUPS_SUCCESS_DELETE
 #: LABEL/ID_GROUPS_SUCCESS_DELETE
 msgid "Your group has been deleted correctly."
-msgstr "Your group has been deleted correctly."
+msgstr "Η ομάδα σας έχει διαγραφεί με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_GROUPS_SUCCESS_NEW
 #: LABEL/ID_GROUPS_SUCCESS_NEW
 msgid "Group has been created correctly."
-msgstr "Group has been created correctly."
+msgstr "Η Ομάδα δημιουργήθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_GROUPS_SUCCESS_UPDATE
 #: LABEL/ID_GROUPS_SUCCESS_UPDATE
 msgid "Group has been updated correctly."
-msgstr "Group has been updated correctly."
+msgstr "Η Ομάδα ενημερώθηκε με επιτυχία"
 
 # TRANSLATION
 # LABEL/ID_GROUPS_SYNCHRONIZE
 #: LABEL/ID_GROUPS_SYNCHRONIZE
 msgid "Synchronize Groups"
-msgstr "Synchronize Groups"
+msgstr "Συντονισμός Ομάδων"
 
 # TRANSLATION
 # LABEL/ID_GROUP_CHART
 #: LABEL/ID_GROUP_CHART
 msgid "Group Chart"
-msgstr "Group Chart"
+msgstr "Ομαδικό γράφημα"
 
 # TRANSLATION
 # LABEL/ID_GROUP_CREATED_SUCCESSFULLY
 #: LABEL/ID_GROUP_CREATED_SUCCESSFULLY
 msgid "Group {GROUP_NAME} created successfully"
-msgstr "Group {GROUP_NAME} created successfully"
+msgstr "Ομάδα{GROUP_NAME} δημιουργήθηκε με επιτυχια"
 
 # TRANSLATION
 # LABEL/ID_GROUP_INACTIVE
 #: LABEL/ID_GROUP_INACTIVE
 msgid "Group inactive"
-msgstr "Group inactive"
+msgstr "Μη ενεργή ομάδα"
 
 # TRANSLATION
 # LABEL/ID_GROUP_NAME
 #: LABEL/ID_GROUP_NAME
 msgid "Group Name"
-msgstr "Group Name"
+msgstr "Όνομα ομάδας"
 
 # TRANSLATION
 # LABEL/ID_GROUP_NAME_REQUIRED
 #: LABEL/ID_GROUP_NAME_REQUIRED
 msgid "Group name is required"
-msgstr "Group name is required"
+msgstr "Το όνομα ομάδας απαιτείται"
 
 # TRANSLATION
 # LABEL/ID_GROUP_NOT_REGISTERED_SYSTEM
 #: LABEL/ID_GROUP_NOT_REGISTERED_SYSTEM
 msgid "Group not registered in the system"
-msgstr "Group not registered in the system"
+msgstr "Η ομάδα δεν είναι καταχωρημένη στο σύστημα"
 
 # TRANSLATION
 # LABEL/ID_GROUP_USERS
 #: LABEL/ID_GROUP_USERS
 msgid "Group or Users"
-msgstr "Group or Users"
+msgstr "Ομάδα ή Χρήστες"
 
 # TRANSLATION
 # LABEL/ID_HAS_BEEN_DELETED
 #: LABEL/ID_HAS_BEEN_DELETED
 msgid "Has been deleted"
-msgstr "Has been deleted"
+msgstr "Διαγράφηκε"
 
 # TRANSLATION
 # LABEL/ID_HEADER_ALIGN
 #: LABEL/ID_HEADER_ALIGN
 msgid "Align"
-msgstr "Align"
+msgstr "Στοίχιση"
 
 # TRANSLATION
 # LABEL/ID_HEADER_FIELD_NAME
 #: LABEL/ID_HEADER_FIELD_NAME
 msgid "[LABEL/ID_HEADER_FIELD_NAME] Field Name"
-msgstr "Field Name"
+msgstr "Όνομα πεδίου"
 
 # TRANSLATION
 # LABEL/ID_HEADER_FIELD_TYPE
 #: LABEL/ID_HEADER_FIELD_TYPE
 msgid "Field Type"
-msgstr "Field Type"
+msgstr "Τύπος πεδίου"
 
 # TRANSLATION
 # LABEL/ID_HEADER_LABEL
 #: LABEL/ID_HEADER_LABEL
 msgid "Label"
-msgstr "Label"
+msgstr "Ετικέτα "
 
 # TRANSLATION
 # LABEL/ID_HEADER_NUMBER
@@ -203,115 +202,115 @@ msgstr "#"
 # LABEL/ID_HEADER_WIDTH
 #: LABEL/ID_HEADER_WIDTH
 msgid "Width"
-msgstr "Width"
+msgstr "Μήκος"
 
 # TRANSLATION
 # LABEL/ID_HEARTBEAT_CONFIG
 #: LABEL/ID_HEARTBEAT_CONFIG
 msgid "Heart Beat"
-msgstr "Heart Beat"
+msgstr "Χτύπος καρδιάς"
 
 # TRANSLATION
 # LABEL/ID_HEARTBEAT_DISPLAY
 #: LABEL/ID_HEARTBEAT_DISPLAY
 msgid "[LABEL/ID_HEARTBEAT_DISPLAY] Heart Beat"
-msgstr "Heart Beat"
+msgstr "Χτύπος καρδιάς"
 
 # TRANSLATION
 # LABEL/ID_HEART_BEAT_DETAILS_1
 #: LABEL/ID_HEART_BEAT_DETAILS_1
 msgid "The usage statistics will help the development team to better understand user requirements and prioritize improvements in future releases."
-msgstr "The usage statistics will help the development team to better understand user requirements and prioritize improvements in future releases."
+msgstr "Τα στατιστικά στοιχεία χρήσης θα βοηθήσει την ομάδα ανάπτυξης να κατανοήσουν καλύτερα τις ανάγκες των χρηστών και να δώσουν προτεραιότητα στη βελτίωση σε μελλοντικές εκδόσεις."
 
 # TRANSLATION
 # LABEL/ID_HEART_BEAT_DETAILS_2
 #: LABEL/ID_HEART_BEAT_DETAILS_2
 msgid "We cannot and will not reverse-engineer that collected data to find specific details concerning your projects."
-msgstr "We cannot and will not reverse-engineer that collected data to find specific details concerning your projects."
+msgstr "Δεν μπορούμε και δεν θα αντιστρέψει-μηχανικός που συνέλεξε τα δεδομένα για να βρουν συγκεκριμένες λεπτομέρειες σχετικά με τα έργα σας."
 
 # TRANSLATION
 # LABEL/ID_HEART_BEAT_DISABLED
 #: LABEL/ID_HEART_BEAT_DISABLED
 msgid "Heart beat has been disabled"
-msgstr "Heart beat has been disabled"
+msgstr "Ο χτύπος καρδιάς απενεργοποιήθηκε"
 
 # TRANSLATION
 # LABEL/ID_HEART_BEAT_ENABLED
 #: LABEL/ID_HEART_BEAT_ENABLED
 msgid "Heart beat has been enabled"
-msgstr "Heart beat has been enabled"
+msgstr "Ο χτύπος καρδιάς ενεργοποιήθηκε"
 
 # TRANSLATION
 # LABEL/ID_HIDE
 #: LABEL/ID_HIDE
 msgid "Hide"
-msgstr "Hide"
+msgstr "Κρύψε"
 
 # TRANSLATION
 # LABEL/ID_HIDE_PROCESS_INF
 #: LABEL/ID_HIDE_PROCESS_INF
 msgid "Hide Process Information"
-msgstr "Hide Process Information"
+msgstr "Κρύψε Πληροφορίες Διεργασίας "
 
 # TRANSLATION
 # LABEL/ID_HISTORY
 #: LABEL/ID_HISTORY
 msgid "My Case History"
-msgstr "My Case History"
+msgstr "Το Ιστορικό της υπόθεσής μου"
 
 # TRANSLATION
 # LABEL/ID_HISTORY_MESSAGES
 #: LABEL/ID_HISTORY_MESSAGES
 msgid "My History Messages"
-msgstr "My History Messages"
+msgstr "Ιστορικό μηνυμάτων μου"
 
 # TRANSLATION
 # LABEL/ID_HISTORY_MESSAGE_CASE
 #: LABEL/ID_HISTORY_MESSAGE_CASE
 msgid "[LABEL/ID_HISTORY_MESSAGE_CASE] Messages History"
-msgstr "Messages History"
+msgstr "Ιστορικό μηνυμάτων"
 
 # TRANSLATION
 # LABEL/ID_HOLIDAYS
 #: LABEL/ID_HOLIDAYS
 msgid "Holidays"
-msgstr "Holidays"
+msgstr "Διακοπές"
 
 # TRANSLATION
 # LABEL/ID_HOME
 #: LABEL/ID_HOME
 msgid "Home"
-msgstr "Home"
+msgstr "Αρχική"
 
 # TRANSLATION
 # LABEL/ID_HOME_COLLAPSE_RIGHT_PANEL
 #: LABEL/ID_HOME_COLLAPSE_RIGHT_PANEL
 msgid "Collapse right panel when a Case is open"
-msgstr "Collapse right panel when a Case is open"
+msgstr "Κλείσε το δεξιό πάνελ όταν η Υπόθεση είναι ανοικτή "
 
 # TRANSLATION
 # LABEL/ID_HOME_LISTS_DATE_FORMAT
 #: LABEL/ID_HOME_LISTS_DATE_FORMAT
 msgid "Date format on Lists"
-msgstr "Date format on Lists"
+msgstr "Μορφοποίηση ημερομηνίας σε λίστες"
 
 # TRANSLATION
 # LABEL/ID_HOME_LISTS_ROWS_PER_PAGE
 #: LABEL/ID_HOME_LISTS_ROWS_PER_PAGE
 msgid "Rows per page on Lists"
-msgstr "Rows per page on Lists"
+msgstr "Γραμμές ανά σελίδα στις Λίστες"
 
 # TRANSLATION
 # LABEL/ID_HOME_SETTINGS
 #: LABEL/ID_HOME_SETTINGS
 msgid "Home Settings"
-msgstr "Home Settings"
+msgstr "Ρυθμίσεις Αρχικής"
 
 # TRANSLATION
 # LABEL/ID_HORIZONTAL_LINE
 #: LABEL/ID_HORIZONTAL_LINE
 msgid "Horizontal Line"
-msgstr "Horizontal Line"
+msgstr "Οριζόντια Γραμμή"
 
 # TRANSLATION
 # LABEL/ID_HOST
@@ -323,133 +322,133 @@ msgstr "Host"
 # LABEL/ID_HOST_NAME
 #: LABEL/ID_HOST_NAME
 msgid "Resolving Host Name"
-msgstr "Resolving Host Name"
+msgstr "Εύρεση Ονόματος Υπολογιστή"
 
 # TRANSLATION
 # LABEL/ID_HOST_NAME_LABEL
 #: LABEL/ID_HOST_NAME_LABEL
 msgid "Host Name"
-msgstr "Host Name"
+msgstr "Όνομα Υπολογιστή "
 
 # TRANSLATION
 # LABEL/ID_HOUR
 #: LABEL/ID_HOUR
 msgid "Hour"
-msgstr "Hour"
+msgstr "Ώρα "
 
 # TRANSLATION
 # LABEL/ID_HOURS
 #: LABEL/ID_HOURS
 msgid "Hours"
-msgstr "Hours"
+msgstr "Ώρες"
 
 # TRANSLATION
 # LABEL/ID_HTML
 #: LABEL/ID_HTML
 msgid "HTML"
-msgstr "HTML"
+msgstr "Γλώσσα Επισύμανσης Υπερκειμένου"
 
 # TRANSLATION
 # LABEL/ID_IDENTIFIER_IMPORT_USER
 #: LABEL/ID_IDENTIFIER_IMPORT_USER
 msgid "Identifier for an imported user"
-msgstr "Identifier for an imported user"
+msgstr "Αναγνωριστικό  για έναν εισερχόμενο χρήστη "
 
 # TRANSLATION
 # LABEL/ID_IMAGE
 #: LABEL/ID_IMAGE
 msgid "Image"
-msgstr "Image"
+msgstr "Εικόνα"
 
 # TRANSLATION
 # LABEL/ID_IMAGES_SELECTED
 #: LABEL/ID_IMAGES_SELECTED
 msgid "images selected"
-msgstr "images selected"
+msgstr "Επιλεγμένες εικόνες"
 
 # TRANSLATION
 # LABEL/ID_IMPORT
 #: LABEL/ID_IMPORT
 msgid "Import"
-msgstr "Import"
+msgstr "Εισαγωγή"
 
 # TRANSLATION
 # LABEL/ID_IMPORTING_ERROR
 #: LABEL/ID_IMPORTING_ERROR
 msgid "Importing Error"
-msgstr "Importing Error"
+msgstr "Λάθος Εισαγωγής"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_ALREADY_EXISTS
 #: LABEL/ID_IMPORT_ALREADY_EXISTS
 msgid "The process you are trying to import already exist. Please select one of the following options to continue:"
-msgstr "The process you are trying to import already exist. Please select one of the following options to continue:"
+msgstr "Η διαδικασία που προσπαθείτε να εισαγάγετε ήδη υπάρχει. Παρακαλώ επιλέξτε μία από τις παρακάτω επιλογές για να συνεχίσετε:"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_CSV
 #: LABEL/ID_IMPORT_CSV
 msgid "CSV Import"
-msgstr "CSV Import"
+msgstr "CSV εισαγωγή"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_DATA_CSV
 #: LABEL/ID_IMPORT_DATA_CSV
 msgid "Import Data from CSV file"
-msgstr "Import Data from CSV file"
+msgstr "Εισαγωγή δεδομένων από CSV αρχείο"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_PMT
 #: LABEL/ID_IMPORT_PMT
 msgid "Import PM Table"
-msgstr "Import PM Table"
+msgstr "Εισαγωγή PM πίνακα"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_PROCESS
 #: LABEL/ID_IMPORT_PROCESS
 msgid "Import Process"
-msgstr "Import Process"
+msgstr "Διαδικασία εισαγωγής"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_RESULT
 #: LABEL/ID_IMPORT_RESULT
 msgid "IMPORT RESULT"
-msgstr "IMPORT RESULT"
+msgstr "ΑΠΟΤΕΛΕΣΜΑ ΕΙΣΑΓΩΓΗΣ"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_RT
 #: LABEL/ID_IMPORT_RT
 msgid "Import Report Table"
-msgstr "Import Report Table"
+msgstr "Εισαγωγή Πίνακα Αναφοράς"
 
 # TRANSLATION
 # LABEL/ID_IMPORT_USERS
 #: LABEL/ID_IMPORT_USERS
 msgid "Import Users"
-msgstr "Import Users"
+msgstr "Εισαγωγή Χρηστών"
 
 # TRANSLATION
 # LABEL/ID_IN
 #: LABEL/ID_IN
 msgid "in"
-msgstr "in"
+msgstr "μέσα"
 
 # TRANSLATION
 # LABEL/ID_INACTIVE
 #: LABEL/ID_INACTIVE
 msgid "[LABEL/ID_INACTIVE] Inactive"
-msgstr "Inactive"
+msgstr "απενεργοποιημένο"
 
 # TRANSLATION
 # LABEL/ID_INBOX
 #: LABEL/ID_INBOX
 msgid "Inbox"
-msgstr "Inbox"
+msgstr "εισερχόμενα"
 
 # TRANSLATION
 # LABEL/ID_INCORRECT_EMAIL
 #: LABEL/ID_INCORRECT_EMAIL
 msgid "Your E-mail address is not valid."
-msgstr "Your E-mail address is not valid."
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου δεν είναι έγκυρη"
 
 # TRANSLATION
 # LABEL/ID_INCORRECT_USERNAME_PASSWORD
@@ -467,13 +466,13 @@ msgstr "Index File updated {0} with lang: {{1}}, skin: {{2}}"
 # LABEL/ID_INDEX_NOT_WRITEABLE
 #: LABEL/ID_INDEX_NOT_WRITEABLE
 msgid "The index file is not writable. <br/>Please give write permission to file:"
-msgstr "The index file is not writable. <br/>Please give write permission to file:"
+msgstr "Το αρχείο index δεν είναι εγγράψιμο. <br/> Παρακαλώ δώστε δικαιώματα εγγραφής στο αρχείο:"
 
 # TRANSLATION
 # LABEL/ID_INFO
 #: LABEL/ID_INFO
 msgid "Info"
-msgstr "Info"
+msgstr "Πληροφορίες"
 
 # TRANSLATION
 # LABEL/ID_INFORMATION
