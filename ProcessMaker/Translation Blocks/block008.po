@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:11+0200\n"
+"Last-Translator: Athanasia Moschou <it12148@uom.edu.gr>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,43 +16,43 @@ msgstr ""
 # LABEL/ID_DATE_FORMAT_10
 #: LABEL/ID_DATE_FORMAT_10
 msgid "D d M, Y"
-msgstr "D d M, Y"
+msgstr "Μ η Μ, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_11
 #: LABEL/ID_DATE_FORMAT_11
 msgid "D M, Y"
-msgstr "D M, Y"
+msgstr "Μ M, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_12
 #: LABEL/ID_DATE_FORMAT_12
 msgid "d M, Y"
-msgstr "d M, Y"
+msgstr "η Μ, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_13
 #: LABEL/ID_DATE_FORMAT_13
 msgid "d m, Y"
-msgstr "d m, Y"
+msgstr "η μ, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_14
 #: LABEL/ID_DATE_FORMAT_14
 msgid "d.m.Y"
-msgstr "d.m.Y"
+msgstr "η.μ.Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_15
 #: LABEL/ID_DATE_FORMAT_15
 msgid "M d, Y"
-msgstr "M d, Y"
+msgstr "Μ η, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_16
 #: LABEL/ID_DATE_FORMAT_16
 msgid "m D, Y"
-msgstr "m D, Y"
+msgstr "μ Η, Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_17
@@ -65,25 +64,25 @@ msgstr "dd de M de Y"
 # LABEL/ID_DATE_FORMAT_2
 #: LABEL/ID_DATE_FORMAT_2
 msgid "d/m/Y"
-msgstr "d/m/Y"
+msgstr "η/μ/Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_3
 #: LABEL/ID_DATE_FORMAT_3
 msgid "m/d/Y"
-msgstr "m/d/Y"
+msgstr "μ/η/Χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_4
 #: LABEL/ID_DATE_FORMAT_4
 msgid "Y/d/m"
-msgstr "Y/d/m"
+msgstr "Χ/η/μ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_5
 #: LABEL/ID_DATE_FORMAT_5
 msgid "Y/m/d"
-msgstr "Y/m/d"
+msgstr "Χ/μ/η"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_6
@@ -95,7 +94,7 @@ msgstr "F j, Y, g:i a"
 # LABEL/ID_DATE_FORMAT_7
 #: LABEL/ID_DATE_FORMAT_7
 msgid "m.d.y"
-msgstr "m.d.y"
+msgstr "μ.η.χ"
 
 # TRANSLATION
 # LABEL/ID_DATE_FORMAT_8
@@ -113,343 +112,343 @@ msgstr "D M j G:i:s T Y"
 # LABEL/ID_DATE_LABEL
 #: LABEL/ID_DATE_LABEL
 msgid "[LABEL/ID_DATE_LABEL] Date"
-msgstr "Date"
+msgstr "Ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_DAY
 #: LABEL/ID_DAY
 msgid "Day"
-msgstr "Day"
+msgstr "Ημέρα"
 
 # TRANSLATION
 # LABEL/ID_DAYS
 #: LABEL/ID_DAYS
 msgid "Days"
-msgstr "Days"
+msgstr "Ημέρες"
 
 # TRANSLATION
 # LABEL/ID_DBCNN_TITLE
 #: LABEL/ID_DBCNN_TITLE
 msgid "Checking server configuration"
-msgstr "Checking server configuration"
+msgstr "Έλεγχος ρυθμίσεων εξυπηρετητή"
 
 # TRANSLATION
 # LABEL/ID_DBC_CHECK
 #: LABEL/ID_DBC_CHECK
 msgid "Checking server parameters"
-msgstr "Checking server parameters"
+msgstr "Έλεγχος παραμέτρων εξυπηρετητή"
 
 # TRANSLATION
 # LABEL/ID_DBS_CONNECTION_EDIT
 #: LABEL/ID_DBS_CONNECTION_EDIT
 msgid "Connection Edited Successfully"
-msgstr "Connection Edited Successfully"
+msgstr "Επιτυχής τροποποίηση σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_DBS_CONNECTION_SAVE
 #: LABEL/ID_DBS_CONNECTION_SAVE
 msgid "Connection Saved Successfully"
-msgstr "Connection Saved Successfully"
+msgstr "Επιτυχής αποθήκευση σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_DBS_CONNECTION_TEST
 #: LABEL/ID_DBS_CONNECTION_TEST
 msgid "Connection Tested Successfully"
-msgstr "Connection Tested Successfully"
+msgstr "Επιτυχής έλεγος σύνδεσης"
 
 # TRANSLATION
 # LABEL/ID_DBS_EDIT
 #: LABEL/ID_DBS_EDIT
 msgid "[LABEL/ID_DBS_EDIT] Edit the current Database Source"
-msgstr "Edit the current Database Source"
+msgstr "Τροποποίηση τρέχουσας πηγής Βάσης Δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_DBS_LIST
 #: LABEL/ID_DBS_LIST
 msgid "Database Source List"
-msgstr "Database Source List"
+msgstr "Λίστα πηγών βάσεων δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_DBS_SOURCE
 #: LABEL/ID_DBS_SOURCE
 msgid "Add New Database Source"
-msgstr "Add New Database Source"
+msgstr "Προσθήκη νέας πηγής βάσης δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_DB_CONNECTION
 #: LABEL/ID_DB_CONNECTION
 msgid "DB Connection"
-msgstr "DB Connection"
+msgstr "Σύνδεση ΒΔ"
 
 # TRANSLATION
 # LABEL/ID_DB_CONNECTIONS
 #: LABEL/ID_DB_CONNECTIONS
 msgid "Database Connections"
-msgstr "Database Connections"
+msgstr "Σύνδεσεις βάσεων δεδομένων"
 
 # TRANSLATION
 # LABEL/ID_DB_CONNECTION_NO_EXIST
 #: LABEL/ID_DB_CONNECTION_NO_EXIST
 msgid "DB Connection doesn't exist!"
-msgstr "DB Connection doesn't exist!"
+msgstr "Η σύνδεση της ΒΔ δεν υπάρχει!"
 
 # TRANSLATION
 # LABEL/ID_DEACTIVATE
 #: LABEL/ID_DEACTIVATE
 msgid "Deactivate"
-msgstr "Deactivate"
+msgstr "Απενεργοποίηση"
 
 # TRANSLATION
 # LABEL/ID_DEATACH
 #: LABEL/ID_DEATACH
 msgid "Detach"
-msgstr "Detach"
+msgstr "Αποσύνδεση"
 
 # TRANSLATION
 # LABEL/ID_DEBUG
 #: LABEL/ID_DEBUG
 msgid "Debugger"
-msgstr "Debugger"
+msgstr "Αποσφαλμάτωση"
 
 # TRANSLATION
 # LABEL/ID_DEBUG_MESSAGE
 #: LABEL/ID_DEBUG_MESSAGE
 msgid "Debug Messages"
-msgstr "Debug Messages"
+msgstr "Μηνύματα αποσφαλμάτωσης"
 
 # TRANSLATION
 # LABEL/ID_DEBUG_MODE
 #: LABEL/ID_DEBUG_MODE
 msgid "Debug Mode"
-msgstr "Debug Mode"
+msgstr "Λειτουργία αποσφαλμάτωσης"
 
 # TRANSLATION
 # LABEL/ID_DEBUG_PANEL_TITLE
 #: LABEL/ID_DEBUG_PANEL_TITLE
 msgid "ProcessMaker Debugger"
-msgstr "ProcessMaker Debugger"
+msgstr "Αποσφαλμάτωση ProcessMaker"
 
 # TRANSLATION
 # LABEL/ID_DEFAULT_CALENDAR
 #: LABEL/ID_DEFAULT_CALENDAR
 msgid "Default Calendar"
-msgstr "Default Calendar"
+msgstr "Προεπιλεγμένο ημερολόγιο"
 
 # TRANSLATION
 # LABEL/ID_DEFAULT_CASES_MENU_OPTION
 #: LABEL/ID_DEFAULT_CASES_MENU_OPTION
 msgid "Default Cases Menu option"
-msgstr "Default Cases Menu option"
+msgstr "Επιλογή μενού προεπιλεγμένων περιπτώσεων"
 
 # TRANSLATION
 # LABEL/ID_DEFAULT_LANGUAGE
 #: LABEL/ID_DEFAULT_LANGUAGE
 msgid "Default Language"
-msgstr "Default Language"
+msgstr "Προεπιλεγμένη γλώσσα"
 
 # TRANSLATION
 # LABEL/ID_DEFAULT_MAIN_MENU_OPTION
 #: LABEL/ID_DEFAULT_MAIN_MENU_OPTION
 msgid "Default Main Menu Option"
-msgstr "Default Main Menu Option"
+msgstr "Προεπιλογή κυρίως μενού"
 
 # TRANSLATION
 # LABEL/ID_DEFAULT_SKIN
 #: LABEL/ID_DEFAULT_SKIN
 msgid "Default Skin"
-msgstr "Default Skin"
+msgstr "Προεπιλεγμένος φλοιός"
 
 # TRANSLATION
 # LABEL/ID_DEFINITION
 #: LABEL/ID_DEFINITION
 msgid "[LABEL/ID_DEFINITION] Definition"
-msgstr "Definition"
+msgstr "Ορισμός"
 
 # TRANSLATION
 # LABEL/ID_DELAY_FIELD
 #: LABEL/ID_DELAY_FIELD
 msgid "Delay Field"
-msgstr "Delay Field"
+msgstr "Πεδίο καθυστέρησης"
 
 # TRANSLATION
 # LABEL/ID_DELEGATE_DATE_FROM
 #: LABEL/ID_DELEGATE_DATE_FROM
 msgid "Delegated date from"
-msgstr "Delegated date from"
+msgstr "Εξουσιοδότηση από ημερομηνία"
 
 # TRANSLATION
 # LABEL/ID_DELEGATE_DATE_TO
 #: LABEL/ID_DELEGATE_DATE_TO
 msgid "to"
-msgstr "to"
+msgstr "προς"
 
 # TRANSLATION
 # LABEL/ID_DELEGATE_USER
 #: LABEL/ID_DELEGATE_USER
 msgid "Delegated User"
-msgstr "Delegated User"
+msgstr "Εξουσιοδοτημένος χρήστης"
 
 # TRANSLATION
 # LABEL/ID_DELEGATION_DATE
 #: LABEL/ID_DELEGATION_DATE
 msgid "Delegation Date"
-msgstr "Delegation Date"
+msgstr "Ημερομηνία εξουσιοδότησης"
 
 # TRANSLATION
 # LABEL/ID_DELETE
 #: LABEL/ID_DELETE
 msgid "Delete"
-msgstr "Delete"
+msgstr "Διαγραφή"
 
 # TRANSLATION
 # LABEL/ID_DELETED
 #: LABEL/ID_DELETED
 msgid "Deleted"
-msgstr "Deleted"
+msgstr "Διεγραμμένο"
 
 # TRANSLATION
 # LABEL/ID_DELETED_SUCCESSFULLY
 #: LABEL/ID_DELETED_SUCCESSFULLY
 msgid "Deleted Successfully"
-msgstr "Deleted Successfully"
+msgstr "Διεγράφη επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_DELETE_ALL_FIELDS
 #: LABEL/ID_DELETE_ALL_FIELDS
 msgid "Do you want to delete all fields?"
-msgstr "Do you want to delete all fields?"
+msgstr "Θέλεις να διαγράψεις όλα τα πεδία;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_ALL_REPORT_TABLE
 #: LABEL/ID_DELETE_ALL_REPORT_TABLE
 msgid "Do you want to delete all report tables?"
-msgstr "Do you want to delete all report tables?"
+msgstr "Θέλεις να διαγράψεις όλους τους πίνακες αναφορών;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_CONNECTION
 #: LABEL/ID_DELETE_CONNECTION
 msgid "Delete the connection?"
-msgstr "Delete the connection?"
+msgstr "Διαγραφή σύνδεσης;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_DATABASES
 #: LABEL/ID_DELETE_DATABASES
 msgid "Delete Databases if exists"
-msgstr "Delete Databases if exists"
+msgstr "Διαγραφή Βάσης Δεδομένων αν υπάρχει"
 
 # TRANSLATION
 # LABEL/ID_DELETE_DOCUMENT
 #: LABEL/ID_DELETE_DOCUMENT
 msgid "Do you want to delete selected document?"
-msgstr "Do you want to delete selected document?"
+msgstr "Θέλεις να διαγράψεις το επιλεγμένο αρχείο;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_FIELDS
 #: LABEL/ID_DELETE_FIELDS
 msgid "Do you want to delete the selected fields?"
-msgstr "Do you want to delete the selected fields?"
+msgstr "Θέλεις να διαγράψεις τα επιλεγμένα πεδία;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_FIELD_SURE
 #: LABEL/ID_DELETE_FIELD_SURE
 msgid "Are you sure you want to delete this field?"
-msgstr "Are you sure you want to delete this field?"
+msgstr "Είσαι σίγουρος ότι θέλεις να διαγράψεις αυτό το πεδίο;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_INPUTDOCUMENT_CONFIRM
 #: LABEL/ID_DELETE_INPUTDOCUMENT_CONFIRM
 msgid "To the deselecting the item will be deleted the Day of the Work hours list. Do you want continue?"
-msgstr "To the deselecting the item will be deleted the Day of the Work hours list. Do you want continue?"
+msgstr "Για το αποεπιλεγμένο αντικείμενο θα διαγραφεί η μέρα από την λίστα εργατοωρών. Επιθυμείς να συνεχίσεις;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_LANGUAGE
 #: LABEL/ID_DELETE_LANGUAGE
 msgid "[LABEL/ID_DELETE_LANGUAGE] Remove"
-msgstr "Remove"
+msgstr "Αφαίρεση"
 
 # TRANSLATION
 # LABEL/ID_DELETE_LANGUAGE_CONFIRM
 #: LABEL/ID_DELETE_LANGUAGE_CONFIRM
 msgid "Do you want remove the language \"{0}\" ?"
-msgstr "Do you want remove the language \"{0}\" ?"
+msgstr "Θέλεις να αφαιρέσεις την γλώσσα \"{0}\" ;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_LANGUAGE_WARNING
 #: LABEL/ID_DELETE_LANGUAGE_WARNING
 msgid "To delete a language you should select a item from the list first."
-msgstr "To delete a language you should select a item from the list first."
+msgstr "Για να διαγράψεις μία γλώσσα πρέπει να επιλέξεις ένα αντικείμενο από την λίστα πρώτα"
 
 # TRANSLATION
 # LABEL/ID_DELETE_LINES
 #: LABEL/ID_DELETE_LINES
 msgid "Delete All Lines"
-msgstr "Delete All Lines"
+msgstr "Διαγραφή όλων των γραμμών"
 
 # TRANSLATION
 # LABEL/ID_DELETE_PERMISSION
 #: LABEL/ID_DELETE_PERMISSION
 msgid "Do you want to deleted the permission of {0}?"
-msgstr "Do you want to deleted the permission of {0}?"
+msgstr "Θέλεις να διαγράψεις τις άδειες από το {0}?"
 
 # TRANSLATION
 # LABEL/ID_DELETE_REPORT_TABLE
 #: LABEL/ID_DELETE_REPORT_TABLE
 msgid "Do you want to delete the selected report tables?"
-msgstr "Do you want to delete the selected report tables?"
+msgstr "Θέλεις να διαγράψεις τους επιλεγμένους πίνακες αναφορών;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_SELECTED_ITEMS
 #: LABEL/ID_DELETE_SELECTED_ITEMS
 msgid "Do you want to deleted selected({0}) items?"
-msgstr "Do you want to deleted selected({0}) items?"
+msgstr "Θέλεις να διαγράψεις τα επιλεγμένα ({0}) αντικείμενα;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_SELECTED_LOGO
 #: LABEL/ID_DELETE_SELECTED_LOGO
 msgid "Do you want to delete the selected logo?"
-msgstr "Do you want to delete the selected logo?"
+msgstr "Θέλεις να διαγράψεις το επιλεγμένο λογότυπο;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_SUPERVISOR
 #: LABEL/ID_DELETE_SUPERVISOR
 msgid "You cannot unassign the supervisor"
-msgstr "You cannot unassign the supervisor"
+msgstr "Δεν μπορείς να αναιρέσεις την ανάθεση από τον επιβλέποντα"
 
 # TRANSLATION
 # LABEL/ID_DELETE_TABLE_COLLECTION
 #: LABEL/ID_DELETE_TABLE_COLLECTION
 msgid "Do you want to delete this collection?"
-msgstr "Do you want to delete this collection?"
+msgstr "Θέλεις να διαγράψεις αυτή την συλλογή;"
 
 # TRANSLATION
 # LABEL/ID_DELETE_TRANSLATIONS
 #: LABEL/ID_DELETE_TRANSLATIONS
 msgid "Delete the selected translations?"
-msgstr "Delete the selected translations?"
+msgstr "Διαγραφή των επιλεγμένων μεταφράσεων;"
 
 # TRANSLATION
 # LABEL/ID_DELETING_CASE
 #: LABEL/ID_DELETING_CASE
 msgid "Deleting case..."
-msgstr "Deleting case..."
+msgstr "Διαγραφή υπόθεσης..."
 
 # TRANSLATION
 # LABEL/ID_DELETING_ELEMENTS
 #: LABEL/ID_DELETING_ELEMENTS
 msgid "Deleting elements, please wait..."
-msgstr "Deleting elements, please wait..."
+msgstr "Διαγραφή περιεχομένων, παρακαλώ περιμένετε..."
 
 # TRANSLATION
 # LABEL/ID_DELETION_SUCCESSFULLY
 #: LABEL/ID_DELETION_SUCCESSFULLY
 msgid "DELETION SUCCESSFULLY"
-msgstr "DELETION SUCCESSFULLY"
+msgstr "ΕΠΙΤΥΧΗΣ ΔΙΑΓΡΑΦΗ"
 
 # TRANSLATION
 # LABEL/ID_DELIMITED_BY
 #: LABEL/ID_DELIMITED_BY
 msgid "Delimited by"
-msgstr "Delimited by"
+msgstr "Οριοθετείται από"
 
 # TRANSLATION
 # LABEL/ID_DEL_INDEX
@@ -461,155 +460,155 @@ msgstr "Del Index"
 # LABEL/ID_DEPARTAMENT_USERS
 #: LABEL/ID_DEPARTAMENT_USERS
 msgid "Departments"
-msgstr "Departments"
+msgstr "Τμήματα"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT
 #: LABEL/ID_DEPARTMENT
 msgid "[LABEL/ID_DEPARTMENT] Department"
-msgstr "Department"
+msgstr "Τμήμα"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENTS
 #: LABEL/ID_DEPARTMENTS
 msgid "[LABEL/ID_DEPARTMENTS] Departments"
-msgstr "Departments"
+msgstr "Τμήματα"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENTS_SYNCHRONIZE
 #: LABEL/ID_DEPARTMENTS_SYNCHRONIZE
 msgid "Synchronize Departments"
-msgstr "Synchronize Departments"
+msgstr "Συγχρονισμός τμημάτων"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENTS_USERS
 #: LABEL/ID_DEPARTMENTS_USERS
 msgid "[LABEL/ID_DEPARTMENTS_USERS] Departments"
-msgstr "Departments"
+msgstr "Τμήματα"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_CREATED_SUCCESSFULLY
 #: LABEL/ID_DEPARTMENT_CREATED_SUCCESSFULLY
 msgid "{DEPARTMENT_NAME}, {PARENT_UID} Department {DEPARTMENT_NAME} created successfully"
-msgstr "{DEPARTMENT_NAME}, {PARENT_UID} Department {DEPARTMENT_NAME} created successfully"
+msgstr "{Όνομα_Τμήματος}, {Γονικό_UID} Τμήμα {Όνομα_Τμήματος} δημιουργήθηκε επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_EXISTS
 #: LABEL/ID_DEPARTMENT_EXISTS
 msgid "Department name already exists."
-msgstr "Department name already exists."
+msgstr "Το όνομα τμήματος υπάρχει ήδη"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_NAME
 #: LABEL/ID_DEPARTMENT_NAME
 msgid "Department Name"
-msgstr "Department Name"
+msgstr "Όνομα τμήματος"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_NAME_REQUIRED
 #: LABEL/ID_DEPARTMENT_NAME_REQUIRED
 msgid "Department name is required"
-msgstr "Department name is required"
+msgstr "Το όνομα τμήματος απαιτείται."
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_NOT_REGISTERED_SYSTEM
 #: LABEL/ID_DEPARTMENT_NOT_REGISTERED_SYSTEM
 msgid "Department {DEP_ID} is not registered in the system"
-msgstr "Department {DEP_ID} is not registered in the system"
+msgstr "Το τμήμα  {DEP_ID} δεν έχει καταχωρηθεί στο σύστημα."
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_SUCCESS_DELETE
 #: LABEL/ID_DEPARTMENT_SUCCESS_DELETE
 msgid "Department has been deleted correctly."
-msgstr "Department has been deleted correctly."
+msgstr "Το τμήμα έχει διαγραφεί σωστά"
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_SUCCESS_NEW
 #: LABEL/ID_DEPARTMENT_SUCCESS_NEW
 msgid "Department has been created correctly."
-msgstr "Department has been created correctly."
+msgstr "Το τμήμα έχει δημιουργηθεί σωστά."
 
 # TRANSLATION
 # LABEL/ID_DEPARTMENT_SUCCESS_UPDATE
 #: LABEL/ID_DEPARTMENT_SUCCESS_UPDATE
 msgid "Department has been updated correctly."
-msgstr "Department has been updated correctly."
+msgstr "Το τμήμα έχει ενημερωθεί σωστά"
 
 # TRANSLATION
 # LABEL/ID_DERIVATED
 #: LABEL/ID_DERIVATED
 msgid "Routed"
-msgstr "Routed"
+msgstr "Δρομολογημένο"
 
 # TRANSLATION
 # LABEL/ID_DERIVATION_HISTORY
 #: LABEL/ID_DERIVATION_HISTORY
 msgid "Routing History"
-msgstr "Routing History"
+msgstr "Ιστορικό δρομολόγησης"
 
 # TRANSLATION
 # LABEL/ID_DERIVED
 #: LABEL/ID_DERIVED
 msgid "Sent"
-msgstr "Sent"
+msgstr "Αποστολή"
 
 # TRANSLATION
 # LABEL/ID_DESCRIPTION
 #: LABEL/ID_DESCRIPTION
 msgid "Description"
-msgstr "Description"
+msgstr "Περιγραφή"
 
 # TRANSLATION
 # LABEL/ID_DESIGNER
 #: LABEL/ID_DESIGNER
 msgid "Designer"
-msgstr "Designer"
+msgstr "Σχεδιαστής"
 
 # TRANSLATION
 # LABEL/ID_DESTINATION
 #: LABEL/ID_DESTINATION
 msgid "Destination"
-msgstr "Destination"
+msgstr "Προορισμός"
 
 # TRANSLATION
 # LABEL/ID_DESTINATION_PATH
 #: LABEL/ID_DESTINATION_PATH
 msgid "Destination Path"
-msgstr "Destination Path"
+msgstr "Μονοπάτι προορισμού"
 
 # TRANSLATION
 # LABEL/ID_DETAIL
 #: LABEL/ID_DETAIL
 msgid "Detail"
-msgstr "Detail"
+msgstr "Λεπτομέρια"
 
 # TRANSLATION
 # LABEL/ID_DETAILS
 #: LABEL/ID_DETAILS
 msgid "Details"
-msgstr "Details"
+msgstr "Λεπτομέριες"
 
 # TRANSLATION
 # LABEL/ID_DETAILS_WEBSERVICES
 #: LABEL/ID_DETAILS_WEBSERVICES
 msgid "[LABEL/ID_DETAILS_WEBSERVICES] Details"
-msgstr "Details"
+msgstr "Λεπτομέριες"
 
 # TRANSLATION
 # LABEL/ID_DE_ASSIGN
 #: LABEL/ID_DE_ASSIGN
 msgid "[LABEL/ID_DE_ASSIGN] Remove"
-msgstr "Remove"
+msgstr "Αφαίρεση"
 
 # TRANSLATION
 # LABEL/ID_DIAGRAM_VALIDATED_CORRECTLY
 #: LABEL/ID_DIAGRAM_VALIDATED_CORRECTLY
 msgid "Diagram has been validated correctly."
-msgstr "Diagram has been validated correctly."
+msgstr "Το διάγραμμα έχει επικυρωθεί επιτυχώς"
 
 # TRANSLATION
 # LABEL/ID_DIRECTORIES_NOT_WRITABLE
 #: LABEL/ID_DIRECTORIES_NOT_WRITABLE
 msgid "Some directories and/or files inside it are not writable"
-msgstr "Some directories and/or files inside it are not writable"
+msgstr "Κάποιοι κατάλογοι και/ή αρχεία εντός αυτών δεν είναι εγγράψιμα"
 
