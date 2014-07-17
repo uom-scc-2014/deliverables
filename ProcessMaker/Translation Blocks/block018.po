@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:20+0200\n"
+"Last-Translator: Μίλκου -Χατζηπαυλίδου  <milkaterina07@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,55 +16,55 @@ msgstr ""
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_1
 msgid "If any of these items is not supported (marked as No) then please take actions to correct them."
-msgstr "If any of these items is not supported (marked as No) then please take actions to correct them."
+msgstr "Αν κάποιο από αυτά τα αντικείμενα δεν υποστηρίζεται (τσεκαρισμένο ως ΟΧΙ) τότε παρακαλώ ανέλαβε δράση για να τα διορθώσεις."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP1_2
 msgid "Failure to do so could lead to your ProcessMaker! installation not functioning correctly."
-msgstr "Failure to do so could lead to your ProcessMaker! installation not functioning correctly."
+msgstr "Αποτυχία του παραπάνω μπορεί να οδηγήσει στην μη σωστή λειτουργία της εγκατάστασης του ProcessMaker."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_1
 msgid "These settings are recommended for PHP in order to ensure full compatibility with ProcessMaker."
-msgstr "These settings are recommended for PHP in order to ensure full compatibility with ProcessMaker."
+msgstr "Αυτές οι ρυθμίσεις προτείνονται για PHP προκειμένου να εξασφαλιστεί η πλήρης συμβατότητα με το ProcessMaker."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP2_2
 msgid "However, ProcessMaker still operate if your settings do not quite match the recommended."
-msgstr "However, ProcessMaker still operate if your settings do not quite match the recommended."
+msgstr "Παρ'όλα αυτά, το ProcessMaker λειτουργεί εάν οι ρυθμίσεις δεν συμπίπτουν με τις προτεινόμενες ."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_1
 msgid "In order for ProcessMaker to function correctly it needs to be able to access or write to certain files or directories."
-msgstr "In order for ProcessMaker to function correctly it needs to be able to access or write to certain files or directories."
+msgstr "Το ProcessMaker για να λειτουργήσει σωστά χρειάζεται να έχει πρόσβαση ή εγγραφή σε ορισμένα αρχεία και φακέλους. "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP3_2
 msgid "If you see <font color=\"red\">\"unwriteable\"</font> you need to change the permissions on the file or directory to allow ProcessMaker to write to it."
-msgstr "If you see <font color=\"red\">\"unwriteable\"</font> you need to change the permissions on the file or directory to allow ProcessMaker to write to it."
+msgstr "Εάν δεις <font color=\"red\">\"unwriteable\"</font> χρείαζεται να αλλάξεις τα δικαιώματα στο αρχείο ή το φάκελο για να επιτρέψει στο ProcessMaker να γράψει σε αυτό."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_1
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_1
 msgid "ProcessMaker stores all of its data in a database. This screen gives the installation program the information needed to create this database."
-msgstr "ProcessMaker stores all of its data in a database. This screen gives the installation program the information needed to create this database."
+msgstr "Το ProcessMaker  αποθηκεύει όλα τα δεδομένα του σε μια βάση δεδομένων. Αυτή η οθόνη δίνει στο εγκατεστημένο πρόγραμμα τις πληροφορίες που χρειάζεται για να δημιουργήσει τη βάση δεδομένων."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_2
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP4_2
 msgid "If you are installing ProcessMaker on a remote web server, you will need to get this information from your Database Server."
-msgstr "If you are installing ProcessMaker on a remote web server, you will need to get this information from your Database Server."
+msgstr "Εάν κάνεις την εγκατάσταση του ProcessMaker  σε έναν απομακρυσμένο διακομιστή, θα χρειαστείς να πάρεις τις πληροφορίες από τη βάση δεδομένων του διακομιστή σου."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP5
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP5
 msgid "ProcessMaker uses a workspaces to store data. Please select a valid workspace name and credentials to log in it."
-msgstr "ProcessMaker uses a workspaces to store data. Please select a valid workspace name and credentials to log in it."
+msgstr "Το ProcessMaker χρησιμοποιεί μια επιφάνεια εργασίας για να αποθηκεύσει δεδομένα. Παρακαλώ επέλεξε ένα έγκυρο όνομα επιφάνειας εργασίας και διαπηστευτήρια για να συνδεθείς σε αυτό."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DESCRIPTION_STEP6
@@ -77,91 +76,91 @@ msgstr "xxx"
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_DOMXML
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_DOMXML
 msgid "DOM/XML Support"
-msgstr "DOM/XML Support"
+msgstr "Υποστήριξη DOM/XML"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_GD
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_GD
 msgid "GD Support"
-msgstr "GD Support"
+msgstr "Υποστήριξη GD "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_LDAP
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_LDAP
 msgid "LDAP Support (*)"
-msgstr "LDAP Support (*)"
+msgstr "Υποστήριξη (*)LDAP"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_LDAP_OPTIONAL
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_LDAP_OPTIONAL
 msgid "LDAP is optional"
-msgstr "LDAP is optional"
+msgstr "LDAP  είναι προαιρετική"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_MEMORYLIMIT
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_MEMORYLIMIT
 msgid "Memory Limit >= 80M"
-msgstr "Memory Limit >= 80M"
+msgstr " Όριο Μνήμης >= 80M"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_MSSQL
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_MSSQL
 msgid "MSSQL Support (*)"
-msgstr "MSSQL Support (*)"
+msgstr "Υποστήριξη (*) MSSQL"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_MULTIBYTESTRING
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_MULTIBYTESTRING
 msgid "Multibyte Strings Support"
-msgstr "Multibyte Strings Support"
+msgstr "Υποστήριξη Multibyte Strings "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_MYSQL
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_MYSQL
 msgid "MySQL Support"
-msgstr "MySQL Support"
+msgstr "Υποστήριξη MySQL"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_OPENSSL
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_OPENSSL
 msgid "OpenSSL Version (*)"
-msgstr "OpenSSL Version (*)"
+msgstr "Έκδοση (*) OpenSSL "
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_OPENSSL_OPTIONAL
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_OPENSSL_OPTIONAL
 msgid "Open SSL is optional"
-msgstr "Open SSL is optional"
+msgstr "Open SSL είναι προαιρετική"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_PHP
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_PHP
 msgid "PHP Version >= 5.2.10"
-msgstr "PHP Version >= 5.2.10"
+msgstr "Έκδοση PHP >= 5.2.10"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_REQUIREMENTS_SOAP
 #: LABEL/ID_PROCESSMAKER_REQUIREMENTS_SOAP
 msgid "Soap Support"
-msgstr "Soap Support"
+msgstr "Υποστήριξη Soap"
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_SLOGAN1
 #: LABEL/ID_PROCESSMAKER_SLOGAN1
 msgid "This Business Process is Powered By ProcessMaker"
-msgstr "This Business Process is Powered By ProcessMaker"
+msgstr "Αυτή η Επιχειρηματική Διαδικασία υποστηρίζεται από  το ProcessMaker."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_SUCCESS_INSTALLED
 #: LABEL/ID_PROCESSMAKER_SUCCESS_INSTALLED
 msgid "ProcessMaker was successfully installed<br/>Workspace <b>\" {0} \" </b> was installed correctly."
-msgstr "ProcessMaker was successfully installed<br/>Workspace <b>\" {0} \" </b> was installed correctly."
+msgstr "ProcessMaker εγκαταστάθηκε επιτυχώς <br/>Workspace <b>\" {0} \" </b> εγκαταστάθηκε σωστά."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_UI_NOT_INSTALL
 #: LABEL/ID_PROCESSMAKER_UI_NOT_INSTALL
 msgid "The new ProcessMaker UI couldn't be applied on installation, you can enable it after from Admin->System settings."
-msgstr "The new ProcessMaker UI couldn't be applied on installation, you can enable it after from Admin->System settings."
+msgstr "Το νέο ProcessMaker UI δεν εφαρμόστηκε στην εγκατάσταση, μπορείς να το ενεργοποιήσεις μετά από το Διαχειριστής->Ρυθμίσεις συστήματος."
 
 # TRANSLATION
 # LABEL/ID_PROCESSMAKER_VALIDATION
