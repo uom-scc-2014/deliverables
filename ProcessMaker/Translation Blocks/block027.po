@@ -2,14 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ProcessMaker 2.5.2\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-07-10 00:33:46\n"
-"Last-Translator: \n"
-"Language-Team: Summer Code Camp, University of Macedonia, 2014\n"
+"PO-Revision-Date: 2014-07-16 14:34+0200\n"
+"Last-Translator: divamvak <divamvak@gmail.com>\n"
+"Language-Team: Summer Code Camp, University of Macedonia, 2014 <uom.scc.2014@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer_Encoding: 8bit\n"
 "X-Poedit-Language: Greek\n"
-"X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -17,49 +16,49 @@ msgstr ""
 # appFolder/appFolder.xml
 #: title - title1
 msgid "AppFolder form"
-msgstr "AppFolder form"
+msgstr "AppFolder φόρμα"
 
 # appFolder/appFolder.xml?FOLDER_UID
 # appFolder/appFolder.xml
 #: text - FOLDER_UID
 msgid "Folder Uid"
-msgstr "Folder Uid"
+msgstr "Φάκελος Uid"
 
 # appFolder/appFolder.xml?FOLDER_PARENT_UID
 # appFolder/appFolder.xml
 #: text - FOLDER_PARENT_UID
 msgid "Folder Parent Uid"
-msgstr "Folder Parent Uid"
+msgstr "Γονικός Uid"
 
 # appFolder/appFolder.xml?FOLDER_NAME
 # appFolder/appFolder.xml
 #: textarea - FOLDER_NAME
 msgid "Folder Name"
-msgstr "Folder Name"
+msgstr "Όνομα Φακέλου"
 
 # appFolder/appFolder.xml?FOLDER_CREATE_DATE
 # appFolder/appFolder.xml
 #: date - FOLDER_CREATE_DATE
 msgid "Folder Create Date"
-msgstr "Folder Create Date"
+msgstr "Ημερομηνία Δημιουργίας Φακέλου"
 
 # appFolder/appFolder.xml?FOLDER_UPDATE_DATE
 # appFolder/appFolder.xml
 #: date - FOLDER_UPDATE_DATE
 msgid "Folder Update Date"
-msgstr "Folder Update Date"
+msgstr " Ημερομηνία Ενημέρωσης Φακέλου"
 
 # appFolder/appFolder.xml?BTN_SUBMIT
 # appFolder/appFolder.xml
 #: submit - BTN_SUBMIT
 msgid "save"
-msgstr "save"
+msgstr "σώσε"
 
 # appFolder/appFolderDelete.xml?title1
 # appFolder/appFolderDelete.xml
 #: title - title1
 msgid "Delete AppFolder"
-msgstr "Delete AppFolder"
+msgstr "διέγραψε  AppFolder"
 
 # appFolder/appFolderDelete.xml?LABEL_FOLDER_UID
 # appFolder/appFolderDelete.xml
@@ -71,7 +70,7 @@ msgstr "Er Uid"
 # appFolder/appFolderDelete.xml
 #: submit - BTN_SUBMIT
 msgid "delete"
-msgstr "delete"
+msgstr "διέγραψε"
 
 # appFolder/appFolderDocsListOptions.xml?MNU_NEW
 # appFolder/appFolderDocsListOptions.xml
@@ -101,7 +100,7 @@ msgstr "Case Title"
 # appFolder/appFolderDocumentInfo.xml
 #: caption - APP_DOC_FILENAME
 msgid "File Name"
-msgstr "File Name"
+msgstr " Όνομα Αρχείου"
 
 # appFolder/appFolderDocumentInfo.xml?DOC_VERSION
 # appFolder/appFolderDocumentInfo.xml
@@ -119,7 +118,7 @@ msgstr "Type"
 # appFolder/appFolderDocumentInfo.xml
 #: caption - USR_USERNAME
 msgid "Creator"
-msgstr "Creator"
+msgstr "Δημιουργός"
 
 # appFolder/appFolderDocumentInfo.xml?APP_DOC_CREATE_DATE
 # appFolder/appFolderDocumentInfo.xml
@@ -191,7 +190,7 @@ msgstr ""
 # appFolder/appFolderDocumentListHeader.xml
 #: dropdown - FOLDER_UID
 msgid "Move selected to:"
-msgstr "Move selected to:"
+msgstr "Τα επιλεγμένα μετακινούνται σε:"
 
 # appFolder/appFolderDocumentListHeader.xml?FOLDER_UID-
 # appFolder/appFolderDocumentListHeader.xml
@@ -395,7 +394,7 @@ msgstr "Provider"
 # authSources/authSources_List.xml
 #: text - AUTH_SOURCE_SERVER_NAME
 msgid "Server Name"
-msgstr "Server Name"
+msgstr "Όνομα Εξυπηρετητή"
 
 # authSources/authSources_List.xml?AUTH_SOURCE_PORT
 # authSources/authSources_List.xml
@@ -425,13 +424,13 @@ msgstr "New"
 # authSources/authSources_SearchUsers.xml
 #: title - TITLE
 msgid "Search for user"
-msgstr "Search for user"
+msgstr "Αναζήτηση για χρήστη"
 
 # authSources/authSources_SearchUsers.xml?KEYWORD
 # authSources/authSources_SearchUsers.xml
 #: text - KEYWORD
 msgid "Keyword"
-msgstr "Keyword"
+msgstr "Λέξη κλειδί"
 
 # authSources/authSources_SearchUsers.xml?btnSearch
 # authSources/authSources_SearchUsers.xml
@@ -461,7 +460,7 @@ msgstr ""
 # authSources/authSources_SelectType.xml
 #: title - TITLE
 msgid "Available Authentication Source Types"
-msgstr "Available Authentication Source Types"
+msgstr "Διαθέσιμοι Πηγαίοι Τύποι Αυθεντικοποίησης"
 
 # authSources/authSources_SelectType.xml?AUTH_SOURCE_PROVIDER
 # authSources/authSources_SelectType.xml
@@ -587,7 +586,7 @@ msgstr "Yes"
 # authSources/ldapEdit.xml
 #: text - AUTH_SOURCE_SEARCH_USER
 msgid "Search User"
-msgstr "Search User"
+msgstr "Αναζήτηση χρήστη"
 
 # authSources/ldapEdit.xml?AUTH_SOURCE_PASSWORD
 # authSources/ldapEdit.xml
